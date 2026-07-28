@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="55" y="110" width="400" height="250" rx="22" ry="22" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <rect x="55" y="145" width="400" height="42" fill="#b3d4f5" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="75" y="120" width="110" height="46" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <text x="130" y="150" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="24" font-weight="bold" fill="#5b8dd9" text-anchor="middle">PPO</text>
+  
+  <rect x="75" y="208" width="180" height="9" rx="4" ry="4" fill="#aac8f0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="75" y="228" width="140" height="9" rx="4" ry="4" fill="#aac8f0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="75" y="248" width="160" height="9" rx="4" ry="4" fill="#aac8f0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="308" y="202" width="48" height="36" rx="6" ry="6" fill="#ffe0a0" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="308" y1="213" x2="356" y2="213" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="308" y1="224" x2="356" y2="224" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="332" y1="202" x2="332" y2="238" stroke="#1a1a1a" stroke-width="2" />
+  
+  
+  <circle cx="110" cy="393" r="26" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="100" cy="388" r="4" fill="#2b2622" />
+  <circle cx="120" cy="388" r="4" fill="#2b2622" />
+  <path d="M103,400 Q110,407 117,400" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="104" cy="395" r="5" fill="#ffb3c6" fill-opacity="0.7" />
+  <circle cx="116" cy="395" r="5" fill="#ffb3c6" fill-opacity="0.7" />
+  <rect x="90" y="412" width="40" height="30" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="256" cy="388" r="26" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="246" cy="383" r="4" fill="#2b2622" />
+  <circle cx="266" cy="383" r="4" fill="#2b2622" />
+  <path d="M249,395 Q256,402 263,395" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="250" cy="390" r="5" fill="#ffb3c6" fill-opacity="0.7" />
+  <circle cx="262" cy="390" r="5" fill="#ffb3c6" fill-opacity="0.7" />
+  <rect x="236" y="407" width="40" height="30" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="402" cy="393" r="26" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="392" cy="388" r="4" fill="#2b2622" />
+  <circle cx="412" cy="388" r="4" fill="#2b2622" />
+  <path d="M395,400 Q402,407 409,400" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="396" cy="395" r="5" fill="#ffb3c6" fill-opacity="0.7" />
+  <circle cx="408" cy="395" r="5" fill="#ffb3c6" fill-opacity="0.7" />
+  <rect x="382" y="412" width="40" height="30" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="146" y1="398" x2="228" y2="398" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="228,393 240,398 228,403" fill="#ff9a9a" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="146,393 134,398 146,403" fill="#ff9a9a" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="282" y1="398" x2="364" y2="398" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="364,393 376,398 364,403" fill="#ff9a9a" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="282,393 270,398 282,403" fill="#ff9a9a" stroke="#1a1a1a" stroke-width="2" />
+</svg>

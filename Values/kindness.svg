@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-10.750 -87.500)">
+  <defs>
+    <radialGradient id="figA" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#ffe0c0" /><stop offset="55%" stop-color="#f0b888" /><stop offset="100%" stop-color="#d08858" /></radialGradient>
+    <radialGradient id="bodyA" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#ffe8d0" /><stop offset="55%" stop-color="#f0c098" /><stop offset="100%" stop-color="#d09868" /></radialGradient>
+    <radialGradient id="figB" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#ffd8f0" /><stop offset="55%" stop-color="#e8a8d8" /><stop offset="100%" stop-color="#c070a8" /></radialGradient>
+    <radialGradient id="bodyB" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#ffe0f0" /><stop offset="55%" stop-color="#e8b8d8" /><stop offset="100%" stop-color="#c888b8" /></radialGradient>
+    <radialGradient id="flower" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fff0a0" /><stop offset="55%" stop-color="#f8c820" /><stop offset="100%" stop-color="#d89800" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    
+    
+  </defs>
+
+  
+  
+  
+  <ellipse cx="148" cy="392" rx="64" ry="74" fill="url(#bodyA)" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M208,370 C238,354 264,340 280,328" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round" />
+  <path d="M208,370 C238,354 264,340 280,328" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" />
+  
+  <ellipse cx="90" cy="372" rx="17" ry="40" fill="url(#bodyA)" stroke="#1a1a1a" stroke-width="2.5" transform="rotate(-12,90,372)" />
+  
+  <circle cx="148" cy="278" r="58" fill="none" stroke="#1a1a1a" stroke-width="8" opacity="0.4" />
+  <circle cx="148" cy="278" r="58" fill="url(#figA)" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="118" cy="294" rx="20" ry="13" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="178" cy="294" rx="20" ry="13" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="130" cy="268" rx="11" ry="13" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="166" cy="268" rx="11" ry="13" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="126" cy="262" rx="4" ry="5" fill="#ffffff" />
+  <ellipse cx="162" cy="262" rx="4" ry="5" fill="#ffffff" />
+  <circle cx="127" cy="272" r="2" fill="#ffffff" />
+  <circle cx="163" cy="272" r="2" fill="#ffffff" />
+  
+  <path d="M134,296 C144,308 158,308 168,296" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+
+  
+  
+  <line x1="284" y1="326" x2="284" y2="390" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  
+  <ellipse cx="272" cy="366" rx="16" ry="9" fill="#5ab870" transform="rotate(-30,272,366)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="284" cy="294" rx="13" ry="20" fill="#ff9bb8" transform="rotate(0,284,314)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="284" cy="294" rx="13" ry="20" fill="#ff9bb8" transform="rotate(45,284,314)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="284" cy="294" rx="13" ry="20" fill="#ff9bb8" transform="rotate(90,284,314)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="284" cy="294" rx="13" ry="20" fill="#ff9bb8" transform="rotate(135,284,314)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="284" cy="314" r="16" fill="url(#flower)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M284,268 C284,258 274,252 268,258 C262,264 262,272 284,284 C306,272 306,264 300,258 C294,252 284,258 284,268 Z" fill="#f06080" stroke="#1a1a1a" stroke-width="2" />
+
+  
+  
+  <ellipse cx="390" cy="400" rx="60" ry="70" fill="url(#bodyB)" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M340,368 C324,360 318,348 328,338" fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round" />
+  <path d="M340,368 C324,360 318,348 328,338" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round" />
+  <ellipse cx="332" cy="334" rx="20" ry="13" fill="#e8b8d8" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <ellipse cx="444" cy="378" rx="17" ry="40" fill="url(#bodyB)" stroke="#1a1a1a" stroke-width="2.5" transform="rotate(12,444,378)" />
+  
+  <circle cx="390" cy="286" r="56" fill="none" stroke="#1a1a1a" stroke-width="8" opacity="0.4" />
+  <circle cx="390" cy="286" r="56" fill="url(#figB)" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="360" cy="302" rx="22" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="420" cy="302" rx="22" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M368,272 C374,262 386,262 392,272" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" />
+  <path d="M390,272 C396,262 408,262 414,272" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" />
+  
+  <path d="M370,308 C382,322 400,322 412,308" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" />
+  
+  <path d="M434,248 L438,236 L442,248 L454,252 L442,256 L438,268 L434,256 L422,252 Z" fill="#f5d040" stroke="#1a1a1a" stroke-width="1.5" />
+</g>
+  </svg>

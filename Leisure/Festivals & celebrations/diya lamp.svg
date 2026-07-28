@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="89.52 100.62 356.85 356.85"><defs><radialGradient id="s3d_f4d6e6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f7e2ee"/><stop offset="0.45" stop-color="#f4d6e6"/><stop offset="1" stop-color="#c3abb8"/></radialGradient><radialGradient id="s3d_c2691f" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#d49662"/><stop offset="0.45" stop-color="#c2691f"/><stop offset="1" stop-color="#9b5419"/></radialGradient><radialGradient id="s3d_e8b04a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#efc880"/><stop offset="0.45" stop-color="#e8b04a"/><stop offset="1" stop-color="#ba8d3b"/></radialGradient><radialGradient id="s3d_f6a800" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f9c24c"/><stop offset="0.45" stop-color="#f6a800"/><stop offset="1" stop-color="#c58600"/></radialGradient><radialGradient id="s3d_fff06b" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#fff497"/><stop offset="0.45" stop-color="#fff06b"/><stop offset="1" stop-color="#ccc056"/></radialGradient></defs>
+<!-- decorative base plate -->
+<ellipse cx="256" cy="404" rx="140" ry="22" fill="url(#s3d_f4d6e6)" data-flat="#f4d6e6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- clay diya bowl -->
+<path d="M 130 300 Q 256 420 382 300 Q 360 348 256 348 Q 152 348 130 300 Z" fill="url(#s3d_c2691f)" data-flat="#c2691f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bowl rim / oil -->
+<path d="M 130 300 Q 256 336 382 300" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- pinched spout wick -->
+<path d="M 372 296 Q 410 290 420 264 Q 398 282 372 296 Z" fill="url(#s3d_e8b04a)" data-flat="#e8b04a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- big flame -->
+<path d="M 256 296 Q 210 220 256 132 Q 302 220 256 296 Z" fill="url(#s3d_f6a800)" data-flat="#f6a800" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- inner flame -->
+<path d="M 256 290 Q 232 240 256 186 Q 280 240 256 290 Z" fill="url(#s3d_fff06b)" data-flat="#fff06b" stroke="#1a1a1a" stroke-width="0"/>
+</svg>

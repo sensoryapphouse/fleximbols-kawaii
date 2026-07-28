@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>shofar</title>
+  <g fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M90 290 Q140 260 220 252 Q310 245 380 252 Q420 256 440 275 L444 290 L420 296 Q390 290 360 292 Q280 298 220 296 Q160 294 120 308 Q100 312 88 304 Z" fill="#e8c89a" />
+    <path d="M120 270 Q200 266 280 268 Q360 270 410 276" stroke="#1a1a1a" stroke-width="2" fill="none" />
+    <path d="M150 285 Q230 283 310 285 Q370 287 410 292" stroke="#1a1a1a" stroke-width="2" fill="none" />
+    <path d="M444 290 L460 285 L465 293 L460 300 L444 296 Z" fill="#d8a878" />
+    <circle cx="120" cy="278" r="3" fill="#c8a878" stroke="none" />
+    <circle cx="200" cy="276" r="2.5" fill="#c8a878" stroke="none" />
+    <circle cx="290" cy="278" r="3" fill="#c8a878" stroke="none" />
+    <circle cx="160" cy="288" r="8" fill="#ffb8c8" opacity="0.6" stroke="none" />
+    <circle cx="340" cy="288" r="8" fill="#ffb8c8" opacity="0.6" stroke="none" />
+    <g fill="#1a1a1a" stroke="none">
+      <circle cx="240" cy="282" r="3" />
+      <circle cx="270" cy="282" r="3" />
+    </g>
+    <path d="M250 290 Q256 294 262 290" stroke="#1a1a1a" stroke-width="2" fill="none" />
+    <path d="M210 360 Q230 335 256 327 Q280 322 304 335" stroke="#1a1a1a" stroke-width="2.0000" fill="none" opacity="0.7" />
+    <path d="M220 375 Q240 352 260 345 Q280 342 300 350" stroke="#1a1a1a" stroke-width="2.0000" fill="none" opacity="0.5" />
+    <g fill="#a890b8" stroke="none" opacity="0.6">
+      <circle cx="215" cy="368" r="3" />
+      <circle cx="260" cy="340" r="3" />
+      <circle cx="305" cy="350" r="3" />
+    </g>
+  </g>
+</svg>

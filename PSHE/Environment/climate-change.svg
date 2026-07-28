@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-3.203 -69.317) scale(1.2358)">
+  <defs>
+    <radialGradient id="b" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#c8e8f8" /><stop offset="55%" stop-color="#7fc8f0" /><stop offset="100%" stop-color="#2f74c6" /></radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#1a50a0" stop-opacity="0" /><stop offset="72%" stop-color="#1a50a0" stop-opacity="0" /><stop offset="100%" stop-color="#1a50a0" stop-opacity="0.38" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    <radialGradient id="land" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#80c870" /><stop offset="100%" stop-color="#3a9040" /></radialGradient>
+    <radialGradient id="therm" cx="40%" cy="30%" r="70%"><stop offset="0%" stop-color="#f8f0e8" /><stop offset="100%" stop-color="#d0c8b8" /></radialGradient>
+    
+    
+    <clipPath id="cl"><circle cx="210" cy="270" r="150" /></clipPath>
+  </defs>
+  <circle cx="210" cy="270" r="150" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.45" />
+  <circle cx="210" cy="270" r="150" fill="url(#b)" stroke="#1a1a1a" stroke-width="1.6184" />
+  <path d="M100,240 Q130,210 160,230 Q180,210 200,225 Q220,200 250,220 Q270,205 290,225 Q310,215 325,240 Q340,260 320,280 Q300,300 270,285 Q250,305 220,290 Q195,310 165,290 Q140,305 115,285 Q90,265 100,240 Z" fill="url(#land)" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M148,310 Q160,295 175,305 Q188,290 200,300 Q215,285 228,298 Q240,310 230,325 Q215,340 195,330 Q178,345 160,332 Q142,325 148,310 Z" fill="url(#land)" stroke="#1a1a1a" stroke-width="2" />
+  <g clip-path="url(#cl)">
+    
+    <circle cx="210" cy="270" r="150" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g transform="translate(310,100)">
+    <rect x="20" y="0" width="22" height="130" rx="11" fill="url(#therm)" stroke="#1a1a1a" stroke-width="3" />
+    <circle cx="31" cy="148" r="22" fill="#ff5020" stroke="#1a1a1a" stroke-width="3" />
+    <rect x="24" y="60" width="14" height="75" rx="7" fill="#ff5020" stroke="#1a1a1a" stroke-width="2" />
+    <line x1="42" y1="30" x2="58" y2="30" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+    <line x1="42" y1="55" x2="58" y2="55" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+    <line x1="42" y1="80" x2="58" y2="80" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+    <line x1="42" y1="105" x2="58" y2="105" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  </g>
+  <ellipse cx="178" cy="328" rx="22" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="248" cy="328" rx="22" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="184" cy="307" rx="13" ry="16" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="248" cy="307" rx="13" ry="16" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="180" cy="301" rx="5" ry="6" fill="#ffffff" />
+  <ellipse cx="244" cy="301" rx="5" ry="6" fill="#ffffff" />
+  <circle cx="187" cy="315" r="2.5" fill="#ffffff" opacity="0.7" />
+  <circle cx="251" cy="315" r="2.5" fill="#ffffff" opacity="0.7" />
+  
+  <path d="M200,334 C208,343 224,343 232,334" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  </svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-48.168 -30.259) scale(1.1193)">
+  <defs>
+    <radialGradient id="kbl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f3a0b0" stop-opacity="0.5" /><stop offset="100%" stop-color="#f3a0b0" stop-opacity="0" /></radialGradient>
+    <linearGradient id="bld" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#eef2f6" /><stop offset="100%" stop-color="#c2cad6" /></linearGradient>
+  </defs>
+  <rect x="96" y="148" width="248" height="216" rx="22" fill="url(#bld)" stroke="#1a1a1a" stroke-width="1.7868" />
+  <path d="M116,346 C180,356 280,356 326,346" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.6" />
+  <circle cx="306" cy="186" r="13" fill="none" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M342,196 C394,190 442,196 450,236 C442,276 394,288 342,282 Z" fill="#8a6a4a" stroke="#1a1a1a" stroke-width="1.7868" stroke-linejoin="round" />
+  <circle cx="392" cy="222" r="5" fill="#5e4226" />
+  <circle cx="392" cy="252" r="5" fill="#5e4226" />
+  <ellipse cx="166" cy="282" rx="22" ry="14" fill="url(#kbl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="262" cy="282" rx="22" ry="14" fill="url(#kbl)" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="180" cy="262" r="9" fill="#3a4250" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="248" cy="262" r="9" fill="#3a4250" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="176.5" cy="258.5" r="3" fill="#ffffff" />
+  <circle cx="244.5" cy="258.5" r="3" fill="#ffffff" />
+  <path d="M200,280 C210,290 228,290 238,280" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</g>
+  <g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1475" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1475)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

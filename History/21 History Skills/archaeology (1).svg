@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -94.750)">
+  
+  <path d="M 40 360 Q 100 308 200 326 Q 280 344 360 314 Q 440 296 472 340 L 472 456 Q 472 464 464 464 L 48 464 Q 40 464 40 456 Z" fill="#e6c89a" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  <path d="M 60 384 Q 160 372 280 384 Q 380 396 462 384" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 60 420 Q 200 408 320 424 Q 400 432 462 420" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <g transform="translate(160 360) rotate(-16)">
+    <rect x="-80" y="-20" width="160" height="40" rx="20" fill="#fffbf5" stroke="#1a1a1a" stroke-width="2.0000" />
+    <circle cx="-80" cy="-16" r="22" fill="#fffbf5" stroke="#1a1a1a" stroke-width="2.0000" />
+    <circle cx="-80" cy="16" r="22" fill="#fffbf5" stroke="#1a1a1a" stroke-width="2.0000" />
+    <circle cx="80" cy="-16" r="22" fill="#fffbf5" stroke="#1a1a1a" stroke-width="2.0000" />
+    <circle cx="80" cy="16" r="22" fill="#fffbf5" stroke="#1a1a1a" stroke-width="2.0000" />
+    <circle cx="-8" cy="-4" r="3" fill="#3a2a3a" />
+    <circle cx="8" cy="-4" r="3" fill="#3a2a3a" />
+    <path d="M -6 6 Q 0 12 6 6" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+    <circle cx="-18" cy="2" r="3" fill="#ff8aa8" opacity="0.7" />
+    <circle cx="18" cy="2" r="3" fill="#ff8aa8" opacity="0.7" />
+  </g>
+  <g transform="translate(370 200) rotate(32)">
+    <rect x="-7" y="-100" width="14" height="156" rx="6" fill="#b88858" stroke="#1a1a1a" stroke-width="4" />
+    <rect x="-20" y="50" width="40" height="32" rx="8" fill="#a8d8e6" stroke="#1a1a1a" stroke-width="4" />
+    <path d="M -32 82 Q -36 82 -36 88 L -36 144 Q -36 152 -28 152 L 28 152 Q 36 152 36 144 L 36 88 Q 36 82 32 82 Z" fill="#ffe09a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+    <g stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <line x1="-22" y1="90" x2="-22" y2="146" />
+      <line x1="-10" y1="90" x2="-10" y2="146" />
+      <line x1="2" y1="90" x2="2" y2="146" />
+      <line x1="14" y1="90" x2="14" y2="146" />
+      <line x1="26" y1="90" x2="26" y2="146" />
+    </g>
+  </g>
+  <circle cx="80" cy="300" r="10" fill="#c8a878" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="426" cy="300" r="8" fill="#c8a878" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="240" cy="300" r="4" fill="#b88858" />
+</g>
+  </svg>

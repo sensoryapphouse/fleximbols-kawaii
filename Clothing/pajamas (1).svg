@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-32.000 -11.250)">
+<title>pyjamas</title>
+
+<path d="M130 100 L184 70 L222 110 L290 110 L328 70 L382 100 L370 210 L334 210 L334 295 L178 295 L178 210 L142 210 Z" fill="#D5C2EB" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<path d="M222 110 L256 145 L290 110 L290 138 L256 170 L222 138 Z" fill="#C7B2DE" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<circle cx="256" cy="190" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.5" />
+<circle cx="256" cy="220" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.5" />
+<circle cx="256" cy="250" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.5" />
+<circle cx="256" cy="280" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.5" />
+
+<g fill="#FFE066" stroke="#1a1a1a" stroke-width="2">
+  <polygon points="206,175 211,187 224,191 213,199 217,212 206,205 195,212 199,199 188,191 201,187" />
+  <polygon points="306,175 311,187 324,191 313,199 317,212 306,205 295,212 299,199 288,191 301,187" />
+  <polygon points="206,235 211,247 224,251 213,259 217,272 206,265 195,272 199,259 188,251 201,247" />
+  <polygon points="306,235 311,247 324,251 313,259 317,272 306,265 295,272 299,259 288,251 301,247" />
+</g>
+
+<path d="M162 315 L350 315 L362 460 L290 460 L268 350 L244 350 L222 460 L150 460 Z" fill="#D5C2EB" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<rect x="162" y="307" width="188" height="22" rx="8" fill="#C7B2DE" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<g fill="#FFE066" stroke="#1a1a1a" stroke-width="2">
+  <polygon points="200,395 205,407 218,411 207,419 211,432 200,425 189,432 193,419 182,411 195,407" />
+  <polygon points="306,395 311,407 324,411 313,419 317,432 306,425 295,432 299,419 288,411 301,407" />
+</g>
+
+<path d="M428 90 Q 460 120 438 156 Q 410 130 428 90 Z" fill="#FFE066" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="442" cy="115" r="3" fill="#5C4A3A" />
+<circle cx="448" cy="135" r="3" fill="#5C4A3A" />
+
+<text x="76" y="120" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="700" fill="#7A5C7A">z</text>
+<text x="60" y="160" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="24" font-weight="700" fill="#7A5C7A">z</text>
+<text x="48" y="190" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" font-weight="700" fill="#7A5C7A">z</text>
+<text x="256" y="492" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="30" font-weight="700" fill="#7A5C7A" text-anchor="middle">pyjamas</text>
+</g>
+  </svg>

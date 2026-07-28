@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-na" viewBox="0 0 640 480"><defs><radialGradient id="s3d_3662a2" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#7291be"/><stop offset="0.45" stop-color="#3662a2"/><stop offset="1" stop-color="#2b4e82"/></radialGradient><radialGradient id="s3d_38a100" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#74bd4c"/><stop offset="0.45" stop-color="#38a100"/><stop offset="1" stop-color="#2d8100"/></radialGradient><radialGradient id="s3d_c70000" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#d84c4c"/><stop offset="0.45" stop-color="#c70000"/><stop offset="1" stop-color="#9f0000"/></radialGradient><radialGradient id="s3d_ffe700" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ffee4c"/><stop offset="0.45" stop-color="#ffe700"/><stop offset="1" stop-color="#ccb900"/></radialGradient></defs>
+  <defs>
+    <clipPath id="na-a">
+      <path fill-opacity=".7" d="M0 0h640v480H0z"/>
+    </clipPath>
+  </defs>
+  <g fill-rule="evenodd" clip-path="url(#na-a)">
+    <path fill="#fff" d="M0 0h640v480H0z"/>
+    <path fill="url(#s3d_3662a2)" data-flat="#3662a2" d="m-26.4.2.8 345.6L512.5 0z"/>
+    <path fill="url(#s3d_38a100)" data-flat="#38a100" d="M666.4 479.6 665 120.3 122.3 479.8l544-.2z"/>
+    <path fill="url(#s3d_c70000)" data-flat="#c70000" d="m-26 371.8.4 108.2 117.5-.1L665.4 95.4l-.7-94.1-116-1L-26 371.7z"/>
+    <path fill="url(#s3d_ffe700)" data-flat="#ffe700" d="m219.6 172-21.8-13.2-12.6 22.1-12.2-22.2-22 12.9.6-25.4-25.4.2 13.2-21.8-22.1-12.5 22.2-12.3-12.8-22 25.4.6-.1-25.5 21.7 13.2L186.3 44l12.2 22.2 22-12.9-.6 25.4 25.4-.2-13.2 21.8 22.1 12.5-22.2 12.3 12.8 22-25.4-.6z"/>
+    <path fill="url(#s3d_3662a2)" data-flat="#3662a2" d="M232.4 112.4c0 25.6-20.9 46.3-46.6 46.3s-46.6-20.7-46.6-46.3 20.8-46.2 46.6-46.2 46.6 20.7 46.6 46.2"/>
+    <path fill="url(#s3d_ffe700)" data-flat="#ffe700" d="M222.3 112.4a36.5 36.5 0 1 1-73 0 36.5 36.5 0 0 1 73 0"/>
+  </g>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#000000" stroke-width="2"/>
+</svg>

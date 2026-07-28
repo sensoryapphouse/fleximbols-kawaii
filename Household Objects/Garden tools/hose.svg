@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-4.000 -23.750)">
+<circle cx="200" cy="280" r="150" fill="none" stroke="#1a1a1a" stroke-width="36" />
+<circle cx="200" cy="280" r="80" fill="none" stroke="#1a1a1a" stroke-width="36" />
+<circle cx="200" cy="280" r="150" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="200" cy="280" r="80" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="200" cy="280" r="115" fill="none" stroke="#1a1a1a" stroke-width="2" />
+<path d="M 340 240 Q 380 230 420 215 Q 450 220 465 240 Q 465 260 450 270 Q 420 282 340 250 Z" fill="#d4d8e0" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<rect x="425" y="215" width="35" height="65" rx="8" fill="#b8bcc8" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="442" cy="240" r="3" fill="#3a2a30" />
+<circle cx="442" cy="255" r="3" fill="#3a2a30" />
+<path d="M 470 230 Q 480 218 488 215 M 472 245 Q 484 245 492 240 M 470 260 Q 480 270 488 280" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+<circle cx="480" cy="220" r="6" fill="#b8d4f0" opacity="0.7" />
+<circle cx="495" cy="240" r="5" fill="#b8d4f0" opacity="0.7" />
+<circle cx="170" cy="220" r="5" fill="#3a2a30" />
+<circle cx="230" cy="220" r="5" fill="#3a2a30" />
+<path d="M 180 250 Q 200 262 220 250" stroke="#1a1a1a" stroke-width="2.0000" fill="none" stroke-linecap="round" />
+<circle cx="155" cy="245" r="9" fill="#f29eb3" opacity="0.55" />
+<circle cx="245" cy="245" r="9" fill="#f29eb3" opacity="0.55" />
+</g>
+  </svg>

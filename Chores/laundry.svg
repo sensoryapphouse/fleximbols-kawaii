@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-122.516 -208.238) scale(1.4844)">
+<title>laundry</title>
+
+<path d="M 120 240 Q 120 230 130 230 L 382 230 Q 392 230 390 244 L 372 432 Q 370 446 358 446 L 154 446 Q 142 446 140 432 Z" fill="#ffd6a8" stroke="#1a1a1a" stroke-width="1.3473" stroke-linejoin="round" />
+<line x1="140" y1="280" x2="372" y2="280" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+<line x1="142" y1="320" x2="370" y2="320" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+<line x1="144" y1="360" x2="368" y2="360" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+<line x1="180" y1="240" x2="180" y2="440" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+<line x1="256" y1="240" x2="256" y2="440" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+<line x1="332" y1="240" x2="332" y2="440" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+<circle cx="220" cy="360" r="7" fill="#3a2a1a" />
+<circle cx="292" cy="360" r="7" fill="#3a2a1a" />
+<path d="M 232 380 Q 256 394 280 380" fill="none" stroke="#1a1a1a" stroke-width="1.3473" stroke-linecap="round" />
+<circle cx="200" cy="378" r="6" fill="#ffb3c1" opacity="0.7" />
+<circle cx="312" cy="378" r="6" fill="#ffb3c1" opacity="0.7" />
+<path d="M 120 240 Q 140 180 200 200 Q 256 160 312 200 Q 372 180 392 240 Q 320 250 256 240 Q 192 250 120 240 Z" fill="#ffb3c1" stroke="#1a1a1a" stroke-width="1.3473" stroke-linejoin="round" />
+<path d="M 160 218 Q 200 188 240 218" fill="#fff1c1" stroke="#1a1a1a" stroke-width="3" />
+<path d="M 280 218 Q 320 188 360 218" fill="#bde0fe" stroke="#1a1a1a" stroke-width="3" />
+</g>
+  </svg>

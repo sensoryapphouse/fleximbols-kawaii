@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+
+<path d="M 320 90 Q 320 80 330 80 L 462 80 Q 472 80 472 90 L 472 460 Q 472 470 462 470 L 330 470 Q 320 470 320 460 Z" fill="#FFD98A" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<path d="M 342 102 Q 342 96 348 96 L 454 96 Q 460 96 460 102 L 460 450 Q 460 456 454 456 L 348 456 Q 342 456 342 450 Z" fill="#A8DDB5" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<circle cx="358" cy="280" r="8" fill="#FFE9A8" stroke="#1a1a1a" stroke-width="3" />
+
+<path d="M 110 134 Q 110 116 132 116 L 156 116 Q 178 116 178 138 L 178 230 L 264 230 Q 284 230 284 250 L 284 280 Q 284 300 264 300 L 178 300 L 178 350 Q 156 354 134 350 Q 110 350 110 326 Z" fill="#F4B6B6" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<path d="M 264 196 Q 284 196 296 212 L 340 254 Q 348 264 340 274 L 296 316 Q 284 332 264 332 Q 252 332 252 320 L 252 208 Q 252 196 264 196 Z" fill="#F4B6B6" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<circle cx="170" cy="230" r="6" fill="#3C2A1E" />
+<circle cx="220" cy="230" r="6" fill="#3C2A1E" />
+<ellipse cx="156" cy="248" rx="9" ry="5" fill="#FFC5D2" />
+<ellipse cx="234" cy="248" rx="9" ry="5" fill="#FFC5D2" />
+<path d="M 184 256 Q 196 266 208 256" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+
+<g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2">
+<circle cx="70" cy="80" r="6" />
+<circle cx="60" cy="380" r="6" />
+<circle cx="300" cy="60" r="6" />
+</g>
+</svg>

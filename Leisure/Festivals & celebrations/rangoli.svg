@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="38.79 38.79 434.42 434.42"><defs><radialGradient id="s3d_fde9c8" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#fef0d8"/><stop offset="0.45" stop-color="#fde9c8"/><stop offset="1" stop-color="#cabaa0"/></radialGradient><radialGradient id="s3d_e23c3c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eb7676"/><stop offset="0.45" stop-color="#e23c3c"/><stop offset="1" stop-color="#b53030"/></radialGradient><radialGradient id="s3d_3f6fb0" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#799ac8"/><stop offset="0.45" stop-color="#3f6fb0"/><stop offset="1" stop-color="#32598d"/></radialGradient><radialGradient id="s3d_f0b400" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f4ca4c"/><stop offset="0.45" stop-color="#f0b400"/><stop offset="1" stop-color="#c09000"/></radialGradient><radialGradient id="s3d_e0559e" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e988bb"/><stop offset="0.45" stop-color="#e0559e"/><stop offset="1" stop-color="#b3447e"/></radialGradient><radialGradient id="s3d_3fae5a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#79c68c"/><stop offset="0.45" stop-color="#3fae5a"/><stop offset="1" stop-color="#328b48"/></radialGradient><radialGradient id="s3d_f6c500" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f9d64c"/><stop offset="0.45" stop-color="#f6c500"/><stop offset="1" stop-color="#c59e00"/></radialGradient></defs>
+<!-- outer circle -->
+<circle cx="256" cy="256" r="158" fill="url(#s3d_fde9c8)" data-flat="#fde9c8" stroke="#1a1a1a" stroke-width="9"/>
+<!-- petals ring -->
+<g stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
+<ellipse cx="256" cy="116" rx="26" ry="46" fill="url(#s3d_e23c3c)" data-flat="#e23c3c"/>
+<ellipse cx="256" cy="396" rx="26" ry="46" fill="url(#s3d_e23c3c)" data-flat="#e23c3c"/>
+<ellipse cx="116" cy="256" rx="46" ry="26" fill="url(#s3d_3f6fb0)" data-flat="#3f6fb0"/>
+<ellipse cx="396" cy="256" rx="46" ry="26" fill="url(#s3d_3f6fb0)" data-flat="#3f6fb0"/>
+<ellipse cx="157" cy="157" rx="40" ry="26" fill="url(#s3d_f0b400)" data-flat="#f0b400" transform="rotate(45 157 157)"/>
+<ellipse cx="355" cy="157" rx="40" ry="26" fill="url(#s3d_f0b400)" data-flat="#f0b400" transform="rotate(-45 355 157)"/>
+<ellipse cx="157" cy="355" rx="40" ry="26" fill="url(#s3d_f0b400)" data-flat="#f0b400" transform="rotate(-45 157 355)"/>
+<ellipse cx="355" cy="355" rx="40" ry="26" fill="url(#s3d_f0b400)" data-flat="#f0b400" transform="rotate(45 355 355)"/>
+</g>
+<!-- middle ring -->
+<circle cx="256" cy="256" r="84" fill="url(#s3d_e0559e)" data-flat="#e0559e" stroke="#1a1a1a" stroke-width="7"/>
+<!-- inner flower -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
+<circle cx="256" cy="216" r="20" fill="url(#s3d_3fae5a)" data-flat="#3fae5a"/>
+<circle cx="296" cy="256" r="20" fill="url(#s3d_3fae5a)" data-flat="#3fae5a"/>
+<circle cx="256" cy="296" r="20" fill="url(#s3d_3fae5a)" data-flat="#3fae5a"/>
+<circle cx="216" cy="256" r="20" fill="url(#s3d_3fae5a)" data-flat="#3fae5a"/>
+</g>
+<circle cx="256" cy="256" r="22" fill="url(#s3d_f6c500)" data-flat="#f6c500" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

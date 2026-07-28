@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M76 320 Q76 294 106 290 L408 290 Q438 294 438 320 L438 358 Q436 374 416 376 L96 376 Q76 376 76 358 Z" fill="#c6a888" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <rect x="82" y="316" width="350" height="14" rx="7" fill="#dec0a0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <g fill="#5a3a22">
+    <rect x="98" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="128" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="158" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="188" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="218" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="248" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="278" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="308" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="338" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="368" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="398" y="370" width="22" height="10" rx="4" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  
+  <path d="M340 290 Q358 250 378 220 L420 220 Q422 262 402 290 Z" fill="#9cd4cc" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <path d="M214 290 L248 168 Q278 162 290 188 L254 290 Z" fill="#9cd4cc" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <path d="M112 290 L146 174 Q172 168 188 192 L158 290 Z" fill="#9cd4cc" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="124,192 134,202 144,192 154,202 164,192 174,202" />
+    <polyline points="124,222 134,232 144,222 154,232 164,222 174,232" />
+    <polyline points="124,252 134,262 144,252 154,262 164,252 174,262" />
+    <polyline points="230,192 240,202 250,192 260,202 270,192" />
+    <polyline points="226,222 236,232 246,222 256,232 266,222" />
+    <polyline points="222,252 232,262 242,252 252,262 262,252" />
+    <polyline points="358,232 368,242 378,232 388,242 398,232 408,242" />
+    <polyline points="358,256 368,266 378,256 388,266 398,256 408,266" />
+  </g>
+  
+  <rect x="170" y="252" width="44" height="22" rx="6" fill="#fceedf" stroke="#1a1a1a" stroke-width="3" />
+  <text x="192" y="268" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" font-weight="700" fill="#3a6a64">TEVA</text>
+  
+  <circle cx="192" cy="190" r="10" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="384" cy="250" r="3" fill="#2a4a44" />
+  <circle cx="402" cy="250" r="3" fill="#2a4a44" />
+  <path d="M388 262 Q393 266 397 262" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+  
+  <circle cx="376" cy="258" r="4" fill="#f7c7d9" opacity="0.8" />
+  <circle cx="410" cy="258" r="4" fill="#f7c7d9" opacity="0.8" />
+</svg>

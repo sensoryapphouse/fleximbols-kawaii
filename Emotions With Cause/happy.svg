@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-34.538 -50.442) scale(1.1360)">
+  <defs>
+    <radialGradient id="skin" cx="42%" cy="34%" r="74%">
+      <stop offset="0%" stop-color="#ffe9d6" />
+      <stop offset="55%" stop-color="#f8cda6" />
+      <stop offset="100%" stop-color="#e7ab80" />
+    </radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#c98a55" stop-opacity="0" />
+      <stop offset="70%" stop-color="#c98a55" stop-opacity="0" />
+      <stop offset="100%" stop-color="#bd7f49" stop-opacity="0.4" />
+    </radialGradient>
+    <linearGradient id="hair" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6f4a30" />
+      <stop offset="100%" stop-color="#472d1a" />
+    </linearGradient>
+    <radialGradient id="blush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f06f7a" stop-opacity="0.6" />
+      <stop offset="65%" stop-color="#f06f7a" stop-opacity="0.26" />
+      <stop offset="100%" stop-color="#f06f7a" stop-opacity="0" />
+    </radialGradient>
+    
+    
+    <clipPath id="headClip">
+      <path d="M256,112 C342,112 404,180 404,272 C404,372 340,440 256,440 C172,440 108,372 108,272 C108,180 170,112 256,112 Z" />
+    </clipPath>
+  </defs>
+
+<ellipse cx="110" cy="276" rx="22" ry="30" fill="url(#skin)" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="402" cy="276" rx="22" ry="30" fill="url(#skin)" stroke="#1a1a1a" stroke-width="3" />
+
+  <path d="M256,112 C342,112 404,180 404,272 C404,372 340,440 256,440 C172,440 108,372 108,272 C108,180 170,112 256,112 Z" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linejoin="round" opacity="0.42" />
+  <path d="M256,112 C342,112 404,180 404,272 C404,372 340,440 256,440 C172,440 108,372 108,272 C108,180 170,112 256,112 Z" fill="url(#skin)" stroke="#1a1a1a" stroke-width="1.7606" stroke-linejoin="round" />
+
+  <g clip-path="url(#headClip)">
+    
+    
+    <path d="M256,112 C342,112 404,180 404,272 C404,372 340,440 256,440 C172,440 108,372 108,272 C108,180 170,112 256,112 Z" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+
+  <path d="M114,250 C108,168 150,100 256,96 C362,100 404,168 398,250 C388,212 366,184 338,176 C306,168 286,206 256,206 C226,206 206,168 174,176 C146,184 126,212 114,250 Z" fill="url(#hair)" stroke="#1a1a1a" stroke-width="1.7606" stroke-linejoin="round" />
+  <path d="M170,150 C210,128 280,124 326,150" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" opacity="0.45" />
+
+  <ellipse cx="186" cy="318" rx="40" ry="26" fill="url(#blush)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="326" cy="318" rx="40" ry="26" fill="url(#blush)" stroke="#1a1a1a" stroke-width="2" />
+
+  <ellipse cx="204" cy="276" rx="20" ry="25" fill="#33241a" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="308" cy="276" rx="20" ry="25" fill="#33241a" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="197" cy="266" rx="8" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="301" cy="266" rx="8" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="210" cy="287" r="3.2" fill="#ffffff" opacity="0.85" />
+  <circle cx="314" cy="287" r="3.2" fill="#ffffff" opacity="0.85" />
+
+  <path d="M178,238 C190,228 208,228 220,236" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M292,236 C304,228 322,228 334,238" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+
+  <path d="M212,330 C236,374 276,374 300,330 C288,346 224,346 212,330 Z" fill="#a8424a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M232,360 C246,368 266,368 280,360 C268,356 244,356 232,360 Z" fill="#ef7d86" stroke="#1a1a1a" stroke-width="2" />
+</g>
+  </svg>

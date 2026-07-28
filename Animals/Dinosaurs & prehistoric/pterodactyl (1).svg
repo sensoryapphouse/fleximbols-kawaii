@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <polygon points="258,238 82,148 58,172 74,200 92,190 242,264" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <line x1="258" y1="238" x2="92" y2="162" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="258" y1="238" x2="108" y2="176" stroke="#1a1a1a" stroke-width="2" />
+  
+  <polygon points="258,238 434,148 458,172 442,200 422,190 274,264" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2.0000" />
+  <line x1="258" y1="238" x2="422" y2="162" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="258" y1="238" x2="406" y2="176" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="58" cy="172" r="5" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="458" cy="172" r="5" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="258" cy="275" rx="44" ry="32" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <polygon points="242,255 272,255 270,212 240,212" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <circle cx="256" cy="192" r="42" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <polygon points="232,178 228,170 250,162 280,158 296,166 285,178 258,182" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="3" />
+  
+  <polygon points="280,158 296,166 312,148 304,140 288,154" fill="#f0b8c8" stroke="#1a1a1a" stroke-width="3" />
+  
+  <polygon points="228,188 270,184 300,192 295,204 225,204" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <polygon points="230,204 292,204 290,216 232,216" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <polygon points="238,204 241,198 244,204" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="252,204 255,197 258,204" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="268,204 271,198 274,204" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="243" cy="186" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="239" cy="182" r="4" fill="#ffffff" />
+  
+  <circle cx="262" cy="206" r="9" fill="#ffb3c6" opacity="0.7" />
+  
+  <line x1="250" y1="300" x2="240" y2="330" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="236" cy="338" r="7" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="264" y1="300" x2="272" y2="330" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="276" cy="338" r="7" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="3" />
+  
+  <polygon points="252,300 264,300 268,325 256,330 244,325" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="3" />
+</svg>

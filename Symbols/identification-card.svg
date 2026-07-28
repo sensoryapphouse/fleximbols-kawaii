@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <!-- card -->
+    <rect x="48" y="120" width="416" height="272" rx="32" fill="#42ade7" stroke="#333" stroke-width="14"/>
+    <!-- photo panel -->
+    <rect x="80" y="164" width="160" height="184" rx="16" fill="#fafafa" stroke="#333" stroke-width="12"/>
+    <!-- chibi portrait -->
+    <circle cx="160" cy="232" r="42" fill="#f4c79b" stroke="#333" stroke-width="10"/>
+    <path d="M104 348 C 104 296 216 296 216 348 Z" fill="#7fc24a" stroke="#333" stroke-width="10"/>
+    <circle cx="146" cy="230" r="6" fill="#1f1f1f"/>
+    <circle cx="174" cy="230" r="6" fill="#1f1f1f"/>
+    <path d="M150 246 Q 160 254 170 246" fill="none" stroke="#1f1f1f" stroke-width="5"/>
+    <!-- info bars (no text) -->
+    <rect x="272" y="176" width="150" height="22" rx="11" fill="#cfeefc" stroke="#333" stroke-width="8"/>
+    <rect x="272" y="226" width="120" height="22" rx="11" fill="#ffffff" stroke="#333" stroke-width="8"/>
+    <rect x="272" y="276" width="150" height="22" rx="11" fill="#ffffff" stroke="#333" stroke-width="8"/>
+    <rect x="272" y="326" width="96" height="22" rx="11" fill="#ffffff" stroke="#333" stroke-width="8"/>
+  </g>
+</svg>

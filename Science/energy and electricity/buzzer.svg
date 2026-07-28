@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.59 94.10 380.12 380.12"><defs><radialGradient id="s3d_3d7fb5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#77a5cb"/><stop offset="0.45" stop-color="#3d7fb5"/><stop offset="1" stop-color="#316691"/></radialGradient><radialGradient id="s3d_b9bdc2" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ced1d4"/><stop offset="0.45" stop-color="#b9bdc2"/><stop offset="1" stop-color="#94979b"/></radialGradient><radialGradient id="s3d_9aa0a6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b8bcc1"/><stop offset="0.45" stop-color="#9aa0a6"/><stop offset="1" stop-color="#7b8085"/></radialGradient></defs>
+<!-- round electric buzzer with sound waves -->
+<circle cx="226" cy="262" r="118" fill="url(#s3d_3d7fb5)" data-flat="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="226" cy="262" r="118" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="226" cy="262" r="74" fill="url(#s3d_b9bdc2)" data-flat="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="226" cy="262" r="26" fill="url(#s3d_9aa0a6)" data-flat="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- two terminal leads at base -->
+<line x1="196" y1="372" x2="186" y2="424" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="256" y1="372" x2="266" y2="424" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- sound waves on right -->
+<path d="M 372 218 Q 404 262 372 306" fill="none" stroke="#f4c430" stroke-width="9" stroke-linecap="round"/>
+<path d="M 408 196 Q 456 262 408 328" fill="none" stroke="#f4c430" stroke-width="9" stroke-linecap="round"/>
+</svg>

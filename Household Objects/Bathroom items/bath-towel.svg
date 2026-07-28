@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.419 -56.203) scale(1.1160)">
+  
+  
+  <path d="M80 160 Q80 152 90 152 L422 152 Q432 152 432 162 L432 398 Q432 408 422 408 L90 408 Q80 408 80 388 Z" fill="#c8e6f5" stroke="#1a1a1a" stroke-width="1.7921" />
+  
+  <path d="M80 160 L432 160 L432 208 L80 208 Z" fill="#e0f0fa" stroke="#1a1a1a" stroke-width="1.7921" />
+  
+  <path d="M80 276 L432 276 L432 320 L80 320 Z" fill="#e0f0fa" stroke="#1a1a1a" stroke-width="1.7921" />
+  
+  <path d="M80 366 L432 366 L432 398 Q432 408 422 408 L90 408 Q80 408 80 388 Z" fill="#a8d4e8" stroke="#1a1a1a" stroke-width="1.7921" />
+  
+  <ellipse cx="220" cy="244" rx="9" ry="11" fill="#3a5566" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="292" cy="244" rx="9" ry="11" fill="#3a5566" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="222" cy="240" rx="3" ry="4" fill="#ffffff" />
+  <ellipse cx="294" cy="240" rx="3" ry="4" fill="#ffffff" />
+  <path d="M244 258 Q256 270 268 258" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round" />
+  
+  
+  
+</g>
+  </svg>

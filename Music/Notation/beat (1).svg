@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="kBBowl" cx="40%" cy="40%" r="74%">
+      <stop offset="0%" stop-color="#f4f8fc" />
+      <stop offset="60%" stop-color="#d4dce4" />
+      <stop offset="100%" stop-color="#8a929a" />
+    </radialGradient>
+    <linearGradient id="kWhM" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f4f8fc" />
+      <stop offset="100%" stop-color="#9098a0" />
+    </linearGradient>
+    <linearGradient id="kWhH" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a0a8b0" />
+      <stop offset="100%" stop-color="#4a5058" />
+    </linearGradient>
+    <linearGradient id="kFroth" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#fff4d4" />
+    </linearGradient>
+    <radialGradient id="kBeatBlush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff7090" stop-opacity="0.5" />
+      <stop offset="70%" stop-color="#ff7090" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#ff7090" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <ellipse cx="256" cy="290" rx="168" ry="32" fill="#7c848c" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M88,290 Q88,432 196,462 Q256,474 316,462 Q424,432 424,290" fill="url(#kBBowl)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  <ellipse cx="256" cy="290" rx="168" ry="32" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M102,290 Q102,260 132,258 Q156,252 172,260 Q192,240 222,250 Q242,228 272,242 Q295,224 326,240 Q352,228 380,250 Q408,256 410,290 Q400,302 256,302 Q112,302 102,290 Z" fill="url(#kFroth)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <circle cx="148" cy="218" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="200" cy="188" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="118" cy="178" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="380" cy="210" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="420" cy="180" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="170" cy="248" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="352" cy="240" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="146" cy="216" r="1.5" fill="#3a3a3a" />
+  <ellipse cx="150" cy="216" r="1.5" fill="#3a3a3a" />
+  <path d="M144,222 Q148,225 152,222" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round" />
+  
+  <g transform="rotate(14 280 230)">
+    <rect x="270" y="42" width="26" height="118" rx="11" fill="url(#kWhH)" stroke="#1a1a1a" stroke-width="2.0000" />
+    <ellipse cx="283" cy="42" rx="14" ry="8" fill="#3a4048" stroke="#1a1a1a" stroke-width="4" />
+    <rect x="276" y="160" width="14" height="14" fill="#5a606a" stroke="#1a1a1a" stroke-width="4" />
+    <path d="M283,174 Q180,240 180,330 Q180,400 283,410 Q386,400 386,330 Q386,240 283,174" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+    <path d="M283,174 Q220,250 220,335 Q220,395 283,410 Q346,395 346,335 Q346,250 283,174" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+    <path d="M283,174 Q260,260 260,340 Q260,398 283,410 Q306,398 306,340 Q306,260 283,174" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+    <path d="M186,320 Q283,360 380,320" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  </g>
+  
+  <path d="M64,140 L94,120 L72,158 L102,142" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M422,140 L452,120 L430,158 L460,142" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <path d="M60,260 L86,256" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M452,260 L426,256" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <ellipse cx="156" cy="380" rx="32" ry="16" fill="url(#kBeatBlush)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="356" cy="380" rx="32" ry="16" fill="url(#kBeatBlush)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="200" cy="366" rx="7" ry="9" fill="#3a4048" />
+  <ellipse cx="312" cy="366" rx="7" ry="9" fill="#3a4048" />
+  <ellipse cx="198" cy="362" rx="2.5" ry="3" fill="#ffffff" />
+  <ellipse cx="310" cy="362" rx="2.5" ry="3" fill="#ffffff" />
+  
+  <ellipse cx="256" cy="398" rx="10" ry="8" fill="#3a4048" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M64,200 L70,194 L76,200 L70,206 Z" fill="#ffe8a8" stroke="#1a1a1a" stroke-width="2.5" />
+  <path d="M444,210 L450,204 L456,210 L450,216 Z" fill="#ffe8a8" stroke="#1a1a1a" stroke-width="2.5" />
+</svg>

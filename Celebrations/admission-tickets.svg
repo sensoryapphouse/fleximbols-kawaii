@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-6.000 54.250)">
+  
+  <g transform="translate(256,256) rotate(-12) translate(-200,-80)">
+    <rect x="20" y="28" width="360" height="144" rx="16" fill="#c8e6ff" stroke="#1a1a1a" stroke-width="2" />
+    
+    <circle cx="20" cy="100" r="18" fill="#f5f0ff" stroke="#1a1a1a" stroke-width="2" />
+    
+    <circle cx="380" cy="100" r="18" fill="#f5f0ff" stroke="#1a1a1a" stroke-width="2" />
+    
+    <line x1="80" y1="30" x2="80" y2="170" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="6,5" />
+    
+    <rect x="96" y="60" width="160" height="14" rx="7" fill="#9bc8f0" stroke="#1a1a1a" stroke-width="1.5" />
+    <rect x="96" y="84" width="110" height="10" rx="5" fill="#9bc8f0" stroke="#1a1a1a" stroke-width="1.5" />
+    <rect x="96" y="104" width="130" height="10" rx="5" fill="#9bc8f0" stroke="#1a1a1a" stroke-width="1.5" />
+    
+    <polygon points="290,60 296,76 314,76 300,86 306,102 290,92 274,102 280,86 266,76 284,76" fill="#ffd18a" stroke="#1a1a1a" stroke-width="1.5" />
+  </g>
+
+  
+  <g transform="translate(256,256) rotate(6) translate(-200,-80)">
+    <rect x="20" y="28" width="360" height="144" rx="16" fill="#ffd1f0" stroke="#1a1a1a" stroke-width="2" />
+    <circle cx="20" cy="100" r="18" fill="#f5f0ff" stroke="#1a1a1a" stroke-width="2" />
+    <circle cx="380" cy="100" r="18" fill="#f5f0ff" stroke="#1a1a1a" stroke-width="2" />
+    <line x1="80" y1="30" x2="80" y2="170" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="6,5" />
+    <rect x="96" y="60" width="160" height="14" rx="7" fill="#f4a8da" stroke="#1a1a1a" stroke-width="1.5" />
+    <rect x="96" y="84" width="110" height="10" rx="5" fill="#f4a8da" stroke="#1a1a1a" stroke-width="1.5" />
+    <rect x="96" y="104" width="130" height="10" rx="5" fill="#f4a8da" stroke="#1a1a1a" stroke-width="1.5" />
+    <polygon points="290,60 296,76 314,76 300,86 306,102 290,92 274,102 280,86 266,76 284,76" fill="#ffd18a" stroke="#1a1a1a" stroke-width="1.5" />
+  </g>
+
+  
+  <g transform="translate(56,176)">
+    <rect x="0" y="0" width="400" height="160" rx="16" fill="#ffe8a1" stroke="#1a1a1a" stroke-width="2" />
+    
+    <circle cx="0" cy="80" r="20" fill="#f5f0ff" stroke="#1a1a1a" stroke-width="2" />
+    
+    <circle cx="400" cy="80" r="20" fill="#f5f0ff" stroke="#1a1a1a" stroke-width="2" />
+    
+    <line x1="68" y1="2" x2="68" y2="158" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="6,5" />
+    
+    <rect x="6" y="28" width="56" height="104" rx="6" fill="#f5d060" stroke="#1a1a1a" stroke-width="1.5" />
+    
+    <rect x="84" y="32" width="200" height="18" rx="9" fill="#c8a000" stroke="#1a1a1a" stroke-width="1.5" />
+    <rect x="84" y="62" width="150" height="13" rx="6" fill="#d4aa20" stroke="#1a1a1a" stroke-width="1.5" />
+    <rect x="84" y="84" width="180" height="13" rx="6" fill="#d4aa20" stroke="#1a1a1a" stroke-width="1.5" />
+    <rect x="84" y="106" width="130" height="13" rx="6" fill="#d4aa20" stroke="#1a1a1a" stroke-width="1.5" />
+    
+    <polygon points="320,30 328,52 352,52 334,66 342,88 320,74 298,88 306,66 288,52 312,52" fill="#ff9eb5" stroke="#1a1a1a" stroke-width="1.5" />
+    
+    <circle cx="30" cy="60" r="8" fill="#ffb3c1" opacity="0.7" />
+    <circle cx="44" cy="110" r="8" fill="#ffb3c1" opacity="0.7" />
+  </g>
+
+  
+  <g transform="translate(360,8) scale(1.44)">
+    <circle cx="50" cy="50" r="38" fill="#5ecf6a" stroke="#1a1a1a" stroke-width="2" />
+    
+    <g stroke="#ffffff" stroke-width="1.3889" stroke-linecap="round">
+      <line x1="50" y1="18" x2="50" y2="82" />
+      <line x1="18" y1="50" x2="82" y2="50" />
+      <line x1="27" y1="27" x2="73" y2="73" />
+      <line x1="73" y1="27" x2="27" y2="73" />
+      <line x1="18" y1="38" x2="82" y2="62" />
+      <line x1="18" y1="62" x2="82" y2="38" />
+    </g>
+  </g>
+</g>
+  </svg>

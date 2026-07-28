@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="57.02 22.88 415.03 415.03"><defs><radialGradient id="s3d_e6738a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ee9dad"/><stop offset="0.45" stop-color="#e6738a"/><stop offset="1" stop-color="#b85c6e"/></radialGradient><radialGradient id="s3d_7a1f2b" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#a2626b"/><stop offset="0.45" stop-color="#7a1f2b"/><stop offset="1" stop-color="#621922"/></radialGradient><radialGradient id="s3d_e23c3c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eb7676"/><stop offset="0.45" stop-color="#e23c3c"/><stop offset="1" stop-color="#b53030"/></radialGradient></defs><!-- open mouth (lips+tongue) speaking, with sound waves -->
+<!-- outer lips -->
+<ellipse cx="206" cy="256" rx="118" ry="86" fill="url(#s3d_e6738a)" data-flat="#e6738a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inner mouth -->
+<ellipse cx="206" cy="256" rx="86" ry="58" fill="url(#s3d_7a1f2b)" data-flat="#7a1f2b" stroke="#1a1a1a" stroke-width="7"/>
+<!-- upper teeth -->
+<path d="M 130 224 Q 206 200 282 224 L 282 240 Q 206 222 130 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- tongue -->
+<ellipse cx="206" cy="290" rx="54" ry="34" fill="url(#s3d_e23c3c)" data-flat="#e23c3c" stroke="#1a1a1a" stroke-width="6"/>
+<!-- sound waves -->
+<path d="M 348 256 Q 372 226 348 196" fill="none" stroke="#4a90d9" stroke-width="9" stroke-linecap="round"/>
+<path d="M 382 274 Q 420 216 382 158" fill="none" stroke="#4a90d9" stroke-width="9" stroke-linecap="round"/>
+<path d="M 416 292 Q 468 206 416 120" fill="none" stroke="#4a90d9" stroke-width="9" stroke-linecap="round"/>
+</svg>

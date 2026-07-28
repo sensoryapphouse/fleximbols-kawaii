@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- mobile phone off: kawaii phone, dark screen, power symbol, sleeping (no text) -->
+  <g stroke="#1f1f1f" stroke-linejoin="round" stroke-linecap="round">
+    <!-- phone body -->
+    <rect x="156" y="84" width="200" height="344" rx="40" fill="#2b2b30" stroke-width="11"/>
+    <!-- dark screen -->
+    <rect x="176" y="120" width="160" height="272" rx="16" fill="#1a1a1f" stroke-width="9"/>
+    <!-- power / off symbol on screen -->
+    <g stroke="#6a6f78" stroke-width="14" fill="none">
+      <path d="M256 196 a52 52 0 1 1 -38 16" />
+      <line x1="256" y1="180" x2="256" y2="246"/>
+    </g>
+    <!-- top speaker -->
+    <rect x="236" y="100" width="40" height="10" rx="5" fill="#4a4a52" stroke-width="6"/>
+    <!-- sleeping face: closed eyes + Z's -->
+    <g stroke="#9aa0aa" stroke-width="7" fill="none">
+      <path d="M212 318 q14 12 28 0"/>
+      <path d="M272 318 q14 12 28 0"/>
+    </g>
+    <g fill="#9aa0aa" stroke="none" font-family="sans-serif" font-weight="700">
+      <path d="M360 110 h34 l-34 38 h34" fill="none" stroke="#3d8bff" stroke-width="9"/>
+      <path d="M398 70 h26 l-26 30 h26" fill="none" stroke="#3d8bff" stroke-width="8"/>
+    </g>
+  </g>
+</svg>

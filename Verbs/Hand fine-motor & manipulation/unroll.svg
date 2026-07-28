@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-17.750 -63.750)">
+  <defs>
+    <linearGradient id="kparch" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF0D0" />
+      <stop offset="1" stop-color="#F0CC90" />
+    </linearGradient>
+    <linearGradient id="kcyl3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F0D0A0" />
+      <stop offset="1" stop-color="#B08850" />
+    </linearGradient>
+    <radialGradient id="kend3" cx="0.5" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#E8C898" />
+      <stop offset="1" stop-color="#8C6020" />
+    </radialGradient>
+    <linearGradient id="kskin3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE8D0" />
+      <stop offset="1" stop-color="#F0C8A0" />
+    </linearGradient>
+    <radialGradient id="kblush3" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFB0C0" />
+      <stop offset="1" stop-color="#FFB0C0" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <ellipse cx="125" cy="320" rx="52" ry="48" fill="url(#kcyl3)" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="125" cy="320" rx="52" ry="48" fill="url(#kend3)" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 125 320 m -36 0 a 36 33 0 1 0 72 0 a 36 33 0 1 0 -72 0" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 125 320 m -21 0 a 21 19 0 1 0 42 0 a 21 19 0 1 0 -42 0" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="112" cy="316" rx="5" ry="7" fill="#3A2010" />
+  <ellipse cx="138" cy="316" rx="5" ry="7" fill="#3A2010" />
+  <circle cx="113" cy="313" r="2" fill="#FFFFFF" />
+  <circle cx="139" cy="313" r="2" fill="#FFFFFF" />
+  <path d="M 118 330 Q 125 335 132 330" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+  <circle cx="106" cy="328" r="6" fill="url(#kblush3)" />
+  <circle cx="144" cy="328" r="6" fill="url(#kblush3)" />
+  
+  <path d="M 175 296 Q 200 286 230 300 L 235 348 Q 205 358 175 348 Z" fill="url(#kcyl3)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M 230 300 L 425 285 L 435 355 L 235 348 Z" fill="url(#kparch)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  <line x1="262" y1="312" x2="408" y2="304" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <line x1="267" y1="326" x2="413" y2="320" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <line x1="272" y1="340" x2="418" y2="334" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <g>
+    <path d="M 440 275 Q 468 275 476 302 Q 476 332 450 340 Q 422 340 414 320 Q 410 295 422 282 Z" fill="url(#kskin3)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+    <path d="M 432 300 Q 440 297 446 304" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+    <path d="M 432 315 Q 440 312 446 319" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+    <path d="M 432 287 Q 440 284 446 290" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+  </g>
+  
+  <path d="M 240 210 L 410 210" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" fill="none" />
+  <path d="M 395 197 L 415 210 L 395 223 Z" fill="#FF9AB0" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  
+  <path d="M 90 260 Q 125 240 160 260" stroke="#1a1a1a" stroke-width="2.0000" fill="none" stroke-linecap="round" />
+  <path d="M 153 250 L 165 262 L 150 268 Z" fill="#FF9AB0" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  
+  <g fill="#A0D8FF" stroke="#1a1a1a" stroke-width="2">
+    <path d="M 330 150 L 333 158 L 341 161 L 333 164 L 330 172 L 327 164 L 319 161 L 327 158 Z" />
+    <path d="M 200 160 L 203 168 L 211 171 L 203 174 L 200 182 L 197 174 L 189 171 L 197 168 Z" />
+  </g>
+</g>
+  </svg>

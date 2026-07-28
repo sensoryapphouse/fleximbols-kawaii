@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="430" width="512" height="82" fill="#ccdcc4" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="70" y="190" width="372" height="240" rx="22" ry="22" fill="#fbf6ec" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 50,200 Q 256,120 462,200 L 462,220 L 50,220 Z" fill="#a8c0a0" stroke="#1a1a1a" stroke-width="2.0000" />
+  <rect x="100" y="240" width="68" height="100" rx="10" ry="10" fill="#dceede" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="134" y1="240" x2="134" y2="340" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="100" y1="290" x2="168" y2="290" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="344" y="240" width="68" height="100" rx="10" ry="10" fill="#dceede" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="378" y1="240" x2="378" y2="340" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="344" y1="290" x2="412" y2="290" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="222" y="320" width="68" height="110" rx="8" ry="8" fill="#c6d8b4" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="280" cy="378" r="4" fill="#f4c870" />
+  <g transform="translate(110,310)">
+    <rect x="-2" y="-80" width="6" height="80" rx="2" ry="2" fill="#8aac82" stroke="#1a1a1a" stroke-width="2" />
+    <line x1="-2" y1="-60" x2="-2" y2="-56" stroke="#1a1a1a" stroke-width="2.5" />
+    <line x1="-2" y1="-36" x2="-2" y2="-32" stroke="#1a1a1a" stroke-width="2.5" />
+    <line x1="-2" y1="-12" x2="-2" y2="-8" stroke="#1a1a1a" stroke-width="2.5" />
+    <path d="M 4,-70 Q 18,-76 22,-64" fill="#b4d4a8" stroke="#1a1a1a" stroke-width="2.5" />
+    <path d="M 4,-42 Q 20,-46 24,-34" fill="#b4d4a8" stroke="#1a1a1a" stroke-width="2.5" />
+    <path d="M -4,-52 Q -18,-60 -20,-48" fill="#b4d4a8" stroke="#1a1a1a" stroke-width="2.5" />
+    <path d="M -4,-24 Q -20,-28 -18,-16" fill="#b4d4a8" stroke="#1a1a1a" stroke-width="2.5" />
+  </g>
+  <g transform="translate(402,310)">
+    <rect x="-2" y="-80" width="6" height="80" rx="2" ry="2" fill="#8aac82" stroke="#1a1a1a" stroke-width="2" />
+    <line x1="-2" y1="-60" x2="-2" y2="-56" stroke="#1a1a1a" stroke-width="2.5" />
+    <line x1="-2" y1="-36" x2="-2" y2="-32" stroke="#1a1a1a" stroke-width="2.5" />
+    <line x1="-2" y1="-12" x2="-2" y2="-8" stroke="#1a1a1a" stroke-width="2.5" />
+    <path d="M 4,-70 Q 18,-76 22,-64" fill="#b4d4a8" stroke="#1a1a1a" stroke-width="2.5" />
+    <path d="M 4,-42 Q 20,-46 24,-34" fill="#b4d4a8" stroke="#1a1a1a" stroke-width="2.5" />
+    <path d="M -4,-52 Q -18,-60 -20,-48" fill="#b4d4a8" stroke="#1a1a1a" stroke-width="2.5" />
+    <path d="M -4,-24 Q -20,-28 -18,-16" fill="#b4d4a8" stroke="#1a1a1a" stroke-width="2.5" />
+  </g>
+  <g transform="translate(256,160)">
+    <ellipse cx="0" cy="14" rx="36" ry="6" fill="#ffc0c8" stroke="#1a1a1a" stroke-width="3" />
+    <path d="M -32,14 Q -28,-14 0,-22 Q 28,-14 32,14 Z" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="3.5" />
+    <path d="M -18,4 Q -22,-12 -4,-18 Q 0,-12 0,-2 Q -8,-2 -18,4 Z" fill="#fff0f4" stroke="#1a1a1a" stroke-width="2.5" />
+    <path d="M 18,4 Q 22,-12 4,-18 Q 0,-12 0,-2 Q 8,-2 18,4 Z" fill="#fff0f4" stroke="#1a1a1a" stroke-width="2.5" />
+    <ellipse cx="0" cy="0" rx="6" ry="8" fill="#ffb0c0" stroke="#1a1a1a" stroke-width="2.5" />
+    <circle cx="0" cy="0" r="3" fill="#f4d870" />
+  </g>
+</svg>

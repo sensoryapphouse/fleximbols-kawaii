@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,48.896) scale(0.9045)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- closed-book: a shut hardcover book with a bookmark + cute face, text-free -->
+  <!-- page block (right edge) -->
+  <path d="M150 110 C150 96 162 88 176 88 L356 88 C384 88 404 108 404 136 L404 392
+           C404 412 388 426 368 426 L176 426 C162 426 150 418 150 404 Z"
+        fill="#f2ead7" stroke="#1a1a1a" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M392 130 L392 392" fill="none" stroke="#cdbf9a" stroke-width="6"/>
+  <path d="M380 134 L380 388" fill="none" stroke="#cdbf9a" stroke-width="5"/>
+  <!-- front cover -->
+  <path d="M126 120 C126 102 140 92 158 92 L350 92 C374 92 392 110 392 134 L392 392
+           C392 414 374 430 350 430 L158 430 C140 430 126 418 126 400 Z"
+        fill="#5b8fd6" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/>
+  <!-- spine -->
+  <path d="M126 120 C126 102 140 92 158 92 L186 92 L186 430 L158 430 C140 430 126 418 126 400 Z"
+        fill="#3f6fb0" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/>
+  <!-- cover inset panel -->
+  <rect x="214" y="150" width="146" height="200" rx="14"
+        fill="none" stroke="#cfe0f5" stroke-width="8"/>
+  <!-- bookmark ribbon -->
+  <path d="M320 92 L320 180 L302 162 L284 180 L284 92 Z"
+        fill="#e2382f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <!-- cute face -->
+  <circle cx="250" cy="256" r="13" fill="#1a1a1a"/>
+  <circle cx="320" cy="256" r="13" fill="#1a1a1a"/>
+  <circle cx="254" cy="251" r="4" fill="#ffffff"/>
+  <circle cx="324" cy="251" r="4" fill="#ffffff"/>
+  <path d="M266 286 C276 300 294 300 304 286" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="234" cy="282" rx="13" ry="8" fill="#ff9bb5" opacity="0.7"/>
+  <ellipse cx="336" cy="282" rx="13" ry="8" fill="#ff9bb5" opacity="0.7"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2939" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2939)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

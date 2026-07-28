@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="80" y="320" width="130" height="130" rx="20" fill="#F5B8C8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="145" y="408" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="700" font-size="72" text-anchor="middle" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2">A</text>
+  
+  <rect x="220" y="320" width="130" height="130" rx="20" fill="#B8E5C8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="285" y="408" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="700" font-size="72" text-anchor="middle" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2">B</text>
+  
+  <rect x="360" y="320" width="130" height="130" rx="20" fill="#D2B8F5" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="425" y="408" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="700" font-size="72" text-anchor="middle" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2">C</text>
+  
+  <rect x="150" y="180" width="130" height="130" rx="20" fill="#A8D2F2" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="215" y="268" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="700" font-size="72" text-anchor="middle" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2">1</text>
+  
+  <rect x="290" y="180" width="130" height="130" rx="20" fill="#FCC89A" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <circle cx="328" cy="232" r="5" fill="#3A2A1A" />
+  <circle cx="382" cy="232" r="5" fill="#3A2A1A" />
+  <path d="M 340 258 Q 355 268 370 258" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <circle cx="316" cy="252" r="7" fill="#F5A8C8" opacity="0.8" />
+  <circle cx="394" cy="252" r="7" fill="#F5A8C8" opacity="0.8" />
+  
+  <rect x="220" y="40" width="130" height="130" rx="20" fill="#F5E29A" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 285 75 Q 270 60 257 70 Q 244 82 257 100 L 285 130 L 313 100 Q 326 82 313 70 Q 300 60 285 75 Z" fill="#F5A8C8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M 50 100 L 53 108 L 61 110 L 53 113 L 50 121 L 47 113 L 39 110 L 47 108 Z" fill="#F5D9F0" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" />
+  <path d="M 440 130 L 443 138 L 451 140 L 443 143 L 440 151 L 437 143 L 429 140 L 437 138 Z" fill="#F5D9F0" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" />
+</svg>

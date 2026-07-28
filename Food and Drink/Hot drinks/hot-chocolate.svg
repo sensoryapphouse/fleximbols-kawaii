@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="140" y="240" width="232" height="196" rx="24" ry="24" fill="#f5c8a0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M372 280 Q436 280 436 338 Q436 396 372 396" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="256" cy="240" rx="116" ry="27" fill="#8b4513" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="210" cy="320" r="10" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="300" cy="320" r="10" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="213" cy="317" r="3" fill="#ffffff" />
+  <circle cx="303" cy="317" r="3" fill="#ffffff" />
+  <path d="M230 345 Q256 365 282 345" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  
+  
+  
+  <ellipse cx="256" cy="218" rx="92" ry="38" fill="#fff5f5" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="204" rx="70" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="256" cy="193" rx="46" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  
+  
+  
+  
+  
+  <path d="M214 162 Q204 142 214 122 Q224 102 214 82" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M256 155 Q246 135 256 115 Q266 95 256 75" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M298 162 Q288 142 298 122 Q308 102 298 82" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <rect x="122" y="434" width="268" height="16" rx="7" ry="7" fill="#e8b080" stroke="#1a1a1a" stroke-width="4" />
+</svg>

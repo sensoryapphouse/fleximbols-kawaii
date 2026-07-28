@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-65.886 -64.681) scale(1.2044)">
+  
+  <g stroke="#1a1a1a" stroke-width="1.6606" stroke-linejoin="round" stroke-linecap="round">
+    
+    <path d="M240 340 L256 460 L272 340 Z" fill="#fff3c2" />
+    <path d="M250 380 L262 380 M248 410 L264 410 M246 440 L266 440" stroke="#1a1a1a" stroke-width="2" />
+    
+    <path d="M120 250              Q90 210 130 180              Q150 140 200 150              Q230 110 290 130              Q360 120 380 170              Q430 180 420 230              Q450 270 410 300              Q380 340 320 330              Q280 350 220 340              Q160 350 130 320              Q80 300 120 250 Z" fill="#ffd6e2" />
+    
+    <circle cx="200" cy="220" r="22" fill="#ffb1d8" stroke="none" />
+    <circle cx="270" cy="200" r="26" fill="#ffb1d8" stroke="none" />
+    <circle cx="340" cy="240" r="20" fill="#ffb1d8" stroke="none" />
+    <circle cx="230" cy="290" r="18" fill="#ffb1d8" stroke="none" />
+    <circle cx="320" cy="290" r="20" fill="#ffb1d8" stroke="none" />
+    
+    <circle cx="232" cy="240" r="5" fill="#6b4a5a" />
+    <circle cx="296" cy="240" r="5" fill="#6b4a5a" />
+    <path d="M250 264 Q264 274 278 264" fill="none" stroke="#1a1a1a" stroke-width="1.6606" />
+    
+    <circle cx="214" cy="258" r="7" fill="#ffb1d8" stroke="none" />
+    <circle cx="314" cy="258" r="7" fill="#ffb1d8" stroke="none" />
+  </g>
+</g>
+  </svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+
+  
+  <path d="M40,376 Q256,344 472,376" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" stroke-dasharray="2 14" />
+
+  
+  <line x1="118" y1="240" x2="118" y2="376" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 12" />
+  <line x1="394" y1="240" x2="394" y2="376" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 12" />
+
+  
+  <line x1="148" y1="280" x2="364" y2="280" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+
+  
+  <path d="M118,280 L160,256 L160,304 Z" fill="#f2a8c2" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M394,280 L352,256 L352,304 Z" fill="#f2a8c2" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+
+  
+  <rect x="190" y="206" width="132" height="52" rx="22" fill="#fff6d6" stroke="#1a1a1a" stroke-width="4" />
+  <text x="256" y="244" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#7a5a08">12.4 m</text>
+
+  
+  <path d="M118,168 C148,168 164,192 164,212 C164,240 118,308 118,308 C118,308 72,240 72,212 C72,192 88,168 118,168 Z" fill="#f7a3b1" stroke="#1a1a1a" stroke-width="4.5" stroke-linejoin="round" />
+  <circle cx="118" cy="210" r="16" fill="#fff5f6" stroke="#1a1a1a" stroke-width="3.5" />
+  
+  <ellipse cx="112" cy="206" rx="2.5" ry="3.5" fill="#3a3036" />
+  <ellipse cx="124" cy="206" rx="2.5" ry="3.5" fill="#3a3036" />
+  <path d="M114,214 Q118,217 122,214" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" />
+  <circle cx="108" cy="212" r="2" fill="#f7b2c2" opacity="0.7" />
+  <circle cx="128" cy="212" r="2" fill="#f7b2c2" opacity="0.7" />
+
+  
+  <path d="M394,168 C424,168 440,192 440,212 C440,240 394,308 394,308 C394,308 348,240 348,212 C348,192 364,168 394,168 Z" fill="#a8e2cf" stroke="#1a1a1a" stroke-width="4.5" stroke-linejoin="round" />
+  <circle cx="394" cy="210" r="16" fill="#f0fbf6" stroke="#1a1a1a" stroke-width="3.5" />
+  
+  <ellipse cx="388" cy="206" rx="2.5" ry="3.5" fill="#3a3036" />
+  <ellipse cx="400" cy="206" rx="2.5" ry="3.5" fill="#3a3036" />
+  <path d="M390,214 Q394,217 398,214" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" />
+  <circle cx="384" cy="212" r="2" fill="#f7b2c2" opacity="0.7" />
+  <circle cx="404" cy="212" r="2" fill="#f7b2c2" opacity="0.7" />
+
+  
+  <text x="118" y="430" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#7a5a78">A</text>
+  <text x="394" y="430" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#5a7a72">B</text>
+
+  
+  <g fill="#ffe28a">
+    <path d="M70,120 l4,10 10,4 -10,4 -4,10 -4,-10 -10,-4 10,-4 z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M450,140 l3,7 7,3 -7,3 -3,7 -3,-7 -7,-3 7,-3 z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M256,90 l3,7 7,3 -7,3 -3,7 -3,-7 -7,-3 7,-3 z" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+</svg>

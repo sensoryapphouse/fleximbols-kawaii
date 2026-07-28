@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>bouncy-castle</title>
+  
+  
+  
+  <rect x="38" y="392" width="436" height="78" rx="38" fill="#C7E9B4" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="72" y="208" width="368" height="194" rx="22" fill="#B496D5" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="50" y="128" width="80" height="282" rx="20" fill="#C5E3F6" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M38 138 L90 78 L142 138 Z" fill="#F7B6C2" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  <line x1="90" y1="78" x2="90" y2="44" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M90 46 L124 56 L90 66 Z" fill="#FFE5A0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="382" y="128" width="80" height="282" rx="20" fill="#C5E3F6" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M370 138 L422 78 L474 138 Z" fill="#F7B6C2" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  <line x1="422" y1="78" x2="422" y2="44" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M422 46 L456 56 L422 66 Z" fill="#FFE5A0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="216" y="108" width="80" height="200" rx="20" fill="#FFE5A0" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M204 118 L256 58 L308 118 Z" fill="#F7B6C2" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  <line x1="256" y1="58" x2="256" y2="24" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M256 26 L290 36 L256 46 Z" fill="#C7E9B4" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="142" y="186" width="20" height="22" rx="3" fill="#B496D5" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="174" y="186" width="20" height="22" rx="3" fill="#B496D5" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="318" y="186" width="20" height="22" rx="3" fill="#B496D5" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="350" y="186" width="20" height="22" rx="3" fill="#B496D5" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="58" y="128" width="14" height="14" rx="2" fill="#C5E3F6" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="82" y="128" width="14" height="14" rx="2" fill="#C5E3F6" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="106" y="128" width="14" height="14" rx="2" fill="#C5E3F6" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="390" y="128" width="14" height="14" rx="2" fill="#C5E3F6" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="414" y="128" width="14" height="14" rx="2" fill="#C5E3F6" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="438" y="128" width="14" height="14" rx="2" fill="#C5E3F6" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M196 402 L196 296 Q196 244 256 244 Q316 244 316 296 L316 402 Z" fill="#3D3950" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M196 392 L316 392 L298 412 L214 412 Z" fill="#F7B6C2" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="244" cy="166" rx="3" ry="4" fill="#3D2E1F" />
+  <ellipse cx="268" cy="166" rx="3" ry="4" fill="#3D2E1F" />
+  <ellipse cx="234" cy="178" rx="5" ry="3" fill="#F7B6C2" />
+  <ellipse cx="278" cy="178" rx="5" ry="3" fill="#F7B6C2" />
+  
+  <circle cx="180" cy="80" r="4" fill="#FFE5A0" />
+  <circle cx="332" cy="80" r="4" fill="#FFE5A0" />
+</svg>

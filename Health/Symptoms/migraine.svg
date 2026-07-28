@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(1.750 -1.750)">
+<defs>
+<radialGradient id="kbl" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#f7a8c0" stop-opacity="0.85" />
+<stop offset="60%" stop-color="#f7a8c0" stop-opacity="0.35" />
+<stop offset="100%" stop-color="#f7a8c0" stop-opacity="0" />
+</radialGradient>
+</defs>
+
+<g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" fill="none">
+<path d="M150 150 C112 188 112 252 150 300" />
+<path d="M120 132 C70 186 70 274 120 330" />
+<path d="M92 116 C30 188 30 288 92 360" />
+</g>
+
+<polyline points="150,92 168,80 156,66 176,54 162,40" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+<polyline points="384,150 404,140 392,124 414,114" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+
+<path d="M256 104 C176 104 132 168 132 248 C132 344 188 412 256 412 C324 412 380 344 380 248 C380 168 336 104 256 104 Z" fill="#ffe1c4" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<path d="M196 174 l16 -16 m-16 0 l16 16" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+
+<ellipse cx="198" cy="306" rx="34" ry="22" fill="url(#kbl)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="322" cy="306" rx="34" ry="22" fill="url(#kbl)" stroke="#1a1a1a" stroke-width="2" />
+
+<g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<polyline points="178,256 210,272 178,288" />
+<polyline points="334,256 302,272 334,288" />
+<path d="M226 322 Q256 304 286 322" />
+</g>
+</g>
+  </svg>

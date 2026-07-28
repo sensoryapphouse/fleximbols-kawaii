@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-114.375 -103.681) scale(1.4259)">
+
+<rect x="120" y="220" width="280" height="160" rx="50" fill="#ffb3c1" stroke="#1a1a1a" stroke-width="1.4026" />
+<rect x="150" y="170" width="220" height="70" rx="32" fill="#ffd1dc" stroke="#1a1a1a" stroke-width="1.4026" />
+<rect x="180" y="125" width="160" height="55" rx="26" fill="#ffe2c5" stroke="#1a1a1a" stroke-width="1.4026" />
+<circle cx="200" cy="300" r="16" fill="#5a4a55" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="260" cy="300" r="16" fill="#5a4a55" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="320" cy="300" r="16" fill="#5a4a55" stroke="#1a1a1a" stroke-width="2" />
+<rect x="150" y="350" width="220" height="22" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.4026" />
+<circle cx="175" cy="395" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="215" cy="400" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="295" cy="400" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="335" cy="395" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="220" cy="245" r="5" fill="#5a4a55" />
+<circle cx="292" cy="245" r="5" fill="#5a4a55" />
+<path d="M244 258 Q256 268 268 258" fill="none" stroke="#1a1a1a" stroke-width="1.4026" stroke-linecap="round" />
+<circle cx="200" cy="258" r="9" fill="#ff8aa5" opacity="0.55" />
+<circle cx="312" cy="258" r="9" fill="#ff8aa5" opacity="0.55" />
+</g>
+  </svg>

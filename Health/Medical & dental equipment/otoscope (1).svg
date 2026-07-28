@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-119.589 -61.927) scale(1.2604)">
+<title>otoscope</title>
+<g stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<rect x="200" y="190" width="100" height="200" rx="30" fill="#a3c4e0" />
+<rect x="215" y="210" width="70" height="35" rx="14" fill="#cfe2f3" />
+<line x1="225" y1="275" x2="275" y2="275" stroke="#1a1a1a" stroke-width="3" />
+<line x1="225" y1="300" x2="275" y2="300" stroke="#1a1a1a" stroke-width="3" />
+<line x1="225" y1="325" x2="275" y2="325" stroke="#1a1a1a" stroke-width="3" />
+<rect x="180" y="170" width="140" height="30" rx="14" fill="#6b8db5" />
+<path d="M240 170 L260 110 L350 110 L370 170 Z" fill="#dfe4ea" />
+<rect x="350" y="95" width="65" height="70" rx="20" fill="#dfe4ea" />
+<circle cx="382" cy="130" r="22" fill="#3a4a5a" />
+<circle cx="382" cy="130" r="14" fill="#fff6b3" />
+<circle cx="378" cy="126" r="5" fill="#ffffff" />
+<path d="M415 115 L435 95 M415 135 L445 135 M415 155 L435 170" stroke="#1a1a1a" stroke-width="1.5868" stroke-linecap="round" />
+<rect x="225" y="380" width="50" height="30" rx="14" fill="#6b8db5" />
+<circle cx="245" cy="300" r="6" fill="#ffb6c1" opacity="0.6" />
+<circle cx="265" cy="350" r="6" fill="#ffb6c1" opacity="0.6" />
+<circle cx="240" cy="225" r="3" fill="#3a4a5a" />
+<circle cx="260" cy="225" r="3" fill="#3a4a5a" />
+<path d="M245 232 Q250 236 255 232" stroke="#1a1a1a" stroke-width="2" fill="none" />
+</g>
+</g>
+  </svg>

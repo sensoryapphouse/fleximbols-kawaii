@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="81.45 103.64 349.09 349.09"><defs><radialGradient id="s3d_e76f8e" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ee9ab0"/><stop offset="0.45" stop-color="#e76f8e"/><stop offset="1" stop-color="#b95972"/></radialGradient><radialGradient id="s3d_f7a8c0" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f9c2d3"/><stop offset="0.45" stop-color="#f7a8c0"/><stop offset="1" stop-color="#c6869a"/></radialGradient><radialGradient id="s3d_5ec4c4" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#8ed6d6"/><stop offset="0.45" stop-color="#5ec4c4"/><stop offset="1" stop-color="#4b9d9d"/></radialGradient><radialGradient id="s3d_9fe2e2" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#bcebeb"/><stop offset="0.45" stop-color="#9fe2e2"/><stop offset="1" stop-color="#7fb5b5"/></radialGradient></defs>
+<!-- LEFT earring: ear-wire hook + stud + teardrop -->
+<path d="M 158 150 q 18 -34 40 -10 q 16 18 -2 36" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 158 150 q 18 -34 40 -10 q 16 18 -2 36" fill="none" stroke="#f2c14e" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="158" y1="150" x2="172" y2="250" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<circle cx="176" cy="270" r="14" fill="#f2c14e" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 176 284 q -52 46 -52 86 q 0 44 52 44 q 52 0 52 -44 q 0 -40 -52 -86 Z" fill="url(#s3d_e76f8e)" data-flat="#e76f8e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="176" cy="360" r="16" fill="url(#s3d_f7a8c0)" data-flat="#f7a8c0" stroke="#1a1a1a" stroke-width="5"/>
+<!-- RIGHT earring (mirror) -->
+<path d="M 354 150 q -18 -34 -40 -10 q -16 18 2 36" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 354 150 q -18 -34 -40 -10 q -16 18 2 36" fill="none" stroke="#f2c14e" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="354" y1="150" x2="340" y2="250" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<circle cx="336" cy="270" r="14" fill="#f2c14e" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 336 284 q -52 46 -52 86 q 0 44 52 44 q 52 0 52 -44 q 0 -40 -52 -86 Z" fill="url(#s3d_5ec4c4)" data-flat="#5ec4c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="336" cy="360" r="16" fill="url(#s3d_9fe2e2)" data-flat="#9fe2e2" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

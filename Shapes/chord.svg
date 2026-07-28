@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- staff lines = music -->
+  <g stroke="#c9c9c9" stroke-width="7" stroke-linecap="round">
+    <line x1="60" y1="150" x2="452" y2="150"/>
+    <line x1="60" y1="205" x2="452" y2="205"/>
+    <line x1="60" y1="260" x2="452" y2="260"/>
+    <line x1="60" y1="315" x2="452" y2="315"/>
+    <line x1="60" y1="370" x2="452" y2="370"/>
+  </g>
+  <!-- a chord: three note-heads stacked on one shared stem (sounded together) -->
+  <g stroke="#1f1f1f" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+    <line x1="300" y1="370" x2="300" y2="120" stroke-width="11"/>
+    <ellipse cx="270" cy="370" rx="40" ry="29" fill="#5a7de0" transform="rotate(-20 270 370)"/>
+    <ellipse cx="270" cy="315" rx="40" ry="29" fill="#5a7de0" transform="rotate(-20 270 315)"/>
+    <ellipse cx="270" cy="260" rx="40" ry="29" fill="#5a7de0" transform="rotate(-20 270 260)"/>
+    <!-- flag -->
+    <path d="M300 120 Q360 132 360 184 Q360 156 300 158 Z" fill="#1f1f1f"/>
+  </g>
+</svg>

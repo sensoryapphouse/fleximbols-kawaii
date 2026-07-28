@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-38.250 7.750)">
+  
+  
+  <circle cx="430" cy="90" r="36" fill="#ffd86b" stroke="#1a1a1a" stroke-width="2" />
+  <g stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round">
+    <line x1="430" y1="30" x2="430" y2="48" />
+    <line x1="478" y1="42" x2="468" y2="58" />
+    <line x1="490" y1="90" x2="475" y2="90" />
+    <line x1="478" y1="138" x2="468" y2="125" />
+  </g>
+  
+  <ellipse cx="200" cy="320" rx="80" ry="100" fill="#ffe4ec" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="170" cy="220" rx="18" ry="55" fill="#ffe4ec" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="230" cy="220" rx="18" ry="55" fill="#ffe4ec" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="170" cy="225" rx="8" ry="35" fill="#ffb3c6" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="230" cy="225" rx="8" ry="35" fill="#ffb3c6" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="180" cy="310" r="8" fill="#3a2a36" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="220" cy="310" r="8" fill="#3a2a36" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M190 335 Q200 345 210 335" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round" />
+  <circle cx="160" cy="332" r="7" fill="#ff9bbd" opacity="0.7" />
+  <circle cx="240" cy="332" r="7" fill="#ff9bbd" opacity="0.7" />
+  
+  
+  
+  <path d="M260 430 Q330 320 410 330 Q470 340 470 420 Q470 440 410 442 Q330 444 260 442 Z" fill="#5a4a6e" opacity="0.7" />
+  
+  <line x1="60" y1="442" x2="500" y2="442" stroke="#1a1a1a" stroke-width="3" />
+</g>
+  </svg>

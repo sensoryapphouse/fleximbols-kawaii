@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- bookmark tabs: a yellow note/page with a folded corner and three
+       coloured bookmark tabs poking out the right edge. Text-free, kawaii. -->
+
+  <!-- coloured bookmark tabs behind the page (right edge) -->
+  <g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
+    <rect x="338" y="172" width="78" height="46" rx="10" fill="#42adE7" />
+    <rect x="338" y="236" width="78" height="46" rx="10" fill="#db4437" />
+    <rect x="338" y="300" width="78" height="46" rx="10" fill="#7cb342" />
+  </g>
+
+  <!-- main page (yellow) with folded bottom-left corner -->
+  <path d="M120,96 L356,96 C362,96 366,100 366,106 L366,388 L150,388 L114,348 L114,106 C114,100 114,96 120,96 Z"
+        fill="#ffd54f" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+  <!-- folded corner -->
+  <path d="M114,348 L150,348 C156,348 150,388 150,388 Z"
+        fill="#f7a000" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+
+  <!-- neutral content lines (no text) -->
+  <g stroke="#c79a16" stroke-width="9" stroke-linecap="round">
+    <line x1="150" y1="146" x2="320" y2="146" />
+    <line x1="150" y1="176" x2="300" y2="176" />
+    <line x1="150" y1="206" x2="312" y2="206" />
+  </g>
+
+  <!-- kawaii face -->
+  <g stroke="#1a1a1a" stroke-linecap="round">
+    <circle cx="206" cy="290" r="11" fill="#1f1f1f" />
+    <circle cx="280" cy="290" r="11" fill="#1f1f1f" />
+    <path d="M222 318 Q243 338 264 318" fill="none" stroke-width="8" />
+    <ellipse cx="178" cy="312" rx="18" ry="12" fill="#ff9bb5" opacity="0.7" stroke="none" />
+    <ellipse cx="308" cy="312" rx="18" ry="12" fill="#ff9bb5" opacity="0.7" stroke="none" />
+  </g>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="pot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dbe9ff" />
+      <stop offset="1" stop-color="#8aa6d8" />
+    </linearGradient>
+    <linearGradient id="lid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0f4ff" />
+      <stop offset="1" stop-color="#a8b8d8" />
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e0f2ff" />
+      <stop offset="1" stop-color="#a8d6f4" />
+    </linearGradient>
+    <linearGradient id="basket" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4d8a8" />
+      <stop offset="1" stop-color="#c89758" />
+    </linearGradient>
+    <radialGradient id="blush" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff8aa8" stop-opacity="0.7" />
+      <stop offset="1" stop-color="#ff8aa8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <path d="M110 100 Q98 132 122 162 Q142 184 122 218" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M400 100 Q412 132 388 162 Q368 184 388 218" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M175 70 Q160 100 180 130 Q200 152 180 186" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+  <path d="M337 70 Q352 100 332 130 Q312 152 332 186" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+  <path d="M256 50 Q244 80 256 110 Q268 80 256 50" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+  
+  <ellipse cx="256" cy="230" rx="180" ry="20" fill="url(#lid)" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M76 230 Q256 170 436 230" fill="url(#lid)" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="238" y="172" width="36" height="14" rx="7" ry="7" fill="#a8b8d8" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="256" cy="168" r="11" fill="#dbe9ff" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M96 260 Q96 248 116 248 L396 248 Q416 248 416 260 L406 418 Q404 442 380 442 L132 442 Q108 442 106 418 Z" fill="url(#pot)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <ellipse cx="68" cy="285" rx="30" ry="14" fill="#8aa6d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="444" cy="285" rx="30" ry="14" fill="#8aa6d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="256" cy="260" rx="166" ry="12" fill="#c8d8ec" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M120 378 L392 378 L390 418 Q388 428 378 428 L134 428 Q124 428 122 418 Z" fill="url(#water)" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M120 378 Q200 374 256 378 Q312 382 392 378" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <path d="M138 296 L374 296 L362 366 L150 366 Z" fill="url(#basket)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  <line x1="166" y1="306" x2="160" y2="358" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="196" y1="302" x2="192" y2="362" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="226" y1="300" x2="225" y2="364" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="256" y1="299" x2="256" y2="366" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="286" y1="300" x2="287" y2="364" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="316" y1="302" x2="320" y2="362" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="346" y1="306" x2="352" y2="358" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="145" y1="325" x2="367" y2="325" stroke="#1a1a1a" stroke-width="3" opacity="0.6" />
+  
+  <circle cx="200" cy="296" r="22" fill="#a8d878" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="188" cy="285" r="9" fill="#a8d878" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="212" cy="285" r="10" fill="#a8d878" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="200" cy="278" r="9" fill="#a8d878" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="310" cy="298" rx="24" ry="18" fill="#fff0d8" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M298 290 Q310 286 322 290" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M298 295 Q310 291 322 295" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <ellipse cx="225" cy="408" rx="5" ry="7" fill="#2a3a5a" />
+  <ellipse cx="287" cy="408" rx="5" ry="7" fill="#2a3a5a" />
+  <ellipse cx="223" cy="405" rx="2" ry="2" fill="#ffffff" />
+  <ellipse cx="285" cy="405" rx="2" ry="2" fill="#ffffff" />
+  <path d="M246 420 Q256 426 266 420" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="200" cy="416" rx="11" ry="6" fill="url(#blush)" />
+  <ellipse cx="312" cy="416" rx="11" ry="6" fill="url(#blush)" />
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_e8b24e" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#efc983"/><stop offset="0.45" stop-color="#e8b24e"/><stop offset="1" stop-color="#ba8e3e"/></radialGradient><radialGradient id="s3d_f4c430" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f7d66e"/><stop offset="0.45" stop-color="#f4c430"/><stop offset="1" stop-color="#c39d26"/></radialGradient><radialGradient id="s3d_cfd6dc" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#dde2e6"/><stop offset="0.45" stop-color="#cfd6dc"/><stop offset="1" stop-color="#a6abb0"/></radialGradient><radialGradient id="s3d_6b4a2b" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#97806b"/><stop offset="0.45" stop-color="#6b4a2b"/><stop offset="1" stop-color="#563b22"/></radialGradient><radialGradient id="s3d_b9bdc2" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ced1d4"/><stop offset="0.45" stop-color="#b9bdc2"/><stop offset="1" stop-color="#94979b"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- digger -->
+<!-- digging arm -->
+<path d="M 200 250 L 330 150 L 380 175 L 415 280" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 200 250 L 330 150 L 380 175 L 415 280" fill="none" stroke="#f4c430" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- bucket -->
+<path d="M 392 270 L 440 268 L 438 312 Q 416 330 396 312 Z" fill="url(#s3d_e8b24e)" data-flat="#e8b24e" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- bucket teeth -->
+<path d="M 400 312 L 400 326 M 416 314 L 416 330 M 432 312 L 432 326" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- cab body -->
+<path d="M 120 250 L 240 250 L 240 200 L 175 200 L 150 250 Z" fill="url(#s3d_f4c430)" data-flat="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- window -->
+<path d="M 178 244 L 195 210 L 232 210 L 232 244 Z" fill="url(#s3d_cfd6dc)" data-flat="#cfd6dc" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- lower chassis -->
+<rect x="110" y="250" width="150" height="40" rx="8" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- track base -->
+<rect x="95" y="300" width="200" height="55" rx="27" fill="url(#s3d_6b4a2b)" data-flat="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="130" cy="327" r="20" fill="url(#s3d_b9bdc2)" data-flat="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="195" cy="327" r="20" fill="url(#s3d_b9bdc2)" data-flat="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="260" cy="327" r="20" fill="url(#s3d_b9bdc2)" data-flat="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3258" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3258)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

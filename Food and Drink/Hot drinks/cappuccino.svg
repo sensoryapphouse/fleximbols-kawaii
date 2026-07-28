@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-107.308 -192.897) scale(1.4206)">
+  <defs>
+    <radialGradient id="b" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fff8f2" /><stop offset="55%" stop-color="#e8cca8" /><stop offset="100%" stop-color="#b88858" /></radialGradient>
+    <radialGradient id="foam" cx="44%" cy="36%" r="70%"><stop offset="0%" stop-color="#ffffff" /><stop offset="60%" stop-color="#f5ead8" /><stop offset="100%" stop-color="#e8d0b0" /></radialGradient>
+    <radialGradient id="coffee" cx="50%" cy="40%" r="60%"><stop offset="0%" stop-color="#5a2e10" /><stop offset="100%" stop-color="#2e1205" /></radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#806040" stop-opacity="0" /><stop offset="72%" stop-color="#806040" stop-opacity="0" /><stop offset="100%" stop-color="#806040" stop-opacity="0.38" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    
+    
+    <clipPath id="cl"><path d="M188,225 Q180,238 178,278 Q175,368 256,368 Q337,368 334,278 Q332,238 324,225 Z" /></clipPath>
+  </defs>
+  
+  <ellipse cx="256" cy="400" rx="148" ry="22" fill="#e8d0a8" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="256" cy="396" rx="118" ry="14" fill="#f0dfc0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M324,268 Q372,264 372,298 Q372,332 324,328" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" />
+  
+  <path d="M188,225 Q180,238 178,278 Q175,368 256,368 Q337,368 334,278 Q332,238 324,225 Z" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.4" />
+  
+  <path d="M188,225 Q180,238 178,278 Q175,368 256,368 Q337,368 334,278 Q332,238 324,225 Z" fill="url(#b)" stroke="#1a1a1a" stroke-width="1.4079" />
+  
+  <path d="M190,268 Q182,368 256,368 Q330,368 322,268 Z" fill="url(#coffee)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="256" cy="240" rx="66" ry="30" fill="url(#foam)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M256,252 C256,252 244,242 238,248 C232,254 238,264 256,274 C274,264 280,254 274,248 C268,242 256,252 256,252 Z" fill="#8b4513" opacity="0.35" />
+  
+  
+  
+  <ellipse cx="256" cy="227" rx="68" ry="12" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <g clip-path="url(#cl)"><path d="M188,225 Q180,238 178,278 Q175,368 256,368 Q337,368 334,278 Q332,238 324,225 Z" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" /></g>
+  
+  <ellipse cx="196" cy="326" rx="26" ry="16" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="316" cy="326" rx="26" ry="16" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="224" cy="306" rx="12" ry="16" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="288" cy="306" rx="12" ry="16" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="219" cy="300" rx="4" ry="5" fill="#ffffff" />
+  <ellipse cx="283" cy="300" rx="4" ry="5" fill="#ffffff" />
+  <circle cx="228" cy="314" r="2.5" fill="#ffffff" />
+  <circle cx="292" cy="314" r="2.5" fill="#ffffff" />
+  
+  <path d="M244,330 C252,340 260,340 268,330" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  </svg>

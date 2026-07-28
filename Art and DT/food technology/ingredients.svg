@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="69.28 121.33 352.97 352.97"><defs><radialGradient id="s3d_f1ead9" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f5f0e4"/><stop offset="0.45" stop-color="#f1ead9"/><stop offset="1" stop-color="#c1bbae"/></radialGradient><radialGradient id="s3d_e3d8bf" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ebe4d2"/><stop offset="0.45" stop-color="#e3d8bf"/><stop offset="1" stop-color="#b6ad99"/></radialGradient><radialGradient id="s3d_fbe7a8" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#fceec2"/><stop offset="0.45" stop-color="#fbe7a8"/><stop offset="1" stop-color="#c9b986"/></radialGradient><radialGradient id="s3d_3d7fb5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#77a5cb"/><stop offset="0.45" stop-color="#3d7fb5"/><stop offset="1" stop-color="#316691"/></radialGradient></defs>
+<!-- flour bag -->
+<path d="M 96 220 L 188 220 L 188 404 L 96 404 Z" fill="url(#s3d_f1ead9)" data-flat="#f1ead9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 100 220 L 142 188 L 184 220 Z" fill="url(#s3d_e3d8bf)" data-flat="#e3d8bf" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="118" y1="188" x2="166" y2="188" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<rect x="116" y="276" width="52" height="60" rx="6" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 128 314 L 142 296 L 156 314 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="0"/>
+<!-- egg -->
+<ellipse cx="268" cy="346" rx="50" ry="60" fill="url(#s3d_fbe7a8)" data-flat="#fbe7a8" stroke="#1a1a1a" stroke-width="9"/>
+<!-- bottle of oil/milk -->
+<path d="M 360 232 L 392 232 L 392 220 L 360 220 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 356 252 Q 356 236 376 236 Q 396 236 396 252 L 396 396 Q 396 408 384 408 L 368 408 Q 356 408 356 396 Z" fill="url(#s3d_3d7fb5)" data-flat="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="362" y="300" width="28" height="40" rx="4" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="wt" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#a5d4ea" /><stop offset="100%" stop-color="#4a8ac8" /></linearGradient>
+<linearGradient id="wf" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ffffff" /><stop offset="100%" stop-color="#dcecf6" /></linearGradient>
+<linearGradient id="rk" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#a89888" /><stop offset="100%" stop-color="#6a5d50" /></linearGradient>
+</defs>
+<path d="M20 150 Q120 130 180 170 Q240 200 300 170 Q380 130 492 170 L492 410 Q380 420 300 400 Q200 380 120 400 Q60 410 20 400 Z" fill="url(#wt)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<g fill="url(#wf)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
+<path d="M40 200 Q70 180 100 200 Q90 220 70 220 Q50 220 40 200 Z" />
+<path d="M180 230 Q220 210 260 230 Q250 250 220 250 Q190 250 180 230 Z" />
+<path d="M320 200 Q360 180 400 200 Q390 220 360 220 Q330 220 320 200 Z" />
+<path d="M120 290 Q160 270 200 290 Q190 310 160 310 Q130 310 120 290 Z" />
+<path d="M280 310 Q330 290 380 310 Q370 330 330 330 Q300 330 280 310 Z" />
+<path d="M60 350 Q100 330 140 350 Q130 370 100 370 Q70 370 60 350 Z" />
+<path d="M380 360 Q420 340 460 360 Q450 380 420 380 Q390 380 380 360 Z" />
+</g>
+<g fill="url(#rk)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
+<path d="M100 240 Q90 210 130 200 Q170 210 160 245 Q140 255 100 240 Z" />
+<path d="M260 260 Q250 230 300 220 Q345 235 330 270 Q300 280 260 260 Z" />
+<path d="M410 270 Q400 245 440 240 Q470 250 460 280 Q440 290 410 270 Z" />
+</g>
+<g fill="#ffffff" stroke="#1a1a1a" stroke-width="5">
+<circle cx="80" cy="200" r="5" /><circle cx="220" cy="290" r="5" /><circle cx="350" cy="220" r="5" /><circle cx="150" cy="350" r="5" /><circle cx="420" cy="360" r="5" />
+</g>
+<g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.6">
+<path d="M40 100 Q80 90 120 100" /><path d="M180 110 Q220 100 260 110" /><path d="M320 100 Q360 90 400 100" />
+</g>
+</svg>

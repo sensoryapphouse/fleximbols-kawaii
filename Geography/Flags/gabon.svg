@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-ga" viewBox="0 0 640 480"><defs><radialGradient id="s3d_ffe700" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ffee4c"/><stop offset="0.45" stop-color="#ffe700"/><stop offset="1" stop-color="#ccb900"/></radialGradient><radialGradient id="s3d_36a100" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#72bd4c"/><stop offset="0.45" stop-color="#36a100"/><stop offset="1" stop-color="#2b8100"/></radialGradient><radialGradient id="s3d_006dbc" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#4c99d0"/><stop offset="0.45" stop-color="#006dbc"/><stop offset="1" stop-color="#005796"/></radialGradient></defs>
+  <g fill-rule="evenodd">
+    <path fill="url(#s3d_ffe700)" data-flat="#ffe700" d="M640 480H0V0h640z"/>
+    <path fill="url(#s3d_36a100)" data-flat="#36a100" d="M640 160H0V0h640z"/>
+    <path fill="url(#s3d_006dbc)" data-flat="#006dbc" d="M640 480H0V320h640z"/>
+  </g>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#000000" stroke-width="2"/>
+</svg>

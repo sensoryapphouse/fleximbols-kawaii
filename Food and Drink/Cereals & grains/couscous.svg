@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-45.349 -97.194) scale(1.1783)">
+  <defs>
+    <radialGradient id="bowl" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#f8f4ee" /><stop offset="55%" stop-color="#e8dcc8" /><stop offset="100%" stop-color="#c8b898" /></radialGradient>
+    <radialGradient id="grn" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fff8e0" /><stop offset="55%" stop-color="#f0e0a0" /><stop offset="100%" stop-color="#d8c070" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    
+    
+    <clipPath id="cl"><ellipse cx="256" cy="300" rx="168" ry="125" /></clipPath>
+  </defs>
+  
+  <ellipse cx="256" cy="300" rx="168" ry="125" fill="url(#bowl)" stroke="#1a1a1a" stroke-width="1.6974" />
+  <ellipse cx="256" cy="288" rx="150" ry="108" fill="url(#grn)" stroke="#1a1a1a" stroke-width="2" />
+  <g clip-path="url(#cl)">
+    <circle cx="150" cy="270" r="4" fill="#d0b858" opacity="0.9" />
+    <circle cx="163" cy="260" r="3.5" fill="#c8a840" opacity="0.9" />
+    <circle cx="176" cy="272" r="4" fill="#d8c060" opacity="0.9" />
+    <circle cx="189" cy="258" r="3.5" fill="#c0a030" opacity="0.9" />
+    <circle cx="202" cy="268" r="4" fill="#d0b050" opacity="0.9" />
+    <circle cx="215" cy="255" r="3.5" fill="#c8b040" opacity="0.9" />
+    <circle cx="228" cy="265" r="4" fill="#d8b858" opacity="0.9" />
+    <circle cx="241" cy="252" r="4" fill="#c8a838" opacity="0.9" />
+    <circle cx="254" cy="262" r="3.5" fill="#d0b050" opacity="0.9" />
+    <circle cx="267" cy="255" r="4" fill="#c0a030" opacity="0.9" />
+    <circle cx="280" cy="268" r="3.5" fill="#d8c060" opacity="0.9" />
+    <circle cx="293" cy="258" r="4" fill="#c8a840" opacity="0.9" />
+    <circle cx="306" cy="270" r="3.5" fill="#d0b050" opacity="0.9" />
+    <circle cx="319" cy="260" r="4" fill="#c8b040" opacity="0.9" />
+    <circle cx="332" cy="272" r="3.5" fill="#d8b858" opacity="0.9" />
+    <circle cx="345" cy="262" r="4" fill="#d0b050" opacity="0.9" />
+    <circle cx="358" cy="270" r="3.5" fill="#c8a840" opacity="0.9" />
+    <circle cx="156" cy="285" r="3.5" fill="#d0b050" opacity="0.9" />
+    <circle cx="170" cy="294" r="4" fill="#c8a840" opacity="0.9" />
+    <circle cx="184" cy="283" r="3.5" fill="#d8c060" opacity="0.9" />
+    <circle cx="198" cy="292" r="4" fill="#c0a030" opacity="0.9" />
+    <circle cx="212" cy="281" r="3.5" fill="#d0b848" opacity="0.9" />
+    <circle cx="226" cy="290" r="4" fill="#c8b040" opacity="0.9" />
+    <circle cx="240" cy="280" r="3.5" fill="#d8b858" opacity="0.9" />
+    <circle cx="254" cy="290" r="4" fill="#c0a030" opacity="0.9" />
+    <circle cx="268" cy="282" r="3.5" fill="#d0b050" opacity="0.9" />
+    <circle cx="282" cy="291" r="4" fill="#c8a840" opacity="0.9" />
+    <circle cx="296" cy="283" r="3.5" fill="#d8c060" opacity="0.9" />
+    <circle cx="310" cy="290" r="4" fill="#c8b040" opacity="0.9" />
+    <circle cx="324" cy="282" r="3.5" fill="#d0b050" opacity="0.9" />
+    <circle cx="338" cy="289" r="4" fill="#c8a838" opacity="0.9" />
+    <circle cx="352" cy="281" r="3.5" fill="#d0b848" opacity="0.9" />
+    <circle cx="163" cy="305" r="4" fill="#c8a838" opacity="0.9" />
+    <circle cx="178" cy="314" r="3.5" fill="#d0b050" opacity="0.9" />
+    <circle cx="193" cy="304" r="4" fill="#d8c060" opacity="0.9" />
+    <circle cx="208" cy="312" r="3.5" fill="#c0a030" opacity="0.9" />
+    <circle cx="223" cy="303" r="4" fill="#d0b848" opacity="0.9" />
+    <circle cx="238" cy="311" r="3.5" fill="#c8b040" opacity="0.9" />
+    <circle cx="253" cy="303" r="4" fill="#d8b858" opacity="0.9" />
+    <circle cx="268" cy="311" r="3.5" fill="#c0a030" opacity="0.9" />
+    <circle cx="283" cy="303" r="4" fill="#d0b050" opacity="0.9" />
+    <circle cx="298" cy="311" r="3.5" fill="#c8a840" opacity="0.9" />
+    <circle cx="313" cy="303" r="4" fill="#d8c060" opacity="0.9" />
+    <circle cx="328" cy="310" r="3.5" fill="#c8b040" opacity="0.9" />
+    <circle cx="343" cy="303" r="4" fill="#d0b050" opacity="0.9" />
+    <circle cx="357" cy="309" r="3.5" fill="#c8a838" opacity="0.9" />
+  </g>
+  
+  <ellipse cx="214" cy="335" rx="24" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="298" cy="335" rx="24" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="222" cy="316" rx="14" ry="18" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="290" cy="316" rx="14" ry="18" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="218" cy="310" rx="5" ry="7" fill="#ffffff" />
+  <ellipse cx="286" cy="310" rx="5" ry="7" fill="#ffffff" />
+  <circle cx="222" cy="316" r="2.5" fill="#ffffff" />
+  <circle cx="290" cy="316" r="2.5" fill="#ffffff" />
+  <circle cx="256" cy="326" r="4" fill="#e08070" />
+  <path d="M240,338 C250,350 262,350 272,338" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  </svg>

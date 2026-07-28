@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="b" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fffaf0" /><stop offset="55%" stop-color="#f6e4c6" /><stop offset="100%" stop-color="#e8cb9c" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    <radialGradient id="tent" cx="50%" cy="20%" r="80%"><stop offset="0%" stop-color="#c4a4f4" /><stop offset="100%" stop-color="#5a3aa8" /></radialGradient>
+    
+    
+    <clipPath id="cl"><ellipse cx="256" cy="240" rx="130" ry="120" /></clipPath>
+  </defs>
+  
+  <path d="M60,95 C100,105 140,95 180,108 C220,120 260,108 300,120 C340,132 380,118 420,128 C445,135 460,130 470,128" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <ellipse cx="100" cy="108" rx="7" ry="10" fill="#ffdf5e" stroke="#1a1a1a" stroke-width="1.5" />
+  <ellipse cx="160" cy="100" rx="7" ry="10" fill="#ff9bb8" stroke="#1a1a1a" stroke-width="1.5" />
+  <ellipse cx="220" cy="112" rx="7" ry="10" fill="#ffdf5e" stroke="#1a1a1a" stroke-width="1.5" />
+  <ellipse cx="280" cy="112" rx="7" ry="10" fill="#7fc8f0" stroke="#1a1a1a" stroke-width="1.5" />
+  <ellipse cx="340" cy="124" rx="7" ry="10" fill="#ffdf5e" stroke="#1a1a1a" stroke-width="1.5" />
+  <ellipse cx="400" cy="120" rx="7" ry="10" fill="#ff9bb8" stroke="#1a1a1a" stroke-width="1.5" />
+  <ellipse cx="455" cy="130" rx="7" ry="10" fill="#7fc8f0" stroke="#1a1a1a" stroke-width="1.5" />
+  
+  <path d="M256,130 L60,440 L452,440 Z" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.4" />
+  
+  <path d="M256,130 L60,440 L452,440 Z" fill="url(#tent)" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <line x1="256" y1="80" x2="256" y2="140" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <circle cx="256" cy="78" r="9" fill="#d8b487" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <line x1="256" y1="130" x2="158" y2="440" stroke="#1a1a1a" stroke-width="2" opacity="0.18" />
+  <line x1="256" y1="130" x2="354" y2="440" stroke="#1a1a1a" stroke-width="2" opacity="0.18" />
+  
+  <path d="M210,440 C210,370 230,330 256,320 C282,330 302,370 302,440" fill="#3a2080" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <path d="M218,440 C218,378 234,342 256,332 C278,342 294,378 294,440" fill="#ffdf5e" opacity="0.25" />
+  
+  
+  <ellipse cx="214" cy="268" rx="24" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="298" cy="268" rx="24" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="228" cy="248" rx="13" ry="17" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="284" cy="248" rx="13" ry="17" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="224" cy="242" rx="5" ry="6" fill="#ffffff" />
+  <ellipse cx="280" cy="242" rx="5" ry="6" fill="#ffffff" />
+  <circle cx="231" cy="253" r="2" fill="#ffffff" />
+  <circle cx="287" cy="253" r="2" fill="#ffffff" />
+  
+  
+  
+  <path d="M243,276 C250,287 262,287 269,276" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <line x1="60" y1="440" x2="452" y2="440" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</svg>

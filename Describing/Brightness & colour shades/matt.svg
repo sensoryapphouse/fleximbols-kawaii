@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="89.21 90.07 333.58 333.58"><defs><radialGradient id="s3d_c8342e" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#d8716d"/><stop offset="0.45" stop-color="#c8342e"/><stop offset="1" stop-color="#a02a25"/></radialGradient><radialGradient id="s3d_b86a64" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#cd9792"/><stop offset="0.45" stop-color="#b86a64"/><stop offset="1" stop-color="#935550"/></radialGradient></defs>
+<!-- LEFT: glossy sphere with highlight (reference, faded back) -->
+<g opacity="0.34">
+<g transform="translate(9 131) scale(0.66)">
+<circle cx="256" cy="262" r="100" fill="url(#s3d_c8342e)" data-flat="#c8342e" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="218" cy="220" rx="36" ry="24" fill="#ffffff" transform="rotate(-35 218 220)"/>
+</g>
+</g>
+<!-- RIGHT: matt sphere, even flat colour, no highlight (relevant) -->
+<g transform="translate(165 131) scale(0.66)">
+<circle cx="256" cy="262" r="100" fill="url(#s3d_b86a64)" data-flat="#b86a64" stroke="#1a1a1a" stroke-width="6"/>
+</g>
+<!-- green arrow to the matt one -->
+<line x1="334" y1="150" x2="334" y2="196" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="334" y1="196" x2="312" y2="172" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="334" y1="196" x2="356" y2="172" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="334" y1="150" x2="334" y2="196" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="334" y1="196" x2="312" y2="172" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="334" y1="196" x2="356" y2="172" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+</svg>

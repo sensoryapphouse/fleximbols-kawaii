@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <ellipse cx="256" cy="468" rx="218" ry="38" fill="#a8cc88" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M102 462 Q107 442 112 462" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M117 460 Q122 440 127 460" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M388 462 Q393 442 398 462" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M403 460 Q408 440 413 460" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M240 467 Q245 447 250 467" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M262 467 Q267 447 272 467" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="180" y="418" width="152" height="22" rx="5" fill="#c0c0cc" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="196" y="242" width="120" height="180" rx="8" fill="#c8c8d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M196 248 Q196 202 256 192 Q316 202 316 248" fill="#c8c8d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <line x1="206" y1="282" x2="306" y2="282" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="206" y1="342" x2="306" y2="342" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="206" y1="400" x2="306" y2="400" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="245" y="206" width="22" height="54" rx="4" fill="#a8a8b8" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="226" y="222" width="60" height="22" rx="4" fill="#a8a8b8" stroke="#1a1a1a" stroke-width="3" />
+  
+  <text x="256" y="322" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#8080a0" stroke="none">R.I.P.</text>
+  
+  <circle cx="249" cy="364" r="4" fill="#9080a0" />
+  <circle cx="263" cy="364" r="4" fill="#9080a0" />
+  <circle cx="250" cy="363" r="1.5" fill="#ffffff" />
+  <circle cx="264" cy="363" r="1.5" fill="#ffffff" />
+  
+  <ellipse cx="243" cy="370" rx="6" ry="4" fill="#ffb0b0" />
+  <ellipse cx="269" cy="370" rx="6" ry="4" fill="#ffb0b0" />
+  <path d="M248 376 Q256 381 264 376" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="188" y1="440" x2="177" y2="418" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="172" cy="408" r="12" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="162" cy="399" r="7" fill="#ffb0c8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="182" cy="399" r="7" fill="#ffb0c8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="172" cy="395" r="7" fill="#ffb0c8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="169" cy="406" r="2" fill="#9080a0" />
+  <circle cx="175" cy="406" r="2" fill="#9080a0" />
+  <path d="M168 411 Q172 414 176 411" fill="none" stroke="#1a1a1a" stroke-width="1.5" />
+  <line x1="324" y1="440" x2="335" y2="418" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="340" cy="408" r="12" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="330" cy="399" r="7" fill="#ffb0c8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="350" cy="399" r="7" fill="#ffb0c8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="340" cy="395" r="7" fill="#ffb0c8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="337" cy="406" r="2" fill="#9080a0" />
+  <circle cx="343" cy="406" r="2" fill="#9080a0" />
+  <path d="M336 411 Q340 414 344 411" fill="none" stroke="#1a1a1a" stroke-width="1.5" />
+</svg>

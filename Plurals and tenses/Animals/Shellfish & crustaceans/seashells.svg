@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="shellBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe1ec" />
+      <stop offset="55%" stop-color="#ff9bc0" />
+      <stop offset="100%" stop-color="#f06aa0" />
+    </linearGradient>
+    <radialGradient id="shellBlush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d81b60" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#d81b60" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- soft outline halo -->
+  <path d="M256,150 C300,150 348,176 372,228 C398,284 414,360 430,408 C400,418 360,424 256,424 C152,424 112,418 82,408 C98,360 114,284 140,228 C164,176 212,150 256,150 Z"
+        fill="none" stroke="#3a2a30" stroke-width="22" stroke-linejoin="round" opacity="0.25" />
+
+  <!-- fan shell body -->
+  <path d="M256,150 C300,150 348,176 372,228 C398,284 414,360 430,408 C400,418 360,424 256,424 C152,424 112,418 82,408 C98,360 114,284 140,228 C164,176 212,150 256,150 Z"
+        fill="url(#shellBody)" stroke="#3a2a30" stroke-width="11" stroke-linejoin="round" />
+
+  <!-- top knob/hinge -->
+  <path d="M226,166 C236,140 276,140 286,166 C278,182 234,182 226,166 Z"
+        fill="#f06aa0" stroke="#3a2a30" stroke-width="9" stroke-linejoin="round" />
+
+  <!-- radiating ribs -->
+  <g fill="none" stroke="#d65a92" stroke-width="9" stroke-linecap="round" opacity="0.85">
+    <path d="M256,196 L256,412" />
+    <path d="M256,196 C214,236 178,320 150,402" />
+    <path d="M256,196 C298,236 334,320 362,402" />
+    <path d="M256,196 C190,248 142,332 110,406" />
+    <path d="M256,196 C322,248 370,332 402,406" />
+  </g>
+
+  <!-- bottom rim -->
+  <path d="M82,408 C112,418 152,424 256,424 C360,424 400,418 430,408"
+        fill="none" stroke="#3a2a30" stroke-width="11" stroke-linecap="round" />
+
+  <!-- kawaii face -->
+  <ellipse cx="206" cy="334" rx="30" ry="20" fill="url(#shellBlush)" />
+  <ellipse cx="306" cy="334" rx="30" ry="20" fill="url(#shellBlush)" />
+  <circle cx="222" cy="302" r="11" fill="#3a2a30" />
+  <circle cx="290" cy="302" r="11" fill="#3a2a30" />
+  <circle cx="218" cy="298" r="3.5" fill="#ffffff" />
+  <circle cx="286" cy="298" r="3.5" fill="#ffffff" />
+  <path d="M240,324 C248,336 264,336 272,324" fill="none" stroke="#3a2a30" stroke-width="8" stroke-linecap="round" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl346" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl346)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

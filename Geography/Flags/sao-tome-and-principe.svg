@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icons-st" viewBox="0 0 640 480"><defs><radialGradient id="s3d_12ad2b" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#59c66b"/><stop offset="0.45" stop-color="#12ad2b"/><stop offset="1" stop-color="#0e8a22"/></radialGradient><radialGradient id="s3d_ffce00" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ffdd4c"/><stop offset="0.45" stop-color="#ffce00"/><stop offset="1" stop-color="#cca500"/></radialGradient><radialGradient id="s3d_d21034" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e05871"/><stop offset="0.45" stop-color="#d21034"/><stop offset="1" stop-color="#a80d2a"/></radialGradient></defs>
+  <path fill="url(#s3d_12ad2b)" data-flat="#12ad2b" d="M0 0h640v480H0z"/>
+  <path fill="url(#s3d_ffce00)" data-flat="#ffce00" d="M0 137.1h640V343H0z"/>
+  <path fill="url(#s3d_d21034)" data-flat="#d21034" d="M0 0v480l240-240"/>
+  <g id="st-c" transform="translate(351.6 240)scale(.34286)">
+    <g id="st-b">
+      <path id="st-a" fill="#000001" d="M0-200V0h100" transform="rotate(18 0 -200)"/>
+      <use xlink:href="#st-a" width="100%" height="100%" transform="scale(-1 1)"/>
+    </g>
+    <use xlink:href="#st-b" width="100%" height="100%" transform="rotate(72)"/>
+    <use xlink:href="#st-b" width="100%" height="100%" transform="rotate(144)"/>
+    <use xlink:href="#st-b" width="100%" height="100%" transform="rotate(-144)"/>
+    <use xlink:href="#st-b" width="100%" height="100%" transform="rotate(-72)"/>
+  </g>
+  <use xlink:href="#st-c" width="100%" height="100%" x="700" transform="translate(-523.2)"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#000000" stroke-width="2"/>
+</svg>

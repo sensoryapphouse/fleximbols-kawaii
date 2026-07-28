@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -5.500)">
+  
+  
+  
+  <ellipse cx="136" cy="360" rx="100" ry="88" fill="#d0f8e0" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="376" cy="360" rx="100" ry="88" fill="#ffe8d0" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="136" cy="460" rx="100" ry="42" fill="#e8d8ff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="376" cy="460" rx="100" ry="42" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="4" />
+  
+  
+  <circle cx="122" cy="354" r="7" fill="#223322" />
+  <circle cx="150" cy="354" r="7" fill="#223322" />
+  <path d="M122,366 Q136,374 150,366" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  
+  
+  <circle cx="362" cy="354" r="7" fill="#332211" />
+  <circle cx="390" cy="354" r="7" fill="#332211" />
+  <path d="M362,366 Q376,374 390,366" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  
+  
+  <path d="M112,454 Q122,462 132,454" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M142,454 Q152,462 162,454" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  
+  
+  <path d="M352,454 Q362,462 372,454" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M382,454 Q392,462 402,454" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  
+  
+  <path d="M98,385 Q116,385 134,385" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  <path d="M116,375 Q116,385 116,395" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  <path d="M338,385 Q356,385 374,385" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  <path d="M356,375 Q356,385 356,395" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  
+  <text x="168" y="358" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="19" font-weight="bold" fill="#66aa77">n</text>
+  <text x="404" y="358" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="19" font-weight="bold" fill="#cc9977">n</text>
+  <text x="168" y="466" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="19" font-weight="bold" fill="#9977bb">n</text>
+  <text x="404" y="466" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="19" font-weight="bold" fill="#7799bb">n</text>
+  
+  <ellipse cx="136" cy="248" rx="100" ry="72" fill="#f0fff8" stroke="#1a1a1a" stroke-width="3.5" stroke-dasharray="8,4" />
+  <ellipse cx="376" cy="248" rx="100" ry="72" fill="#fff8f0" stroke="#1a1a1a" stroke-width="3.5" stroke-dasharray="8,4" />
+  
+  <path d="M96,240 Q116,252 136,240 Q156,228 176,240" stroke="#1a1a1a" stroke-width="2.0000" fill="none" stroke-linecap="round" />
+  <path d="M96,258 Q116,246 136,258 Q156,270 176,258" stroke="#1a1a1a" stroke-width="2.0000" fill="none" stroke-linecap="round" />
+  <line x1="118" y1="236" x2="154" y2="262" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="154" y1="236" x2="118" y2="262" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M336,246 Q356,246 376,246 Q396,246 416,246" stroke="#1a1a1a" stroke-width="2.0000" fill="none" stroke-linecap="round" />
+  <path d="M336,260 Q356,260 376,260 Q396,260 416,260" stroke="#1a1a1a" stroke-width="2.0000" fill="none" stroke-linecap="round" />
+  
+  <ellipse cx="256" cy="110" rx="120" ry="88" fill="#fff8e0" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="188" y="102" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="bold" fill="#cc9933">2n</text>
+  
+  <path d="M210,107 Q226,107 242,107" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  <path d="M226,97 Q226,107 226,117" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  <path d="M266,107 Q282,107 298,107" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  <path d="M282,97 Q282,107 282,117" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  
+  <line x1="192" y1="195" x2="154" y2="220" stroke="#1a1a1a" stroke-width="3.5" />
+  <polygon points="150,220 157,210 165,220" fill="#ccaa55" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="320" y1="195" x2="358" y2="220" stroke="#1a1a1a" stroke-width="3.5" />
+  <polygon points="362,220 355,210 347,220" fill="#ccaa55" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="136" y1="322" x2="136" y2="342" stroke="#1a1a1a" stroke-width="3.5" />
+  <polygon points="129,342 136,352 143,342" fill="#99aabb" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="136" y1="423" x2="136" y2="434" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="130,434 136,442 142,434" fill="#99aabb" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="376" y1="322" x2="376" y2="342" stroke="#1a1a1a" stroke-width="3.5" />
+  <polygon points="369,342 376,352 383,342" fill="#99aabb" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="376" y1="423" x2="376" y2="434" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="370,434 376,442 382,434" fill="#99aabb" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M250,300 Q252,297 255,300 Q258,297 260,300 Q260,304 255,308 Q250,304 250,300 Z" fill="#ffaabb" stroke="#1a1a1a" stroke-width="2" />
+</g>
+  </svg>

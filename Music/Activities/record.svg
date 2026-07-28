@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <circle cx="256" cy="256" r="200" fill="#3a3038" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="256" cy="256" r="194" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="256" cy="256" r="166" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="256" cy="256" r="152" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="256" cy="256" r="138" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="256" cy="256" r="124" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="256" cy="256" r="110" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="256" cy="256" r="96" fill="#ffaab8" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="256" cy="256" r="96" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <text x="256" y="222" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" fill="#fffaf0">vinyl</text>
+  <text x="256" y="248" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" fill="#fffaf0">side A</text>
+  <text x="256" y="306" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#fffaf0">33 RPM</text>
+  <circle cx="240" cy="280" r="3" fill="#2b2622" />
+  <circle cx="272" cy="280" r="3" fill="#2b2622" />
+  <path d="M246,288 Q256,294 266,288" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  <circle cx="256" cy="256" r="14" fill="#3a3038" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="256" cy="256" r="5" fill="#ffd070" />
+  <path d="M256,72 L380,228" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <circle cx="380" cy="228" r="22" fill="#c8c8d0" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="380" cy="228" r="10" fill="#544854" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="256" cy="72" r="10" fill="#ffaab8" stroke="#1a1a1a" stroke-width="4" />
+  
+  
+  <path d="M104,90 Q116,76 132,86 Q124,98 132,108 Q116,118 104,108 Q112,98 104,90 Z" fill="#ffeec0" stroke="#1a1a1a" stroke-width="3" opacity="0.85" />
+  <path d="M62,156 L72,158 L74,168 L64,166 Z" fill="#a8e0d8" stroke="#1a1a1a" stroke-width="2.5" opacity="0.85" />
+  <circle cx="438" cy="108" r="5" fill="#ffaab8" />
+  <circle cx="78" cy="380" r="5" fill="#a8c8f0" />
+  <circle cx="440" cy="376" r="5" fill="#ffd070" />
+  <text x="380" y="386" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" fill="#e88898" stroke="#1a1a1a" stroke-width="1">♪</text>
+  <text x="80" y="156" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" fill="#a8c8f0" stroke="#1a1a1a" stroke-width="1">♪</text>
+</svg>

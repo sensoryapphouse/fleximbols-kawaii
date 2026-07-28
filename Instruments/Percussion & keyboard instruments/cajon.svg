@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-88.505 -61.064) scale(1.1931)">
+  
+  <polygon points="380,144 454,118 454,388 380,414" fill="#c08868" stroke="#1a1a1a" stroke-width="1.6763" />
+  <polygon points="124,144 380,144 454,118 198,118" fill="#e0a884" stroke="#1a1a1a" stroke-width="1.6763" />
+  <polygon points="124,144 380,144 380,414 124,414" fill="#f0b89c" stroke="#1a1a1a" stroke-width="1.6763" />
+  <g stroke="#1a1a1a" stroke-width="1.5" opacity="0.6" fill="none">
+    <path d="M 134 180 Q 256 184 372 180" />
+    <path d="M 134 230 Q 256 234 372 230" />
+    <path d="M 134 280 Q 256 284 372 280" />
+    <path d="M 134 330 Q 256 334 372 330" />
+    <path d="M 134 380 Q 256 384 372 380" />
+  </g>
+  <g fill="#7a4828" stroke="#1a1a1a" stroke-width="1">
+    <circle cx="140" cy="158" r="2.5" /><circle cx="364" cy="158" r="2.5" />
+    <circle cx="140" cy="400" r="2.5" /><circle cx="364" cy="400" r="2.5" />
+    <circle cx="158" cy="158" r="2.5" /><circle cx="346" cy="158" r="2.5" />
+  </g>
+  <ellipse cx="418" cy="276" rx="12" ry="20" fill="#4a2818" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <circle cx="220" cy="260" r="4" fill="#5a3a28" />
+  <circle cx="288" cy="260" r="4" fill="#5a3a28" />
+  <path d="M 232 282 Q 254 296 276 282" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <radialGradient id="cheekCJ" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#ffb0c8" stop-opacity="0.85" />
+    <stop offset="100%" stop-color="#ffb0c8" stop-opacity="0" />
+  </radialGradient>
+  <circle cx="206" cy="278" r="10" fill="url(#cheekCJ)" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="302" cy="278" r="10" fill="url(#cheekCJ)" stroke="#1a1a1a" stroke-width="2" />
+</g>
+  </svg>

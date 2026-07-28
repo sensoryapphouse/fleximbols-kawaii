@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="104" y="64" width="304" height="388" rx="20" ry="20" fill="#fff0f8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="104" y="64" width="304" height="68" rx="20" ry="20" fill="#b8d4f8" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="104" y="106" width="304" height="26" fill="#b8d4f8" stroke="#1a1a1a" stroke-width="2" />
+  
+  <text x="256" y="106" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="34" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="5">ESTA</text>
+  
+  <rect x="118" y="73" width="48" height="32" fill="#e8a0a8" rx="3" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="118" y="73" width="48" height="5" fill="#e8a0a8" />
+  <rect x="118" y="78" width="48" height="5" fill="#ffffff" />
+  <rect x="118" y="83" width="48" height="5" fill="#e8a0a8" />
+  <rect x="118" y="88" width="48" height="5" fill="#ffffff" />
+  <rect x="118" y="93" width="48" height="5" fill="#e8a0a8" />
+  <rect x="118" y="73" width="24" height="18" fill="#b8d4f8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="124" cy="78" r="2" fill="#ffffff" />
+  <circle cx="132" cy="78" r="2" fill="#ffffff" />
+  <circle cx="128" cy="84" r="2" fill="#ffffff" />
+  
+  <rect x="128" y="154" width="170" height="9" rx="4" fill="#e8c8dc" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="128" y="175" width="220" height="9" rx="4" fill="#e8c8dc" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="128" y="196" width="190" height="9" rx="4" fill="#e8c8dc" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="128" y="217" width="210" height="9" rx="4" fill="#e8c8dc" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="308" y="148" width="78" height="96" rx="10" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="347" cy="183" r="26" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="339" cy="181" r="4" fill="#2b2622" />
+  <circle cx="355" cy="181" r="4" fill="#2b2622" />
+  <circle cx="340" cy="179" r="1.5" fill="#ffffff" />
+  <circle cx="356" cy="179" r="1.5" fill="#ffffff" />
+  <path d="M341,190 Q347,196 353,190" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" />
+  <circle cx="336" cy="188" r="5" fill="#ffb8c8" opacity="0.7" />
+  <circle cx="358" cy="188" r="5" fill="#ffb8c8" opacity="0.7" />
+  
+  <circle cx="256" cy="338" r="66" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-dasharray="10,5" />
+  <circle cx="256" cy="338" r="50" fill="#fff0f8" stroke="#1a1a1a" stroke-width="2" />
+  <text x="256" y="326" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="11" font-weight="700" fill="#c080a0" text-anchor="middle">AUTHORIZATION</text>
+  <text x="256" y="344" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="11" font-weight="700" fill="#c080a0" text-anchor="middle">APPROVED</text>
+  <path d="M238,350 L250,362 L274,335" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <circle cx="148" cy="410" r="6" fill="#ffd6e0" />
+  <circle cx="174" cy="420" r="4" fill="#e0d0f0" />
+  <circle cx="360" cy="412" r="5" fill="#ffd6e0" />
+  <circle cx="384" cy="404" r="7" fill="#d0e8ff" />
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="bl" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb6c8" />
+      <stop offset="1" stop-color="#ffb6c8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <path d="M 80 360 L 420 200" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" opacity="0.75" />
+  <g transform="translate(256 256) rotate(-30)">
+    <rect x="-44" y="-150" width="88" height="240" rx="22" fill="#fff48c" stroke="#1a1a1a" stroke-width="5" />
+    <rect x="-44" y="-100" width="88" height="46" fill="#5a6a7a" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="-40" y="-94" width="80" height="12" fill="#fff48c" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="-44" y="-150" width="88" height="42" rx="14" fill="#ffe066" stroke="#1a1a1a" stroke-width="4" />
+    <rect x="-30" y="-160" width="60" height="14" rx="6" fill="#e0c050" stroke="#1a1a1a" stroke-width="4" />
+    <path d="M -44 90 L 44 90 L 44 108 L -44 108 Z" fill="#ffe066" stroke="#1a1a1a" stroke-width="4" />
+    <path d="M -44 108 L 44 108 L 30 156 L -30 156 Z" fill="#fff48c" stroke="#1a1a1a" stroke-width="4" />
+    <path d="M -30 156 L 30 156 L 22 174 L -22 174 Z" fill="#fff48c" stroke="#1a1a1a" stroke-width="4" />
+    <circle cx="-12" cy="0" r="4.5" fill="#1a1a1a" />
+    <circle cx="12" cy="0" r="4.5" fill="#1a1a1a" />
+    <circle cx="-11" cy="-1.5" r="1.6" fill="#ffffff" />
+    <circle cx="13" cy="-1.5" r="1.6" fill="#ffffff" />
+    <path d="M -7 15 Q 0 20 7 15" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+    <circle cx="-22" cy="10" r="7" fill="url(#bl)" />
+    <circle cx="22" cy="10" r="7" fill="url(#bl)" />
+  </g>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2959" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2959)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

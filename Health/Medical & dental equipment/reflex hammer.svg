@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="98.72 97.86 331.64 331.64"><defs><radialGradient id="s3d_cdd3da" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#dce0e5"/><stop offset="0.45" stop-color="#cdd3da"/><stop offset="1" stop-color="#a4a9ae"/></radialGradient><radialGradient id="s3d_e0473c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e97e76"/><stop offset="0.45" stop-color="#e0473c"/><stop offset="1" stop-color="#b33930"/></radialGradient></defs><g transform="rotate(35 256 256)">
+<!-- slim handle -->
+<rect x="244" y="220" width="24" height="196" rx="12" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- end knob -->
+<circle cx="256" cy="416" r="18" fill="url(#s3d_cdd3da)" data-flat="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- triangular rubber head (classic reflex hammer) -->
+<path d="M 176 150 L 336 150 L 256 230 Z" fill="url(#s3d_e0473c)" data-flat="#e0473c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- neck joining head to handle -->
+<rect x="246" y="208" width="20" height="26" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+</g></svg>

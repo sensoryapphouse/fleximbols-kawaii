@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-7.000 -30.000)">
+  <title>that</title>
+  
+  <path d="M70 90 H350 a36 36 0 0 1 36 36 V220 a36 36 0 0 1 -36 36 H170 L120 306 L138 256 H70 a36 36 0 0 1 -36 -36 V126 a36 36 0 0 1 36 -36 Z" fill="#c8e6f5" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <text x="210" y="200" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="800" font-size="72" fill="#5a7a90">THAT</text>
+  
+  <circle cx="172" cy="146" r="3.5" fill="#3d2a2a" />
+  <circle cx="248" cy="146" r="3.5" fill="#3d2a2a" />
+  <path d="M196 156 Q210 168 224 156" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  <circle cx="156" cy="156" r="6" fill="#ffb6c1" />
+  <circle cx="264" cy="156" r="6" fill="#ffb6c1" />
+  
+  <path d="M130 470 Q150 430 220 420 L320 396 Q360 388 380 380 L386 432 Q368 450 322 462 L160 484 Z" fill="#b8e0d2" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M312 400 L388 380 L394 408 L324 426 Z" fill="#90c8b4" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
+  
+  <path d="M340 376 Q400 354 432 344 Q472 338 482 366 Q484 394 462 406 Q422 422 384 424 Q354 422 342 414 Z" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M432 344 Q462 312 488 304 Q500 314 488 332 Q470 352 452 358 Z" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M394 404 Q414 424 408 442 Q396 452 384 442 Q382 426 384 412 Z" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
+  
+  <path d="M362 410 Q380 418 392 416" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  <path d="M358 396 Q376 402 390 400" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  
+  <circle cx="404" cy="386" r="8" fill="#ffc7c7" opacity="0.85" />
+  
+  <path d="M448 290 L451 296 L457 299 L451 302 L448 308 L445 302 L439 299 L445 296 Z" fill="#fff3d0" stroke="#1a1a1a" stroke-width="1.5" />
+  <path d="M482 286 L484 290 L488 292 L484 294 L482 298 L480 294 L476 292 L480 290 Z" fill="#fff3d0" stroke="#1a1a1a" stroke-width="1.2" />
+</g>
+  </svg>

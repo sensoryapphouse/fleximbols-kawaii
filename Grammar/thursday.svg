@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="76" y="118" width="360" height="320" rx="36" fill="#fff7ec" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M76 154 Q76 118 112 118 L400 118 Q436 118 436 154 L436 200 L76 200 Z" fill="#f9b8c4" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <rect x="138" y="84" width="22" height="62" rx="11" fill="#cdb6c7" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="352" y="84" width="22" height="62" rx="11" fill="#cdb6c7" stroke="#1a1a1a" stroke-width="5" />
+  
+  <text x="256" y="182" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="36" font-weight="700" text-anchor="middle" fill="#7a3a52" letter-spacing="3">THURSDAY</text>
+  
+  <text x="256" y="372" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="180" font-weight="700" text-anchor="middle" fill="#b6d4ec" stroke="#1a1a1a" stroke-width="5">4</text>
+  
+  <circle cx="232" cy="320" r="6" fill="#3a3650" />
+  <circle cx="278" cy="320" r="6" fill="#3a3650" />
+  <path d="M244 340 Q256 350 268 340" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <circle cx="216" cy="334" r="6" fill="#f4b5c0" opacity="0.8" />
+  <circle cx="294" cy="334" r="6" fill="#f4b5c0" opacity="0.8" />
+  
+  <path d="M120 240 Q116 232 124 230 Q130 232 130 238 Q130 232 136 230 Q144 232 140 240 Q136 248 130 254 Q124 248 120 240 Z" fill="#f9b8c4" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M376 240 Q372 232 380 230 Q386 232 386 238 Q386 232 392 230 Q400 232 396 240 Q392 248 386 254 Q380 248 376 240 Z" fill="#f9b8c4" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M120 400 L126 412 L140 414 L130 422 L132 436 L120 430 L108 436 L110 422 L100 414 L114 412 Z" fill="#ffe6a3" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M392 400 L398 412 L412 414 L402 422 L404 436 L392 430 L380 436 L382 422 L372 414 L386 412 Z" fill="#ffe6a3" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+</svg>

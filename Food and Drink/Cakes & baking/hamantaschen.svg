@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <path d="M 256 92 Q 270 88 282 108 L 442 388 Q 452 408 432 418 L 80 418 Q 60 408 70 388 L 230 108 Q 242 88 256 92 Z" fill="#EFCCA0" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 256 110 Q 264 108 272 122 L 308 200 Q 312 210 302 212 L 210 212 Q 200 210 204 200 L 240 122 Q 248 108 256 110 Z" fill="#C58866" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 92 400 Q 84 388 92 380 L 158 295 Q 168 285 175 295 L 200 360 Q 205 372 195 380 L 110 405 Q 98 408 92 400 Z" fill="#C58866" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 420 400 Q 428 388 420 380 L 354 295 Q 344 285 337 295 L 312 360 Q 307 372 317 380 L 402 405 Q 414 408 420 400 Z" fill="#C58866" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="225" cy="170" r="4" fill="#7A4A28" />
+  <circle cx="285" cy="170" r="4" fill="#7A4A28" />
+  <circle cx="255" cy="190" r="3" fill="#7A4A28" />
+  <circle cx="230" cy="320" r="9" fill="#1A1A1A" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="280" cy="320" r="9" fill="#1A1A1A" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="232" cy="317" r="3" fill="#FFFFFF" />
+  <circle cx="282" cy="317" r="3" fill="#FFFFFF" />
+  <path d="M 248 340 Q 256 348 264 340" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <circle cx="200" cy="345" r="8" fill="#F8B8B0" opacity="0.7" />
+  <circle cx="312" cy="345" r="8" fill="#F8B8B0" opacity="0.7" />
+</svg>

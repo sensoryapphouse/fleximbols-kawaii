@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 67.88 376.24 376.24"><defs><radialGradient id="s3d_cfe6f5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ddeef8"/><stop offset="0.45" stop-color="#cfe6f5"/><stop offset="1" stop-color="#a6b8c4"/></radialGradient><radialGradient id="s3d_3fae5a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#79c68c"/><stop offset="0.45" stop-color="#3fae5a"/><stop offset="1" stop-color="#328b48"/></radialGradient></defs>
+<!-- fluoride: a protective drop on a tooth inside a shield -->
+<path d="M 256 96 Q 360 124 360 124 Q 372 280 256 416 Q 140 280 152 124 Q 152 124 256 96 Z" fill="url(#s3d_cfe6f5)" data-flat="#cfe6f5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tooth on the shield -->
+<path d="M 214 214 Q 206 150 256 140 Q 306 150 298 214 Q 294 270 280 300 Q 272 316 266 294 Q 260 270 256 290 Q 252 270 246 294 Q 240 316 232 300 Q 218 270 214 214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- fluoride drop above tooth -->
+<path d="M 256 156 Q 244 174 244 184 Q 244 200 256 200 Q 268 200 268 184 Q 268 174 256 156 Z" fill="url(#s3d_3fae5a)" data-flat="#3fae5a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

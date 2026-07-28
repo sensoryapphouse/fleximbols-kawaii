@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 83.39 345.21 345.21"><defs><radialGradient id="s3d_fbf3d9" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#fcf7e4"/><stop offset="0.45" stop-color="#fbf3d9"/><stop offset="1" stop-color="#c9c2ae"/></radialGradient><radialGradient id="s3d_f3d27a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f7e0a2"/><stop offset="0.45" stop-color="#f3d27a"/><stop offset="1" stop-color="#c2a862"/></radialGradient></defs>
+<!-- braille: raised-dot cells on a tactile page (no letters) -->
+<rect x="116" y="110" width="280" height="292" rx="18" fill="url(#s3d_fbf3d9)" data-flat="#fbf3d9" stroke="#1a1a1a" stroke-width="10"/>
+<circle cx="160" cy="178" r="17" fill="url(#s3d_f3d27a)" data-flat="#f3d27a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="160" cy="238" r="17" fill="url(#s3d_f3d27a)" data-flat="#f3d27a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="160" cy="298" r="6" fill="#efe6c6"/>
+<circle cx="216" cy="178" r="17" fill="url(#s3d_f3d27a)" data-flat="#f3d27a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="216" cy="238" r="6" fill="#efe6c6"/>
+<circle cx="216" cy="298" r="6" fill="#efe6c6"/>
+<circle cx="300" cy="178" r="17" fill="url(#s3d_f3d27a)" data-flat="#f3d27a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="300" cy="238" r="17" fill="url(#s3d_f3d27a)" data-flat="#f3d27a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="300" cy="298" r="17" fill="url(#s3d_f3d27a)" data-flat="#f3d27a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="356" cy="178" r="6" fill="#efe6c6"/>
+<circle cx="356" cy="238" r="17" fill="url(#s3d_f3d27a)" data-flat="#f3d27a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="356" cy="298" r="6" fill="#efe6c6"/>
+</svg>

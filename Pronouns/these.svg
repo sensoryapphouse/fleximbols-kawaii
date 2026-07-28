@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-12.500 -24.000)">
+  
+  
+  <line x1="256" y1="48" x2="256" y2="138" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <polygon points="228,126 284,126 256,176" fill="#C9B6E4" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <path d="M 70 220 Q 70 198 92 198 L 420 198 Q 442 198 442 220" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <circle cx="130" cy="318" r="62" fill="#A8D5E5" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="114" cy="312" rx="4" ry="6" fill="#3A3A3A" />
+  <ellipse cx="146" cy="312" rx="4" ry="6" fill="#3A3A3A" />
+  <circle cx="100" cy="330" r="6" fill="#E89BAA" opacity="0.7" />
+  <circle cx="160" cy="330" r="6" fill="#E89BAA" opacity="0.7" />
+  <path d="M 118 332 Q 130 342 142 332" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <rect x="200" y="258" width="128" height="124" rx="14" fill="#F7B7C2" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="256" y="258" width="16" height="124" fill="#FFE9A8" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 240 258 Q 230 228 260 232 Q 272 240 264 258" fill="#FFE9A8" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 288 258 Q 298 228 268 232 Q 256 240 264 258" fill="#FFE9A8" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <ellipse cx="224" cy="328" rx="4" ry="6" fill="#3A3A3A" />
+  <ellipse cx="304" cy="328" rx="4" ry="6" fill="#3A3A3A" />
+  <circle cx="214" cy="346" r="6" fill="#E89BAA" opacity="0.7" />
+  <circle cx="314" cy="346" r="6" fill="#E89BAA" opacity="0.7" />
+  <path d="M 230 354 Q 264 366 298 354" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <polygon points="412,258 432,308 484,312 444,342 458,394 412,366 366,394 380,342 340,312 392,308" fill="#FFE9A8" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="400" cy="328" rx="4" ry="6" fill="#3A3A3A" />
+  <ellipse cx="424" cy="328" rx="4" ry="6" fill="#3A3A3A" />
+  <circle cx="390" cy="342" r="5" fill="#E89BAA" opacity="0.7" />
+  <circle cx="434" cy="342" r="5" fill="#E89BAA" opacity="0.7" />
+  <path d="M 404 346 Q 412 354 420 346" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <rect x="80" y="408" width="352" height="72" rx="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" />
+  <text x="256" y="460" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="46" font-weight="700" fill="#C9B6E4">THESE</text>
+</g>
+  </svg>

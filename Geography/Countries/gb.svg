@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="36" y="100" width="440" height="312" rx="20" fill="#7FA8E0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <defs>
+    <clipPath id="gbflag">
+      <rect x="36" y="100" width="440" height="312" rx="20" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#gbflag)">
+    
+    <g stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="butt">
+      <line x1="36" y1="100" x2="476" y2="412" />
+      <line x1="476" y1="100" x2="36" y2="412" />
+    </g>
+    
+    <g stroke="#1a1a1a" stroke-width="18">
+      <line x1="36" y1="100" x2="256" y2="256" />
+      <line x1="256" y1="256" x2="476" y2="412" />
+      <line x1="476" y1="100" x2="256" y2="256" />
+      <line x1="256" y1="256" x2="36" y2="412" />
+    </g>
+    
+    <rect x="36" y="232" width="440" height="48" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="232" y="100" width="48" height="312" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2" />
+    
+    <rect x="36" y="244" width="440" height="24" fill="#FF9BB3" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="244" y="100" width="24" height="312" fill="#FF9BB3" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  
+  <circle cx="190" cy="220" r="4" fill="#3A2A2A" />
+  <circle cx="218" cy="220" r="4" fill="#3A2A2A" />
+  <path d="M192 230 q12 8 24 0" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <circle cx="178" cy="232" r="5" fill="#FF9BB3" opacity="0.7" />
+  <circle cx="230" cy="232" r="5" fill="#FF9BB3" opacity="0.7" />
+  
+  <g fill="#FFE9A8">
+    <path d="M70 70 l 2 6 l 6 2 l -6 2 l -2 6 l -2 -6 l -6 -2 l 6 -2 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M450 70 l 2 6 l 6 2 l -6 2 l -2 6 l -2 -6 l -6 -2 l 6 -2 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M60 450 l 2 6 l 6 2 l -6 2 l -2 6 l -2 -6 l -6 -2 l 6 -2 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M460 450 l 2 6 l 6 2 l -6 2 l -2 6 l -2 -6 l -6 -2 l 6 -2 Z" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+</svg>

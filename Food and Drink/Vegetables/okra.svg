@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-100.979 -84.404) scale(1.2278)">
+  <defs>
+    <linearGradient id="pod" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c8e89c" />
+      <stop offset="100%" stop-color="#88c050" />
+    </linearGradient>
+    <linearGradient id="podDark" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#88c050" />
+      <stop offset="100%" stop-color="#5a9430" />
+    </linearGradient>
+    <linearGradient id="calyx" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a8d870" />
+      <stop offset="100%" stop-color="#6ea838" />
+    </linearGradient>
+    <radialGradient id="blush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ef7e86" stop-opacity="0.65" />
+      <stop offset="100%" stop-color="#ef7e86" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <path d="M340 124 Q368 132 392 172 Q408 208 396 232 Q380 240 364 224 Q344 196 336 160 Q336 134 340 124 Z" fill="url(#podDark)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <path d="M348 138 Q368 158 386 192" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+  
+  <path d="M184 144 Q172 124 162 112 Q180 108 196 124 Q210 144 218 174 Z" fill="url(#calyx)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <path d="M188 168 L240 188 L288 168 L268 212 L308 232 L256 230 L226 246 L210 210 L180 200 Z" fill="url(#calyx)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <path d="M212 196 Q244 196 280 224 Q344 274 392 350 Q418 396 396 432 Q364 446 320 422 Q252 384 212 320 Q186 270 192 232 Q198 200 212 196 Z" fill="url(#pod)" stroke="#1a1a1a" stroke-width="1.6289" stroke-linejoin="round" />
+  
+  <path d="M232 224 Q280 256 332 304 Q372 348 388 392" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.85" />
+  <path d="M214 252 Q256 290 302 332 Q344 372 372 412" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.7" />
+  <path d="M204 288 Q240 322 280 358 Q318 392 348 426" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.55" />
+  
+  <circle cx="252" cy="288" r="5" fill="#2a4818" />
+  <circle cx="300" cy="324" r="5" fill="#2a4818" />
+  <path d="M270 320 Q284 332 296 322" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <ellipse cx="236" cy="312" rx="14" ry="8" fill="url(#blush)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="316" cy="346" rx="14" ry="8" fill="url(#blush)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M220 226 Q224 254 232 280" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.55" />
+</g>
+  </svg>

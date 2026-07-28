@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -50.000)">
+<defs>
+<radialGradient id="plate" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fffaf0" /><stop offset="55%" stop-color="#f5e8c0" /><stop offset="100%" stop-color="#d8c080" /></radialGradient>
+<radialGradient id="rice" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fff8d0" /><stop offset="55%" stop-color="#f0d060" /><stop offset="100%" stop-color="#c8a020" /></radialGradient>
+<radialGradient id="rice2" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fff0c0" /><stop offset="55%" stop-color="#e8b840" /><stop offset="100%" stop-color="#b88810" /></radialGradient>
+<radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#906010" stop-opacity="0" /><stop offset="72%" stop-color="#906010" stop-opacity="0" /><stop offset="100%" stop-color="#906010" stop-opacity="0.38" /></radialGradient>
+<radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+<radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+
+
+<clipPath id="cl"><ellipse cx="256" cy="300" rx="185" ry="120" /></clipPath>
+</defs>
+
+<ellipse cx="256" cy="300" rx="185" ry="120" fill="url(#plate)" stroke="#1a1a1a" stroke-width="2.0000" />
+<ellipse cx="256" cy="365" rx="185" ry="30" fill="#c8a030" stroke="#1a1a1a" stroke-width="2.5" />
+<ellipse cx="256" cy="260" rx="155" ry="75" fill="url(#rice)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="210" cy="245" rx="50" ry="30" fill="url(#rice2)" stroke="#1a1a1a" stroke-width="1.5" />
+<ellipse cx="300" cy="250" rx="45" ry="28" fill="url(#rice2)" stroke="#1a1a1a" stroke-width="1.5" />
+<ellipse cx="256" cy="235" rx="40" ry="24" fill="#ffe880" stroke="#1a1a1a" stroke-width="1.5" />
+<path d="M200,230 L202,218 L204,230" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M230,222 L232,210 L234,222" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M260,225 L262,213 L264,225" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M290,228 L292,216 L294,228" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+
+
+<path d="M240,285 Q256,278 272,285" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" />
+<g clip-path="url(#cl)">
+
+<ellipse cx="256" cy="300" rx="185" ry="120" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+</g>
+<ellipse cx="216" cy="420" rx="26" ry="16" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="296" cy="420" rx="26" ry="16" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="224" cy="403" rx="14" ry="18" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="288" cy="403" rx="14" ry="18" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="219" cy="397" rx="5" ry="6" fill="#ffffff" />
+<ellipse cx="283" cy="397" rx="5" ry="6" fill="#ffffff" />
+
+
+<path d="M242,428 C252,440 262,440 272,428" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" />
+</g>
+  </svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<rect x="90" y="130" width="150" height="260" rx="36" ry="36" fill="#70AFFF" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="104" y="158" width="122" height="194" rx="14" ry="14" fill="#B7B7B7" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="118" y="178" width="94" height="14" rx="7" ry="7" fill="#70FFBD" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="118" y="202" width="80" height="10" rx="5" ry="5" fill="#FFE787" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="118" y="220" width="90" height="10" rx="5" ry="5" fill="#FF70C1" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="118" y="238" width="70" height="10" rx="5" ry="5" fill="#708CFF" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="165" cy="372" r="8" fill="#B7B7B7" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<circle cx="148" cy="288" r="3" fill="#303F57" />
+<circle cx="182" cy="288" r="3" fill="#303F57" />
+<path d="M158 298 Q165 304 172 298" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+<circle cx="138" cy="296" r="4" fill="#FF709D" opacity="0.7" />
+<circle cx="192" cy="296" r="4" fill="#FF709D" opacity="0.7" />
+
+<g transform="rotate(10 256 256)">
+<rect x="186" y="110" width="160" height="276" rx="38" ry="38" fill="#FF70C1" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="202" y="140" width="128" height="206" rx="14" ry="14" fill="#B7B7B7" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="231" cy="180" r="14" fill="#FFE787" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="266" cy="180" r="14" fill="#70FFBD" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="301" cy="180" r="14" fill="#708CFF" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="231" cy="215" r="14" fill="#FF70C1" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="266" cy="215" r="14" fill="#FF8570" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="301" cy="215" r="14" fill="#70AFFF" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="231" cy="250" r="14" fill="#B470FF" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="266" cy="250" r="14" fill="#FFE787" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="301" cy="250" r="14" fill="#70FFBD" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="266" cy="370" r="8" fill="#B7B7B7" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="250" cy="300" r="3" fill="#303F57" />
+<circle cx="282" cy="300" r="3" fill="#303F57" />
+<path d="M258 309 Q266 314 274 309" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+</g>
+
+<g transform="rotate(-12 290 330)">
+<rect x="294" y="210" width="148" height="244" rx="36" ry="36" fill="#70FFBD" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="308" y="238" width="120" height="178" rx="14" ry="14" fill="#B7B7B7" stroke="#1a1a1a" stroke-width="2.0000" />
+<path d="M331 296 Q368 262 402 296 Q382 318 368 342 Q352 318 331 296 Z" fill="#FF709D" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="324" y="362" width="78" height="10" rx="5" ry="5" fill="#FFE787" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="324" y="380" width="58" height="10" rx="5" ry="5" fill="#708CFF" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="368" cy="434" r="8" fill="#B7B7B7" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="352" cy="354" r="3" fill="#303F57" />
+<circle cx="384" cy="354" r="3" fill="#303F57" />
+<path d="M360 362 Q368 367 376 362" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+</g>
+</svg>

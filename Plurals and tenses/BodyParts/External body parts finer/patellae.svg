@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,114.995) scale(0.7754)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g transform="translate(17.66 17.66) scale(0.931)">
+  
+  <rect x="24" y="24" width="464" height="464" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" rx="14" />
+  
+  <path d="M 222 56 L 290 56 L 294 200 C 294 220, 298 232, 316 240 L 196 240 C 214 232, 218 220, 218 200 Z" fill="#fff5d6" stroke="#1a1a1a" stroke-width="4.5" stroke-linejoin="round" />
+  <path d="M 164 134 L 218 178" stroke="#1a1a1a" stroke-width="2.5" fill="none" />
+  
+  <path d="M 222 360 L 290 360 L 294 466 L 218 466 Z" fill="#fff5d6" stroke="#1a1a1a" stroke-width="4.5" stroke-linejoin="round" />
+  <ellipse cx="256" cy="362" rx="46" ry="11" fill="#ffe082" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 114 420 L 218 432" stroke="#1a1a1a" stroke-width="2.5" fill="none" />
+  
+  <circle cx="256" cy="290" r="64" fill="#ffe082" stroke="#1a1a1a" stroke-width="2.1482" />
+  <circle cx="256" cy="290" r="50" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="240" cy="282" r="5" fill="#3a2a1a" />
+  <circle cx="272" cy="282" r="5" fill="#3a2a1a" />
+  <circle cx="238.5" cy="280.5" r="1.6" fill="#ffffff" />
+  <circle cx="270.5" cy="280.5" r="1.6" fill="#ffffff" />
+  <path d="M 246 302 Q 256 308 266 302" stroke="#1a1a1a" stroke-width="2.2" fill="none" stroke-linecap="round" />
+  
+  
+  
+  <path d="M 406 282 L 322 292" stroke="#1a1a1a" stroke-width="3.5" fill="none" />
+  <path d="M 336 284 L 322 292 L 336 300" stroke="#1a1a1a" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <path d="M 104 290 L 188 290" stroke="#1a1a1a" stroke-width="2.5" fill="none" />
+  <path d="M 178 282 L 188 290 L 178 298" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl630" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl630)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

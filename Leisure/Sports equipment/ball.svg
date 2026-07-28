@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-34.538 -34.538) scale(1.1360)">
+  <defs>
+    <radialGradient id="base" cx="40%" cy="32%" r="74%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="60%" stop-color="#f3f4f6" />
+      <stop offset="100%" stop-color="#d8dbe0" />
+    </radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#9aa0aa" stop-opacity="0" />
+      <stop offset="70%" stop-color="#9aa0aa" stop-opacity="0" />
+      <stop offset="100%" stop-color="#8a909c" stop-opacity="0.4" />
+    </radialGradient>
+    <linearGradient id="redP" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff7d72" /><stop offset="100%" stop-color="#e2261f" />
+    </linearGradient>
+    <linearGradient id="bluP" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#62b4ef" /><stop offset="100%" stop-color="#2f74c6" />
+    </linearGradient>
+    <linearGradient id="ylwP" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe06a" /><stop offset="100%" stop-color="#f2bd23" />
+    </linearGradient>
+    <radialGradient id="blush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f06f7a" stop-opacity="0.5" />
+      <stop offset="65%" stop-color="#f06f7a" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#f06f7a" stop-opacity="0" />
+    </radialGradient>
+    
+    
+    <clipPath id="ballClip"><circle cx="256" cy="256" r="170" /></clipPath>
+  </defs>
+
+<circle cx="256" cy="256" r="170" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.4" />
+  <circle cx="256" cy="256" r="170" fill="url(#base)" stroke="#1a1a1a" stroke-width="1.7606" />
+
+  <g clip-path="url(#ballClip)">
+    <path d="M256,86 C300,150 300,362 256,426 C312,420 360,392 392,348 C360,300 360,212 392,164 C360,120 312,92 256,86 Z" fill="url(#redP)" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M256,86 C212,150 212,362 256,426 C200,420 152,392 120,348 C152,300 152,212 120,164 C152,120 200,92 256,86 Z" fill="url(#bluP)" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M256,86 C236,150 236,362 256,426 C276,362 276,150 256,86 Z" fill="url(#ylwP)" stroke="#1a1a1a" stroke-width="2" />
+    
+    <circle cx="256" cy="256" r="170" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+    
+  </g>
+
+  <ellipse cx="200" cy="294" rx="32" ry="20" fill="url(#blush)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="312" cy="294" rx="32" ry="20" fill="url(#blush)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="224" cy="266" rx="11" ry="14" fill="#33241a" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="288" cy="266" rx="11" ry="14" fill="#33241a" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="220" cy="260" rx="4.5" ry="5" fill="#ffffff" />
+  <ellipse cx="284" cy="260" rx="4.5" ry="5" fill="#ffffff" />
+  <path d="M236,292 C246,302 266,302 276,292" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" />
+</g>
+  </svg>

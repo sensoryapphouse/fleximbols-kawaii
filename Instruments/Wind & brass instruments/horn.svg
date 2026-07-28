@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-7.750 -41.250)">
+<path d="M 80 280 Q 100 250 140 252 L 200 252 L 230 222 Q 232 256 230 320 L 200 290 L 140 290 Q 100 290 80 280 Z" fill="#ffd99b" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<path d="M 230 210 Q 320 188 380 232 Q 440 282 425 360 L 380 350 Q 392 290 350 252 Q 310 220 230 244 Z" fill="#ffd99b" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<ellipse cx="385" cy="345" rx="55" ry="48" fill="#ffd99b" stroke="#1a1a1a" stroke-width="2.0000" />
+<ellipse cx="385" cy="345" rx="38" ry="32" fill="#ffc785" stroke="#1a1a1a" stroke-width="2" />
+<rect x="155" y="248" width="22" height="46" rx="6" fill="#f0b870" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="170" cy="270" r="6" fill="#3a2a30" />
+<circle cx="210" cy="270" r="6" fill="#3a2a30" />
+<path d="M 180 290 Q 195 300 210 290" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+<circle cx="158" cy="285" r="7" fill="#f8a8b8" opacity="0.6" />
+<circle cx="222" cy="285" r="7" fill="#f8a8b8" opacity="0.6" />
+<path d="M 440 130 Q 450 110 460 110 M 460 150 Q 478 145 480 138 M 420 105 Q 422 85 430 80" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none" />
+<path d="M 460 105 L 470 95 M 475 130 L 488 125" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" fill="none" />
+<path d="M 175 250 Q 180 240 195 240" stroke="#1a1a1a" opacity="0.7" stroke-width="4" stroke-linecap="round" fill="none" />
+</g>
+  </svg>

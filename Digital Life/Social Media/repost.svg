@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-52.035 -52.035) scale(1.2044)">
+  <defs>
+    <radialGradient id="b" cx="42%" cy="32%" r="76%"><stop offset="0%" stop-color="#7fd0a0" /><stop offset="55%" stop-color="#3aa868" /><stop offset="100%" stop-color="#2a7a4a" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.4" /><stop offset="100%" stop-color="#ffffff" stop-opacity="0" /></radialGradient>
+    
+    
+  </defs>
+  <rect x="96" y="96" width="320" height="320" rx="68" fill="none" stroke="#1a1a1a" stroke-width="12" opacity="0.42" />
+  <rect x="96" y="96" width="320" height="320" rx="68" fill="url(#b)" stroke="#1a1a1a" stroke-width="1.6606" />
+  <path d="M158,210 H300 V182 L362,232 L300,282 V254 H158 Z" fill="#eafff2" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M354,300 H212 V272 L150,322 L212,372 V344 H354 Z" fill="#eafff2" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <ellipse cx="186" cy="356" rx="24" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="326" cy="356" rx="24" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="198" cy="342" r="7" fill="#eafff2" /><circle cx="314" cy="342" r="7" fill="#eafff2" />
+  <path d="M214,360 C226,370 286,370 298,360" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" />
+</g>
+  </svg>

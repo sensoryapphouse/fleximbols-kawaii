@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-144.687 -60.985) scale(1.2730)">
+<defs><radialGradient id="kbl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#ff8fab" /><stop offset="100%" stop-color="#ff8fab" stop-opacity="0" /></radialGradient></defs>
+<g fill="none" stroke-linecap="round">
+<path d="M150 180 A60 44 0 1 1 150 181" stroke="#1a1a1a" stroke-width="4.321" />
+<path d="M168 196 A60 44 0 1 1 168 197" stroke="#1a1a1a" stroke-width="4.321" />
+<path d="M188 214 A62 46 0 1 1 188 215" stroke="#1a1a1a" stroke-width="4.321" />
+<path d="M214 236 Q300 210 360 268" stroke="#1a1a1a" stroke-width="4.321" />
+<path d="M360 268 A60 44 0 1 1 360 269" stroke="#1a1a1a" stroke-width="4.321" />
+<path d="M360 268 A60 44 0 1 1 360 269" stroke="#1a1a1a" stroke-width="0.522" />
+<path d="M342 286 A60 44 0 1 1 342 287" stroke="#1a1a1a" stroke-width="4.321" />
+<path d="M326 304 A60 44 0 1 1 326 305" stroke="#1a1a1a" stroke-width="4.321" />
+<path d="M312 322 A60 44 0 1 1 312 323" stroke="#1a1a1a" stroke-width="4.321" />
+</g>
+<ellipse cx="332" cy="300" rx="15" ry="10" fill="url(#kbl)" stroke="#1a1a1a" stroke-width="0.522" />
+<ellipse cx="386" cy="300" rx="15" ry="10" fill="url(#kbl)" stroke="#1a1a1a" stroke-width="0.522" />
+<circle cx="350" cy="298" r="6" fill="#3f7080" />
+<circle cx="376" cy="298" r="6" fill="#3f7080" />
+<path d="M354 312 Q363 319 372 312" fill="none" stroke="#1a1a1a" stroke-width="1.662" stroke-linecap="round" />
+</g>
+  </svg>

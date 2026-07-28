@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,78.234) scale(0.8472)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-27.176 -52.434) scale(1.1226)">
+  
+  <path d="M115 100 L390 100 Q410 100 410 120 L410 430 Q410 450 390 450 L115 450 Q95 450 95 430 L95 120 Q95 100 115 100 Z" fill="#ffe6a8" stroke="#1a1a1a" stroke-width="1.7816" />
+  
+  <rect x="100" y="108" width="20" height="334" rx="6" fill="#ffd070" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="110" cy="140" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="110" cy="185" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="110" cy="230" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="110" cy="275" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="110" cy="320" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="110" cy="365" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="110" cy="410" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <rect x="135" y="118" width="265" height="320" rx="10" fill="#fffaeb" stroke="#1a1a1a" stroke-width="4" />
+  
+  <text x="268" y="158" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="24" font-weight="700" fill="#a8855a" text-anchor="middle">WORKBOOK</text>
+  
+  <text x="155" y="208" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="700" fill="#a8855a">1.</text>
+  <line x1="180" y1="208" x2="380" y2="208" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <text x="155" y="253" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="700" fill="#a8855a">2.</text>
+  <line x1="180" y1="253" x2="380" y2="253" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <text x="155" y="298" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="700" fill="#a8855a">3.</text>
+  <line x1="180" y1="298" x2="380" y2="298" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <text x="155" y="343" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="700" fill="#a8855a">4.</text>
+  <line x1="180" y1="343" x2="380" y2="343" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  
+  <g transform="rotate(18 310 400)">
+    <rect x="240" y="385" width="140" height="22" rx="6" fill="#ffd98a" stroke="#1a1a1a" stroke-width="4" />
+    <polygon points="380,385 408,396 380,407" fill="#ffe6b8" stroke="#1a1a1a" stroke-width="4" />
+    <polygon points="398,392 408,396 398,400" fill="#5a5a5a" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="225" y="385" width="20" height="22" rx="4" fill="#ffb3b3" stroke="#1a1a1a" stroke-width="4" />
+    <circle cx="290" cy="394" r="2" fill="#a8855a" />
+    <circle cx="302" cy="394" r="2" fill="#a8855a" />
+    <path d="M292 400 Q296 403 300 400" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" />
+  </g>
+</g>
+  </g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3017" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3017)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

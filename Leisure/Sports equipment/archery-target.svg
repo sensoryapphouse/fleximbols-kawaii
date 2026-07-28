@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 3.000)">
+  <defs>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    
+    
+    <clipPath id="cl"><circle cx="256" cy="230" r="168" /></clipPath>
+  </defs>
+  
+  <line x1="200" y1="390" x2="160" y2="480" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <line x1="312" y1="390" x2="352" y2="480" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  
+  <line x1="168" y1="456" x2="344" y2="456" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+  
+  <rect x="246" y="390" width="20" height="60" rx="6" fill="#a08060" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <circle cx="256" cy="230" r="168" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.4" />
+  
+  <circle cx="256" cy="230" r="168" fill="#f0f0f0" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="256" cy="230" r="134" fill="#2a2a2a" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="256" cy="230" r="101" fill="#2060c0" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="256" cy="230" r="68" fill="#e02020" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="256" cy="230" r="34" fill="#ffdf20" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  
+  
+  <g clip-path="url(#cl)">
+    <circle cx="256" cy="230" r="168" fill="none" stroke="#1a1a1a" stroke-width="40" opacity="0.18" />
+  </g>
+  
+  
+  <line x1="268" y1="100" x2="262" y2="222" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <polygon points="262,222 257,206 267,206" fill="#a0a8b0" stroke="#1a1a1a" stroke-width="1.5" />
+  <path d="M271,106 L265,96 L275,100" fill="#e05050" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M271,106 L263,112 L273,108" fill="#e05050" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="198" y1="110" x2="226" y2="196" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <polygon points="226,196 219,181 229,183" fill="#a0a8b0" stroke="#1a1a1a" stroke-width="1.5" />
+  <path d="M200,116 L194,105 L204,110" fill="#4060e0" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M200,116 L192,122 L202,118" fill="#4060e0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="244" cy="238" rx="11" ry="7" fill="url(#bl)" />
+  <ellipse cx="270" cy="238" rx="11" ry="7" fill="url(#bl)" />
+  <ellipse cx="248" cy="226" rx="7" ry="9" fill="url(#ey)" />
+  <ellipse cx="266" cy="226" rx="7" ry="9" fill="url(#ey)" />
+  <ellipse cx="246" cy="222" rx="2.5" ry="3" fill="#ffffff" />
+  <ellipse cx="264" cy="222" rx="2.5" ry="3" fill="#ffffff" />
+  <circle cx="249" cy="228" r="1.2" fill="#ffffff" />
+  <circle cx="267" cy="228" r="1.2" fill="#ffffff" />
+  <path d="M251,236 C255,242 261,242 265,236" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+</g>
+  </svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-9.750 -58.500)">
+  <title>bunnies</title>
+  
+  <ellipse cx="130" cy="380" rx="74" ry="52" fill="#fff5e6" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="130" cy="295" r="54" fill="#fff5e6" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="108" cy="220" rx="13" ry="46" fill="#fff5e6" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="108" cy="224" rx="5" ry="30" fill="#ffc8dd" />
+  <ellipse cx="152" cy="220" rx="13" ry="46" fill="#fff5e6" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="152" cy="224" rx="5" ry="30" fill="#ffc8dd" />
+  <circle cx="112" cy="295" r="5" fill="#3a2410" />
+  <circle cx="148" cy="295" r="5" fill="#3a2410" />
+  <path d="M 126 311 L 130 315 L 134 311 Z" fill="#ff8fab" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 130 315 Q 124 322 120 320 M 130 315 Q 136 322 140 320" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+  <circle cx="98" cy="310" r="7" fill="#ffafcc" opacity="0.8" />
+  <circle cx="162" cy="310" r="7" fill="#ffafcc" opacity="0.8" />
+  
+  <circle cx="200" cy="380" r="16" fill="#fff5e6" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="270" cy="400" rx="74" ry="48" fill="#ffd6a5" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="270" cy="322" r="50" fill="#ffd6a5" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="248" cy="252" rx="12" ry="42" fill="#ffd6a5" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="248" cy="256" rx="5" ry="28" fill="#ffc8dd" />
+  <ellipse cx="292" cy="252" rx="12" ry="42" fill="#ffd6a5" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="292" cy="256" rx="5" ry="28" fill="#ffc8dd" />
+  <circle cx="254" cy="320" r="5" fill="#3a2410" />
+  <circle cx="286" cy="320" r="5" fill="#3a2410" />
+  <path d="M 266 336 L 270 340 L 274 336 Z" fill="#ff8fab" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 270 340 Q 264 347 260 345 M 270 340 Q 276 347 280 345" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+  <circle cx="240" cy="335" r="7" fill="#ff8fab" opacity="0.8" />
+  <circle cx="300" cy="335" r="7" fill="#ff8fab" opacity="0.8" />
+  
+  <ellipse cx="408" cy="390" rx="68" ry="48" fill="#cdb4db" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="408" cy="312" r="48" fill="#cdb4db" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="388" cy="244" rx="11" ry="40" fill="#cdb4db" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="388" cy="248" rx="5" ry="26" fill="#ffc8dd" />
+  <ellipse cx="428" cy="244" rx="11" ry="40" fill="#cdb4db" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="428" cy="248" rx="5" ry="26" fill="#ffc8dd" />
+  <circle cx="392" cy="310" r="5" fill="#3a2545" />
+  <circle cx="424" cy="310" r="5" fill="#3a2545" />
+  <path d="M 404 326 L 408 330 L 412 326 Z" fill="#ff8fab" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 408 330 Q 402 337 398 335 M 408 330 Q 414 337 418 335" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+  <circle cx="380" cy="324" r="7" fill="#ffafcc" opacity="0.8" />
+  <circle cx="436" cy="324" r="7" fill="#ffafcc" opacity="0.8" />
+  
+  <path d="M 50 460 Q 44 452 54 450 Q 64 452 58 460 Q 60 466 54 470 Q 48 466 50 460 Z" fill="#caffbf" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 470 470 Q 464 462 474 460 Q 484 462 478 470 Q 480 476 474 480 Q 468 476 470 470 Z" fill="#a0c4ff" stroke="#1a1a1a" stroke-width="2" />
+</g>
+  </svg>

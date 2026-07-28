@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-23.750 7.500)">
+  
+  <path d="M 78 208 Q 78 200 86 200 L 434 200 Q 442 200 442 208 L 442 376 Q 442 384 434 384 L 86 384 Q 78 384 78 376 Z" fill="#a8c4e8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 78 200 L 118 164 Q 122 160 130 160 L 478 160 Q 482 160 482 164 L 442 200 Z" fill="#c4dcf0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 442 200 L 482 164 L 482 340 Q 482 344 478 348 L 442 384 Z" fill="#8aa8d0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="116" y="246" width="278" height="100" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="252" y="298" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#7a9ad6">FOIL</text>
+  <text x="252" y="324" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" text-anchor="middle" fill="#a8c4e8">aluminium</text>
+  
+  <path d="M 96 200 Q 116 156 162 130 Q 220 102 286 122 Q 342 138 372 110 L 386 124 Q 354 156 286 138 Q 220 120 170 150 Q 124 178 116 218 Z" fill="#dcdce4" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 130 184 Q 160 156 200 150" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M 230 124 Q 270 116 310 126" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <circle cx="156" cy="296" r="5" fill="#3a4a6a" />
+  <circle cx="354" cy="296" r="5" fill="#3a4a6a" />
+  <circle cx="158" cy="294" r="2" fill="#ffffff" />
+  <circle cx="356" cy="294" r="2" fill="#ffffff" />
+  <circle cx="140" cy="312" r="7" fill="#ffb6c1" opacity="0.7" />
+  <circle cx="370" cy="312" r="7" fill="#ffb6c1" opacity="0.7" />
+</g>
+  </svg>

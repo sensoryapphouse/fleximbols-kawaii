@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,29.491) scale(0.9424)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-100.124 -168.726) scale(1.3451)">
+  <defs>
+    <radialGradient id="gtofu" cx="40%" cy="32%" r="78%">
+      <stop offset="0%" stop-color="#f8d090" />
+      <stop offset="55%" stop-color="#e8a456" />
+      <stop offset="100%" stop-color="#b87024" />
+    </radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#8a4810" stop-opacity="0" />
+      <stop offset="72%" stop-color="#8a4810" stop-opacity="0" />
+      <stop offset="100%" stop-color="#8a4810" stop-opacity="0.35" />
+    </radialGradient>
+    <radialGradient id="grice" cx="40%" cy="32%" r="78%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f0e4cc" />
+    </radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5878f" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#f5878f" stop-opacity="0" />
+    </radialGradient>
+    <clipPath id="cl1">
+      <path d="M120 350 Q108 250 150 230 Q180 220 220 224 Q240 230 240 250 L240 380 Q240 408 200 412 Q140 412 120 350 Z" />
+    </clipPath>
+    <clipPath id="cl2">
+      <path d="M240 250 Q260 224 300 220 L350 220 Q380 224 396 254 Q420 290 410 340 Q400 388 350 408 Q300 416 256 408 Q240 400 240 380 Z" />
+    </clipPath>
+  </defs>
+  <path d="M120 350 Q108 250 150 230 Q180 220 220 224 Q240 230 240 250 L240 380 Q240 408 200 412 Q140 412 120 350 Z" fill="url(#gtofu)" stroke="#1a1a1a" stroke-width="1.4869" stroke-linejoin="round" />
+  <path d="M150 230 Q176 218 200 220 Q220 224 232 240" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.75" />
+  <path d="M168 220 Q170 240 178 252" fill="none" stroke="#1a1a1a" stroke-width="1.4869" stroke-linecap="round" opacity="0.75" />
+  <path d="M196 216 Q200 240 210 252" fill="none" stroke="#1a1a1a" stroke-width="1.4869" stroke-linecap="round" opacity="0.75" />
+  <path d="M222 222 Q224 240 232 250" fill="none" stroke="#1a1a1a" stroke-width="1.4869" stroke-linecap="round" opacity="0.75" />
+  <path d="M156 248 Q176 246 196 248 Q218 252 232 246" fill="url(#grice)" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="170" cy="248" r="3" fill="#ffffff" />
+  <circle cx="186" cy="250" r="3" fill="#ffffff" />
+  <circle cx="208" cy="250" r="3" fill="#ffffff" />
+  <g clip-path="url(#cl1)">
+    
+    <path d="M120 350 Q108 250 150 230 Q180 220 220 224 Q240 230 240 250 L240 380 Q240 408 200 412 Q140 412 120 350 Z" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <path d="M240 250 Q260 224 300 220 L350 220 Q380 224 396 254 Q420 290 410 340 Q400 388 350 408 Q300 416 256 408 Q240 400 240 380 Z" fill="url(#gtofu)" stroke="#1a1a1a" stroke-width="1.4869" stroke-linejoin="round" />
+  <path d="M270 230 Q298 218 326 220 Q358 224 374 240" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.75" />
+  <path d="M290 220 Q290 240 298 252" fill="none" stroke="#1a1a1a" stroke-width="1.4869" stroke-linecap="round" opacity="0.75" />
+  <path d="M322 216 Q324 240 332 252" fill="none" stroke="#1a1a1a" stroke-width="1.4869" stroke-linecap="round" opacity="0.75" />
+  <path d="M354 220 Q356 240 364 252" fill="none" stroke="#1a1a1a" stroke-width="1.4869" stroke-linecap="round" opacity="0.75" />
+  <ellipse cx="320" cy="252" rx="40" ry="9" fill="url(#grice)" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="304" cy="250" r="3" fill="#ffffff" />
+  <circle cx="316" cy="252" r="3" fill="#ffffff" />
+  <circle cx="328" cy="250" r="3" fill="#ffffff" />
+  <circle cx="340" cy="252" r="3" fill="#ffffff" />
+  <g clip-path="url(#cl2)">
+    
+    <path d="M240 250 Q260 224 300 220 L350 220 Q380 224 396 254 Q420 290 410 340 Q400 388 350 408 Q300 416 256 408 Q240 400 240 380 Z" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <ellipse cx="280" cy="350" rx="22" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="356" cy="350" rx="22" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="286" cy="328" rx="11" ry="14" fill="#3a2418" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="352" cy="328" rx="11" ry="14" fill="#3a2418" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="282" cy="322" rx="4" ry="5" fill="#ffffff" />
+  <ellipse cx="348" cy="322" rx="4" ry="5" fill="#ffffff" />
+  <circle cx="288" cy="332" r="1.8" fill="#ffffff" />
+  <circle cx="354" cy="332" r="1.8" fill="#ffffff" />
+  <path d="M306 354 C314 364 332 364 340 354" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  </g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1594" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1594)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

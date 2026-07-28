@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="40" y="100" width="432" height="280" rx="36" fill="#fff4e8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M40 136 Q40 100 76 100 L436 100 Q472 100 472 136 L472 165 L40 165 Z" fill="#a8d4ea" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="60" y="140" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" fill="#5a3a4a" font-weight="700">LICENSE</text>
+  
+  <circle cx="440" cy="130" r="18" fill="#ffd9b8" stroke="#1a1a1a" stroke-width="3" />
+  <text x="440" y="138" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" fill="#5a3a4a" text-anchor="middle" font-weight="700">1</text>
+  
+  <rect x="65" y="185" width="130" height="160" rx="20" fill="#ffe0c8" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="130" cy="230" r="32" fill="#fde0c8" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M100 222 Q102 195 130 195 Q158 195 160 222 Q148 208 130 208 Q112 208 100 222 Z" fill="#c47438" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="120" cy="232" rx="3" ry="5" fill="#5a3a4a" />
+  <ellipse cx="140" cy="232" rx="3" ry="5" fill="#5a3a4a" />
+  
+  <circle cx="112" cy="244" r="5" fill="#ffb8c8" opacity="0.8" />
+  <circle cx="148" cy="244" r="5" fill="#ffb8c8" opacity="0.8" />
+  
+  <path d="M122 248 Q130 254 138 248" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <path d="M98 290 Q98 268 130 268 Q162 268 162 290 L162 340 L98 340 Z" fill="#ffb8d4" stroke="#1a1a1a" stroke-width="3" />
+  
+  <text x="215" y="200" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" fill="#5a3a4a" font-weight="700">NAME</text>
+  <rect x="215" y="208" width="235" height="22" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="225" y1="220" x2="350" y2="220" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <text x="215" y="250" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" fill="#5a3a4a" font-weight="700">DOB</text>
+  <rect x="215" y="258" width="235" height="22" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="225" y1="270" x2="320" y2="270" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <text x="215" y="300" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" fill="#5a3a4a" font-weight="700">CLASS</text>
+  <rect x="215" y="308" width="235" height="22" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <text x="280" y="324" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" fill="#5a3a4a" font-weight="700">C</text>
+  
+  <path d="M225 355 C220 350 220 343 225 345 C228 341 233 345 225 355 Z" fill="#ffb8d4" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M450 355 C445 350 445 343 450 345 C453 341 458 345 450 355 Z" fill="#c8b8e4" stroke="#1a1a1a" stroke-width="2" />
+</svg>

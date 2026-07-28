@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-5.500 0.500)">
+  
+  <path d="M 286 256 Q 290 250 286 244 L 210 168 Q 200 158 200 172 L 200 212 Q 200 220 192 220 L 68 220 Q 60 220 60 228 L 60 284 Q 60 292 68 292 L 192 292 Q 200 292 200 300 L 200 340 Q 200 354 210 344 Z" fill="#a8c4f0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M 468 256 Q 472 252 468 248 L 398 178 Q 388 168 388 180 L 388 220 Q 388 226 382 226 L 290 226 Q 282 226 282 234 L 282 278 Q 282 286 290 286 L 382 286 Q 388 286 388 292 L 388 334 Q 388 346 398 336 Z" fill="#f5c4dc" opacity="0.85" />
+  
+  <path d="M 460 178 L 488 178" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <path d="M 470 220 L 498 220" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <path d="M 470 292 L 498 292" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <path d="M 460 334 L 488 334" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  
+  <circle cx="120" cy="246" r="6" fill="#3a4a6a" />
+  <circle cx="160" cy="246" r="6" fill="#3a4a6a" />
+  <circle cx="122" cy="244" r="2" fill="#ffffff" />
+  <circle cx="162" cy="244" r="2" fill="#ffffff" />
+  <path d="M 130 264 Q 140 272 150 264" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <circle cx="100" cy="262" r="8" fill="#ffb6c1" opacity="0.7" />
+  <circle cx="180" cy="262" r="8" fill="#ffb6c1" opacity="0.7" />
+</g>
+  </svg>

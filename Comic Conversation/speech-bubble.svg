@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-47.229 -5.732) scale(1.1856)">
+  
+  <path d="M90 120 Q90 90 120 90 L392 90 Q422 90 422 120 L422 290 Q422 320 392 320 L260 320 L220 380 L230 320 L120 320 Q90 320 90 290 Z" fill="#fff5f5" stroke="#1a1a1a" stroke-width="1.6869" stroke-linejoin="round" />
+  
+  <defs>
+    <radialGradient id="sb-blush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff9eb5" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#ff9eb5" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <circle cx="180" cy="220" r="14" fill="url(#sb-blush)" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="332" cy="220" r="14" fill="url(#sb-blush)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M168 205 Q180 198 192 205" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M320 205 Q332 198 344 205" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M236 240 Q256 264 276 240" fill="none" stroke="#1a1a1a" stroke-width="1.6869" stroke-linecap="round" />
+  
+  <path d="M246 250 Q256 258 266 250 Q256 252 246 250 Z" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M140 140 L142 146 L148 148 L142 150 L140 156 L138 150 L132 148 L138 146 Z" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M370 140 L372 146 L378 148 L372 150 L370 156 L368 150 L362 148 L368 146 Z" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2" />
+</g>
+  </svg>

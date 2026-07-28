@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>shredder</title>
+  <g fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="200" y="60" width="112" height="135" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+    <path d="M218 90 L295 90 M218 110 L295 110 M218 130 L278 130 M218 150 L290 150 M218 170 L295 170" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M110 200 Q100 200 100 210 L100 270 Q100 280 110 280 L402 280 Q412 280 412 270 L412 210 Q412 200 402 200 Z" fill="#c8b8d8" />
+    <rect x="120" y="248" width="272" height="14" rx="4" fill="#5a4a6a" />
+    <circle cx="380" cy="225" r="8" fill="#c8e8b0" stroke="#1a1a1a" stroke-width="2" />
+    <circle cx="356" cy="225" r="8" fill="#ffb8a8" stroke="#1a1a1a" stroke-width="2" />
+    <g fill="#1a1a1a" stroke="none">
+      <circle cx="200" cy="232" r="3" />
+      <circle cx="220" cy="232" r="3" />
+    </g>
+    <path d="M203 242 Q210 246 217 242" stroke="#1a1a1a" stroke-width="2" fill="none" />
+    <circle cx="188" cy="240" r="6" fill="#ffb8c8" opacity="0.7" stroke="none" />
+    <circle cx="232" cy="240" r="6" fill="#ffb8c8" opacity="0.7" stroke="none" />
+    <path d="M125 280 Q120 280 120 290 L120 442 Q120 452 130 452 L382 452 Q392 452 392 442 L392 290 Q392 280 388 280 Z" fill="#d8c8e8" />
+    <g stroke="#1a1a1a" stroke-width="2">
+      <path d="M150 290 Q148 340 154 360 L160 358 Q165 335 158 290 Z" fill="#fff0a8" />
+      <path d="M180 290 Q179 350 187 385 L194 382 Q198 355 188 290 Z" fill="#ffffff" />
+      <path d="M218 290 Q217 330 223 350 L229 347 Q232 325 226 290 Z" fill="#ffd4dc" />
+      <path d="M255 290 Q254 360 264 395 L270 392 Q274 360 263 290 Z" fill="#ffffff" />
+      <path d="M295 290 Q294 340 300 360 L306 358 Q310 335 303 290 Z" fill="#c8e8b0" />
+      <path d="M330 290 Q329 350 337 385 L344 382 Q348 355 338 290 Z" fill="#ffffff" />
+      <path d="M362 290 Q361 330 367 350 L373 347 Q376 325 370 290 Z" fill="#b8d8f0" />
+    </g>
+  </g>
+</svg>

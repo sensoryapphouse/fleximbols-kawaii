@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+
+<rect x="50" y="76" width="10" height="392" rx="4" fill="#d8b894" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="55" cy="76" r="12" fill="#ffe2a0" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<path d="M 60 134 Q 160 116 260 134 Q 360 152 436 134 L 436 346 Q 360 364 260 346 Q 160 328 60 346 Z" fill="#fafafa" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<path d="M 60 240 Q 160 222 260 240 Q 360 258 436 240 L 436 346 Q 360 364 260 346 Q 160 328 60 346 Z" fill="#ff8e9e" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<path d="M 60 134 L 250 240 L 60 346 Z" fill="#a8c4ec" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<circle cx="122" cy="228" r="3" fill="#3a2a22" />
+<circle cx="148" cy="228" r="3" fill="#3a2a22" />
+<path d="M 126 240 Q 134 246 144 240" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+<circle cx="108" cy="240" r="5" fill="#ffd2dc" />
+<circle cx="160" cy="240" r="5" fill="#ffd2dc" />
+
+<path d="M 90 398 L 422 398 Q 436 398 444 412 L 432 426 Q 436 440 422 440 L 90 440 Q 76 440 80 426 L 68 412 Q 76 398 90 398 Z" fill="#fff3a0" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<text x="256" y="428" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" font-size="22" fill="#7a5a30">1918 - 1992</text>
+
+<path d="M 388 168 L 388 184 M 380 176 L 396 176" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+<path d="M 396 300 L 396 314 M 388 308 L 404 308" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+</svg>

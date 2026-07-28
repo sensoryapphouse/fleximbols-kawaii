@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="qg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5aa9f0" />
+      <stop offset="100%" stop-color="#2f74c0" />
+    </linearGradient>
+  </defs>
+  <!-- opening quotation mark -->
+  <g stroke="#1a1a1a" stroke-width="12" stroke-linejoin="round">
+    <path d="M150,150 C108,162 88,200 88,250 C88,300 116,332 156,332 C190,332 214,308 214,274 C214,242 190,220 160,220 C152,220 144,222 138,226 C146,196 168,176 196,168 Z" fill="url(#qg)" />
+    <path d="M322,150 C280,162 260,200 260,250 C260,300 288,332 328,332 C362,332 386,308 386,274 C386,242 362,220 332,220 C324,220 316,222 310,226 C318,196 340,176 368,168 Z" fill="url(#qg)" />
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="pot" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#e8a872" />
+<stop offset="100%" stop-color="#8a4a20" />
+</linearGradient>
+<linearGradient id="hny" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#ffd866" />
+<stop offset="100%" stop-color="#d68a18" />
+</linearGradient>
+</defs>
+<g transform="translate(-26.12 -57.53) scale(1.102)">
+<g stroke="#1a1a1a" stroke-width="1.8149" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M150 220 L362 220 L342 410 Q256 430 170 410 Z" fill="url(#pot)" />
+<ellipse cx="256" cy="220" rx="106" ry="22" fill="#a8662e" />
+<path d="M170 250 L342 250" stroke-width="6" />
+<path d="M170 280 L342 280" stroke-width="6" />
+<path d="M170 310 L342 310" stroke-width="6" />
+<path d="M200 230 Q200 280 215 320 Q225 350 215 380 Q200 400 200 430" fill="url(#hny)" />
+<path d="M300 232 Q300 270 290 300 Q283 330 295 360 Q305 380 305 410" fill="url(#hny)" />
+<circle cx="200" cy="440" r="14" fill="url(#hny)" />
+<circle cx="305" cy="420" r="11" fill="url(#hny)" />
+<g stroke-width="6">
+<ellipse cx="100" cy="150" rx="14" ry="10" fill="#fff4a8" />
+<line x1="86" y1="150" x2="74" y2="142" />
+<line x1="86" y1="150" x2="74" y2="158" />
+<line x1="114" y1="150" x2="126" y2="142" />
+<line x1="114" y1="150" x2="126" y2="158" />
+<path d="M70 150 Q60 130 65 115" fill="none" stroke-dasharray="4 6" stroke-width="3" />
+<ellipse cx="420" cy="180" rx="12" ry="9" fill="#fff4a8" />
+<line x1="408" y1="180" x2="398" y2="174" />
+<line x1="408" y1="180" x2="398" y2="186" />
+<line x1="432" y1="180" x2="442" y2="174" />
+<line x1="432" y1="180" x2="442" y2="186" />
+<path d="M442 180 Q452 160 448 145" fill="none" stroke-dasharray="4 6" stroke-width="3" />
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-72.883 -137.824) scale(1.2860)">
+  <defs>
+    <radialGradient id="sblush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff8aa6" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#ff8aa6" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <path d="M 155 245 L 175 440 Q 177 460 200 460 L 312 460 Q 335 460 337 440 L 357 245 Z" fill="#d0e8ff" fill-opacity="0.6" stroke="#1a1a1a" stroke-width="1.5552" />
+  <ellipse cx="256" cy="245" rx="101" ry="20" fill="#e6f2ff" stroke="#1a1a1a" stroke-width="1.5552" />
+  
+  <line x1="185" y1="290" x2="198" y2="420" stroke="#1a1a1a" stroke-width="1.5552" stroke-opacity="0.9" />
+  
+  <circle cx="256" cy="225" r="72" fill="#ffc4d4" fill-opacity="0.92" stroke="#1a1a1a" stroke-width="1.5552" />
+  
+  <circle cx="230" cy="220" r="6" fill="#2b2622" />
+  <circle cx="282" cy="220" r="6" fill="#2b2622" />
+  <circle cx="228" cy="218" r="2" fill="#ffffff" />
+  <circle cx="280" cy="218" r="2" fill="#ffffff" />
+  <path d="M 250 240 Q 256 247 262 240" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <circle cx="210" cy="232" r="10" fill="url(#sblush)" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="302" cy="232" r="10" fill="url(#sblush)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M 225 185 L 230 180 M 222 182 L 228 188" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M 285 195 L 290 190 M 282 192 L 288 198" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+</g>
+  </svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="52.36 57.48 407.27 407.27" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_f7e98a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f9f0ad"/><stop offset="0.45" stop-color="#f7e98a"/><stop offset="1" stop-color="#c6ba6e"/></radialGradient><radialGradient id="s3d_cfd6dc" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#dde2e6"/><stop offset="0.45" stop-color="#cfd6dc"/><stop offset="1" stop-color="#a6abb0"/></radialGradient><radialGradient id="s3d_9aa0a7" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b8bcc1"/><stop offset="0.45" stop-color="#9aa0a7"/><stop offset="1" stop-color="#7b8086"/></radialGradient><radialGradient id="s3d_7e858d" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#a5aaaf"/><stop offset="0.45" stop-color="#7e858d"/><stop offset="1" stop-color="#656a71"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- green arrow pointing at the dim, cracked, dead bulb (the 'not clever' / silly one) -->
+<line x1="364" y1="150" x2="364" y2="218" stroke="#1a1a1a" stroke-width="25.0" stroke-linecap="round"/><line x1="364" y1="218" x2="334" y2="182" stroke="#1a1a1a" stroke-width="25.0" stroke-linecap="round"/><line x1="364" y1="218" x2="394" y2="182" stroke="#1a1a1a" stroke-width="25.0" stroke-linecap="round"/><line x1="364" y1="150" x2="364" y2="218" stroke="#2f9e4a" stroke-width="19.5" stroke-linecap="round"/>
+<line x1="364" y1="218" x2="334" y2="182" stroke="#2f9e4a" stroke-width="19.5" stroke-linecap="round"/>
+<line x1="364" y1="218" x2="394" y2="182" stroke="#2f9e4a" stroke-width="19.5" stroke-linecap="round"/>
+<!-- bright clever bulb (faded reference, the smart one) -->
+<g opacity="0.34">
+<circle cx="148" cy="300" r="66" fill="url(#s3d_f7e98a)" data-flat="#f7e98a" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 118 348 L 178 348 L 178 366 Q 148 380 118 366 Z" fill="url(#s3d_cfd6dc)" data-flat="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="124" y1="378" x2="172" y2="378" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+</g>
+<!-- dim, dark, cracked bulb = stupid / not switched on -->
+<circle cx="364" cy="300" r="66" fill="url(#s3d_9aa0a7)" data-flat="#9aa0a7" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 334 348 L 394 348 L 394 366 Q 364 380 334 366 Z" fill="url(#s3d_7e858d)" data-flat="#7e858d" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="340" y1="378" x2="388" y2="378" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- crack -->
+<path d="M 344 268 L 360 296 L 346 312 L 368 336" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

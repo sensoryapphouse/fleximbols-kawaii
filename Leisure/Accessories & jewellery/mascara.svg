@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+
+<g transform="rotate(-12 180 320)">
+<rect x="125" y="200" width="110" height="50" rx="14" fill="#d4b6ff" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="130" y="246" width="100" height="200" rx="14" fill="#ffb3c6" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<line x1="135" y1="214" x2="225" y2="214" stroke="#1a1a1a" stroke-width="2" />
+<line x1="135" y1="226" x2="225" y2="226" stroke="#1a1a1a" stroke-width="2" />
+<line x1="135" y1="238" x2="225" y2="238" stroke="#1a1a1a" stroke-width="2" />
+
+<rect x="148" y="290" width="64" height="80" rx="12" fill="#fff2bf" stroke="#1a1a1a" stroke-width="3" />
+
+<circle cx="165" cy="320" r="4" fill="#3a2a1a" />
+<circle cx="195" cy="320" r="4" fill="#3a2a1a" />
+<path d="M173 335 Q180 340 187 335" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+<circle cx="155" cy="335" r="6" fill="#ffb3c6" opacity="0.8" />
+<circle cx="205" cy="335" r="6" fill="#ffb3c6" opacity="0.8" />
+
+<rect x="145" y="255" width="10" height="180" rx="5" fill="#ffffff" opacity="0.5" />
+</g>
+
+<g transform="rotate(18 360 230)">
+<rect x="305" y="50" width="110" height="110" rx="22" fill="#d4b6ff" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<circle cx="345" cy="100" r="4" fill="#3a2a1a" />
+<circle cx="375" cy="100" r="4" fill="#3a2a1a" />
+<path d="M353 115 Q360 120 367 115" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+<circle cx="335" cy="115" r="6" fill="#ffb3c6" opacity="0.8" />
+<circle cx="385" cy="115" r="6" fill="#ffb3c6" opacity="0.8" />
+
+<rect x="355" y="160" width="12" height="100" rx="4" fill="#9b81c4" stroke="#1a1a1a" stroke-width="3" />
+
+<ellipse cx="361" cy="330" rx="30" ry="78" fill="#3a2a1a" stroke="#1a1a1a" stroke-width="3" />
+<g stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round">
+<line x1="331" y1="270" x2="312" y2="262" />
+<line x1="331" y1="290" x2="308" y2="288" />
+<line x1="331" y1="310" x2="308" y2="312" />
+<line x1="331" y1="330" x2="306" y2="332" />
+<line x1="331" y1="350" x2="308" y2="354" />
+<line x1="331" y1="370" x2="312" y2="378" />
+<line x1="331" y1="388" x2="318" y2="400" />
+<line x1="391" y1="270" x2="410" y2="262" />
+<line x1="391" y1="290" x2="414" y2="288" />
+<line x1="391" y1="310" x2="414" y2="312" />
+<line x1="391" y1="330" x2="416" y2="332" />
+<line x1="391" y1="350" x2="414" y2="354" />
+<line x1="391" y1="370" x2="410" y2="378" />
+<line x1="391" y1="388" x2="404" y2="400" />
+</g>
+</g>
+
+<ellipse cx="395" cy="105" rx="55" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+<ellipse cx="395" cy="105" rx="20" ry="22" fill="#ffb3c6" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="395" cy="105" r="10" fill="#3a2a1a" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="389" cy="100" r="4" fill="#ffffff" />
+<circle cx="402" cy="112" r="2" fill="#ffffff" />
+<g stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round">
+<line x1="350" y1="83" x2="343" y2="60" />
+<line x1="365" y1="79" x2="362" y2="55" />
+<line x1="380" y1="76" x2="380" y2="52" />
+<line x1="395" y1="75" x2="397" y2="51" />
+<line x1="410" y1="76" x2="415" y2="53" />
+<line x1="425" y1="80" x2="434" y2="60" />
+<line x1="440" y1="86" x2="450" y2="70" />
+</g>
+
+<g fill="#fff2bf" stroke="#1a1a1a" stroke-width="2">
+<path d="M70 280 L73 290 L83 292 L73 294 L70 304 L67 294 L57 292 L67 290 Z" />
+<path d="M450 410 L453 420 L463 422 L453 424 L450 434 L447 424 L437 422 L447 420 Z" />
+</g>
+</svg>

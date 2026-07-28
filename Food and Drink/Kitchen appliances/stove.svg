@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.000 -22.000)">
+  
+  
+  <rect x="50" y="60" width="412" height="84" rx="14" fill="#f7e1c8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <circle cx="110" cy="102" r="20" fill="#f7c8d5" stroke="#1a1a1a" stroke-width="2.0000" />
+  <line x1="110" y1="88" x2="110" y2="102" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <circle cx="190" cy="102" r="20" fill="#a8d8ea" stroke="#1a1a1a" stroke-width="2.0000" />
+  <line x1="190" y1="102" x2="202" y2="94" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <circle cx="322" cy="102" r="20" fill="#b5e5d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <line x1="322" y1="102" x2="334" y2="110" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <circle cx="402" cy="102" r="20" fill="#ffd9a8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <line x1="402" y1="102" x2="402" y2="116" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  
+  <rect x="232" y="82" width="60" height="40" rx="8" fill="#cfe8ff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="262" y="110" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="800" fill="#3a6072" text-anchor="middle">350</text>
+  
+  <rect x="40" y="144" width="432" height="166" rx="16" fill="#fffaf2" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <circle cx="140" cy="202" r="40" fill="#f7c8d5" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="140" cy="202" r="26" fill="#fce4ec" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="372" cy="202" r="40" fill="#ffb3b3" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="372" cy="202" r="26" fill="#ffd9a8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="140" cy="280" r="40" fill="#a8d8ea" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="140" cy="280" r="26" fill="#cfe8ff" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="372" cy="280" r="40" fill="#b5e5d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="372" cy="280" r="26" fill="#e0f2ec" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M360 198 Q370 172 372 196 Q386 172 384 200 Q388 186 392 198 Q372 210 360 198 Z" fill="#ffd54a" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="40" y="310" width="432" height="170" rx="16" fill="#f7e1c8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="80" y="346" width="352" height="100" rx="14" fill="#cfe8ff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <circle cx="220" cy="386" r="9" fill="#3a2a1a" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="292" cy="386" r="9" fill="#3a2a1a" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="217" cy="383" r="3" fill="#ffffff" />
+  <circle cx="289" cy="383" r="3" fill="#ffffff" />
+  <circle cx="196" cy="406" r="9" fill="#ffb6c1" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="316" cy="406" r="9" fill="#ffb6c1" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M242 410 Q256 422 270 410" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  
+  <rect x="90" y="322" width="332" height="14" rx="7" fill="#f7c8d5" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="60" y="478" width="20" height="20" rx="6" fill="#cf9d70" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="432" y="478" width="20" height="20" rx="6" fill="#cf9d70" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="22" cy="200" r="4" fill="#ffd54a" />
+  <circle cx="492" cy="200" r="4" fill="#ffd54a" />
+</g>
+  </svg>

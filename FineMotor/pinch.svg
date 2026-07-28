@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-102.616 -190.605) scale(1.4022)">
+  <defs>
+    <radialGradient id="pic" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb0c0" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#ffb0c0" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <path d="M152 325 L152 440 Q152 460 172 460 L340 460 Q360 460 360 440 L360 315 Q360 295 340 295 L260 290 Q250 275 254 255 L270 210 Q277 185 257 178 Q238 172 228 188 L200 245 Q180 270 170 278 Q152 290 152 325 Z" fill="#ffe66d" stroke="#1a1a1a" stroke-width="1.4263" stroke-linejoin="round" />
+  <path d="M254 255 Q262 228 282 224 Q302 222 304 242 Q306 256 290 263 Q272 268 260 263" fill="#ffe66d" stroke="#1a1a1a" stroke-width="1.4263" stroke-linejoin="round" />
+  <circle cx="282" cy="250" r="5" fill="#ffe66d" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="232" cy="375" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="290" cy="375" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="229" cy="372" r="3" fill="#ffffff" />
+  <circle cx="287" cy="372" r="3" fill="#ffffff" />
+  <circle cx="210" cy="400" r="14" fill="url(#pic)" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="310" cy="400" r="14" fill="url(#pic)" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M252 400 Q261 408 270 400" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round" />
+</g>
+  </svg>

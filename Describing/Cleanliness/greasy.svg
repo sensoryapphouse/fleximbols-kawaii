@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12.49 -42.12 531.39 531.39"><defs><radialGradient id="s3d_4a4f55" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#808488"/><stop offset="0.45" stop-color="#4a4f55"/><stop offset="1" stop-color="#3b3f44"/></radialGradient><radialGradient id="s3d_33373d" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#707377"/><stop offset="0.45" stop-color="#33373d"/><stop offset="1" stop-color="#292c31"/></radialGradient><radialGradient id="s3d_d8b24a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e4c980"/><stop offset="0.45" stop-color="#d8b24a"/><stop offset="1" stop-color="#ad8e3b"/></radialGradient><radialGradient id="s3d_e6c766" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eed894"/><stop offset="0.45" stop-color="#e6c766"/><stop offset="1" stop-color="#b89f52"/></radialGradient><radialGradient id="s3d_9aa0a6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b8bcc1"/><stop offset="0.45" stop-color="#9aa0a6"/><stop offset="1" stop-color="#7b8085"/></radialGradient><radialGradient id="s3d_c3c9cf" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#d5d9dd"/><stop offset="0.45" stop-color="#c3c9cf"/><stop offset="1" stop-color="#9ca1a6"/></radialGradient></defs><g data-fit="1">
+<!-- green down arrow over the greasy pan (left) -->
+<line x1="120" y1="60" x2="120" y2="110" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="120" y1="110" x2="96" y2="86" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="120" y1="110" x2="144" y2="86" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="120" y1="60" x2="120" y2="110" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="120" y1="110" x2="96" y2="86" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="120" y1="110" x2="144" y2="86" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<!-- GREASY frying pan (left), viewed from above -->
+<circle cx="150" cy="290" r="100" fill="url(#s3d_4a4f55)" data-flat="#4a4f55" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="150" cy="290" r="74" fill="url(#s3d_33373d)" data-flat="#33373d" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="248" y1="270" x2="330" y2="250" stroke="#5a3a1f" stroke-width="26" stroke-linecap="round"/>
+<line x1="248" y1="270" x2="330" y2="250" stroke="#7a5230" stroke-width="14" stroke-linecap="round"/>
+<!-- glossy grease pools (yellow sheen, shiny highlight) -->
+<ellipse cx="135" cy="280" rx="40" ry="28" fill="url(#s3d_d8b24a)" data-flat="#d8b24a" stroke="#1a1a1a" stroke-width="0" opacity="0.9"/>
+<ellipse cx="170" cy="315" rx="22" ry="15" fill="url(#s3d_e6c766)" data-flat="#e6c766" stroke="#1a1a1a" stroke-width="0" opacity="0.9"/>
+<ellipse cx="120" cy="262" rx="12" ry="7" fill="#fff3c4" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="160" cy="305" rx="7" ry="4" fill="#fff3c4" stroke="#1a1a1a" stroke-width="0"/>
+<!-- CLEAN pan (right, faded) -->
+<g opacity="0.34">
+<circle cx="380" cy="290" r="100" fill="url(#s3d_9aa0a6)" data-flat="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="380" cy="290" r="74" fill="url(#s3d_c3c9cf)" data-flat="#c3c9cf" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="478" y1="270" x2="512" y2="262" stroke="#7a5230" stroke-width="26" stroke-linecap="round"/>
+</g>
+</g></svg>

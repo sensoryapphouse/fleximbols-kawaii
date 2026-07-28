@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <g transform="translate(256 256) rotate(-20)">
+    <ellipse cx="0" cy="0" rx="190" ry="95" fill="#e8a878" stroke="#1a1a1a" stroke-width="5" />
+    
+    <path d="M-190 0 Q-150 -36 -110 0 Q-150 36 -190 0 Z" fill="#d89058" stroke="#1a1a1a" stroke-width="4" />
+    <path d="M190 0 Q150 -36 110 0 Q150 36 190 0 Z" fill="#d89058" stroke="#1a1a1a" stroke-width="4" />
+    
+    <line x1="-110" y1="0" x2="110" y2="0" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+    
+    <g stroke="#1a1a1a" stroke-width="4" stroke-linecap="round">
+      <line x1="-50" y1="-12" x2="-50" y2="12" />
+      <line x1="-25" y1="-12" x2="-25" y2="12" />
+      <line x1="0" y1="-12" x2="0" y2="12" />
+      <line x1="25" y1="-12" x2="25" y2="12" />
+      <line x1="50" y1="-12" x2="50" y2="12" />
+    </g>
+    
+    <circle cx="-40" cy="-30" r="4.5" fill="#3a2a1a" />
+    <circle cx="40" cy="-30" r="4.5" fill="#3a2a1a" />
+    <path d="M-12 -10 Q0 0 12 -10" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+    
+    <circle cx="-58" cy="-15" r="6" fill="#ffb6c1" />
+    <circle cx="58" cy="-15" r="6" fill="#ffb6c1" />
+  </g>
+</svg>

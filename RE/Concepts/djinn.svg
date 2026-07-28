@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-40.296 -95.616) scale(1.1585)">
+  
+  
+  <path d="M256 475 Q165 455 138 408 Q120 370 140 336 Q158 308 200 304 Q226 300 256 308 Q286 300 312 304 Q354 308 372 336 Q392 370 374 408 Q347 455 256 475 Z" fill="#d0a0f0" opacity="0.65" stroke="#1a1a1a" stroke-width="1.7264" />
+  
+  <path d="M185 428 Q155 448 136 466 Q128 474 136 478 Q150 476 168 456 Q188 442 196 428" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" opacity="0.75" />
+  <path d="M327 428 Q357 448 376 466 Q384 474 376 478 Q362 476 344 456 Q324 442 316 428" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" opacity="0.75" />
+  
+  <path d="M182 318 Q155 306 144 288 Q156 282 168 295 Q180 308 188 318" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" opacity="0.7" />
+  <path d="M330 318 Q357 306 368 288 Q356 282 344 295 Q332 308 324 318" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" opacity="0.7" />
+  
+  <ellipse cx="256" cy="278" rx="68" ry="44" fill="#c088e8" stroke="#1a1a1a" stroke-width="1.7264" />
+  
+  <path d="M188 272 Q150 255 126 242" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round" />
+  <path d="M324 272 Q362 255 386 242" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round" />
+  
+  <path d="M120 238 Q104 230 96 220 Q108 218 114 230" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" opacity="0.8" />
+  <path d="M392 238 Q408 230 416 220 Q404 218 398 230" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" opacity="0.8" />
+  
+  <ellipse cx="256" cy="210" rx="74" ry="76" fill="#c888e8" stroke="#1a1a1a" stroke-width="1.7264" />
+  
+  
+  
+  <path d="M182 188 Q192 160 256 152 Q320 160 330 188 Q316 172 256 170 Q196 172 182 188 Z" fill="#9050b8" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M182 188 Q198 180 256 178 Q314 180 330 188 Q318 195 256 198 Q194 195 182 188 Z" fill="#a868cc" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="256" cy="172" r="9" fill="#ffaa22" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M330 188 Q348 178 356 166 Q364 156 354 148 Q344 144 334 156 Q322 170 324 185" fill="none" stroke="#1a1a1a" stroke-width="8" />
+  
+  <circle cx="228" cy="202" r="20" fill="#1a0020" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="284" cy="202" r="20" fill="#1a0020" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="228" cy="202" r="11" fill="#ff7722" opacity="0.95" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="284" cy="202" r="11" fill="#ff7722" opacity="0.95" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="223" cy="197" r="4" fill="#ffdd44" />
+  <circle cx="279" cy="197" r="4" fill="#ffdd44" />
+  <circle cx="223" cy="196" r="2" fill="#ffffff" />
+  <circle cx="279" cy="196" r="2" fill="#ffffff" />
+  
+  
+  
+  
+  <path d="M228 228 Q256 246 284 228" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M228 232 Q256 248 284 232 Q280 248 256 254 Q232 248 228 232 Z" fill="#a060c8" opacity="0.8" />
+  
+  <circle cx="148" cy="310" r="7" fill="#e0b8ff" opacity="0.75" />
+  <circle cx="136" cy="348" r="5" fill="#cc99ee" opacity="0.7" />
+  <circle cx="364" cy="310" r="7" fill="#e0b8ff" opacity="0.75" />
+  <circle cx="376" cy="348" r="5" fill="#cc99ee" opacity="0.7" />
+  <circle cx="168" cy="276" r="5" fill="#eeccff" opacity="0.65" />
+  <circle cx="344" cy="276" r="5" fill="#eeccff" opacity="0.65" />
+</g>
+  </svg>

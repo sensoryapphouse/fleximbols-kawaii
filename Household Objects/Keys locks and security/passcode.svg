@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><defs><radialGradient id="g4d4d4d" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#828282"/><stop offset="0.5" stop-color="#4d4d4d"/><stop offset="1" stop-color="#363636"/></radialGradient><radialGradient id="g7f7f7f" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#a5a5a5"/><stop offset="0.5" stop-color="#7f7f7f"/><stop offset="1" stop-color="#595959"/></radialGradient><radialGradient id="gf7de58" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#f9e88a"/><stop offset="0.5" stop-color="#f7de58"/><stop offset="1" stop-color="#e0be0b"/></radialGradient><radialGradient id="sheen" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient></defs><g transform="translate(-102.72 -46.81) scale(2.4739)" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Keypad panel -->
+  <rect x="60" y="30" width="170" height="185" rx="22" ry="22" fill="url(#g4d4d4d)" stroke="#000000" stroke-width="2.779" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner panel highlight -->
+  <rect x="72" y="42" width="146" height="161" rx="14" ry="14" fill="url(#g7f7f7f)" stroke="#000000" stroke-width="2.223" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 4 passcode dots row -->
+  <circle cx="101" cy="82" r="13" fill="#ffffff" stroke="#000000" stroke-width="2.223" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="135" cy="82" r="13" fill="#ffffff" stroke="#000000" stroke-width="2.223" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="169" cy="82" r="13" fill="#ffffff" stroke="#000000" stroke-width="2.223" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="203" cy="82" r="13" fill="#ffffff" stroke="#000000" stroke-width="2.223" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Padlock body -->
+  <rect x="119" y="115" width="52" height="42" rx="8" ry="8" fill="url(#gf7de58)" stroke="#000000" stroke-width="2.779" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Padlock shackle -->
+  <path d="M129,115 L129,101 Q145,88 161,101 L161,115" fill="none" stroke="#000000" stroke-width="2.779" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Padlock keyhole -->
+  <circle cx="145" cy="133" r="7" fill="#000000"/>
+  <rect x="141" y="133" width="8" height="11" rx="2" ry="2" fill="#000000"/>
+<ellipse cx="113.3" cy="76.7" rx="45.7" ry="38.1" fill="url(#sheen)"/></g></svg>

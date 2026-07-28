@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="b1" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fffdf6" /><stop offset="55%" stop-color="#fde8d0" /><stop offset="100%" stop-color="#f0c8a0" /></radialGradient>
+    <radialGradient id="b2" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fffdf6" /><stop offset="55%" stop-color="#ddf0e8" /><stop offset="100%" stop-color="#a8d8c0" /></radialGradient>
+    <radialGradient id="b3" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fffdf6" /><stop offset="55%" stop-color="#eee0f8" /><stop offset="100%" stop-color="#c4a4f4" /></radialGradient>
+    <radialGradient id="b4" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fffdf6" /><stop offset="55%" stop-color="#fdf8d8" /><stop offset="100%" stop-color="#f0e098" /></radialGradient>
+    <radialGradient id="bfront" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fffdf6" /><stop offset="55%" stop-color="#ddeeff" /><stop offset="100%" stop-color="#a8c8f0" /></radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#2f74c6" stop-opacity="0" /><stop offset="72%" stop-color="#2f74c6" stop-opacity="0" /><stop offset="100%" stop-color="#2f74c6" stop-opacity="0.36" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    
+    
+    <clipPath id="cl"><rect x="108" y="148" width="296" height="210" rx="18" /></clipPath>
+  </defs>
+<g transform="translate(-102.40 -138.80) scale(1.400)">
+
+  
+  
+  <g transform="rotate(-22 256 390)">
+    <rect x="108" y="148" width="296" height="210" rx="18" fill="url(#b4)" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  
+  <g transform="rotate(-12 256 390)">
+    <rect x="108" y="148" width="296" height="210" rx="18" fill="url(#b3)" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  
+  <g transform="rotate(-4 256 390)">
+    <rect x="108" y="148" width="296" height="210" rx="18" fill="url(#b2)" stroke="#1a1a1a" stroke-width="3" />
+    
+  </g>
+
+  
+  <rect x="108" y="148" width="296" height="210" rx="18" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.45" />
+  
+  <rect x="108" y="148" width="296" height="210" rx="18" fill="url(#bfront)" stroke="#1a1a1a" stroke-width="1.4286" />
+  
+  
+  
+  <line x1="136" y1="248" x2="376" y2="248" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="8,5" />
+
+  
+  <g clip-path="url(#cl)">
+    
+    <rect x="108" y="148" width="296" height="210" rx="18" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+
+  
+  <ellipse cx="210" cy="318" rx="26" ry="15" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="302" cy="318" rx="26" ry="15" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="222" cy="298" rx="15" ry="19" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="290" cy="298" rx="15" ry="19" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="218" cy="292" rx="5.5" ry="7" fill="white" />
+  <ellipse cx="286" cy="292" rx="5.5" ry="7" fill="white" />
+  <circle cx="221" cy="295" r="2.5" fill="white" />
+  <circle cx="289" cy="295" r="2.5" fill="white" />
+  <path d="M236,322 C246,334 266,334 276,322" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" />
+
+  
+  <rect x="120" y="390" width="272" height="14" rx="7" fill="#b8c8e0" opacity="0.5" />
+  <rect x="134" y="400" width="244" height="10" rx="5" fill="#a8b8d0" opacity="0.4" />
+  <rect x="148" y="408" width="216" height="8" rx="4" fill="#98a8c0" opacity="0.3" />
+</g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-82.605 -39.814) scale(1.2403)">
+  
+  <path d="M155 125 L155 335 Q155 375 195 375 L315 375 Q355 375 355 335 L355 125 Z" fill="#fff0f0" stroke="#1a1a1a" stroke-width="1.6125" stroke-linejoin="round" />
+  
+  <rect x="143" y="113" width="224" height="22" rx="8" fill="#ffdddd" stroke="#1a1a1a" stroke-width="1.6125" />
+  
+  <path d="M338 113 L360 93 L370 103 L350 126" fill="#ffdddd" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M159 240 L159 331 Q159 367 195 367 L315 367 Q351 367 351 331 L351 240 Z" fill="#ffaaaa" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M159 240 Q195 228 231 240 Q267 252 303 240 Q327 233 351 240" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="205" cy="295" r="14" fill="#ffcccc" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="205" cy="291" r="2" fill="#2b2622" />
+  <circle cx="213" cy="291" r="2" fill="#2b2622" />
+  <path d="M202 298 Q209 304 216 298" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="260" cy="325" r="12" fill="#ffcccc" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="256" cy="321" r="2" fill="#2b2622" />
+  <circle cx="264" cy="321" r="2" fill="#2b2622" />
+  <path d="M253 328 Q260 334 267 328" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="310" cy="300" r="11" fill="#ffcccc" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="306" cy="296" r="2" fill="#2b2622" />
+  <circle cx="314" cy="296" r="2" fill="#2b2622" />
+  <path d="M303 303 Q310 309 317 303" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="215" cy="200" r="8" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="260" cy="175" r="6" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="295" cy="195" r="7" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="188" cy="340" r="10" fill="#ffbbbb" opacity="0.6" />
+  <circle cx="325" cy="340" r="10" fill="#ffbbbb" opacity="0.6" />
+  
+  <rect x="375" y="105" width="28" height="270" rx="4" fill="#fff0f0" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="379" y="109" width="20" height="19" fill="#ffaaaa" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="128" width="20" height="19" fill="#ffbbaa" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="147" width="20" height="19" fill="#ffddaa" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="166" width="20" height="19" fill="#ffffaa" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="185" width="20" height="19" fill="#ccffaa" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="204" width="20" height="19" fill="#aaffbb" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="223" width="20" height="19" fill="#aaddcc" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="242" width="20" height="19" fill="#aaccff" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="261" width="20" height="19" fill="#aabbff" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="280" width="20" height="19" fill="#bbaaff" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="299" width="20" height="19" fill="#ccaaff" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="318" width="20" height="19" fill="#ddaaff" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="337" width="20" height="19" fill="#eeaaff" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="379" y="356" width="20" height="19" fill="#ffaaff" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M358 125 L382 125" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="378,119 390,125 378,131" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" />
+  
+  <text x="420" y="120" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" fill="#2b2622" font-weight="bold">1</text>
+  <text x="420" y="155" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" fill="#2b2622" font-weight="bold">3</text>
+  <text x="420" y="232" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" fill="#2b2622" font-weight="bold">7</text>
+  <text x="415" y="310" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" fill="#2b2622" font-weight="bold">11</text>
+  <text x="415" y="370" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" fill="#2b2622" font-weight="bold">14</text>
+  <text x="369" y="99" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="16" fill="#2b2622" font-weight="bold">pH</text>
+  
+  <text x="256" y="65" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" fill="#cc4444" font-weight="bold" text-anchor="middle">ACID</text>
+  
+  <ellipse cx="218" cy="382" rx="6" ry="10" fill="#ffaaaa" />
+  <ellipse cx="256" cy="388" rx="5" ry="9" fill="#ffaaaa" />
+  <ellipse cx="294" cy="384" rx="6" ry="9" fill="#ffaaaa" />
+</g>
+  </svg>

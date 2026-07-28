@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,64.614) scale(0.8738)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+
+<path d="M 96 304 Q 96 286 116 286 L 396 286 Q 416 286 416 304 L 416 414 Q 416 436 396 436 L 116 436 Q 96 436 96 414 Z" fill="#ffe78a" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<circle cx="138" cy="338" r="5" fill="#e8c860" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="186" cy="382" r="4" fill="#e8c860" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="232" cy="346" r="5" fill="#e8c860" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="282" cy="404" r="4" fill="#e8c860" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="324" cy="358" r="5" fill="#e8c860" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="372" cy="394" r="4" fill="#e8c860" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="394" cy="346" r="4" fill="#e8c860" stroke="#1a1a1a" stroke-width="2" />
+
+<path d="M 96 218 Q 96 200 116 200 L 396 200 Q 416 200 416 218 L 416 294 L 96 294 Z" fill="#bfe6cf" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+
+<g stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round">
+  <line x1="116" y1="218" x2="416" y2="294" />
+  <line x1="116" y1="248" x2="396" y2="294" />
+  <line x1="116" y1="278" x2="380" y2="294" />
+  <line x1="156" y1="200" x2="416" y2="270" />
+  <line x1="196" y1="200" x2="416" y2="246" />
+  <line x1="236" y1="200" x2="416" y2="218" />
+  <line x1="396" y1="218" x2="116" y2="294" />
+  <line x1="396" y1="248" x2="136" y2="294" />
+  <line x1="396" y1="278" x2="156" y2="294" />
+  <line x1="356" y1="200" x2="96" y2="270" />
+  <line x1="316" y1="200" x2="96" y2="246" />
+  <line x1="276" y1="200" x2="96" y2="218" />
+</g>
+
+<circle cx="224" cy="248" r="4" fill="#3a2a1a" />
+<circle cx="288" cy="248" r="4" fill="#3a2a1a" />
+<circle cx="225.5" cy="246.5" r="1.2" fill="#ffffff" />
+<circle cx="289.5" cy="246.5" r="1.2" fill="#ffffff" />
+<path d="M 244 264 Q 256 274 268 264" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+
+<circle cx="206" cy="266" r="6" fill="#f6b4c0" opacity="0.85" />
+<circle cx="306" cy="266" r="6" fill="#f6b4c0" opacity="0.85" />
+
+<circle cx="98" cy="158" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.5" />
+<circle cx="92" cy="150" r="4" fill="#ffffff" />
+<circle cx="146" cy="120" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.5" />
+<circle cx="138" cy="110" r="5" fill="#ffffff" />
+<circle cx="386" cy="140" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.5" />
+<circle cx="380" cy="132" r="3.5" fill="#ffffff" />
+<circle cx="430" cy="116" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.5" />
+
+<polygon points="78,236 82,244 90,248 82,252 78,260 74,252 66,248 74,244" fill="#ffe78a" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" />
+<polygon points="436,250 440,258 448,262 440,266 436,274 432,266 424,262 432,258" fill="#ffe78a" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" />
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1785" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1785)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,36.403) scale(0.9289)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <g stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" stroke-linecap="round">
+    
+    <rect x="332" y="92" width="62" height="150" rx="28" fill="#f3c89d" />
+    
+    <path d="M340 130 L386 130" fill="none" />
+    <path d="M340 170 L386 170" fill="none" />
+    
+    <rect x="326" y="238" width="74" height="28" rx="12" fill="#c8c2dc" />
+    
+    <path d="M348 264 Q322 290 304 312" fill="none" stroke-width="14" stroke="#1a1a1a" />
+    
+    <path d="M306 308 Q316 296 326 306 L138 444 Q126 452 116 444 L100 428 Q92 418 100 408 Z" fill="#dce6f5" />
+  </g>
+  
+  <circle cx="212" cy="382" r="4.5" fill="#3a2f5a" />
+  <circle cx="240" cy="362" r="4.5" fill="#3a2f5a" />
+  <path d="M218 396 Q232 404 246 392" stroke="#1a1a1a" stroke-width="2.0000" fill="none" stroke-linecap="round" />
+  
+  <circle cx="200" cy="394" r="5" fill="#ffb3c6" opacity="0.8" />
+  <circle cx="252" cy="372" r="5" fill="#ffb3c6" opacity="0.8" />
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1887" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1887)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

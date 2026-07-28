@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<radialGradient id="kbl" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#f3a0b0" stop-opacity="0.5" />
+<stop offset="100%" stop-color="#f3a0b0" stop-opacity="0" />
+</radialGradient>
+<linearGradient id="arc" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#c5b8e6" />
+<stop offset="50%" stop-color="#f5c7d8" />
+<stop offset="100%" stop-color="#b8d8e8" />
+</linearGradient>
+</defs>
+<g transform="translate(-7.31 12.23) scale(1.029)">
+<path d="M 60 340 Q 256 120 452 340" fill="none" stroke="#1a1a1a" stroke-width="22" stroke-linecap="round" />
+<circle cx="60" cy="340" r="14" fill="#c5b8e6" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="452" cy="340" r="14" fill="#b8d8e8" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="256" cy="200" r="40" fill="#fde8d4" stroke="#1a1a1a" stroke-width="1.9436" />
+<ellipse cx="244" cy="200" rx="6" ry="3" fill="url(#kbl)" />
+<ellipse cx="268" cy="200" rx="6" ry="3" fill="url(#kbl)" />
+<circle cx="247" cy="196" r="2" fill="#3a2a1a" />
+<circle cx="265" cy="196" r="2" fill="#3a2a1a" />
+<path d="M 250 206 Q 256 211 262 206" fill="none" stroke="#1a1a1a" stroke-width="1.6" stroke-linecap="round" />
+<circle cx="120" cy="250" r="4" fill="#f5c7d8" />
+<circle cx="392" cy="250" r="4" fill="#b8d8e8" />
+<circle cx="180" cy="170" r="3" fill="#fde8d4" />
+<circle cx="332" cy="170" r="3" fill="#fde8d4" />
+</g>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-59.536 -115.364) scale(1.2338)">
+  <defs>
+    <radialGradient id="b" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#f5f0ea" /><stop offset="55%" stop-color="#c8a880" /><stop offset="100%" stop-color="#7a5030" /></radialGradient>
+    <radialGradient id="coffee" cx="50%" cy="40%" r="60%"><stop offset="0%" stop-color="#4a2810" /><stop offset="100%" stop-color="#200e04" /></radialGradient>
+    <radialGradient id="whip" cx="44%" cy="30%" r="70%"><stop offset="0%" stop-color="#ffffff" /><stop offset="70%" stop-color="#f8f0e8" /><stop offset="100%" stop-color="#eedcc8" /></radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#5a3018" stop-opacity="0" /><stop offset="72%" stop-color="#5a3018" stop-opacity="0" /><stop offset="100%" stop-color="#5a3018" stop-opacity="0.38" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    
+    
+    <clipPath id="cl"><path d="M192,168 L206,430 Q206,458 256,458 Q306,458 306,430 L320,168 Z" /></clipPath>
+  </defs>
+  
+  <path d="M192,168 L206,430 Q206,458 256,458 Q306,458 306,430 L320,168 Z" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.4" />
+  
+  <path d="M192,168 L206,430 Q206,458 256,458 Q306,458 306,430 L320,168 Z" fill="url(#b)" stroke="#1a1a1a" stroke-width="1.6210" opacity="0.88" />
+  
+  <path d="M200,260 L208,430 Q208,452 256,452 Q304,452 304,430 L312,260 Z" fill="url(#coffee)" opacity="0.9" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="256" cy="178" rx="60" ry="38" fill="url(#whip)" stroke="#1a1a1a" stroke-width="2" />
+  
+  
+  
+  <path d="M222,165 Q238,155 256,168 Q270,158 286,170" fill="none" stroke="#1a1a1a" stroke-width="1.6210" stroke-linecap="round" opacity="0.75" />
+  <path d="M228,178 Q244,168 260,180 Q272,172 284,182" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.65" />
+  
+  <ellipse cx="256" cy="168" rx="64" ry="12" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <g clip-path="url(#cl)"><path d="M192,168 L206,430 Q206,458 256,458 Q306,458 306,430 L320,168 Z" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" /></g>
+  
+  <ellipse cx="200" cy="358" rx="26" ry="16" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="312" cy="358" rx="26" ry="16" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="228" cy="336" rx="12" ry="16" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="284" cy="336" rx="12" ry="16" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="223" cy="330" rx="4" ry="5" fill="#ffffff" />
+  <ellipse cx="279" cy="330" rx="4" ry="5" fill="#ffffff" />
+  <circle cx="232" cy="344" r="2.5" fill="#ffffff" />
+  <circle cx="288" cy="344" r="2.5" fill="#ffffff" />
+  
+  <path d="M244,362 C252,372 260,372 268,362" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  </svg>

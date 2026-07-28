@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="bl" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#ffb6c8" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#ffb6c8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#ffb6c8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+<g transform="translate(17.66 17.66) scale(0.931)">
+  <rect x="24" y="24" width="464" height="464" rx="36" fill="#fff5ec" stroke="#1a1a1a" stroke-width="2.1482" />
+  <rect x="45" y="340" width="422" height="32" rx="8" fill="#b89070" stroke="#1a1a1a" stroke-width="2.1482" />
+  <rect x="62" y="372" width="22" height="80" fill="#9c7855" stroke="#1a1a1a" stroke-width="4.5" />
+  <rect x="428" y="372" width="22" height="80" fill="#9c7855" stroke="#1a1a1a" stroke-width="4.5" />
+  
+  <g>
+    <rect x="62" y="280" width="170" height="22" rx="4" fill="#e8c89c" stroke="#1a1a1a" stroke-width="2.1482" />
+    <ellipse cx="100" cy="291" rx="8" ry="3" fill="#b89070" />
+    <ellipse cx="160" cy="291" rx="10" ry="3" fill="#b89070" />
+    <rect x="62" y="305" width="170" height="22" rx="4" fill="#d9b48a" stroke="#1a1a1a" stroke-width="2.1482" />
+    <ellipse cx="135" cy="316" rx="10" ry="3" fill="#b89070" />
+  </g>
+  
+  <g>
+    <rect x="280" y="220" width="160" height="60" rx="16" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.1482" />
+    <rect x="290" y="202" width="56" height="24" rx="6" fill="#a6e0c0" stroke="#1a1a1a" stroke-width="4" />
+    <circle cx="380" cy="270" r="46" fill="#e0e0e0" stroke="#1a1a1a" stroke-width="2.1482" />
+    <circle cx="380" cy="270" r="9" fill="#5a4a3a" stroke="#1a1a1a" stroke-width="2" />
+    <g stroke="#1a1a1a" stroke-width="2.5" fill="#e0e0e0">
+      <path d="M380 224 L375 234 L385 234 Z M426 270 L416 265 L416 275 Z M380 316 L385 306 L375 306 Z M334 270 L344 275 L344 265 Z" />
+    </g>
+    
+    <circle cx="312" cy="248" r="3.5" fill="#5a4a3a" />
+    <circle cx="332" cy="248" r="3.5" fill="#5a4a3a" />
+    <path d="M316 258 Q322 262 328 258" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+    <circle cx="304" cy="256" r="5" fill="url(#bl)" />
+    <circle cx="340" cy="256" r="5" fill="url(#bl)" />
+  </g>
+  
+  <g>
+    <path d="M260 372 Q330 360 410 372 Q445 380 455 388 L255 388 Z" fill="#f5dcb4" stroke="#1a1a1a" stroke-width="4" />
+    <circle cx="292" cy="380" r="2.5" fill="#9c7855" />
+    <circle cx="332" cy="376" r="2.5" fill="#9c7855" />
+    <circle cx="372" cy="378" r="2.5" fill="#9c7855" />
+    <circle cx="412" cy="376" r="2.5" fill="#9c7855" />
+    <circle cx="320" cy="396" r="3.5" fill="#e8c89c" stroke="#1a1a1a" stroke-width="1" />
+    <circle cx="380" cy="398" r="3.5" fill="#e8c89c" stroke="#1a1a1a" stroke-width="1" />
+    <circle cx="430" cy="394" r="3" fill="#e8c89c" stroke="#1a1a1a" stroke-width="1" />
+  </g>
+  
+  <g>
+    <rect x="100" y="372" width="80" height="60" fill="#d9b48a" stroke="#1a1a1a" stroke-width="2.1482" />
+    <path d="M100 372 L120 358 L200 358 L180 372 Z" fill="#e8c89c" stroke="#1a1a1a" stroke-width="2.1482" />
+    <path d="M180 372 L200 358 L200 418 L180 432 Z" fill="#b89070" stroke="#1a1a1a" stroke-width="2.1482" />
+    
+    <circle cx="128" cy="395" r="3.5" fill="#5a4a3a" />
+    <circle cx="152" cy="395" r="3.5" fill="#5a4a3a" />
+    <path d="M134 405 Q140 410 146 405" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+    <circle cx="120" cy="403" r="5" fill="url(#bl)" />
+    <circle cx="160" cy="403" r="5" fill="url(#bl)" />
+  </g>
+  
+</g>
+</svg>

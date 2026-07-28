@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="kDuskSky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3a385a" />
+      <stop offset="30%" stop-color="#605088" />
+      <stop offset="65%" stop-color="#a880c0" />
+      <stop offset="100%" stop-color="#e890a8" />
+    </linearGradient>
+    <radialGradient id="kDuskHorizon" cx="50%" cy="80%" r="60%">
+      <stop offset="0%" stop-color="#ffb090" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#ffb090" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="kDuskCheek" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff90a0" />
+      <stop offset="100%" stop-color="#ff90a0" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="512" fill="url(#kDuskSky)" />
+  <ellipse cx="256" cy="390" rx="280" ry="60" fill="url(#kDuskHorizon)" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 0 395 L 512 395 L 512 405 L 0 405 Z" fill="#e08aa0" opacity="0.6" />
+  <g fill="#ffffff">
+    <circle cx="50" cy="40" r="2.5" />
+    <circle cx="100" cy="80" r="2" />
+    <circle cx="160" cy="50" r="2.5" />
+    <circle cx="220" cy="70" r="2" />
+    <circle cx="280" cy="40" r="3" />
+    <circle cx="340" cy="60" r="2" />
+    <circle cx="400" cy="80" r="2.5" />
+    <circle cx="450" cy="50" r="2" />
+    <circle cx="490" cy="90" r="2.5" />
+    <circle cx="80" cy="130" r="2" />
+    <circle cx="180" cy="150" r="2.5" />
+    <circle cx="380" cy="140" r="2.5" />
+    <circle cx="450" cy="170" r="2" />
+  </g>
+  <g fill="#fff0a0">
+    <path d="M 100 60 L 103 68 L 111 71 L 103 74 L 100 82 L 97 74 L 89 71 L 97 68 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 240 90 L 243 98 L 251 101 L 243 104 L 240 112 L 237 104 L 229 101 L 237 98 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 400 80 L 403 88 L 411 91 L 403 94 L 400 102 L 397 94 L 389 91 L 397 88 Z" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g fill="#ffe080" opacity="0.8">
+    <circle cx="100" cy="70" r="7" />
+    <circle cx="240" cy="100" r="7" />
+    <circle cx="400" cy="90" r="7" />
+  </g>
+  <g fill="#3a2818">
+    <circle cx="98" cy="68" r="1" />
+    <circle cx="238" cy="98" r="1" />
+    <circle cx="398" cy="88" r="1" />
+  </g>
+  <g fill="#7860a0" opacity="0.6">
+    <ellipse cx="80" cy="200" rx="60" ry="14" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="220" cy="220" rx="70" ry="16" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="380" cy="210" rx="65" ry="15" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="460" cy="230" rx="50" ry="13" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g fill="#5848a0" opacity="0.6">
+    <ellipse cx="120" cy="280" rx="80" ry="16" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="300" cy="295" rx="90" ry="18" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="450" cy="305" rx="60" ry="15" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <path d="M 0 405 L 512 405 L 512 420 L 0 420 Z" fill="#4a3868" stroke="#1a1a1a" stroke-width="2" />
+  <g fill="#2a1838" stroke="#1a1a1a" stroke-width="2.0000">
+    <path d="M 0 420 L 100 360 L 160 380 L 220 350 L 280 372 L 340 348 L 400 370 L 460 354 L 512 368 L 512 510 L 0 510 Z" />
+  </g>
+  <g fill="#3a2818">
+    <circle cx="226" cy="370" r="4" />
+    <circle cx="286" cy="370" r="4" />
+  </g>
+  <g fill="#ffffff">
+    <circle cx="227" cy="369" r="1.5" />
+    <circle cx="287" cy="369" r="1.5" />
+  </g>
+  <path d="M 244 384 Q 256 388 268 384" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+  <circle cx="206" cy="378" r="7" fill="url(#kDuskCheek)" />
+  <circle cx="306" cy="378" r="7" fill="url(#kDuskCheek)" />
+  <g fill="#1a0828">
+    <path d="M 110 405 L 100 370 L 90 405 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 130 408 L 120 380 L 110 408 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 360 402 L 350 365 L 342 402 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 380 405 L 370 372 L 360 405 Z" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g fill="#ffe080" opacity="0.8">
+    <rect x="180" y="455" width="3" height="4" rx="1" />
+    <rect x="220" y="460" width="3" height="4" rx="1" />
+    <rect x="380" y="458" width="3" height="4" rx="1" />
+    <rect x="420" y="462" width="3" height="4" rx="1" />
+  </g>
+  <g fill="#9070b0" opacity="0.5">
+    <ellipse cx="60" cy="345" rx="30" ry="10" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="180" cy="360" rx="40" ry="12" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="350" cy="355" rx="50" ry="14" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="450" cy="365" rx="35" ry="11" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+</svg>

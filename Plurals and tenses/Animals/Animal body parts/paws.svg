@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M256,460            C175,460 140,395 140,340            C140,295 180,265 256,265            C332,265 372,295 372,340            C372,395 337,460 256,460 Z" fill="#ffd1dc" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M256,460            C175,460 140,395 140,340            C140,295 180,265 256,265            C332,265 372,295 372,340            C372,395 337,460 256,460 Z" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M256,330            C246,316 220,316 220,340            C220,360 256,388 256,388            C256,388 292,360 292,340            C292,316 266,316 256,330 Z" fill="#ffe7ee" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="256" cy="170" rx="56" ry="70" fill="#ffd1dc" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="256" cy="170" rx="56" ry="70" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="170" rx="28" ry="40" fill="#ffe7ee" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="160" cy="210" rx="46" ry="58" transform="rotate(-22 160 210)" fill="#ffd1dc" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="160" cy="210" rx="46" ry="58" transform="rotate(-22 160 210)" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="160" cy="210" rx="22" ry="32" transform="rotate(-22 160 210)" fill="#ffe7ee" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="352" cy="210" rx="46" ry="58" transform="rotate(22 352 210)" fill="#ffd1dc" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="352" cy="210" rx="46" ry="58" transform="rotate(22 352 210)" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="352" cy="210" rx="22" ry="32" transform="rotate(22 352 210)" fill="#ffe7ee" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="86" cy="290" rx="42" ry="52" transform="rotate(-45 86 290)" fill="#ffd1dc" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="86" cy="290" rx="42" ry="52" transform="rotate(-45 86 290)" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="86" cy="290" rx="20" ry="28" transform="rotate(-45 86 290)" fill="#ffe7ee" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="426" cy="290" rx="42" ry="52" transform="rotate(45 426 290)" fill="#ffd1dc" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="426" cy="290" rx="42" ry="52" transform="rotate(45 426 290)" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="426" cy="290" rx="20" ry="28" transform="rotate(45 426 290)" fill="#ffe7ee" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <circle cx="222" cy="362" r="5" fill="#4a2a36" />
+  <circle cx="290" cy="362" r="5" fill="#4a2a36" />
+  <ellipse cx="256" cy="402" rx="10" ry="6" fill="#4a2a36" />
+  
+  <circle cx="200" cy="392" r="8" fill="#ff8fb0" opacity="0.55" />
+  <circle cx="312" cy="392" r="8" fill="#ff8fb0" opacity="0.55" />
+  
+  <path d="M408,150 l4,8 l8,4 l-8,4 l-4,8 l-4,-8 l-8,-4 l8,-4 z" fill="#fff6c2" stroke="#1a1a1a" stroke-width="2.0000" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl15" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl15)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

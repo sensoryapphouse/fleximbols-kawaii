@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-32.811 -63.302) scale(1.1293)">
+  
+  
+  <g stroke="#1a1a1a" stroke-width="1.7710">
+    <path d="M256 460 C160 420 130 360 156 320 C200 340 240 380 256 430 Z" fill="#c6f0d8" />
+    <path d="M256 460 C352 420 382 360 356 320 C312 340 272 380 256 430 Z" fill="#d6f5e1" />
+    <path d="M180 340 L240 410" stroke-width="3" fill="none" />
+    <path d="M332 340 L272 410" stroke-width="3" fill="none" />
+  </g>
+  
+  <g transform="translate(256,210)" stroke="#1a1a1a" stroke-width="1.7710">
+    <path d="M-110 0 C-120 -60 -60 -110 0 -100 C60 -110 120 -60 110 0 C120 60 60 110 0 100 C-60 110 -120 60 -110 0 Z" fill="#fff6fb" />
+    <path d="M-80 -50 C-90 -10 -50 -60 -60 -90" fill="#ffffff" stroke-width="3" />
+    <path d="M-30 -90 C-30 -50 -70 -70 -60 -90" fill="#ffffff" stroke-width="3" />
+    <path d="M30 -90 C30 -50 70 -70 60 -90" fill="#ffffff" stroke-width="3" />
+    <path d="M80 -50 C90 -10 50 -60 60 -90" fill="#ffffff" stroke-width="3" />
+    <path d="M90 20 C80 60 50 60 60 30" fill="#ffffff" stroke-width="3" />
+    <path d="M-90 20 C-80 60 -50 60 -60 30" fill="#ffffff" stroke-width="3" />
+    <path d="M-40 70 C-30 90 30 90 40 70" fill="#ffffff" stroke-width="3" />
+    <path d="M-70 -10 C-78 -50 -28 -82 0 -70 C28 -82 78 -50 70 -10 C78 30 28 62 0 50 C-28 62 -78 30 -70 -10 Z" fill="#ffffff" />
+    <path d="M-40 0 C-44 -28 -14 -46 0 -36 C14 -46 44 -28 40 0 C44 24 14 38 0 30 C-14 38 -44 24 -40 0 Z" fill="#fff6fb" />
+    <path d="M-22 -4 C-22 -20 -6 -26 0 -20 C6 -26 22 -20 22 -4 C22 8 6 16 0 12 C-6 16 -22 8 -22 -4 Z" fill="#ffffff" />
+    
+    <circle cx="-8" cy="6" r="3.5" fill="#2b2622" />
+    <circle cx="8" cy="6" r="3.5" fill="#2b2622" />
+    <circle cx="-9" cy="5" r="1" fill="#ffffff" />
+    <circle cx="7" cy="5" r="1" fill="#ffffff" />
+    <path d="M-4 14 Q0 17 4 14" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+    <circle cx="-18" cy="14" r="5" fill="#ffb3c6" opacity="0.7" />
+    <circle cx="18" cy="14" r="5" fill="#ffb3c6" opacity="0.7" />
+  </g>
+</g>
+  </svg>

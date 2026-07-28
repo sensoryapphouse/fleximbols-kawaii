@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><defs><radialGradient id="ged1c24" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#f26066"/><stop offset="0.5" stop-color="#ed1c24"/><stop offset="1" stop-color="#ac0e14"/></radialGradient><radialGradient id="g6e91a3" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#9ab2bf"/><stop offset="0.5" stop-color="#6e91a3"/><stop offset="1" stop-color="#4a6675"/></radialGradient><radialGradient id="sheen" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient></defs><g transform="translate(-8.07 24.91) scale(0.9229)" stroke-linejoin="round" stroke-linecap="round">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="37,256 96,370 144,397 485,259 535,130 456,104 37,256" fill="url(#ged1c24)" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="251,179 314,209 311,329 144,397 96,370 37,256 251,179" fill="url(#g6e91a3)" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polyline points="42,259 114,281 147,394" fill="none" stroke="#000000" stroke-width="8"/>
+    <polyline points="114,281 535,130" fill="none" stroke="#000000" stroke-width="8"/>
+    <polyline points="483,120 80,265 118,375" fill="none" stroke="#ffffff" stroke-width="8"/>
+  </g>
+<ellipse cx="194.3" cy="177.8" rx="132.7" ry="60.5" fill="url(#sheen)"/></g></svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="38.79 38.79 434.42 434.42"><defs><radialGradient id="s3d_3d7fb5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#77a5cb"/><stop offset="0.45" stop-color="#3d7fb5"/><stop offset="1" stop-color="#316691"/></radialGradient><radialGradient id="s3d_b9bdc2" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ced1d4"/><stop offset="0.45" stop-color="#b9bdc2"/><stop offset="1" stop-color="#94979b"/></radialGradient></defs><!-- axle: horizontal rod connecting two wheels -->
+<line x1="120" y1="256" x2="392" y2="256" stroke="#1a1a1a" stroke-width="22" stroke-linecap="round"/>
+<line x1="120" y1="256" x2="392" y2="256" stroke="#9aa0a6" stroke-width="12" stroke-linecap="round"/>
+<circle cx="148" cy="256" r="78" fill="url(#s3d_3d7fb5)" data-flat="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="148" cy="256" r="22" fill="url(#s3d_b9bdc2)" data-flat="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="364" cy="256" r="78" fill="url(#s3d_3d7fb5)" data-flat="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="364" cy="256" r="22" fill="url(#s3d_b9bdc2)" data-flat="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

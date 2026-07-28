@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M 104 184 C 104 156 144 136 256 136 C 368 136 408 156 408 184 L 408 232 C 408 256 392 268 368 268 L 144 268 C 120 268 104 256 104 232 Z" fill="#F4A6B8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="3" fill="#FFFFFF" stroke-linejoin="round">
+    <rect x="120" y="192" width="36" height="58" rx="14" />
+    <rect x="162" y="188" width="40" height="62" rx="14" />
+    <rect x="208" y="184" width="42" height="66" rx="14" />
+    <rect x="256" y="184" width="42" height="66" rx="14" />
+    <rect x="304" y="188" width="40" height="62" rx="14" />
+    <rect x="350" y="192" width="36" height="58" rx="14" />
+  </g>
+  
+  <circle cx="232" cy="208" r="3" fill="#5D5D5D" />
+  <circle cx="276" cy="208" r="3" fill="#5D5D5D" />
+  <path d="M 244 222 Q 254 228 264 222" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" />
+  
+  
+  
+  <path d="M 104 312 C 104 288 120 276 144 276 L 368 276 C 392 276 408 288 408 312 L 408 352 C 408 380 368 400 256 400 C 144 400 104 380 104 352 Z" fill="#F4A6B8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="3" fill="#FFFFFF" stroke-linejoin="round">
+    <rect x="120" y="290" width="36" height="58" rx="14" />
+    <rect x="162" y="290" width="40" height="62" rx="14" />
+    <rect x="208" y="290" width="42" height="66" rx="14" />
+    <rect x="256" y="290" width="42" height="66" rx="14" />
+    <rect x="304" y="290" width="40" height="62" rx="14" />
+    <rect x="350" y="290" width="36" height="58" rx="14" />
+  </g>
+  
+  <g fill="#FFE07A" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round">
+    <path d="M 432 152 L 438 164 L 450 168 L 438 172 L 432 184 L 426 172 L 414 168 L 426 164 Z" />
+    <path d="M 88 360 L 92 370 L 102 374 L 92 378 L 88 388 L 84 378 L 74 374 L 84 370 Z" />
+  </g>
+</svg>

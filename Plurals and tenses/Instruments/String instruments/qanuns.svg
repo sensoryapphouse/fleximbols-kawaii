@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <polygon points="70,210 442,210 388,358 130,358" fill="#f0c098" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <polygon points="130,270 388,270 378,348 142,348" fill="#fff0d8" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="200" cy="308" r="18" fill="#a06a48" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="200" cy="308" r="11" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="184" y1="308" x2="216" y2="308" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="200" y1="292" x2="200" y2="324" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="256" cy="308" r="22" fill="#a06a48" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="256" cy="308" r="14" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="236" y1="308" x2="276" y2="308" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="256" y1="288" x2="256" y2="328" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="241" y1="293" x2="271" y2="323" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="271" y1="293" x2="241" y2="323" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="312" cy="308" r="18" fill="#a06a48" stroke="#1a1a1a" stroke-width="2.5" />
+  <circle cx="312" cy="308" r="11" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="296" y1="308" x2="328" y2="308" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="312" y1="292" x2="312" y2="324" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="134" y="258" width="252" height="7" fill="#a06a48" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="72" y="210" width="370" height="22" fill="#d4a070" stroke="#1a1a1a" stroke-width="3" />
+  
+  <g fill="#7a4828" stroke="#1a1a1a" stroke-width="1">
+    <circle cx="88" cy="221" r="3" /><circle cx="104" cy="221" r="3" /><circle cx="120" cy="221" r="3" />
+    <circle cx="136" cy="221" r="3" /><circle cx="152" cy="221" r="3" /><circle cx="168" cy="221" r="3" />
+    <circle cx="184" cy="221" r="3" /><circle cx="200" cy="221" r="3" /><circle cx="216" cy="221" r="3" />
+    <circle cx="232" cy="221" r="3" /><circle cx="248" cy="221" r="3" /><circle cx="264" cy="221" r="3" />
+    <circle cx="280" cy="221" r="3" /><circle cx="296" cy="221" r="3" /><circle cx="312" cy="221" r="3" />
+    <circle cx="328" cy="221" r="3" /><circle cx="344" cy="221" r="3" /><circle cx="360" cy="221" r="3" />
+    <circle cx="376" cy="221" r="3" /><circle cx="392" cy="221" r="3" /><circle cx="408" cy="221" r="3" />
+    <circle cx="424" cy="221" r="3" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="0.9" opacity="0.95">
+    <line x1="88" y1="234" x2="148" y2="346" />
+    <line x1="96" y1="234" x2="156" y2="346" />
+    <line x1="104" y1="234" x2="164" y2="346" />
+    <line x1="112" y1="234" x2="172" y2="346" />
+    <line x1="120" y1="234" x2="180" y2="346" />
+    <line x1="128" y1="234" x2="188" y2="346" />
+    <line x1="136" y1="234" x2="196" y2="346" />
+    <line x1="144" y1="234" x2="204" y2="346" />
+    <line x1="152" y1="234" x2="212" y2="346" />
+    <line x1="160" y1="234" x2="220" y2="346" />
+    <line x1="168" y1="234" x2="228" y2="346" />
+    <line x1="176" y1="234" x2="236" y2="346" />
+    <line x1="184" y1="234" x2="244" y2="346" />
+    <line x1="192" y1="234" x2="252" y2="346" />
+    <line x1="200" y1="234" x2="260" y2="346" />
+    <line x1="208" y1="234" x2="268" y2="346" />
+    <line x1="216" y1="234" x2="276" y2="346" />
+    <line x1="224" y1="234" x2="284" y2="346" />
+    <line x1="232" y1="234" x2="292" y2="346" />
+    <line x1="240" y1="234" x2="300" y2="346" />
+    <line x1="248" y1="234" x2="308" y2="346" />
+    <line x1="256" y1="234" x2="316" y2="346" />
+    <line x1="264" y1="234" x2="324" y2="346" />
+    <line x1="272" y1="234" x2="332" y2="346" />
+    <line x1="280" y1="234" x2="340" y2="346" />
+    <line x1="288" y1="234" x2="348" y2="346" />
+    <line x1="296" y1="234" x2="356" y2="346" />
+    <line x1="304" y1="234" x2="364" y2="346" />
+    <line x1="312" y1="234" x2="372" y2="346" />
+    <line x1="320" y1="234" x2="378" y2="346" />
+    <line x1="328" y1="234" x2="384" y2="346" />
+    <line x1="336" y1="234" x2="380" y2="346" />
+    <line x1="344" y1="234" x2="378" y2="346" />
+    <line x1="352" y1="234" x2="376" y2="346" />
+  </g>
+  
+  <circle cx="220" cy="306" r="2.5" fill="#5a3a28" />
+  <circle cx="292" cy="306" r="2.5" fill="#5a3a28" />
+  <path d="M 244 320 Q 256 326 268 320" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" />
+  
+  <radialGradient id="cheekQ" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#ffb0c8" stop-opacity="0.85" />
+    <stop offset="100%" stop-color="#ffb0c8" stop-opacity="0" />
+  </radialGradient>
+  <circle cx="200" cy="318" r="7" fill="url(#cheekQ)" />
+  <circle cx="312" cy="318" r="7" fill="url(#cheekQ)" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2431" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2431)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

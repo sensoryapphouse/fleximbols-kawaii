@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="koxBall" cx="0.35" cy="0.3" r="0.85">
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="0.55" stop-color="#fff7e0" />
+      <stop offset="1" stop-color="#e8d8a8" />
+    </radialGradient>
+    <radialGradient id="koxCheek" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb8c8" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#ffb8c8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+<g transform="translate(6.92 -31.03) scale(0.973)">
+
+  
+  <path d="M50 390 L462 390 L478 430 L34 430 Z" fill="#e0b888" stroke="#1a1a1a" stroke-width="2.0555" stroke-linejoin="round" />
+  
+  <ellipse cx="256" cy="275" rx="160" ry="115" fill="url(#koxBall)" stroke="#1a1a1a" stroke-width="2.0555" />
+  
+  <g fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round">
+    <path d="M115 280 Q175 215 256 215 Q337 215 397 280" />
+    <path d="M120 305 Q180 245 256 245 Q332 245 392 305" />
+    <path d="M120 330 Q180 285 256 285 Q332 285 392 330" />
+    <path d="M120 350 Q180 320 256 320 Q332 320 392 350" />
+  </g>
+  <g fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" opacity="0.6">
+    <path d="M115 280 Q175 215 256 215 Q337 215 397 280" />
+    <path d="M120 305 Q180 245 256 245 Q332 245 392 305" />
+    <path d="M120 330 Q180 285 256 285 Q332 285 392 330" />
+    <path d="M120 350 Q180 320 256 320 Q332 320 392 350" />
+  </g>
+  
+  
+  
+  <circle cx="225" cy="280" r="7" fill="#3a2a1a" />
+  <circle cx="287" cy="280" r="7" fill="#3a2a1a" />
+  <circle cx="227" cy="277.5" r="2" fill="#ffffff" />
+  <circle cx="289" cy="277.5" r="2" fill="#ffffff" />
+  <path d="M243 300 Q256 312 269 300" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="200" cy="298" rx="14" ry="8" fill="url(#koxCheek)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="312" cy="298" rx="14" ry="8" fill="url(#koxCheek)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <g fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round">
+    <path d="M400 245 Q435 235 458 222" stroke="#1a1a1a" stroke-width="2.0555" />
+    <path d="M400 245 Q435 235 458 222" />
+    <path d="M404 268 Q438 265 462 258" stroke="#1a1a1a" stroke-width="2.0555" />
+    <path d="M404 268 Q438 265 462 258" />
+  </g>
+  
+</g>
+</svg>

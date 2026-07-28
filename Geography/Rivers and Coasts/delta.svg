@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="340" width="512" height="172" fill="#aaddff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <polygon points="256,40 62,482 450,482" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 256,40 L 256,200 Q 255,280 256,358 L 242,482 L 270,482 L 256,358 Q 258,280 256,200 Z" fill="#aaddff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 256,240 Q 222,278 192,318 Q 162,358 132,418 L 157,423 Q 185,366 212,328 Q 240,288 260,248 Z" fill="#aaddff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 256,240 Q 290,278 320,318 Q 350,358 380,418 L 355,423 Q 328,366 300,328 Q 272,288 252,248 Z" fill="#aaddff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 196,328 Q 166,358 141,398 L 156,403 Q 179,366 204,336 Z" fill="#aaddff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 316,328 Q 346,358 371,398 L 356,403 Q 332,366 308,336 Z" fill="#aaddff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 156,380 Q 122,408 92,448 L 110,453 Q 136,416 164,388 Z" fill="#aaddff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 356,380 Q 390,408 420,448 L 402,453 Q 376,416 348,388 Z" fill="#aaddff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <polygon points="256,200 230,258 200,308 170,358 150,418 200,440 228,378 250,318 256,280" fill="#aaddcc" stroke="#1a1a1a" stroke-width="2.0000" />
+  <polygon points="256,200 282,258 312,308 342,358 362,418 312,440 284,378 262,318 256,280" fill="#aaddcc" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="220" cy="200" rx="9" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="220" cy="201" r="5" fill="#224433" />
+  <circle cx="221" cy="199" r="2" fill="#ffffff" />
+  <ellipse cx="292" cy="200" rx="9" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="292" cy="201" r="5" fill="#224433" />
+  <circle cx="293" cy="199" r="2" fill="#ffffff" />
+  
+  
+  
+  
+  <path d="M 244,216 Q 256,226 268,216" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <path d="M 0,360 Q 128,353 256,358 Q 384,363 512,358" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 0,400 Q 128,393 256,398 Q 384,403 512,398" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <polyline points="256,40 62,482" fill="none" stroke="#1a1a1a" stroke-width="5" />
+  <polyline points="256,40 450,482" fill="none" stroke="#1a1a1a" stroke-width="5" />
+</svg>

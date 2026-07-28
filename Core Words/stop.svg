@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -20.250)">
+<rect x="248" y="384" width="16" height="92" rx="8" ry="8" fill="#c8c0d0" stroke="#1a1a1a" stroke-width="4" />
+<path d="M 256 80 L 360 112 Q 376 116 380 132 L 412 232 Q 416 248 412 264 L 380 324 Q 376 340 360 344 L 256 376 Q 240 380 224 376 L 152 344 Q 136 340 132 324 L 100 264 Q 96 248 100 232 L 132 132 Q 136 116 152 112 Z" fill="#ffb8b8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<path d="M 256 100 L 344 128 Q 354 132 358 142 L 388 232 Q 392 244 388 256 L 358 314 Q 354 324 344 328 L 256 354 Q 246 356 236 354 L 168 328 Q 158 324 154 314 L 124 256 Q 120 244 124 232 L 154 142 Q 158 132 168 128 Z" fill="none" stroke="#1a1a1a" stroke-width="4" />
+<text x="256" y="244" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="68" font-weight="bold" fill="#ffffff" text-anchor="middle">STOP</text>
+<circle cx="216" cy="280" r="5" fill="#101018" />
+<circle cx="296" cy="280" r="5" fill="#101018" />
+<circle cx="218" cy="278" r="1.5" fill="#ffffff" />
+<circle cx="298" cy="278" r="1.5" fill="#ffffff" />
+<path d="M 240 294 Q 256 302 272 294" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+
+
+</g>
+  </svg>

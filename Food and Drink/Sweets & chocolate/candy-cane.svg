@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g stroke-linejoin="round" stroke-linecap="round">
+<!-- Candy cane base shape (white) -->
+  <path d="M60,80 L60,30 Q60,10 40,10 Q20,10 20,30 Q20,50 40,50" fill="none" stroke="white" stroke-width="19.60" stroke-linecap="round"/>
+  <!-- Red stripes on cane -->
+  <path d="M60,80 L60,30 Q60,10 40,10 Q20,10 20,30 Q20,50 40,50" fill="none" stroke="#e53935" stroke-width="19.60" stroke-linecap="round" stroke-dasharray="8,8"/>
+  <!-- White overlay for clean stripes -->
+  <path d="M60,80 L60,30 Q60,10 40,10 Q20,10 20,30 Q20,50 40,50" fill="none" stroke="white" stroke-width="14.00" stroke-linecap="round" stroke-dasharray="8,8" stroke-dashoffset="8"/>
+  <!-- Outline -->
+  <path d="M60,80 L60,30 Q60,10 40,10 Q20,10 20,30 Q20,50 40,50" fill="none" stroke="#b71c1c" stroke-width="3.50" stroke-linecap="round"/>
+  <!-- Label -->
+</g>
+<g stroke="#1f1f1f" stroke-linecap="round"><circle cx="31.4" cy="36.6" r="2.7" fill="#1f1f1f"/><circle cx="48.6" cy="36.6" r="2.7" fill="#1f1f1f"/><path d="M 34.0 53.4 Q 40.0 61.0 46.0 53.4" fill="none" stroke-width="1.4"/><ellipse cx="25.3" cy="53.4" rx="4.8" ry="3.3" fill="#ff9bb5" opacity="0.7" stroke="none"/><ellipse cx="54.7" cy="53.4" rx="4.8" ry="3.3" fill="#ff9bb5" opacity="0.7" stroke="none"/></g></svg>

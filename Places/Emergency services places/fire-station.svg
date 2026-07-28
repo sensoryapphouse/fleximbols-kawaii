@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(34.250 -28.250)">
+<defs>
+<radialGradient id="kbl" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#ff9ec4" stop-opacity="0.55" />
+<stop offset="100%" stop-color="#ff9ec4" stop-opacity="0" />
+</radialGradient>
+</defs>
+<rect x="60" y="170" width="320" height="300" rx="20" fill="#fa7d7d" stroke="#1a1a1a" stroke-width="2.0000" />
+<path d="M48 174 L220 96 L392 174 Z" fill="#ff9e9e" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<rect x="330" y="120" width="54" height="350" rx="12" fill="#e98c8c" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="346" y="150" width="22" height="240" rx="7" fill="#ffd0d0" opacity="0.7" />
+<rect x="92" y="300" width="100" height="170" rx="12" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="208" y="300" width="100" height="170" rx="12" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="2.0000" />
+<g stroke="#1a1a1a" stroke-width="4">
+<line x1="92" y1="342" x2="192" y2="342" />
+<line x1="92" y1="384" x2="192" y2="384" />
+<line x1="92" y1="426" x2="192" y2="426" />
+<line x1="208" y1="342" x2="308" y2="342" />
+<line x1="208" y1="384" x2="308" y2="384" />
+<line x1="208" y1="426" x2="308" y2="426" />
+</g>
+<circle cx="220" cy="232" r="40" fill="#fff0b8" stroke="#1a1a1a" stroke-width="2.0000" />
+<path d="M220 210 Q210 224 220 236 Q214 226 226 218 Q224 232 232 240 Q240 230 232 214 Q244 226 236 244 Q230 256 220 256 Q206 256 204 240 Q204 224 220 210 Z" fill="#ff7d4a" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="150" cy="262" rx="15" ry="10" fill="url(#kbl)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="300" cy="262" rx="15" ry="10" fill="url(#kbl)" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="166" cy="250" r="6" fill="#9c3b3b" />
+<circle cx="286" cy="250" r="6" fill="#9c3b3b" />
+</g>
+  </svg>

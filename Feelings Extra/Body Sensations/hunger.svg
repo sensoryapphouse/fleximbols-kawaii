@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-53.250 -9.750)">
+  <title>hunger</title>
+  
+  
+  <path d="M 180 130 Q 180 100 220 100 L 292 100 Q 332 100 332 130 L 348 360 Q 352 420 296 432 L 216 432 Q 160 420 164 360 Z" fill="#ffe4d2" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M 180 130 Q 180 100 220 100 L 292 100 Q 332 100 332 130 L 336 180 L 176 180 Z" fill="#cde7f0" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M 176 180 Q 256 196 336 180" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <circle cx="256" cy="290" r="8" fill="#e8b8a0" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="220" cy="320" rx="6" ry="9" fill="#4a3a30" />
+  <ellipse cx="292" cy="320" rx="6" ry="9" fill="#4a3a30" />
+  <circle cx="222" cy="316" r="2" fill="#ffffff" />
+  <circle cx="294" cy="316" r="2" fill="#ffffff" />
+  
+  <path d="M 240 360 Q 256 348 272 360" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <circle cx="200" cy="340" r="10" fill="#ffb8c8" opacity="0.7" />
+  <circle cx="312" cy="340" r="10" fill="#ffb8c8" opacity="0.7" />
+  
+  <ellipse cx="396" cy="140" rx="60" ry="40" fill="#fff5e8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 360 170 L 340 195 L 360 180 Z" fill="#fff5e8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  <text x="396" y="152" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="28" font-weight="700" fill="#e89b9b" text-anchor="middle">grr~</text>
+  
+  <path d="M 156 458 Q 256 478 356 458 Q 356 472 256 478 Q 156 472 156 458 Z" fill="#e0d4c8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M 100 200 L 104 208 L 112 212 L 104 216 L 100 224 L 96 216 L 88 212 L 96 208 Z" fill="#fff5b8" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 420 380 L 424 388 L 432 392 L 424 396 L 420 404 L 416 396 L 408 392 L 416 388 Z" fill="#fff5b8" stroke="#1a1a1a" stroke-width="2" />
+</g>
+  </svg>

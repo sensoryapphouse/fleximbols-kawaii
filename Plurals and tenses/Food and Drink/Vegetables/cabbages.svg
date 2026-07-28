@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,31.488) scale(0.9385)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>cabbage</title>
+  
+  <path d="M80 290 Q76 200 150 160 Q160 110 232 122 Q260 86 318 110 Q394 102 414 174 Q458 212 432 290 Q458 360 396 406 Q358 448 286 442 Q228 460 172 424 Q108 408 90 346 Q60 326 80 290Z" fill="#bfe4a8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="256" cy="286" rx="132" ry="114" fill="#d6efb8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M256 184 Q230 244 256 318 Q282 244 256 184Z" fill="#eaf8d3" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M156 286 Q220 270 256 286 Q292 270 356 286" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M174 342 Q220 326 256 342 Q292 326 348 342" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M188 232 Q224 244 256 232" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <circle cx="220" cy="294" r="6" fill="#3a3a3a" />
+  <circle cx="292" cy="294" r="6" fill="#3a3a3a" />
+  <path d="M242 320 Q256 332 270 320" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <circle cx="200" cy="310" r="8" fill="#ffb8c8" opacity="0.7" />
+  <circle cx="312" cy="310" r="8" fill="#ffb8c8" opacity="0.7" />
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1519" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1519)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

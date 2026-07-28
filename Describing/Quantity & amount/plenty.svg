@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="104.73 143.13 302.55 302.55"><defs><radialGradient id="s3d_6dbf67" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#99d295"/><stop offset="0.45" stop-color="#6dbf67"/><stop offset="1" stop-color="#579952"/></radialGradient><radialGradient id="s3d_e36d6d" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eb9999"/><stop offset="0.45" stop-color="#e36d6d"/><stop offset="1" stop-color="#b65757"/></radialGradient><radialGradient id="s3d_5b9bd5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#8cb9e2"/><stop offset="0.45" stop-color="#5b9bd5"/><stop offset="1" stop-color="#497caa"/></radialGradient><radialGradient id="s3d_e8a13a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#efbd75"/><stop offset="0.45" stop-color="#e8a13a"/><stop offset="1" stop-color="#ba812e"/></radialGradient><radialGradient id="s3d_b07cc6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#c8a3d7"/><stop offset="0.45" stop-color="#b07cc6"/><stop offset="1" stop-color="#8d639e"/></radialGradient><radialGradient id="s3d_cfd6dc" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#dde2e6"/><stop offset="0.45" stop-color="#cfd6dc"/><stop offset="1" stop-color="#a6abb0"/></radialGradient></defs>
+<!-- PLENTY: a bowl overflowing with balls -->
+<!-- balls heaped above & spilling over the rim (drawn first so bowl overlaps lower halves) -->
+<circle cx="200" cy="232" r="32" fill="url(#s3d_6dbf67)" data-flat="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="312" cy="232" r="32" fill="url(#s3d_e36d6d)" data-flat="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="208" r="32" fill="url(#s3d_5b9bd5)" data-flat="#5b9bd5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="158" cy="270" r="30" fill="url(#s3d_e8a13a)" data-flat="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="354" cy="270" r="30" fill="url(#s3d_b07cc6)" data-flat="#b07cc6" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="216" cy="286" r="30" fill="url(#s3d_e8a13a)" data-flat="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="296" cy="286" r="30" fill="url(#s3d_6dbf67)" data-flat="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="300" r="30" fill="url(#s3d_e36d6d)" data-flat="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<!-- bowl -->
+<path d="M 128 296 L 384 296 A 128 110 0 0 1 128 296 Z" fill="url(#s3d_cfd6dc)" data-flat="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rim highlight -->
+<line x1="128" y1="296" x2="384" y2="296" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- base -->
+<path d="M 224 405 Q 256 420 288 405" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

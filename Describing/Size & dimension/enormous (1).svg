@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-18.750 -36.250)">
+<defs>
+<linearGradient id="ephBody" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#b0b3b8" />
+<stop offset="1" stop-color="#6e7177" />
+</linearGradient>
+<linearGradient id="ephBelly" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#c5c9ce" />
+<stop offset="1" stop-color="#8c9098" />
+</linearGradient>
+<linearGradient id="tuskFill" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fff8dc" />
+<stop offset="1" stop-color="#d8c6a0" />
+</linearGradient>
+</defs>
+<g stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" stroke-linecap="round">
+<ellipse cx="320" cy="290" rx="170" ry="120" fill="url(#ephBody)" />
+<ellipse cx="320" cy="320" rx="130" ry="80" fill="url(#ephBelly)" />
+<circle cx="170" cy="240" r="80" fill="url(#ephBody)" />
+<path d="M110 220 Q70 200 60 240 Q55 280 100 280" fill="url(#ephBody)" />
+<path d="M120 260 Q90 290 100 340 Q110 380 140 400" fill="url(#ephBody)" stroke-linecap="round" />
+<path d="M155 380 Q150 410 135 415" fill="url(#tuskFill)" />
+<path d="M195 380 Q200 415 220 410" fill="url(#tuskFill)" />
+<rect x="220" y="370" width="35" height="55" fill="url(#ephBody)" />
+<rect x="380" y="370" width="35" height="55" fill="url(#ephBody)" />
+<path d="M450 320 Q480 330 478 360 Q470 380 455 375" fill="url(#ephBody)" />
+<circle cx="145" cy="225" r="9" fill="#2b2622" />
+<circle cx="142" cy="222" r="3" fill="#ffffff" />
+<path d="M115 250 Q108 255 110 263" fill="none" />
+<path d="M105 200 Q90 180 100 165 L130 175" fill="url(#ephBody)" />
+<g stroke-width="6">
+<circle cx="470" cy="370" r="14" fill="#ffd1b3" />
+<path d="M458 380 Q470 376 482 380 L482 410 L458 410 Z" fill="#c44545" />
+<rect x="458" y="408" width="24" height="18" fill="#2b3856" />
+</g>
+</g>
+</g>
+  </svg>

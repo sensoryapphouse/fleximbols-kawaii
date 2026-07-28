@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<path d="M126 92 Q134 72 150 80 Q162 60 178 76 Q198 64 202 86 Q220 96 204 116 Q220 132 202 142 Q192 162 172 152 Q160 168 144 156 Q124 162 120 142 Q102 132 114 116 Q98 98 114 88 Q120 76 126 92 Z" fill="#cfe8b0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M226 56 Q234 38 248 46 Q260 28 274 44 Q292 36 294 56 Q310 66 296 80 Q310 94 294 102 Q286 120 270 112 Q260 124 246 116 Q230 122 228 106 Q214 96 224 84 Q212 70 224 62 Q226 50 226 56 Z" fill="#cfe8b0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M56 180 Q64 162 78 170 Q88 152 102 168 Q118 158 122 178 Q138 188 124 202 Q138 216 120 224 Q114 240 98 232 Q88 244 76 234 Q62 240 58 226 Q44 218 54 204 Q40 192 52 184 Q52 174 56 180 Z" fill="#cfe8b0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M324 50 Q332 32 346 40 Q356 22 370 38 Q388 30 390 50 Q406 60 392 74 Q404 88 388 96 Q380 112 364 104 Q354 116 340 108" fill="#cfe8b0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M386 160 Q394 142 408 150 Q418 134 432 150 Q448 142 450 160 Q466 170 452 184 Q464 200 448 206 Q440 222 426 214 Q416 224 402 218 Q388 224 386 208 Q370 198 382 184 Q366 174 378 168 Q378 152 386 160 Z" fill="#cfe8b0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M180 130 Q186 142 178 152 Q188 162 180 174" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M268 124 Q274 138 266 148" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<circle cx="180" cy="298" r="92" fill="#d0ecbc" stroke="#1a1a1a" stroke-width="2.0000" />
+<path d="M138 274 Q150 264 162 272" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M198 272 Q210 264 222 274" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M152 296 L172 312 M172 296 L152 312" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M188 296 L208 312 M208 296 L188 312" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M178 326 Q172 336 168 344" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<path d="M156 358 Q180 350 200 358" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<circle cx="138" cy="320" r="10" fill="#ffb8c8" opacity="0.8" />
+<circle cx="222" cy="320" r="10" fill="#ffb8c8" opacity="0.8" />
+<circle cx="360" cy="390" r="88" fill="#ffe1c8" stroke="#1a1a1a" stroke-width="2.0000" />
+<ellipse cx="334" cy="384" rx="14" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="334" cy="386" r="9" fill="#3a2a40" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="336" cy="382" r="3" fill="#ffffff" />
+<ellipse cx="386" cy="384" rx="14" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="386" cy="386" r="9" fill="#3a2a40" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="388" cy="382" r="3" fill="#ffffff" />
+<path d="M326 410 Q322 426 314 436" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<path d="M394 410 Q398 426 406 436" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<path d="M346 420 Q356 414 364 420 Q372 426 364 446 Q358 458 364 466 Q372 476 360 478 L344 478 Q336 472 340 466 Q344 458 340 446 Q344 426 346 420 Z" fill="#f0b890" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M332 452 Q342 450 346 458" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<path d="M376 458 Q382 450 392 454" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<circle cx="304" cy="420" r="14" fill="#ffb8c8" opacity="0.8" />
+<circle cx="416" cy="420" r="14" fill="#ffb8c8" opacity="0.8" />
+</svg>

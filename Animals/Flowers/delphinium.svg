@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -72.750)">
+  
+  
+  <path d="M256 470 L256 110" stroke="#1a1a1a" stroke-width="8" fill="none" stroke-linecap="round" />
+  
+  <path d="M256 430 Q210 422 184 442 Q212 432 252 438 Z" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M256 410 Q302 400 330 420 Q302 412 260 418 Z" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M256 380 Q214 372 188 390 Q214 380 254 386 Z" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <g stroke="#1a1a1a" stroke-width="1.5">
+    <circle cx="240" cy="370" r="13" fill="#d0e8ff" />
+    <circle cx="272" cy="370" r="13" fill="#e0d0f0" />
+    <circle cx="222" cy="360" r="12" fill="#e0d0f0" />
+    <circle cx="290" cy="360" r="12" fill="#d0e8ff" />
+    <circle cx="256" cy="358" r="13" fill="#c9b8e8" />
+    <circle cx="236" cy="346" r="12" fill="#d0e8ff" />
+    <circle cx="276" cy="346" r="12" fill="#e0d0f0" />
+    <circle cx="220" cy="334" r="11" fill="#c9b8e8" />
+    <circle cx="292" cy="334" r="11" fill="#d0e8ff" />
+    <circle cx="256" cy="332" r="12" fill="#e0d0f0" />
+    <circle cx="238" cy="320" r="11" fill="#d0e8ff" />
+    <circle cx="274" cy="320" r="11" fill="#c9b8e8" />
+    <circle cx="222" cy="308" r="10" fill="#e0d0f0" />
+    <circle cx="290" cy="308" r="10" fill="#d0e8ff" />
+    <circle cx="256" cy="306" r="11" fill="#c9b8e8" />
+    <circle cx="240" cy="294" r="10" fill="#e0d0f0" />
+    <circle cx="272" cy="294" r="10" fill="#d0e8ff" />
+    <circle cx="226" cy="282" r="9" fill="#c9b8e8" />
+    <circle cx="286" cy="282" r="9" fill="#e0d0f0" />
+    <circle cx="256" cy="280" r="10" fill="#d0e8ff" />
+    <circle cx="240" cy="268" r="9" fill="#e0d0f0" />
+    <circle cx="272" cy="268" r="9" fill="#c9b8e8" />
+    <circle cx="228" cy="256" r="9" fill="#d0e8ff" />
+    <circle cx="284" cy="256" r="9" fill="#e0d0f0" />
+    <circle cx="256" cy="254" r="9" fill="#c9b8e8" />
+    <circle cx="242" cy="242" r="8" fill="#d0e8ff" />
+    <circle cx="270" cy="242" r="8" fill="#e0d0f0" />
+    <circle cx="230" cy="230" r="8" fill="#c9b8e8" />
+    <circle cx="282" cy="230" r="8" fill="#d0e8ff" />
+    <circle cx="256" cy="228" r="8" fill="#e0d0f0" />
+    <circle cx="244" cy="216" r="7" fill="#c9b8e8" />
+    <circle cx="268" cy="216" r="7" fill="#d0e8ff" />
+    <circle cx="234" cy="204" r="7" fill="#e0d0f0" />
+    <circle cx="278" cy="204" r="7" fill="#c9b8e8" />
+    <circle cx="256" cy="202" r="7" fill="#d0e8ff" />
+    <circle cx="246" cy="190" r="6" fill="#e0d0f0" />
+    <circle cx="266" cy="190" r="6" fill="#c9b8e8" />
+    <circle cx="238" cy="178" r="6" fill="#d0e8ff" />
+    <circle cx="274" cy="178" r="6" fill="#e0d0f0" />
+    <circle cx="256" cy="176" r="6" fill="#c9b8e8" />
+    <circle cx="248" cy="164" r="5" fill="#d0e8ff" />
+    <circle cx="264" cy="164" r="5" fill="#e0d0f0" />
+    <circle cx="242" cy="152" r="5" fill="#c9b8e8" />
+    <circle cx="270" cy="152" r="5" fill="#d0e8ff" />
+    <circle cx="256" cy="150" r="5" fill="#e0d0f0" />
+    <circle cx="250" cy="138" r="4" fill="#c9b8e8" />
+    <circle cx="262" cy="138" r="4" fill="#d0e8ff" />
+    <circle cx="256" cy="126" r="4" fill="#e0d0f0" />
+  </g>
+  
+  <circle cx="252" cy="356" r="1.4" fill="#2b2622" />
+  <circle cx="260" cy="356" r="1.4" fill="#2b2622" />
+  <path d="M253 361 Q256 363 259 361" stroke="#1a1a1a" stroke-width="1.2" fill="none" stroke-linecap="round" />
+</g>
+  </svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <rect x="0" y="0" width="512" height="512" fill="#a0b0d0" />
+  <rect x="0" y="0" width="512" height="300" fill="#8a98b8" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="0" y="400" width="512" height="112" fill="#a8d8a0" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="0" y1="400" x2="512" y2="400" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="256" cy="100" rx="220" ry="60" fill="#7080a0" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="160" cy="80" rx="80" ry="40" fill="#8a98b8" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="350" cy="80" rx="80" ry="40" fill="#8a98b8" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="256" cy="60" rx="100" ry="35" fill="#8a98b8" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="420" cy="100" rx="60" ry="35" fill="#7080a0" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="90" cy="105" rx="60" ry="35" fill="#7080a0" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="230" cy="105" r="5" fill="#2b2622" />
+  <circle cx="282" cy="105" r="5" fill="#2b2622" />
+  <circle cx="231" cy="103" r="1.5" fill="#ffffff" />
+  <circle cx="283" cy="103" r="1.5" fill="#ffffff" />
+  <path d="M 244 120 Q 256 115 268 120" stroke="#1a1a1a" stroke-width="2" fill="none" />
+  <radialGradient id="cheekHS" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#ffb0c8" />
+    <stop offset="100%" stop-color="#ffb0c8" stop-opacity="0" />
+  </radialGradient>
+  <circle cx="220" cy="115" r="5" fill="url(#cheekHS)" />
+  <circle cx="292" cy="115" r="5" fill="url(#cheekHS)" />
+  
+  <rect x="60" y="370" width="120" height="30" rx="5" fill="#ff9090" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 80 370 L 90 345 L 150 345 L 165 370 Z" fill="#ff9090" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="90" y="350" width="25" height="20" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="125" y="350" width="25" height="20" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="85" cy="402" r="11" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="85" cy="402" r="4" fill="#888888" />
+  <circle cx="160" cy="402" r="11" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="160" cy="402" r="4" fill="#888888" />
+  
+  <ellipse cx="380" cy="330" rx="35" ry="32" fill="#ffd6b0" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 348 320 Q 348 295 380 290 Q 412 295 412 320 Q 405 305 380 305 Q 355 305 348 320 Z" fill="#604030" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="380" cy="395" rx="35" ry="22" fill="#a0d8a0" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M 355 320 Q 345 300 343 285 L 350 280 Q 360 295 367 315 Z" fill="#a0d8a0" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 405 320 Q 415 300 417 285 L 410 280 Q 400 295 393 315 Z" fill="#a0d8a0" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="347" cy="282" rx="7" ry="6" fill="#ffd6b0" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="413" cy="282" rx="7" ry="6" fill="#ffd6b0" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="370" cy="328" r="3" fill="#2b2622" />
+  <circle cx="390" cy="328" r="3" fill="#2b2622" />
+  <circle cx="371" cy="326" r="1" fill="#ffffff" />
+  <circle cx="391" cy="326" r="1" fill="#ffffff" />
+  <ellipse cx="380" cy="342" rx="4" ry="3" fill="#2b2622" />
+  <circle cx="360" cy="338" r="5" fill="url(#cheekHS)" />
+  <circle cx="400" cy="338" r="5" fill="url(#cheekHS)" />
+  
+  <circle cx="250" cy="200" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="245" cy="195" rx="5" ry="3" fill="#f0f8ff" />
+  <circle cx="180" cy="250" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="176" cy="246" rx="4" ry="2.5" fill="#f0f8ff" />
+  <circle cx="320" cy="220" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="316" cy="216" rx="5" ry="3" fill="#f0f8ff" />
+  <circle cx="120" cy="180" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="116" cy="176" rx="4" ry="2.5" fill="#f0f8ff" />
+  <circle cx="400" cy="190" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="396" cy="186" rx="4" ry="2.5" fill="#f0f8ff" />
+  <circle cx="430" cy="270" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="426" cy="266" rx="4" ry="2.5" fill="#f0f8ff" />
+  <circle cx="60" cy="240" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="56" cy="236" rx="4" ry="2.5" fill="#f0f8ff" />
+  <circle cx="220" cy="290" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="216" cy="286" rx="5" ry="3" fill="#f0f8ff" />
+  <circle cx="280" cy="320" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="276" cy="316" rx="4" ry="2.5" fill="#f0f8ff" />
+  <circle cx="150" cy="340" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="146" cy="336" rx="4" ry="2.5" fill="#f0f8ff" />
+  
+  <circle cx="40" cy="430" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="220" cy="440" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="280" cy="455" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="320" cy="440" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="450" cy="450" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="470" cy="425" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="180" cy="460" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="mmBody" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffd9a0" />
+<stop offset="1" stop-color="#ffa84a" />
+</linearGradient>
+</defs>
+<circle cx="230" cy="290" r="76" fill="#fff3d6" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="230" cy="290" r="22" fill="#c46a20" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="230,290 224,222 236,222" fill="#3a2820" stroke="#1a1a1a" stroke-width="2" />
+<g font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#5a3a1a">
+</g>
+<g stroke="#1a1a1a" stroke-width="2" fill="none">
+<line x1="230" y1="220" x2="230" y2="226" />
+<line x1="266" y1="232" x2="262" y2="238" />
+<line x1="294" y1="262" x2="288" y2="266" />
+<line x1="304" y1="296" x2="298" y2="296" />
+<line x1="294" y1="328" x2="288" y2="324" />
+<line x1="266" y1="350" x2="262" y2="344" />
+<line x1="230" y1="362" x2="230" y2="356" />
+<line x1="194" y1="350" x2="198" y2="344" />
+<line x1="166" y1="328" x2="172" y2="324" />
+<line x1="156" y1="296" x2="162" y2="296" />
+<line x1="166" y1="262" x2="172" y2="266" />
+<line x1="194" y1="232" x2="198" y2="238" />
+</g>
+<circle cx="160" cy="396" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="230" cy="396" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="300" cy="396" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+<path d="M 160 396 Q 100 430 60 460" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<g transform="translate(50,470) rotate(20)">
+<rect x="-6" y="0" width="12" height="40" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+<rect x="-3" y="38" width="6" height="14" fill="#a0a0a0" />
+</g>
+<path d="M 300 396 Q 400 430 460 442" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<g transform="translate(466,442) rotate(-20)">
+<rect x="-6" y="0" width="12" height="40" rx="3" fill="#e84a4a" stroke="#1a1a1a" stroke-width="2" />
+<rect x="-3" y="38" width="6" height="14" fill="#a0a0a0" />
+</g>
+</svg>

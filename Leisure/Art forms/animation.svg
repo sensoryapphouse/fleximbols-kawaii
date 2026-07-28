@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.03 95.03 321.94 321.94"><defs><radialGradient id="s3d_e2604f" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eb9084"/><stop offset="0.45" stop-color="#e2604f"/><stop offset="1" stop-color="#b54d3f"/></radialGradient><radialGradient id="s3d_7ec97e" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#a5d9a5"/><stop offset="0.45" stop-color="#7ec97e"/><stop offset="1" stop-color="#65a165"/></radialGradient><radialGradient id="s3d_5aa9e6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#8cc3ee"/><stop offset="0.45" stop-color="#5aa9e6"/><stop offset="1" stop-color="#4887b8"/></radialGradient></defs>
+<!-- film strip body -->
+<rect x="120" y="150" width="272" height="212" rx="12" fill="#3a3f47" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top sprocket holes -->
+<rect x="138" y="162" width="20" height="20" rx="4" fill="#fdfdfd"/>
+<rect x="186" y="162" width="20" height="20" rx="4" fill="#fdfdfd"/>
+<rect x="234" y="162" width="20" height="20" rx="4" fill="#fdfdfd"/>
+<rect x="282" y="162" width="20" height="20" rx="4" fill="#fdfdfd"/>
+<rect x="330" y="162" width="20" height="20" rx="4" fill="#fdfdfd"/>
+<!-- bottom sprocket holes -->
+<rect x="138" y="330" width="20" height="20" rx="4" fill="#fdfdfd"/>
+<rect x="186" y="330" width="20" height="20" rx="4" fill="#fdfdfd"/>
+<rect x="234" y="330" width="20" height="20" rx="4" fill="#fdfdfd"/>
+<rect x="282" y="330" width="20" height="20" rx="4" fill="#fdfdfd"/>
+<rect x="330" y="330" width="20" height="20" rx="4" fill="#fdfdfd"/>
+<!-- three frames showing a bouncing ball animating (sequence) -->
+<rect x="138" y="196" width="68" height="120" rx="4" fill="#fdfdfd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="172" cy="232" r="18" fill="url(#s3d_e2604f)" data-flat="#e2604f" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="222" y="196" width="68" height="120" rx="4" fill="#fdfdfd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256" cy="256" r="18" fill="url(#s3d_7ec97e)" data-flat="#7ec97e" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="306" y="196" width="68" height="120" rx="4" fill="#fdfdfd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="340" cy="284" r="18" fill="url(#s3d_5aa9e6)" data-flat="#5aa9e6" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

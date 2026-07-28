@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="kpinebark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a07a52" />
+      <stop offset="0.5" stop-color="#c69870" />
+      <stop offset="1" stop-color="#7e5e38" />
+    </linearGradient>
+    <radialGradient id="kpinefoliage" cx="0.5" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#a4d2a8" />
+      <stop offset="1" stop-color="#5e9c64" />
+    </radialGradient>
+    <linearGradient id="kpinecone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d09668" />
+      <stop offset="1" stop-color="#8a5a30" />
+    </linearGradient>
+    <radialGradient id="kpineblush" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb0c0" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#ffb0c0" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  
+  <path d="M232,470 L236,370 Q236,356 248,352 L264,352 Q276,356 276,370 L280,470 Z" fill="url(#kpinebark)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <polygon points="256,50 168,190 196,190 152,270 188,270 130,360 382,360 324,270 360,270 316,190 344,190" fill="url(#kpinefoliage)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="1.6" stroke-linecap="round" fill="none">
+    <g transform="translate(110,340)">
+      <path d="M0,0 L-30,-18" />
+      <path d="M0,0 L-32,-8" />
+      <path d="M0,0 L-32,8" />
+      <path d="M0,0 L-28,20" />
+    </g>
+    <g transform="translate(150,260)">
+      <path d="M0,0 L-26,-16" />
+      <path d="M0,0 L-28,-4" />
+      <path d="M0,0 L-26,10" />
+    </g>
+    <g transform="translate(196,150)">
+      <path d="M0,0 L-24,-14" />
+      <path d="M0,0 L-26,0" />
+      <path d="M0,0 L-24,14" />
+    </g>
+    <g transform="translate(402,340)">
+      <path d="M0,0 L30,-18" />
+      <path d="M0,0 L32,-8" />
+      <path d="M0,0 L32,8" />
+      <path d="M0,0 L28,20" />
+    </g>
+    <g transform="translate(362,260)">
+      <path d="M0,0 L26,-16" />
+      <path d="M0,0 L28,-4" />
+      <path d="M0,0 L26,10" />
+    </g>
+    <g transform="translate(316,150)">
+      <path d="M0,0 L24,-14" />
+      <path d="M0,0 L26,0" />
+      <path d="M0,0 L24,14" />
+    </g>
+  </g>
+  <g fill="#5e9c64" stroke="#1a1a1a" stroke-width="1.2">
+    <circle cx="110" cy="340" r="4" />
+    <circle cx="150" cy="260" r="4" />
+    <circle cx="196" cy="150" r="4" />
+    <circle cx="402" cy="340" r="4" />
+    <circle cx="362" cy="260" r="4" />
+    <circle cx="316" cy="150" r="4" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="2.4" stroke-linejoin="round">
+    <ellipse cx="200" cy="310" rx="15" ry="24" fill="url(#kpinecone)" />
+    <ellipse cx="320" cy="250" rx="13" ry="21" fill="url(#kpinecone)" />
+    <ellipse cx="256" cy="210" rx="13" ry="21" fill="url(#kpinecone)" />
+  </g>
+  <g fill="none" stroke="#1a1a1a" stroke-width="1.3">
+    <path d="M187,298 q13,4 26,0" />
+    <path d="M187,310 q13,4 26,0" />
+    <path d="M187,322 q13,4 26,0" />
+    <path d="M308,238 q12,4 24,0" />
+    <path d="M308,250 q12,4 24,0" />
+    <path d="M308,262 q12,4 24,0" />
+    <path d="M244,198 q12,4 24,0" />
+    <path d="M244,210 q12,4 24,0" />
+    <path d="M244,222 q12,4 24,0" />
+  </g>
+  
+  <ellipse cx="240" cy="320" rx="13" ry="10" fill="url(#kpineblush)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="272" cy="320" rx="13" ry="10" fill="url(#kpineblush)" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="244" cy="308" r="4" fill="#2a1a18" />
+  <circle cx="268" cy="308" r="4" fill="#2a1a18" />
+  <circle cx="245.5" cy="306.5" r="1.4" fill="#ffffff" />
+  <circle cx="269.5" cy="306.5" r="1.4" fill="#ffffff" />
+  <path d="M250,324 Q256,330 262,324" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+</svg>

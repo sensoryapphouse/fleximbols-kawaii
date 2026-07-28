@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -16.250)">
+  
+  <rect x="118" y="370" width="276" height="16" fill="#e0c898" stroke="#1a1a1a" stroke-width="4" rx="4" />
+  <rect x="152" y="384" width="12" height="62" fill="#e0c898" stroke="#1a1a1a" stroke-width="3" rx="3" />
+  <rect x="348" y="384" width="12" height="62" fill="#e0c898" stroke="#1a1a1a" stroke-width="3" rx="3" />
+
+  
+  
+  <rect x="186" y="292" width="140" height="78" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="5" rx="8" />
+  
+  <path d="M186 302 Q199 296 212 306 Q225 296 238 306 Q251 296 264 306 Q277 296 290 306 Q303 296 316 306 Q326 296 326 302" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="208" y="242" width="96" height="52" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="5" rx="8" />
+  
+  <path d="M208 252 Q219 245 230 253 Q241 245 252 253 Q263 245 274 253 Q285 245 296 253 Q304 245 304 252" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="248" y="213" width="15" height="30" fill="#ff80b0" stroke="#1a1a1a" stroke-width="3" rx="3" />
+  
+  <polygon points="255,200 258,208 266,208 260,213 262,221 255,217 248,221 250,213 244,208 252,208" fill="#ffee44" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M255 196 C252 203 249 208 255 208 C261 208 258 203 255 196 Z" fill="#ffaa00" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="198" y="314" width="9" height="5" fill="#ff6699" transform="rotate(30 198 314)" rx="2" />
+  <rect x="215" y="310" width="9" height="5" fill="#66cc66" transform="rotate(-20 215 310)" rx="2" />
+  <rect x="232" y="316" width="9" height="5" fill="#6699ff" transform="rotate(40 232 316)" rx="2" />
+  <rect x="250" y="310" width="9" height="5" fill="#ffaa44" transform="rotate(-30 250 310)" rx="2" />
+  <rect x="268" y="316" width="9" height="5" fill="#cc66ff" transform="rotate(15 268 316)" rx="2" />
+  <rect x="286" y="310" width="9" height="5" fill="#ff6699" transform="rotate(-25 286 310)" rx="2" />
+  <rect x="304" y="316" width="9" height="5" fill="#44ccaa" transform="rotate(35 304 316)" rx="2" />
+
+  
+  <rect x="82" y="285" width="42" height="70" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="5" rx="6" />
+  <circle cx="103" cy="264" r="32" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M76 256 Q103 236 130 256 L134 302 Q103 312 72 302 Z" fill="#c890c0" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="94" cy="261" r="5" fill="#2b2622" />
+  <circle cx="112" cy="261" r="5" fill="#2b2622" />
+  <circle cx="95" cy="259" r="2" fill="#ffffff" />
+  <circle cx="113" cy="259" r="2" fill="#ffffff" />
+  <path d="M94 272 Q103 280 112 272" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="93" cy="277" r="6" fill="#ffb0b8" opacity="0.7" />
+  <circle cx="113" cy="277" r="6" fill="#ffb0b8" opacity="0.7" />
+  
+  <line x1="82" y1="296" x2="58" y2="268" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <line x1="124" y1="296" x2="142" y2="272" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  
+  <rect x="84" y="353" width="14" height="22" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="4" rx="3" />
+  <rect x="106" y="353" width="14" height="22" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="4" rx="3" />
+
+  
+  <rect x="388" y="285" width="42" height="70" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="5" rx="6" />
+  <circle cx="409" cy="264" r="32" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M382 256 Q409 238 436 256" fill="#a07848" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="400" cy="261" r="5" fill="#2b2622" />
+  <circle cx="418" cy="261" r="5" fill="#2b2622" />
+  <circle cx="401" cy="259" r="2" fill="#ffffff" />
+  <circle cx="419" cy="259" r="2" fill="#ffffff" />
+  <path d="M400 272 Q409 280 418 272" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="399" cy="277" r="6" fill="#ffb0b8" opacity="0.7" />
+  <circle cx="419" cy="277" r="6" fill="#ffb0b8" opacity="0.7" />
+  
+  <line x1="388" y1="296" x2="365" y2="270" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <line x1="430" y1="296" x2="454" y2="268" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  
+  <rect x="390" y="353" width="14" height="22" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="4" rx="3" />
+  <rect x="412" y="353" width="14" height="22" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="4" rx="3" />
+
+  
+  <path d="M168 196 C168 190 175 184 182 190 C189 184 196 190 196 196 C196 207 182 218 182 218 C182 218 168 207 168 196 Z" fill="#ff88bb" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M312 192 C312 186 319 180 326 186 C333 180 340 186 340 192 C340 203 326 214 326 214 C326 214 312 203 312 192 Z" fill="#ff88bb" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M236 165 C236 159 242 153 248 159 C254 153 260 159 260 165 C260 176 248 186 248 186 C248 186 236 176 236 165 Z" fill="#ffaad0" stroke="#1a1a1a" stroke-width="2" />
+
+  
+  <rect x="65" y="190" width="9" height="5" fill="#ffcc88" transform="rotate(30 65 190)" rx="2" />
+  <rect x="440" y="195" width="9" height="5" fill="#ff88bb" transform="rotate(-25 440 195)" rx="2" />
+  <rect x="148" y="170" width="7" height="4" fill="#88ee99" transform="rotate(15 148 170)" rx="2" />
+  <rect x="355" y="165" width="7" height="4" fill="#99aaff" transform="rotate(-40 355 165)" rx="2" />
+  <circle cx="88" cy="215" r="5" fill="#ffaacc" />
+  <circle cx="418" cy="220" r="5" fill="#aaccff" />
+</g>
+  </svg>

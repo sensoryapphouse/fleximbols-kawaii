@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<title>puppet</title>
+
+<rect x="140" y="50" width="232" height="22" rx="11" fill="#D4A574" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<line x1="170" y1="72" x2="180" y2="270" stroke="#1a1a1a" stroke-width="2" />
+<line x1="342" y1="72" x2="332" y2="270" stroke="#1a1a1a" stroke-width="2" />
+<line x1="256" y1="72" x2="256" y2="135" stroke="#1a1a1a" stroke-width="2" />
+
+<circle cx="256" cy="180" r="60" fill="#FFE5D0" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<path d="M210 155 L302 155 L290 110 Q 256 95 222 110 Z" fill="#D5C2EB" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<circle cx="256" cy="95" r="9" fill="#FFB6C1" stroke="#1a1a1a" stroke-width="2.5" />
+
+<circle cx="236" cy="178" r="6" fill="#5C4A3A" />
+<circle cx="276" cy="178" r="6" fill="#5C4A3A" />
+<circle cx="218" cy="196" r="11" fill="#FFB6C1" opacity="0.7" />
+<circle cx="294" cy="196" r="11" fill="#FFB6C1" opacity="0.7" />
+<path d="M240 206 Q 256 218 272 206" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+
+<rect x="216" y="235" width="80" height="100" rx="30" fill="#B5E0FF" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<circle cx="256" cy="260" r="7" fill="#FFB6C1" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="256" cy="290" r="7" fill="#FFB6C1" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="256" cy="320" r="7" fill="#FFB6C1" stroke="#1a1a1a" stroke-width="2" />
+
+<rect x="166" y="248" width="60" height="26" rx="13" fill="#B5E0FF" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="158" cy="261" r="14" fill="#FFE5D0" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="286" y="248" width="60" height="26" rx="13" fill="#B5E0FF" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="354" cy="261" r="14" fill="#FFE5D0" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<rect x="220" y="335" width="26" height="72" rx="13" fill="#FFCBA4" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="266" y="335" width="26" height="72" rx="13" fill="#FFCBA4" stroke="#1a1a1a" stroke-width="2.0000" />
+<ellipse cx="233" cy="412" rx="20" ry="10" fill="#A4D4F4" stroke="#1a1a1a" stroke-width="2.0000" />
+<ellipse cx="279" cy="412" rx="20" ry="10" fill="#A4D4F4" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<g fill="#FFE066" stroke="#1a1a1a" stroke-width="2">
+  <polygon points="100,150 105,162 117,167 105,172 100,184 95,172 83,167 95,162" />
+  <polygon points="412,330 416,340 426,344 416,348 412,358 408,348 398,344 408,340" />
+</g>
+<text x="256" y="478" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="700" fill="#7A5C7A" text-anchor="middle">puppet</text>
+</svg>

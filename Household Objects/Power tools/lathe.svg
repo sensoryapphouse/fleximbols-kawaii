@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="b" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#e8eef8" /><stop offset="55%" stop-color="#9aa8c0" /><stop offset="100%" stop-color="#5a6888" /></radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#3a4858" stop-opacity="0" /><stop offset="72%" stop-color="#3a4858" stop-opacity="0" /><stop offset="100%" stop-color="#3a4858" stop-opacity="0.38" /></radialGradient>
+    <radialGradient id="bowl" cx="38%" cy="32%" r="72%"><stop offset="0%" stop-color="#fff0d0" /><stop offset="55%" stop-color="#e0a860" /><stop offset="100%" stop-color="#b07030" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    
+    
+    <clipPath id="clh"><rect x="68" y="130" width="110" height="160" rx="14" /></clipPath>
+    <clipPath id="clt"><rect x="334" y="148" width="90" height="140" rx="14" /></clipPath>
+  </defs>
+
+  
+  <rect x="55" y="295" width="402" height="48" rx="10" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.4" />
+  
+  <rect x="55" y="295" width="402" height="48" rx="10" fill="url(#b)" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="65" y="305" width="382" height="10" rx="4" fill="#7888a8" stroke="#1a1a1a" stroke-width="1.5" />
+  <rect x="65" y="325" width="382" height="10" rx="4" fill="#7888a8" stroke="#1a1a1a" stroke-width="1.5" />
+  
+  <rect x="80" y="340" width="36" height="80" rx="8" fill="#6878a0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="396" y="340" width="36" height="80" rx="8" fill="#6878a0" stroke="#1a1a1a" stroke-width="2.5" />
+
+  
+  <rect x="68" y="130" width="110" height="170" rx="14" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.4" />
+  
+  <rect x="68" y="130" width="110" height="170" rx="14" fill="url(#b)" stroke="#1a1a1a" stroke-width="2.0000" />
+  <g clip-path="url(#clh)">
+    
+    <rect x="68" y="130" width="110" height="170" rx="14" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  
+  <circle cx="178" cy="220" r="28" fill="#8898b8" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="178" cy="220" r="18" fill="#6878a0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="168" y="196" width="20" height="10" rx="3" fill="#a0b0c8" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="168" y="234" width="20" height="10" rx="3" fill="#a0b0c8" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="154" y="212" width="10" height="18" rx="3" fill="#a0b0c8" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="192" y="212" width="10" height="18" rx="3" fill="#a0b0c8" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="110" cy="175" r="30" fill="#7888a8" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="110" cy="175" r="18" fill="#8898b8" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="90" cy="260" r="14" fill="#9098b0" stroke="#1a1a1a" stroke-width="2" />
+
+  
+  <rect x="334" y="148" width="90" height="150" rx="14" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.4" />
+  
+  <rect x="334" y="148" width="90" height="150" rx="14" fill="url(#b)" stroke="#1a1a1a" stroke-width="2.0000" />
+  <g clip-path="url(#clt)">
+    
+    <rect x="334" y="148" width="90" height="150" rx="14" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  
+  <path d="M334,220 L310,230 L310,210 Z" fill="#a0b0c8" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="360" y="268" width="36" height="16" rx="5" fill="#8898b8" stroke="#1a1a1a" stroke-width="2" />
+
+  
+  <rect x="190" y="260" width="140" height="14" rx="5" fill="#8090b0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="248" y="270" width="16" height="32" rx="4" fill="#6878a0" stroke="#1a1a1a" stroke-width="2" />
+
+  
+  <path d="M195,130 Q190,110 215,100 Q256,88 297,100 Q322,110 317,130 Q308,165 278,178 Q256,185 234,178 Q204,165 195,130 Z" fill="url(#bowl)" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M210,118 Q256,106 302,118" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+  
+  <path d="M215,132 Q218,155 256,162 Q294,155 297,132 Q290,128 256,125 Q222,128 215,132 Z" fill="#c07828" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M200,128 Q256,118 312,128" fill="none" stroke="#1a1a1a" stroke-width="2" opacity="0.5" />
+  <path d="M197,140 Q256,130 315,140" fill="none" stroke="#1a1a1a" stroke-width="2" opacity="0.5" />
+
+  
+  <ellipse cx="196" cy="430" rx="26" ry="16" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="316" cy="430" rx="26" ry="16" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="210" cy="414" rx="14" ry="17" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="302" cy="414" rx="14" ry="17" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="207" cy="409" rx="5" ry="6" fill="#ffffff" />
+  <ellipse cx="299" cy="409" rx="5" ry="6" fill="#ffffff" />
+  <circle cx="209" cy="413" r="2" fill="#ffffff" />
+  <circle cx="301" cy="413" r="2" fill="#ffffff" />
+  
+  <ellipse cx="256" cy="428" rx="6" ry="4" fill="#5a6888" />
+  
+  <path d="M238,438 C246,448 266,448 274,438" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</svg>

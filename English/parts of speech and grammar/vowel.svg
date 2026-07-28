@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.52 79.52 352.97 352.97"><defs><radialGradient id="s3d_ffd9b0" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ffe4c8"/><stop offset="0.45" stop-color="#ffd9b0"/><stop offset="1" stop-color="#ccae8d"/></radialGradient><radialGradient id="s3d_c0392b" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#d3746b"/><stop offset="0.45" stop-color="#c0392b"/><stop offset="1" stop-color="#9a2e22"/></radialGradient><radialGradient id="s3d_e8746a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ef9e97"/><stop offset="0.45" stop-color="#e8746a"/><stop offset="1" stop-color="#ba5d55"/></radialGradient></defs>
+<!-- vowel = an open mouth token (open / voiced sound) -->
+<circle cx="256" cy="256" r="150" fill="url(#s3d_ffd9b0)" data-flat="#ffd9b0" stroke="#1a1a1a" stroke-width="9"/>
+<!-- open mouth (open vocal sound) -->
+<ellipse cx="256" cy="262" rx="78" ry="92" fill="url(#s3d_c0392b)" data-flat="#c0392b" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="318" rx="46" ry="30" fill="url(#s3d_e8746a)" data-flat="#e8746a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- sound openness mark -->
+<path d="M 196 210 C 232 196 280 196 316 210" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

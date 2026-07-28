@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,89.958) scale(0.8243)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>vine</title>
+  
+  <g stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" stroke-linecap="round" fill="none">
+    
+    <path d="M 90 480 Q 110 380 190 340 Q 280 300 240 210 Q 200 120 320 90 Q 410 70 440 40" stroke="#1a1a1a" stroke-width="12" />
+    
+    <path d="M 190 340 Q 140 320 145 280 Q 152 250 180 268" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M 240 210 Q 290 200 290 235 Q 290 260 264 252" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M 320 90 Q 340 140 380 138 Q 408 132 398 108" stroke="#1a1a1a" stroke-width="5" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" stroke-linecap="round">
+    
+    <path d="M 100 420 Q 50 400 40 440 Q 50 478 102 462 Z" fill="#a8d870" />
+    <circle cx="68" cy="438" r="3" fill="#3a2a4a" />
+    <circle cx="82" cy="438" r="3" fill="#3a2a4a" />
+    <path d="M 70 448 Q 75 452 80 448" fill="none" />
+    <circle cx="60" cy="446" r="4" fill="#ffb0c8" stroke="none" />
+    <circle cx="90" cy="446" r="4" fill="#ffb0c8" stroke="none" />
+    
+    <path d="M 195 345 Q 245 320 250 365 Q 240 405 188 385 Z" fill="#c0e090" />
+    <circle cx="214" cy="358" r="3" fill="#3a2a4a" />
+    <circle cx="228" cy="358" r="3" fill="#3a2a4a" />
+    <path d="M 216 370 Q 221 374 226 370" fill="none" />
+    
+    <path d="M 270 240 Q 320 210 342 250 Q 350 290 308 302 Q 278 296 270 240 Z" fill="#a8d870" />
+    <circle cx="298" cy="258" r="3" fill="#3a2a4a" />
+    <circle cx="316" cy="258" r="3" fill="#3a2a4a" />
+    <path d="M 300 272 Q 307 278 314 272" fill="none" />
+    <circle cx="290" cy="270" r="5" fill="#ffb0c8" stroke="none" />
+    <circle cx="324" cy="270" r="5" fill="#ffb0c8" stroke="none" />
+    
+    <path d="M 240 180 Q 200 150 180 192 Q 184 228 232 220 Z" fill="#c0e090" />
+    <circle cx="200" cy="188" r="3" fill="#3a2a4a" />
+    <circle cx="216" cy="188" r="3" fill="#3a2a4a" />
+    <path d="M 202 200 Q 208 204 214 200" fill="none" />
+    
+    <path d="M 380 80 Q 432 60 442 100 Q 432 142 380 132 Z" fill="#a8d870" />
+    <circle cx="402" cy="96" r="3" fill="#3a2a4a" />
+    <circle cx="418" cy="96" r="3" fill="#3a2a4a" />
+    <path d="M 404 108 Q 410 112 416 108" fill="none" />
+    <circle cx="394" cy="106" r="5" fill="#ffb0c8" stroke="none" />
+    <circle cx="428" cy="106" r="5" fill="#ffb0c8" stroke="none" />
+  </g>
+  
+  <g fill="#ffd86a" stroke="#1a1a1a" stroke-width="2">
+    <polygon points="60,200 66,216 82,222 66,228 60,244 54,228 38,222 54,216" />
+    <polygon points="450,200 456,216 472,222 456,228 450,244 444,228 428,222 444,216" />
+  </g>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl308" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl308)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-14.920 -47.229) scale(1.1856)">
+  
+  
+  <path d="M180 90 C190 120, 210 150, 230 190 C238 205, 245 220, 248 240 L262 240 C260 220, 254 205, 248 190 C230 150, 212 120, 202 90 Z" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="1.6869" />
+
+  
+  <path d="M312 90 C302 120, 284 150, 266 190 C258 205, 252 220, 250 240 L264 240 C262 220, 266 205, 274 190 C290 150, 308 120, 328 90 Z" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="1.6869" />
+
+  
+  <path d="M186 422 C196 395, 214 365, 232 330 C240 314, 247 298, 250 276 L264 276 C262 298, 256 314, 246 330 C228 365, 208 395, 216 422 Z" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="1.6869" />
+
+  
+  <path d="M326 422 C316 395, 298 365, 276 330 C268 314, 260 298, 256 276 L270 276 C272 298, 278 314, 288 330 C304 365, 322 395, 336 422 Z" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="1.6869" />
+
+  
+  <ellipse cx="256" cy="258" rx="18" ry="24" fill="#ffb0c8" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  <circle cx="250" cy="254" r="3" fill="#2b2622" />
+  <circle cx="262" cy="254" r="3" fill="#2b2622" />
+  <path d="M251 262 Q256 267 261 262" stroke="#1a1a1a" stroke-width="2" fill="none" />
+
+  
+  <path d="M226 165 C232 165, 244 165, 248 168 L246 178 C242 176, 232 176, 226 178 Z" fill="#aaddff" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M268 165 C274 165, 284 166, 288 168 L286 178 C282 176, 272 176, 268 178 Z" fill="#aaddff" stroke="#1a1a1a" stroke-width="2" />
+</g>
+  </svg>

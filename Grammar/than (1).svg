@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>than</title>
+  
+  <path d="M100 270 Q70 320 60 380 Q100 366 130 350 Z" fill="#f6c3c3" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
+  <path d="M412 270 Q442 320 452 380 Q412 366 382 350 Z" fill="#f6c3c3" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
+  
+  <rect x="80" y="110" width="352" height="260" rx="60" fill="#ffd6a5" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="106" y="136" width="300" height="208" rx="48" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <text x="256" y="232" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="800" font-size="74" fill="#7a4a4a">THAN</text>
+  
+  <path d="M196 270 L236 290 L196 310" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M256 270 L256 310" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  
+  <circle cx="290" cy="296" r="3.5" fill="#3d2a2a" />
+  <circle cx="310" cy="296" r="3.5" fill="#3d2a2a" />
+  <path d="M294 308 Q300 314 306 308" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  
+  <circle cx="156" cy="232" r="10" fill="#ffb6c1" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="356" cy="232" r="10" fill="#ffb6c1" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M130 130 L134 138 L142 142 L134 146 L130 154 L126 146 L118 142 L126 138 Z" fill="#fff3d0" stroke="#1a1a1a" stroke-width="1.5" />
+  <path d="M390 350 L394 358 L402 362 L394 366 L390 374 L386 366 L378 362 L386 358 Z" fill="#fff3d0" stroke="#1a1a1a" stroke-width="1.5" />
+</svg>

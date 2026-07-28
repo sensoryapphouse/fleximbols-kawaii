@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+
+<rect x="180" y="424" width="152" height="20" rx="10" fill="#c6b6a0" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<rect x="236" y="382" width="40" height="44" rx="8" fill="#d8c8b0" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<rect x="56" y="64" width="400" height="320" rx="32" fill="#d6c4ec" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<rect x="86" y="92" width="340" height="244" rx="20" fill="#cfeaff" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<circle cx="216" cy="200" r="9" fill="#3a2a1a" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="296" cy="200" r="9" fill="#3a2a1a" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="220" cy="196" r="3" fill="#ffffff" />
+<circle cx="300" cy="196" r="3" fill="#ffffff" />
+<path d="M 234 234 Q 256 256 278 234" stroke="#1a1a1a" stroke-width="2.0000" fill="none" stroke-linecap="round" />
+
+<circle cx="184" cy="232" r="14" fill="#f6b4c0" opacity="0.85" />
+<circle cx="328" cy="232" r="14" fill="#f6b4c0" opacity="0.85" />
+
+<ellipse cx="130" cy="124" rx="26" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+<ellipse cx="382" cy="130" rx="22" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+
+<polygon points="120,290 124,298 132,302 124,306 120,314 116,306 108,302 116,298" fill="#ffe78a" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" />
+<polygon points="392,290 396,298 404,302 396,306 392,314 388,306 380,302 388,298" fill="#ffe78a" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" />
+
+<circle cx="256" cy="362" r="6" fill="#bfe6cf" stroke="#1a1a1a" stroke-width="3" />
+
+<circle cx="416" cy="362" r="4" fill="#a8d8f4" stroke="#1a1a1a" stroke-width="2" />
+</svg>

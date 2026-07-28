@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-79.294 -133.144) scale(1.3547)">
+  
+  <path d="M152 164 Q154 318 256 328 Q358 318 360 164 Z" fill="#d0f8d0" stroke="#1a1a1a" stroke-width="1.4763" />
+  
+  <path d="M158 172 Q161 308 256 318 Q351 308 354 172 Z" fill="#b0eeaa" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M178 188 Q182 300 222 312" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-opacity="0.55" />
+  
+  <path d="M158 172 Q256 182 354 172" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="248" y="326" width="16" height="96" rx="4" fill="#ddeedd" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="256" cy="422" rx="60" ry="12" fill="#ddeedd" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M152 164 Q256 174 360 164" fill="none" stroke="#1a1a1a" stroke-width="1.4763" />
+  
+  <circle cx="238" cy="255" r="6" fill="#336633" />
+  <circle cx="272" cy="255" r="6" fill="#336633" />
+  <path d="M236 272 Q254 283 272 272" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  
+  
+  <circle cx="158" cy="164" r="24" fill="#88ee55" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="158" cy="164" r="16" fill="#aaffaa" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="158" cy="164" r="7" fill="#ccffcc" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M158 140 L158 164" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M137 152 L158 164" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M137 176 L158 164" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M179 176 L158 164" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M179 152 L158 164" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M365,150 L368,157 L375,157 L370,162 L372,169 L365,164 L358,169 L360,162 L355,157 L362,157 Z" fill="#ffe066" stroke="#1a1a1a" stroke-width="1" />
+</g>
+  </svg>

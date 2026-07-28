@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-44.171 -73.628) scale(1.1783)">
+<ellipse cx="170" cy="280" rx="75" ry="170" fill="#fff1e6" stroke="#1a1a1a" stroke-width="1.6974" transform="rotate(-12 170 280)" />
+<ellipse cx="170" cy="280" rx="55" ry="150" fill="none" stroke="#1a1a1a" stroke-width="3" transform="rotate(-12 170 280)" />
+<path d="M105 210 L235 225 M95 250 L245 270 M90 285 L250 305 M100 320 L250 340 M120 360 L235 380" stroke="#1a1a1a" stroke-width="4" transform="rotate(-12 170 280)" />
+<path d="M140 270 L200 270 Q210 270 210 255 L130 255 Q130 270 140 270 Z" fill="#ffafcc" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" transform="rotate(-12 170 280)" />
+<circle cx="130" cy="290" r="6" fill="#ffc8dd" opacity="0.8" transform="rotate(-12 170 280)" />
+<circle cx="210" cy="290" r="6" fill="#ffc8dd" opacity="0.8" transform="rotate(-12 170 280)" />
+<ellipse cx="340" cy="280" rx="75" ry="170" fill="#fff1e6" stroke="#1a1a1a" stroke-width="1.6974" transform="rotate(12 340 280)" />
+<ellipse cx="340" cy="280" rx="55" ry="150" fill="none" stroke="#1a1a1a" stroke-width="3" transform="rotate(12 340 280)" />
+<path d="M275 210 L405 225 M265 250 L415 270 M260 285 L420 305 M270 320 L420 340 M290 360 L405 380" stroke="#1a1a1a" stroke-width="4" transform="rotate(12 340 280)" />
+<path d="M310 270 L370 270 Q380 270 380 255 L300 255 Q300 270 310 270 Z" fill="#ffafcc" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" transform="rotate(12 340 280)" />
+<circle cx="300" cy="290" r="6" fill="#ffc8dd" opacity="0.8" transform="rotate(12 340 280)" />
+<circle cx="380" cy="290" r="6" fill="#ffc8dd" opacity="0.8" transform="rotate(12 340 280)" />
+</g>
+  </svg>

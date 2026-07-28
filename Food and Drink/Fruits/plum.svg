@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="body" cx="40%" cy="32%" r="74%">
+      <stop offset="0%" stop-color="#a05bc4" />
+      <stop offset="48%" stop-color="#7a2da8" />
+      <stop offset="100%" stop-color="#4e1670" />
+    </radialGradient>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9bd35a" />
+      <stop offset="100%" stop-color="#5aa028" />
+    </linearGradient>
+    <radialGradient id="blush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c2185b" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#c2185b" stop-opacity="0" />
+    </radialGradient>
+    <clipPath id="bodyClip">
+      <path d="M256,150 C312,118 392,134 408,206 C420,266 396,352 340,404 C308,434 280,448 256,448 C232,448 204,434 172,404 C116,352 92,266 104,206 C120,134 200,118 256,150 Z" />
+    </clipPath>
+  </defs>
+
+  <path d="M256,150 C254,116 258,90 266,70 C276,76 282,98 282,128 C280,142 268,150 256,150 Z" fill="#7a4a28" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M284,118 C326,84 376,80 406,98 C400,142 364,170 316,170 C296,158 286,138 284,118 Z" fill="url(#leaf)" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+
+  <path d="M256,150 C312,118 392,134 408,206 C420,266 396,352 340,404 C308,434 280,448 256,448 C232,448 204,434 172,404 C116,352 92,266 104,206 C120,134 200,118 256,150 Z" fill="url(#body)" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" />
+
+  <g clip-path="url(#bodyClip)">
+    <path d="M256,160 C264,250 264,360 256,440" fill="none" stroke="#3a1052" stroke-width="10" stroke-linecap="round" opacity="0.5" />
+  </g>
+
+  <ellipse cx="186" cy="324" rx="40" ry="26" fill="url(#blush)" />
+  <ellipse cx="326" cy="324" rx="40" ry="26" fill="url(#blush)" />
+  <circle cx="214" cy="292" r="14" fill="#1a1a1a" />
+  <circle cx="298" cy="292" r="14" fill="#1a1a1a" />
+  <circle cx="219" cy="287" r="4.5" fill="#ffffff" />
+  <circle cx="303" cy="287" r="4.5" fill="#ffffff" />
+  <path d="M236,322 C246,336 266,336 276,322" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+</svg>

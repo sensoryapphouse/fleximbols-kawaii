@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,53.504) scale(0.8955)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-42.571 -88.101) scale(1.1674)">
+  <defs>
+    <linearGradient id="ksmGc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd8a8" />
+      <stop offset="1" stop-color="#d0a060" />
+    </linearGradient>
+    <linearGradient id="ksmCh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a87858" />
+      <stop offset="1" stop-color="#5a3018" />
+    </linearGradient>
+    <linearGradient id="ksmMm" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff8e8" />
+      <stop offset="0.7" stop-color="#f8e0b8" />
+      <stop offset="1" stop-color="#c89860" />
+    </linearGradient>
+    <radialGradient id="ksmch" cx="0.5" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#ffb6c8" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#ffb6c8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <g transform="translate(256 400)">
+    <path d="M-160 -28 L160 -28 L172 18 L-172 18 Z" fill="#a87038" stroke="#1a1a1a" stroke-width="1.7132" stroke-linejoin="round" />
+    <rect x="-160" y="-48" width="320" height="22" fill="url(#ksmGc)" stroke="#1a1a1a" stroke-width="1.7132" />
+    <circle cx="-110" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="-70" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="-30" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="10" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="50" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="90" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="130" cy="-37" r="3" fill="#7a5020" />
+  </g>
+  
+  <g transform="translate(256 332)">
+    <path d="M-150 -10 L150 -10 L160 18 L-160 18 Z" fill="#5a3018" stroke="#1a1a1a" stroke-width="1.7132" stroke-linejoin="round" />
+    <rect x="-150" y="-32" width="300" height="22" fill="url(#ksmCh)" stroke="#1a1a1a" stroke-width="1.7132" />
+    <line x1="-100" y1="-32" x2="-100" y2="-10" stroke="#1a1a1a" stroke-width="2.5" />
+    <line x1="-50" y1="-32" x2="-50" y2="-10" stroke="#1a1a1a" stroke-width="2.5" />
+    <line x1="0" y1="-32" x2="0" y2="-10" stroke="#1a1a1a" stroke-width="2.5" />
+    <line x1="50" y1="-32" x2="50" y2="-10" stroke="#1a1a1a" stroke-width="2.5" />
+    <line x1="100" y1="-32" x2="100" y2="-10" stroke="#1a1a1a" stroke-width="2.5" />
+    <line x1="-150" y1="-22" x2="150" y2="-22" stroke="#1a1a1a" stroke-width="2.5" />
+  </g>
+  
+  <g transform="translate(256 290)">
+    <path d="M-140 -34 Q-160 -10 -150 12 Q-110 22 -80 8 Q-50 24 -20 6 Q10 26 40 4 Q70 24 100 6 Q130 22 150 12 Q160 -10 140 -34 L132 -28 L100 -36 L70 -28 L36 -36 L0 -28 L-36 -36 L-72 -28 L-110 -36 Z" fill="url(#ksmMm)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+    
+    
+    
+    
+    <ellipse cx="-22" cy="-10" rx="6" ry="7" fill="#3a1810" />
+    <ellipse cx="22" cy="-10" rx="6" ry="7" fill="#3a1810" />
+    <circle cx="-20" cy="-12" r="1.6" fill="#ffffff" />
+    <circle cx="24" cy="-12" r="1.6" fill="#ffffff" />
+    <path d="M-7 8 Q0 15 7 8" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+    <ellipse cx="-40" cy="8" rx="9" ry="4.5" fill="url(#ksmch)" />
+    <ellipse cx="40" cy="8" rx="9" ry="4.5" fill="url(#ksmch)" />
+  </g>
+  
+  <g transform="translate(256 220)">
+    <path d="M-150 -28 L150 -28 L162 18 L-162 18 Z" fill="#a87038" stroke="#1a1a1a" stroke-width="1.7132" stroke-linejoin="round" />
+    <rect x="-150" y="-48" width="300" height="22" fill="url(#ksmGc)" stroke="#1a1a1a" stroke-width="1.7132" />
+    <circle cx="-100" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="-60" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="-20" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="20" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="60" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="100" cy="-37" r="3" fill="#7a5020" />
+    <circle cx="130" cy="-37" r="3" fill="#7a5020" />
+  </g>
+</g>
+  </g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1434" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1434)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

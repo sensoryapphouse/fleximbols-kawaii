@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="cheekPF" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb4c4" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#ffb4c4" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="tinePFP" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e6ecf2" />
+      <stop offset="1" stop-color="#a0a8b4" />
+    </linearGradient>
+    <linearGradient id="polePFP" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4d0a0" />
+      <stop offset="1" stop-color="#c89060" />
+    </linearGradient>
+  </defs>
+  
+  <rect x="242" y="30" width="28" height="304" rx="14" fill="url(#polePFP)" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="256" cy="34" rx="14" ry="8" fill="url(#polePFP)" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="252" y1="50" x2="252" y2="324" stroke="#1a1a1a" stroke-width="1.5" />
+  <line x1="260" y1="50" x2="260" y2="324" stroke="#1a1a1a" stroke-width="1.5" />
+  
+  <rect x="238" y="80" width="36" height="8" rx="3" fill="#a06030" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="238" y="104" width="36" height="8" rx="3" fill="#a06030" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="222" y="324" width="68" height="22" rx="10" fill="#a8b0bc" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M 174 360 Q 256 342 338 360 L 332 372 Q 256 358 180 372 Z" fill="url(#tinePFP)" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M 186 366            Q 158 414 128 478            L 116 476            L 130 410            Q 158 362 184 358 Z" fill="url(#tinePFP)" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 228 366            Q 218 414 198 484            L 186 483            L 204 408            Q 216 362 228 360 Z" fill="url(#tinePFP)" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 284 366            Q 294 414 314 484            L 326 483            L 308 408            Q 296 362 284 360 Z" fill="url(#tinePFP)" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 326 366            Q 354 414 384 478            L 396 476            L 382 410            Q 354 362 328 358 Z" fill="url(#tinePFP)" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M 142 410 Q 130 442 124 472" stroke="#1a1a1a" stroke-width="2" fill="none" opacity="0.6" />
+  <path d="M 212 408 Q 202 444 196 478" stroke="#1a1a1a" stroke-width="2" fill="none" opacity="0.6" />
+  <path d="M 300 408 Q 310 444 316 478" stroke="#1a1a1a" stroke-width="2" fill="none" opacity="0.6" />
+  <path d="M 370 410 Q 382 442 388 472" stroke="#1a1a1a" stroke-width="2" fill="none" opacity="0.6" />
+  
+  <circle cx="232" cy="358" r="4" fill="#3a2a22" />
+  <circle cx="280" cy="358" r="4" fill="#3a2a22" />
+  <circle cx="233" cy="357" r="1.2" fill="#ffffff" />
+  <circle cx="281" cy="357" r="1.2" fill="#ffffff" />
+  <path d="M 250 362 Q 256 366 262 362" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+  <ellipse cx="218" cy="364" rx="9" ry="5" fill="url(#cheekPF)" />
+  <ellipse cx="294" cy="364" rx="9" ry="5" fill="url(#cheekPF)" />
+</svg>

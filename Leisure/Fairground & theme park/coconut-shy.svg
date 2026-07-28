@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 44.45 411.15 411.15"><defs><radialGradient id="s3d_e23c3c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eb7676"/><stop offset="0.45" stop-color="#e23c3c"/><stop offset="1" stop-color="#b53030"/></radialGradient><radialGradient id="s3d_fbe7a8" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#fceec2"/><stop offset="0.45" stop-color="#fbe7a8"/><stop offset="1" stop-color="#c9b986"/></radialGradient><radialGradient id="s3d_8a5a2b" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ad8c6b"/><stop offset="0.45" stop-color="#8a5a2b"/><stop offset="1" stop-color="#6e4822"/></radialGradient></defs>
+<!-- ground -->
+<line x1="80" y1="404" x2="432" y2="404" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- striped back booth -->
+<path d="M 256 96 L 132 170 L 380 170 Z" fill="url(#s3d_e23c3c)" data-flat="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 96 L 196 170 L 256 170 Z" fill="url(#s3d_fbe7a8)" data-flat="#fbe7a8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- three posts -->
+<line x1="168" y1="170" x2="168" y2="404" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="344" y1="170" x2="344" y2="404" stroke="#1a1a1a" stroke-width="8"/>
+<!-- cross-bar shelf -->
+<rect x="150" y="300" width="212" height="20" rx="5" fill="#c89a5b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- three coconuts on cups -->
+<g transform="translate(196 296)">
+<rect x="-14" y="0" width="28" height="6" rx="2" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="0" cy="-20" r="22" fill="url(#s3d_8a5a2b)" data-flat="#8a5a2b" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="-7" cy="-26" r="3" fill="#1a1a1a"/>
+<circle cx="7" cy="-26" r="3" fill="#1a1a1a"/>
+<circle cx="0" cy="-14" r="3" fill="#1a1a1a"/>
+</g>
+<g transform="translate(256 296)">
+<rect x="-14" y="0" width="28" height="6" rx="2" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="0" cy="-20" r="22" fill="url(#s3d_8a5a2b)" data-flat="#8a5a2b" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="-7" cy="-26" r="3" fill="#1a1a1a"/>
+<circle cx="7" cy="-26" r="3" fill="#1a1a1a"/>
+<circle cx="0" cy="-14" r="3" fill="#1a1a1a"/>
+</g>
+<g transform="translate(316 296)">
+<rect x="-14" y="0" width="28" height="6" rx="2" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="0" cy="-20" r="22" fill="url(#s3d_8a5a2b)" data-flat="#8a5a2b" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="-7" cy="-26" r="3" fill="#1a1a1a"/>
+<circle cx="7" cy="-26" r="3" fill="#1a1a1a"/>
+<circle cx="0" cy="-14" r="3" fill="#1a1a1a"/>
+</g>
+<!-- thrown ball with motion -->
+<circle cx="130" cy="250" r="18" fill="url(#s3d_e23c3c)" data-flat="#e23c3c" stroke="#1a1a1a" stroke-width="8"/>
+<path d="M 96 232 L 116 244" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<path d="M 92 252 L 114 256" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<path d="M 96 272 L 116 264" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="cover" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fffaf0" /><stop offset="55%" stop-color="#f8d8e8" /><stop offset="100%" stop-color="#e8a0c0" /></radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#c04080" stop-opacity="0" /><stop offset="72%" stop-color="#c04080" stop-opacity="0" /><stop offset="100%" stop-color="#c04080" stop-opacity="0.38" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    
+    
+    <clipPath id="cl"><rect x="72" y="58" width="330" height="396" rx="16" /></clipPath>
+  </defs>
+  
+  <rect x="368" y="72" width="18" height="368" rx="6" fill="#f0e0d0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="376" y="72" width="18" height="368" rx="6" fill="#e8d8c8" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="384" y="72" width="16" height="368" rx="6" fill="#e0d0c0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="72" y="58" width="330" height="396" rx="16" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.45" />
+  
+  <rect x="72" y="58" width="330" height="396" rx="16" fill="url(#cover)" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="72" y="58" width="26" height="396" rx="12" fill="#d070a0" opacity="0.35" />
+  
+  <rect x="98" y="70" width="296" height="372" rx="8" fill="#fffdf8" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="130" y="96" width="80" height="18" rx="4" fill="#7fc8f0" opacity="0.65" transform="rotate(-6,170,105)" />
+  <rect x="264" y="88" width="80" height="18" rx="4" fill="#ffdf5e" opacity="0.65" transform="rotate(8,304,97)" />
+  <rect x="108" y="310" width="90" height="18" rx="4" fill="#7fd0a8" opacity="0.65" transform="rotate(4,153,319)" />
+  <rect x="290" y="330" width="80" height="18" rx="4" fill="#ff9bb8" opacity="0.65" transform="rotate(-5,330,339)" />
+  
+  <rect x="114" y="108" width="108" height="118" rx="6" fill="white" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="120" y="114" width="96" height="82" rx="4" fill="#d0e8f8" stroke="#1a1a1a" stroke-width="2" />
+  
+  
+  <path d="M124,172 Q145,155 168,165 Q191,155 212,172" fill="#7fd0a8" opacity="0.7" />
+  
+  <rect x="246" y="102" width="108" height="118" rx="6" fill="white" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="252" y="108" width="96" height="82" rx="4" fill="#f8e0d0" stroke="#1a1a1a" stroke-width="2" />
+  
+  
+  
+  <polygon points="168,260 173,248 178,260 191,260 181,268 185,281 168,271 158,281 162,268 152,260" fill="#ffdf5e" stroke="#1a1a1a" stroke-width="1.5" />
+  
+  <path d="M290,254 C290,248 282,244 282,252 C282,244 274,248 274,254 C274,264 282,272 282,272 C282,272 290,264 290,254 Z" fill="#ff9bb8" stroke="#1a1a1a" stroke-width="1.5" />
+  
+  <path d="M318,275 Q338,255 358,275" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M322,278 Q338,261 354,278" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M326,281 Q338,267 350,281" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  
+  
+  
+  
+  <circle cx="148" cy="360" r="9" fill="#f5b81f" opacity="0.85" />
+  
+  <g clip-path="url(#cl)">
+    
+    <rect x="72" y="58" width="330" height="396" rx="16" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  
+  <ellipse cx="268" cy="368" rx="70" ry="64" fill="#fde8f0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="232" cy="386" rx="24" ry="15" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="304" cy="386" rx="24" ry="15" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="246" cy="354" rx="13" ry="16" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="290" cy="354" rx="13" ry="16" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="242" cy="348" rx="5" ry="6.5" fill="white" />
+  <ellipse cx="286" cy="348" rx="5" ry="6.5" fill="white" />
+  <circle cx="243" cy="360" r="2.5" fill="white" />
+  <circle cx="287" cy="360" r="2.5" fill="white" />
+  
+  <ellipse cx="268" cy="374" rx="4.5" ry="3.5" fill="#c06090" />
+  <path d="M256,383 C262,393 274,393 280,383" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</svg>

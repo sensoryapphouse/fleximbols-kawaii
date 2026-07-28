@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="93.40 93.40 349.09 349.09"><defs><radialGradient id="s3d_5aa83c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#8cc276"/><stop offset="0.45" stop-color="#5aa83c"/><stop offset="1" stop-color="#488630"/></radialGradient><radialGradient id="s3d_8fce6e" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b1dd9a"/><stop offset="0.45" stop-color="#8fce6e"/><stop offset="1" stop-color="#72a558"/></radialGradient></defs>
+<!-- a stack/sheet of coloured felt squares with one peeled corner -->
+<!-- bottom sheet (red) -->
+<rect x="120" y="180" width="260" height="220" rx="14" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- middle sheet (gold), offset -->
+<rect x="138" y="158" width="260" height="220" rx="14" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top sheet (green) with a folded-up corner -->
+<path d="M 156 136 L 416 136 L 416 356 L 240 356 L 156 272 Z" fill="url(#s3d_5aa83c)" data-flat="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- peeled corner showing underside (lighter green) -->
+<path d="M 156 272 L 240 356 L 156 356 Z" fill="url(#s3d_8fce6e)" data-flat="#8fce6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- soft fibre dots to read as felt texture -->
+<circle cx="250" cy="200" r="5" fill="#1a1a1a"/>
+<circle cx="320" cy="240" r="5" fill="#1a1a1a"/>
+<circle cx="280" cy="290" r="5" fill="#1a1a1a"/>
+<circle cx="350" cy="300" r="5" fill="#1a1a1a"/>
+</svg>

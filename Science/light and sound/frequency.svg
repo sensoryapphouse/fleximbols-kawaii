@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <line x1="30" y1="260" x2="490" y2="260" stroke="#1a1a1a" stroke-width="2.0000" />
+  <polygon points="490,260 478,254 478,266" fill="#aa88cc" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M40,260 C56,260 60,195 74,195 C88,195 92,260 108,260 C124,260 128,325 142,325 C156,325 160,260 176,260" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+  <path d="M176,260 C192,260 196,195 210,195 C224,195 228,260 244,260 C260,260 264,325 278,325 C292,325 296,260 312,260" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+  <path d="M312,260 C328,260 332,195 346,195 C360,195 364,260 380,260 C396,260 400,325 414,325 C428,325 432,260 448,260 C462,260 468,195 478,195" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+  
+  <line x1="108" y1="251" x2="108" y2="269" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="176" y1="251" x2="176" y2="269" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="244" y1="251" x2="244" y2="269" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="312" y1="251" x2="312" y2="269" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="380" y1="251" x2="380" y2="269" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="448" y1="251" x2="448" y2="269" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="40" y1="298" x2="40" y2="316" stroke="#1a1a1a" stroke-width="2.0000" />
+  <line x1="480" y1="298" x2="480" y2="316" stroke="#1a1a1a" stroke-width="2.0000" />
+  <line x1="40" y1="307" x2="480" y2="307" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="260" y="342" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="bold" fill="#aa88cc">1 second</text>
+  
+  <text x="260" y="92" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="50" font-weight="bold" fill="#ff77aa">f = 6 Hz</text>
+  
+  <circle cx="100" cy="458" r="9" fill="#ff99bb" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="130" cy="458" r="9" fill="#88ddcc" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="160" cy="458" r="9" fill="#ffcc88" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="190" cy="458" r="9" fill="#ff99bb" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="220" cy="458" r="9" fill="#88ddcc" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="250" cy="458" r="9" fill="#ffcc88" stroke="#1a1a1a" stroke-width="2" />
+  <text x="260" y="428" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" fill="#aa88cc">6 cycles counted</text>
+</svg>

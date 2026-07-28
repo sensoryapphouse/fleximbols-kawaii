@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.03 124.90 321.94 321.94"><defs><radialGradient id="s3d_6f8fd6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#9ab1e2"/><stop offset="0.45" stop-color="#6f8fd6"/><stop offset="1" stop-color="#5972ab"/></radialGradient><radialGradient id="s3d_9ab0e6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b8c8ee"/><stop offset="0.45" stop-color="#9ab0e6"/><stop offset="1" stop-color="#7b8db8"/></radialGradient></defs>
+<!-- pressure cushion: thick anti-pressure seat cushion with air-cell bumps on top surface -->
+<!-- cushion body (rounded slab, 3/4 view) -->
+<path d="M 120 250 Q 120 226 256 226 Q 392 226 392 250 L 392 320 Q 392 348 256 348 Q 120 348 120 320 Z" fill="url(#s3d_6f8fd6)" data-flat="#6f8fd6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top face -->
+<ellipse cx="256" cy="250" rx="136" ry="26" fill="url(#s3d_9ab0e6)" data-flat="#9ab0e6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- air-cell bumps on top -->
+<circle cx="190" cy="244" r="13" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="226" cy="252" r="13" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="262" cy="244" r="13" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="298" cy="252" r="13" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="324" cy="244" r="13" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="42.67 39.25 426.67 426.67"><defs><radialGradient id="s3d_b9bdc2" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ced1d4"/><stop offset="0.45" stop-color="#b9bdc2"/><stop offset="1" stop-color="#94979b"/></radialGradient><radialGradient id="s3d_3d7fb5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#77a5cb"/><stop offset="0.45" stop-color="#3d7fb5"/><stop offset="1" stop-color="#316691"/></radialGradient><radialGradient id="s3d_4a90d9" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#80b1e4"/><stop offset="0.45" stop-color="#4a90d9"/><stop offset="1" stop-color="#3b73ae"/></radialGradient><radialGradient id="s3d_9aa0a6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b8bcc1"/><stop offset="0.45" stop-color="#9aa0a6"/><stop offset="1" stop-color="#7b8085"/></radialGradient></defs>
+<!-- wind turbine: tall tower, hub, three blades -->
+<!-- tower -->
+<polygon points="244 420 268 420 260 200 252 200" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- base -->
+<ellipse cx="256" cy="420" rx="56" ry="16" fill="url(#s3d_b9bdc2)" data-flat="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<!-- three blades from hub at (256,196) -->
+<path d="M 256 196 L 256 70 L 282 92 Z" fill="url(#s3d_3d7fb5)" data-flat="#3d7fb5" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 256 196 L 366 256 L 348 286 Z" fill="url(#s3d_4a90d9)" data-flat="#4a90d9" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 256 196 L 146 256 L 164 286 Z" fill="url(#s3d_3d7fb5)" data-flat="#3d7fb5" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- hub -->
+<circle cx="256" cy="196" r="20" fill="url(#s3d_9aa0a6)" data-flat="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

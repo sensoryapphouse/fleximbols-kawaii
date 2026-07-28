@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,144.589) scale(0.7176)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe6d4" />
+      <stop offset="1" stop-color="#ffd0a8" />
+    </linearGradient>
+    <linearGradient id="hull" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe8c8" />
+      <stop offset="1" stop-color="#e8c490" />
+    </linearGradient>
+    <linearGradient id="wheel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffb4a0" />
+      <stop offset="1" stop-color="#e0846c" />
+    </linearGradient>
+    <radialGradient id="cheek" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb0c4" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#ffb0c4" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="370" fill="url(#sky)" />
+  <rect x="0" y="370" width="512" height="142" fill="#9cc4dc" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="50" y="350" width="380" height="48" rx="6" fill="url(#hull)" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="60" y="300" width="360" height="50" rx="6" fill="#fff8ec" stroke="#1a1a1a" stroke-width="4" />
+  <g stroke="#1a1a1a" stroke-width="2" fill="none">
+    <line x1="90" y1="310" x2="90" y2="345" />
+    <line x1="130" y1="310" x2="130" y2="345" />
+    <line x1="170" y1="310" x2="170" y2="345" />
+    <line x1="210" y1="310" x2="210" y2="345" />
+    <line x1="250" y1="310" x2="250" y2="345" />
+    <line x1="290" y1="310" x2="290" y2="345" />
+    <line x1="330" y1="310" x2="330" y2="345" />
+    <line x1="370" y1="310" x2="370" y2="345" />
+  </g>
+  
+  <rect x="78" y="250" width="324" height="50" rx="6" fill="#fff8ec" stroke="#1a1a1a" stroke-width="4" />
+  <g stroke="#1a1a1a" stroke-width="2" fill="none">
+    <line x1="108" y1="260" x2="108" y2="295" />
+    <line x1="148" y1="260" x2="148" y2="295" />
+    <line x1="188" y1="260" x2="188" y2="295" />
+    <line x1="228" y1="260" x2="228" y2="295" />
+    <line x1="268" y1="260" x2="268" y2="295" />
+    <line x1="308" y1="260" x2="308" y2="295" />
+    <line x1="348" y1="260" x2="348" y2="295" />
+  </g>
+  
+  <rect x="180" y="200" width="120" height="50" rx="6" fill="#fff8ec" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="194" y="214" width="22" height="22" rx="3" fill="#a4d6ec" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="226" y="214" width="22" height="22" rx="3" fill="#a4d6ec" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="258" y="214" width="22" height="22" rx="3" fill="#a4d6ec" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="200" y="130" width="20" height="72" rx="3" fill="#7d6a4a" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="260" y="130" width="20" height="72" rx="3" fill="#7d6a4a" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M 78,250 L 88,242 L 98,250 L 108,242 L 118,250 L 128,242 L 138,250 L 148,242 L 158,250 L 168,242 L 178,250" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 302,250 L 312,242 L 322,250 L 332,242 L 342,250 L 352,242 L 362,250 L 372,242 L 382,250 L 392,242 L 402,250" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="450" cy="372" r="56" fill="url(#wheel)" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="450" cy="372" r="14" fill="#a87654" stroke="#1a1a1a" stroke-width="2" />
+  <g stroke="#1a1a1a" stroke-width="3">
+    <line x1="450" y1="316" x2="450" y2="428" />
+    <line x1="394" y1="372" x2="506" y2="372" />
+    <line x1="410" y1="332" x2="490" y2="412" />
+    <line x1="410" y1="412" x2="490" y2="332" />
+  </g>
+  <g fill="#e0846c" stroke="#1a1a1a" stroke-width="2">
+    <rect x="446" y="310" width="8" height="14" rx="1" />
+    <rect x="446" y="420" width="8" height="14" rx="1" />
+    <rect x="388" y="368" width="14" height="8" rx="1" />
+    <rect x="498" y="368" width="14" height="8" rx="1" />
+  </g>
+  
+  <circle cx="442" cy="370" r="2.5" fill="#2b2622" />
+  <circle cx="458" cy="370" r="2.5" fill="#2b2622" />
+  <path d="M 446,376 Q 450,379 454,376" fill="none" stroke="#1a1a1a" stroke-width="1.8" stroke-linecap="round" />
+  
+  <circle cx="232" cy="225" r="4" fill="#2b2622" />
+  <circle cx="248" cy="225" r="4" fill="#2b2622" />
+  <circle cx="231" cy="224" r="1.2" fill="#ffffff" />
+  <circle cx="247" cy="224" r="1.2" fill="#ffffff" />
+  <path d="M 233,232 Q 240,236 247,232" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" />
+  <ellipse cx="218" cy="232" rx="8" ry="4" fill="url(#cheek)" />
+  <ellipse cx="262" cy="232" rx="8" ry="4" fill="url(#cheek)" />
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3559" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3559)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

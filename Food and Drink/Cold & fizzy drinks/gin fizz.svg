@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_dff3fd" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e9f7fe"/><stop offset="0.45" stop-color="#dff3fd"/><stop offset="1" stop-color="#b2c2ca"/></radialGradient><radialGradient id="s3d_90a7d6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b1c1e2"/><stop offset="0.45" stop-color="#90a7d6"/><stop offset="1" stop-color="#7386ab"/></radialGradient><radialGradient id="s3d_f2e40d" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f6ec56"/><stop offset="0.45" stop-color="#f2e40d"/><stop offset="1" stop-color="#c2b60a"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- tall fizz glass body -->
+  <path d="M105 35 L185 35 L180 220 L110 220 Z" fill="url(#s3d_dff3fd)" data-flat="#dff3fd" stroke="#1a1a1a" stroke-width="11.86" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- clear effervescent liquid -->
+  <path d="M110 75 L180 75 L176 215 L114 215 Z" fill="url(#s3d_90a7d6)" data-flat="#90a7d6" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
+  <!-- frothy top -->
+  <path d="M107 55 L183 55 L180 78 L110 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- bubbles -->
+  <circle cx="125" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="160" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="180" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="195" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- lemon twist on rim -->
+  <path d="M170 30 C 195 20 215 35 210 55 C 205 70 188 65 188 50" fill="url(#s3d_f2e40d)" data-flat="#f2e40d" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

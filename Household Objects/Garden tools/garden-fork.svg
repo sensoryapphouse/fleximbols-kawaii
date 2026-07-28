@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="cheekGF" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb4c4" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#ffb4c4" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="tineGFP" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e6ecf2" />
+      <stop offset="1" stop-color="#a0a8b4" />
+    </linearGradient>
+    <linearGradient id="handleGFP" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4d0a0" />
+      <stop offset="1" stop-color="#c89060" />
+    </linearGradient>
+  </defs>
+  
+  <path d="M 216 60            Q 216 36 256 36            Q 296 36 296 60            L 296 112            Q 296 138 256 138            Q 216 138 216 112            Z" fill="url(#handleGFP)" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 232 72 Q 232 58 256 58 Q 280 58 280 72 L 280 102 Q 280 116 256 116 Q 232 116 232 102 Z" fill="#fff7e8" stroke="#1a1a1a" stroke-width="3.5" />
+  
+  <rect x="242" y="124" width="28" height="218" rx="10" fill="url(#handleGFP)" stroke="#1a1a1a" stroke-width="2.0000" />
+  <line x1="252" y1="142" x2="252" y2="334" stroke="#1a1a1a" stroke-width="1.5" />
+  <line x1="260" y1="142" x2="260" y2="334" stroke="#1a1a1a" stroke-width="1.5" />
+  
+  <rect x="222" y="336" width="68" height="24" rx="10" fill="#a8b0bc" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="144" y="360" width="224" height="24" rx="10" fill="url(#tineGFP)" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 154 384 Q 154 380 158 380 L 178 380 Q 182 380 182 384 L 178 466 L 168 480 L 158 466 Z" fill="url(#tineGFP)" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 206 384 Q 206 380 210 380 L 230 380 Q 234 380 234 384 L 230 466 L 220 480 L 210 466 Z" fill="url(#tineGFP)" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 278 384 Q 278 380 282 380 L 302 380 Q 306 380 306 384 L 302 466 L 292 480 L 282 466 Z" fill="url(#tineGFP)" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 330 384 Q 330 380 334 380 L 354 380 Q 358 380 358 384 L 354 466 L 344 480 L 334 466 Z" fill="url(#tineGFP)" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="168" y1="390" x2="168" y2="464" stroke="#1a1a1a" stroke-width="2" opacity="0.6" />
+  <line x1="220" y1="390" x2="220" y2="464" stroke="#1a1a1a" stroke-width="2" opacity="0.6" />
+  <line x1="292" y1="390" x2="292" y2="464" stroke="#1a1a1a" stroke-width="2" opacity="0.6" />
+  <line x1="344" y1="390" x2="344" y2="464" stroke="#1a1a1a" stroke-width="2" opacity="0.6" />
+  
+  <circle cx="232" cy="372" r="4" fill="#3a2a22" />
+  <circle cx="280" cy="372" r="4" fill="#3a2a22" />
+  <circle cx="233" cy="371" r="1.2" fill="#ffffff" />
+  <circle cx="281" cy="371" r="1.2" fill="#ffffff" />
+  <path d="M 250 376 Q 256 380 262 376" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+  <ellipse cx="220" cy="378" rx="9" ry="5" fill="url(#cheekGF)" />
+  <ellipse cx="292" cy="378" rx="9" ry="5" fill="url(#cheekGF)" />
+</svg>

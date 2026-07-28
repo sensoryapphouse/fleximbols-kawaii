@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_9cc7d6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#bad8e2"/><stop offset="0.45" stop-color="#9cc7d6"/><stop offset="1" stop-color="#7d9fab"/></radialGradient><radialGradient id="s3d_e8b24e" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#efc983"/><stop offset="0.45" stop-color="#e8b24e"/><stop offset="1" stop-color="#ba8e3e"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- small fish in background (cue: made of fish) -->
+<g opacity="0.5">
+<g transform="translate(70 96) rotate(-12)">
+<path d="M 0 0 Q 30 -22 70 0 Q 30 22 0 0 Z" fill="url(#s3d_9cc7d6)" data-flat="#9cc7d6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 0 0 L -22 -16 L -22 16 Z" fill="#9cc7d6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="52" cy="-3" r="4" fill="#1a1a1a"/>
+</g>
+<g transform="translate(372 408) rotate(168)">
+<path d="M 0 0 Q 30 -22 70 0 Q 30 22 0 0 Z" fill="url(#s3d_9cc7d6)" data-flat="#9cc7d6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 0 0 L -22 -16 L -22 16 Z" fill="#9cc7d6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="52" cy="-3" r="4" fill="#1a1a1a"/>
+</g>
+</g>
+<rect x="110" y="150" width="292" height="62" rx="28" fill="url(#s3d_e8b24e)" data-flat="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" transform="rotate(-6 256 181)"/>
+<rect x="110" y="225" width="292" height="62" rx="28" fill="url(#s3d_e8b24e)" data-flat="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="110" y="300" width="292" height="62" rx="28" fill="url(#s3d_e8b24e)" data-flat="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" transform="rotate(6 256 331)"/>
+<g fill="#c8902e"><circle cx="170" cy="174" r="6"/><circle cx="230" cy="186" r="6"/><circle cx="300" cy="172" r="6"/><circle cx="350" cy="184" r="6"/></g>
+<g fill="#c8902e"><circle cx="160" cy="256" r="6"/><circle cx="220" cy="244" r="6"/><circle cx="288" cy="262" r="6"/><circle cx="350" cy="250" r="6"/></g>
+<g fill="#c8902e"><circle cx="172" cy="334" r="6"/><circle cx="236" cy="346" r="6"/><circle cx="300" cy="332" r="6"/><circle cx="352" cy="344" r="6"/></g>
+</g></svg>

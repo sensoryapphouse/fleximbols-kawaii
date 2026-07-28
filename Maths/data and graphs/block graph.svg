@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="90.53 75.17 368.48 368.48"><defs><radialGradient id="s3d_4a90d9" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#80b1e4"/><stop offset="0.45" stop-color="#4a90d9"/><stop offset="1" stop-color="#3b73ae"/></radialGradient><radialGradient id="s3d_3fae5a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#79c68c"/><stop offset="0.45" stop-color="#3fae5a"/><stop offset="1" stop-color="#328b48"/></radialGradient><radialGradient id="s3d_f0883c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f4ac76"/><stop offset="0.45" stop-color="#f0883c"/><stop offset="1" stop-color="#c06d30"/></radialGradient><radialGradient id="s3d_e0473c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e97e76"/><stop offset="0.45" stop-color="#e0473c"/><stop offset="1" stop-color="#b33930"/></radialGradient></defs>
+<line x1="120" y1="410" x2="430" y2="410" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+<line x1="120" y1="410" x2="120" y2="110" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+<g stroke="#1a1a1a" stroke-width="8">
+<rect x="150" y="350" width="56" height="56" fill="url(#s3d_4a90d9)" data-flat="#4a90d9"/>
+<rect x="224" y="350" width="56" height="56" fill="url(#s3d_3fae5a)" data-flat="#3fae5a"/>
+<rect x="224" y="294" width="56" height="56" fill="url(#s3d_3fae5a)" data-flat="#3fae5a"/>
+<rect x="224" y="238" width="56" height="56" fill="url(#s3d_3fae5a)" data-flat="#3fae5a"/>
+<rect x="298" y="350" width="56" height="56" fill="url(#s3d_f0883c)" data-flat="#f0883c"/>
+<rect x="298" y="294" width="56" height="56" fill="url(#s3d_f0883c)" data-flat="#f0883c"/>
+<rect x="372" y="350" width="56" height="56" fill="url(#s3d_e0473c)" data-flat="#e0473c"/>
+<rect x="372" y="294" width="56" height="56" fill="url(#s3d_e0473c)" data-flat="#e0473c"/>
+<rect x="372" y="238" width="56" height="56" fill="url(#s3d_e0473c)" data-flat="#e0473c"/>
+<rect x="372" y="182" width="56" height="56" fill="url(#s3d_e0473c)" data-flat="#e0473c"/>
+</g>
+</svg>

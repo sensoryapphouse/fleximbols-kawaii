@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="196" y="80" width="120" height="380" rx="32" fill="#a8d8e8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <rect x="248" y="50" width="16" height="40" rx="6" fill="#a8866a" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="256" cy="46" r="6" fill="#ffb8c4" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="50" y="200" width="130" height="260" rx="28" fill="#ffb8c4" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M50 218 Q115 174 180 218 Q115 224 50 218 Z" fill="#f594ab" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <rect x="332" y="160" width="130" height="300" rx="28" fill="#fde79a" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M332 178 Q397 134 462 178 Q397 184 332 178 Z" fill="#f4c542" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <ellipse cx="240" cy="200" rx="5" ry="7" fill="#3a2a1a" />
+  <ellipse cx="272" cy="200" rx="5" ry="7" fill="#3a2a1a" />
+  <ellipse cx="241" cy="197" rx="2" ry="2" fill="#ffffff" />
+  <ellipse cx="273" cy="197" rx="2" ry="2" fill="#ffffff" />
+  <path d="M248 212 q8 6 16 0" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <circle cx="226" cy="210" r="6" fill="#ffb8c4" opacity="0.8" />
+  <circle cx="286" cy="210" r="6" fill="#ffb8c4" opacity="0.8" />
+  
+  <g fill="#fef0d8" stroke="#1a1a1a" stroke-width="3">
+    <rect x="216" y="252" width="22" height="28" rx="6" />
+    <rect x="246" y="252" width="22" height="28" rx="6" />
+    <rect x="276" y="252" width="22" height="28" rx="6" />
+    <rect x="216" y="298" width="22" height="28" rx="6" />
+    <rect x="246" y="298" width="22" height="28" rx="6" />
+    <rect x="276" y="298" width="22" height="28" rx="6" />
+    <rect x="216" y="344" width="22" height="28" rx="6" />
+    <rect x="246" y="344" width="22" height="28" rx="6" />
+    <rect x="276" y="344" width="22" height="28" rx="6" />
+    <rect x="216" y="390" width="22" height="28" rx="6" />
+    <rect x="246" y="390" width="22" height="28" rx="6" />
+    <rect x="276" y="390" width="22" height="28" rx="6" />
+  </g>
+  
+  <g fill="#fef0d8" stroke="#1a1a1a" stroke-width="3">
+    <rect x="72" y="226" width="24" height="30" rx="6" />
+    <rect x="104" y="226" width="24" height="30" rx="6" />
+    <rect x="136" y="226" width="24" height="30" rx="6" />
+    <rect x="72" y="276" width="24" height="30" rx="6" />
+    <rect x="104" y="276" width="24" height="30" rx="6" />
+    <rect x="136" y="276" width="24" height="30" rx="6" />
+    <rect x="72" y="326" width="24" height="30" rx="6" />
+    <rect x="104" y="326" width="24" height="30" rx="6" />
+    <rect x="136" y="326" width="24" height="30" rx="6" />
+    <rect x="72" y="376" width="24" height="30" rx="6" />
+    <rect x="104" y="376" width="24" height="30" rx="6" />
+    <rect x="136" y="376" width="24" height="30" rx="6" />
+  </g>
+  
+  <g fill="#a8866a" stroke="#1a1a1a" stroke-width="3">
+    <rect x="350" y="200" width="26" height="30" rx="6" />
+    <rect x="386" y="200" width="26" height="30" rx="6" />
+    <rect x="422" y="200" width="26" height="30" rx="6" />
+    <rect x="350" y="250" width="26" height="30" rx="6" />
+    <rect x="386" y="250" width="26" height="30" rx="6" />
+    <rect x="422" y="250" width="26" height="30" rx="6" />
+    <rect x="350" y="300" width="26" height="30" rx="6" />
+    <rect x="386" y="300" width="26" height="30" rx="6" />
+    <rect x="422" y="300" width="26" height="30" rx="6" />
+    <rect x="350" y="350" width="26" height="30" rx="6" />
+    <rect x="386" y="350" width="26" height="30" rx="6" />
+    <rect x="422" y="350" width="26" height="30" rx="6" />
+  </g>
+  
+  <ellipse cx="80" cy="100" rx="34" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="430" cy="120" rx="30" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+</svg>

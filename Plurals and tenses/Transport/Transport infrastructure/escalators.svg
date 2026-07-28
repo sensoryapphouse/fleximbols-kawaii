@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,111.309) scale(0.7826)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Escalator: steps going bottom-left to top-right, arrow pointing up-right -->
+  <!-- Bottom platform -->
+  <path d="M 30 420 Q 30 408 40 408 L 140 408 Q 150 408 150 420 L 150 470 Q 150 480 140 480 L 40 480 Q 30 480 30 470 Z" fill="#C9CFD6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Top platform -->
+  <path d="M 362 68 Q 362 56 372 56 L 472 56 Q 482 56 482 68 L 482 118 Q 482 130 472 130 L 372 130 Q 362 130 362 118 Z" fill="#C9CFD6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Escalator belt / ramp -->
+  <path d="M 120 416 Q 120 406 130 398 L 400 88 Q 412 76 424 88 L 442 106 Q 454 118 442 130 L 172 440 Q 162 450 154 442 L 120 416 Z" fill="#B7D8F0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Steps -->
+  <g stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round">
+    <path d="M 148 414 Q 148 410 152 410 L 192 410 Q 196 410 196 414 L 196 450 Q 196 454 192 454 L 152 454 Q 148 454 148 450 Z" fill="#FFFFFF"/>
+    <path d="M 196 366 Q 196 362 200 362 L 240 362 Q 244 362 244 366 L 244 402 Q 244 406 240 406 L 200 406 Q 196 406 196 402 Z" fill="#FFFFFF"/>
+    <path d="M 244 318 Q 244 314 248 314 L 288 314 Q 292 314 292 318 L 292 354 Q 292 358 288 358 L 248 358 Q 244 358 244 354 Z" fill="#FFFFFF"/>
+    <path d="M 292 270 Q 292 266 296 266 L 336 266 Q 340 266 340 270 L 340 306 Q 340 310 336 310 L 296 310 Q 292 310 292 306 Z" fill="#FFFFFF"/>
+    <path d="M 340 222 Q 340 218 344 218 L 384 218 Q 388 218 388 222 L 388 258 Q 388 262 384 262 L 344 262 Q 340 262 340 258 Z" fill="#FFFFFF"/>
+    <path d="M 388 174 Q 388 170 392 170 L 432 170 Q 436 170 436 174 L 436 210 Q 436 214 432 214 L 392 214 Q 388 214 388 210 Z" fill="#FFFFFF"/>
+  </g>
+  <!-- Handrail -->
+  <path d="M 138 386 Q 268 254 422 100" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 138 386 Q 268 254 422 100" fill="none" stroke="#C9CFD6" stroke-width="8" stroke-linecap="round"/>
+  <!-- Arrow pointing up-right at 45 degrees (top-right corner area) -->
+  <!-- Arrow shaft from bottom-left to top-right -->
+  <line x1="348" y1="148" x2="436" y2="62" stroke="#4CAF78" stroke-width="14" stroke-linecap="round"/>
+  <!-- Arrowhead pointing top-right -->
+  <polygon points="436,62 406,68 430,90" fill="#4CAF78" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3463" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3463)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

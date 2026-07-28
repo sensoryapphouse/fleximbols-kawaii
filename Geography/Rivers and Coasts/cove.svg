@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="0" width="512" height="178" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="256" cy="85" rx="52" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="230" cy="93" rx="35" ry="23" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="282" cy="92" rx="35" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="0" y="178" width="512" height="58" fill="#aaddff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  
+  <polygon points="0,178 0,512 198,512 188,460 183,398 178,328 168,268 153,218 128,178" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <polygon points="128,178 153,218 168,268 178,328 183,398 188,460 198,512 218,512 213,460 210,393 208,323 203,263 193,213 172,178" fill="#b0ddcc" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <polygon points="512,178 512,512 314,512 324,460 329,398 334,328 344,268 359,218 384,178" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <polygon points="384,178 359,218 344,268 334,328 329,398 324,460 314,512 294,512 299,460 302,393 304,323 309,263 319,213 340,178" fill="#b0ddcc" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 172,178 Q 193,213 203,263 Q 210,323 213,393 Q 215,438 218,512 L 294,512 Q 297,438 299,393 Q 302,323 309,263 Q 319,213 340,178 Q 298,153 256,148 Q 214,153 172,178 Z" fill="#aaddff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 212,278 Q 225,308 230,358 Q 233,398 236,512 L 276,512 Q 279,398 282,358 Q 287,308 300,278 Q 280,260 256,256 Q 232,260 212,278 Z" fill="#c0f0ff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 222,440 Q 256,430 290,440 L 292,512 L 220,512 Z" fill="#ffe0a0" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="256" cy="450" rx="36" ry="11" fill="#fff0c0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 256,448 L 258,440 L 262,447 L 264,439 L 258,444 L 256,436 L 254,444 L 248,439 L 250,447 L 254,440 Z" fill="#ffaa88" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M 218,336 Q 237,329 256,331 Q 275,333 294,328" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 220,368 Q 238,361 256,363 Q 274,365 292,360" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 222,398 Q 239,391 256,393 Q 273,395 290,390" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="236" cy="305" rx="8" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="236" cy="306" r="4" fill="#223344" />
+  <circle cx="237" cy="304" r="1.5" fill="#ffffff" />
+  <ellipse cx="276" cy="305" rx="8" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="276" cy="306" r="4" fill="#223344" />
+  <circle cx="277" cy="304" r="1.5" fill="#ffffff" />
+  
+  
+  
+  
+  <path d="M 248,320 Q 256,328 264,320" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  
+  <ellipse cx="183" cy="258" rx="13" ry="8" fill="#ccbbaa" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="330" cy="260" rx="12" ry="7" fill="#ccbbaa" />
+  
+  <polyline points="128,178 153,218 168,268 178,328 183,398 188,460 198,512" fill="none" stroke="#1a1a1a" stroke-width="5" />
+  <polyline points="384,178 359,218 344,268 334,328 329,398 324,460 314,512" fill="none" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M 172,178 Q 214,148 256,145 Q 298,148 340,178" fill="none" stroke="#1a1a1a" stroke-width="5" />
+</svg>

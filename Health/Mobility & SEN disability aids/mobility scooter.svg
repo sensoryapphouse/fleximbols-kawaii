@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.96 116.44 306.42 306.42"><defs><radialGradient id="s3d_3f7fae" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#79a5c6"/><stop offset="0.45" stop-color="#3f7fae"/><stop offset="1" stop-color="#32668b"/></radialGradient><radialGradient id="s3d_cfd6dc" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#dde2e6"/><stop offset="0.45" stop-color="#cfd6dc"/><stop offset="1" stop-color="#a6abb0"/></radialGradient><radialGradient id="s3d_7a5230" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#a2866e"/><stop offset="0.45" stop-color="#7a5230"/><stop offset="1" stop-color="#624226"/></radialGradient><radialGradient id="s3d_444b52" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#7c8186"/><stop offset="0.45" stop-color="#444b52"/><stop offset="1" stop-color="#363c42"/></radialGradient></defs>
+<!-- mobility scooter: seat, tiller column, handlebars, deck, wheels -->
+<!-- deck/base -->
+<path d="M 130 320 L 360 320 L 360 348 L 130 348 Z" fill="url(#s3d_3f7fae)" data-flat="#3f7fae" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- seat post -->
+<rect x="288" y="232" width="20" height="90" fill="url(#s3d_cfd6dc)" data-flat="#cfd6dc" stroke="#1a1a1a" stroke-width="8"/>
+<!-- seat -->
+<path d="M 268 210 L 348 210 Q 356 210 356 222 L 356 234 L 268 234 Z" fill="url(#s3d_7a5230)" data-flat="#7a5230" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- seat back -->
+<path d="M 336 210 L 356 150 Q 358 140 348 140 L 332 142 L 326 210 Z" fill="url(#s3d_7a5230)" data-flat="#7a5230" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tiller column -->
+<line x1="172" y1="180" x2="160" y2="316" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- handlebars -->
+<path d="M 140 178 Q 172 158 210 178" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- wheels -->
+<circle cx="170" cy="360" r="40" fill="url(#s3d_444b52)" data-flat="#444b52" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="170" cy="360" r="13" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="328" cy="360" r="40" fill="url(#s3d_444b52)" data-flat="#444b52" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="328" cy="360" r="13" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

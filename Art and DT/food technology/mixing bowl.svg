@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 107.99 376.24 376.24"><defs><radialGradient id="s3d_3d7fb5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#77a5cb"/><stop offset="0.45" stop-color="#3d7fb5"/><stop offset="1" stop-color="#316691"/></radialGradient><radialGradient id="s3d_5fa0d0" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#8fbcde"/><stop offset="0.45" stop-color="#5fa0d0"/><stop offset="1" stop-color="#4c80a6"/></radialGradient><radialGradient id="s3d_f4c430" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f7d66e"/><stop offset="0.45" stop-color="#f4c430"/><stop offset="1" stop-color="#c39d26"/></radialGradient></defs>
+<path d="M 96 222 C 96 388 176 416 256 416 C 336 416 416 388 416 222 Z" fill="url(#s3d_3d7fb5)" data-flat="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="222" rx="160" ry="46" fill="url(#s3d_5fa0d0)" data-flat="#5fa0d0" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="222" rx="128" ry="32" fill="url(#s3d_f4c430)" data-flat="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 168 212 Q 212 232 256 218 Q 300 204 344 224" fill="none" stroke="#e08a3a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 180 232 Q 224 246 268 232" fill="none" stroke="#e08a3a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 120 282 C 152 360 360 360 392 282" fill="none" stroke="#2f6790" stroke-width="6" stroke-linecap="round"/>
+</svg>

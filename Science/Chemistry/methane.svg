@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="bgc" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#f0f8ff" /><stop offset="55%" stop-color="#c8e0f4" /><stop offset="100%" stop-color="#7fb0e0" /></radialGradient>
+    <radialGradient id="bgh" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#f8f4ff" /><stop offset="55%" stop-color="#e0d4f8" /><stop offset="100%" stop-color="#c4a4f4" /></radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#5a3aa8" stop-opacity="0" /><stop offset="72%" stop-color="#5a3aa8" stop-opacity="0" /><stop offset="100%" stop-color="#5a3aa8" stop-opacity="0.35" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    <radialGradient id="flame" cx="50%" cy="80%" r="70%"><stop offset="0%" stop-color="#ffdf5e" /><stop offset="50%" stop-color="#ff9b30" /><stop offset="100%" stop-color="#ff5a20" /></radialGradient>
+    
+    
+    <clipPath id="clc"><circle cx="256" cy="276" r="72" /></clipPath>
+  </defs>
+<g transform="translate(-41.29 -64.52) scale(1.161)">
+  
+  
+  <line x1="256" y1="204" x2="256" y2="156" stroke="#1a1a1a" stroke-width="1.7227" stroke-linecap="round" />
+  
+  <line x1="256" y1="348" x2="256" y2="396" stroke="#1a1a1a" stroke-width="1.7227" stroke-linecap="round" />
+  
+  <line x1="184" y1="276" x2="136" y2="276" stroke="#1a1a1a" stroke-width="1.7227" stroke-linecap="round" />
+  
+  <line x1="328" y1="276" x2="376" y2="276" stroke="#1a1a1a" stroke-width="1.7227" stroke-linecap="round" />
+  
+  
+  <circle cx="256" cy="128" r="38" fill="url(#bgh)" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="256" cy="424" r="38" fill="url(#bgh)" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="108" cy="276" r="38" fill="url(#bgh)" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="404" cy="276" r="38" fill="url(#bgh)" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="256" cy="276" r="72" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.45" />
+  
+  <circle cx="256" cy="276" r="72" fill="url(#bgc)" stroke="#1a1a1a" stroke-width="3.5" />
+  
+  
+  <g clip-path="url(#clc)"><ellipse cx="306" cy="326" rx="60" ry="60" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" /></g>
+  
+  <ellipse cx="224" cy="298" rx="20" ry="13" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="288" cy="298" rx="20" ry="13" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="234" cy="272" rx="14" ry="17" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="278" cy="272" rx="14" ry="17" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="230" cy="267" rx="5" ry="5.5" fill="#ffffff" />
+  <ellipse cx="274" cy="267" rx="5" ry="5.5" fill="#ffffff" />
+  
+  
+  
+  
+  <path d="M244,308 C250,316 262,316 268,308" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  
+  <path d="M390,370 C386,354 378,344 382,328 C388,338 394,332 396,320 C402,336 408,350 404,366 C410,358 414,348 412,336 C420,352 422,368 416,380 C420,376 426,370 424,360 C430,374 428,392 418,402 C408,412 394,414 386,406 C376,398 372,384 378,372 C382,376 388,374 390,370 Z" fill="url(#flame)" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round" />
+</g>
+</svg>

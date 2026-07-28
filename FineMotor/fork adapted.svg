@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><radialGradient id="s3d_8cc152" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#aed486"/><stop offset="0.45" stop-color="#8cc152"/><stop offset="1" stop-color="#709a42"/></radialGradient><radialGradient id="s3d_cfd6dc" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#dde2e6"/><stop offset="0.45" stop-color="#cfd6dc"/><stop offset="1" stop-color="#a6abb0"/></radialGradient></defs>
+<!-- thick easy-grip green handle -->
+<rect x="230" y="244" width="52" height="174" rx="26" fill="url(#s3d_8cc152)" data-flat="#8cc152" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- fork head base (where tines join) -->
+<path d="M 224 200 Q 224 158 256 158 Q 288 158 288 200 Z" fill="url(#s3d_cfd6dc)" data-flat="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- neck linking head to handle -->
+<rect x="247" y="196" width="18" height="58" fill="url(#s3d_cfd6dc)" data-flat="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- three tines -->
+<line x1="234" y1="170" x2="234" y2="104" stroke="#cfd6dc" stroke-width="16" stroke-linecap="round"/>
+<line x1="256" y1="170" x2="256" y2="98" stroke="#cfd6dc" stroke-width="16" stroke-linecap="round"/>
+<line x1="278" y1="170" x2="278" y2="104" stroke="#cfd6dc" stroke-width="16" stroke-linecap="round"/>
+<line x1="234" y1="170" x2="234" y2="104" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="256" y1="170" x2="256" y2="98" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="278" y1="170" x2="278" y2="104" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

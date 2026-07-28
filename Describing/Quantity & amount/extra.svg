@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 67.49 411.15 411.15"><defs><radialGradient id="s3d_5b9bd5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#8cb9e2"/><stop offset="0.45" stop-color="#5b9bd5"/><stop offset="1" stop-color="#497caa"/></radialGradient><radialGradient id="s3d_e8a13a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#efbd75"/><stop offset="0.45" stop-color="#e8a13a"/><stop offset="1" stop-color="#ba812e"/></radialGradient><radialGradient id="s3d_e36d6d" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eb9999"/><stop offset="0.45" stop-color="#e36d6d"/><stop offset="1" stop-color="#b65757"/></radialGradient><radialGradient id="s3d_6dbf67" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#99d295"/><stop offset="0.45" stop-color="#6dbf67"/><stop offset="1" stop-color="#579952"/></radialGradient><radialGradient id="s3d_b07cc6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#c8a3d7"/><stop offset="0.45" stop-color="#b07cc6"/><stop offset="1" stop-color="#8d639e"/></radialGradient></defs>
+<!-- EXTRA: a group + one added/set aside, with a plus cue -->
+<line x1="80" y1="372" x2="432" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- main group (left): 4 balls -->
+<circle cx="150" cy="330" r="40" fill="url(#s3d_5b9bd5)" data-flat="#5b9bd5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="234" cy="330" r="40" fill="url(#s3d_e8a13a)" data-flat="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="192" cy="258" r="40" fill="url(#s3d_e36d6d)" data-flat="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="276" cy="258" r="40" fill="url(#s3d_6dbf67)" data-flat="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<!-- extra one set aside (right) -->
+<circle cx="372" cy="330" r="40" fill="url(#s3d_b07cc6)" data-flat="#b07cc6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- plus cue above the extra one (added) -->
+<g stroke="#2e8b3d" stroke-width="14" stroke-linecap="round">
+<line x1="372" y1="176" x2="372" y2="226"/>
+<line x1="347" y1="201" x2="397" y2="201"/>
+</g>
+</svg>

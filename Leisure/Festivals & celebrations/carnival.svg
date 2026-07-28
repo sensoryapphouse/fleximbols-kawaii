@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80.76 70.52 360.73 360.73"><defs><radialGradient id="s3d_8e44c9" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b07cd9"/><stop offset="0.45" stop-color="#8e44c9"/><stop offset="1" stop-color="#7236a1"/></radialGradient><radialGradient id="s3d_27c0a8" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#68d3c2"/><stop offset="0.45" stop-color="#27c0a8"/><stop offset="1" stop-color="#1f9a86"/></radialGradient><radialGradient id="s3d_e84e8a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ef83ad"/><stop offset="0.45" stop-color="#e84e8a"/><stop offset="1" stop-color="#ba3e6e"/></radialGradient><radialGradient id="s3d_3aa0e8" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#75bcef"/><stop offset="0.45" stop-color="#3aa0e8"/><stop offset="1" stop-color="#2e80ba"/></radialGradient></defs><!-- Carnival mask -->
+<!-- handle stick -->
+<line x1="358" y1="300" x2="392" y2="402" stroke="#c9a227" stroke-width="13" stroke-linecap="round"/>
+<!-- mask body -->
+<path d="M 130 220 Q 120 160 180 158 Q 220 158 256 188 Q 292 158 332 158 Q 392 160 382 220 Q 388 290 312 308 Q 270 316 256 290 Q 242 316 200 308 Q 124 290 130 220 Z" fill="url(#s3d_8e44c9)" data-flat="#8e44c9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- eye holes -->
+<path d="M 168 214 Q 198 188 230 214 Q 198 236 168 214 Z" fill="#fff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 282 214 Q 314 188 344 214 Q 314 236 282 214 Z" fill="#fff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- decorative swirls -->
+<path d="M 150 188 Q 168 168 190 178" fill="none" stroke="#ffd93b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 362 188 Q 344 168 322 178" fill="none" stroke="#ffd93b" stroke-width="7" stroke-linecap="round"/>
+<circle cx="256" cy="262" r="9" fill="#ffd93b" stroke="#1a1a1a" stroke-width="5"/>
+<!-- top feathers / plumes -->
+<path d="M 200 158 Q 176 96 150 108 Q 168 140 200 158 Z" fill="url(#s3d_27c0a8)" data-flat="#27c0a8" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 256 188 Q 256 100 256 96 Q 286 132 256 188 Z" fill="url(#s3d_e84e8a)" data-flat="#e84e8a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 312 158 Q 336 96 362 108 Q 344 140 312 158 Z" fill="url(#s3d_3aa0e8)" data-flat="#3aa0e8" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-52.929 -37.167) scale(1.1463)">
+<defs>
+<radialGradient id="kbl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f3a0b0" stop-opacity="0.5" /><stop offset="100%" stop-color="#f3a0b0" stop-opacity="0" /></radialGradient>
+</defs>
+<g transform="translate(236 256)">
+<line x1="-96" y1="-58" x2="96" y2="-58" stroke="#1a1a1a" stroke-width="1.7447" stroke-linecap="round" />
+<line x1="-96" y1="-26" x2="96" y2="-26" stroke="#1a1a1a" stroke-width="1.7447" stroke-linecap="round" />
+<line x1="-96" y1="6" x2="40" y2="6" stroke="#1a1a1a" stroke-width="1.7447" stroke-linecap="round" />
+<circle cx="-12" cy="84" r="5" fill="#3a2e28" />
+<circle cx="12" cy="84" r="5" fill="#3a2e28" />
+<path d="M-12 104 Q0 114 12 104" stroke="#1a1a1a" stroke-width="4.5" fill="none" stroke-linecap="round" />
+<ellipse cx="-26" cy="96" rx="9" ry="6" fill="url(#kbl)" />
+<ellipse cx="26" cy="96" rx="9" ry="6" fill="url(#kbl)" />
+</g>
+<g transform="translate(360 150)">
+<circle cx="0" cy="0" r="36" fill="none" stroke="#1a1a1a" stroke-width="13" />
+<path d="M-10 -40 L0 -58 L10 -40Z" fill="#79d2e8" stroke="#1a1a1a" stroke-width="2" />
+</g>
+<g transform="translate(330 360) rotate(45)">
+<rect x="-9" y="-90" width="18" height="150" rx="6" fill="#7ec8e0" stroke="#1a1a1a" stroke-width="2" />
+<path d="M-9 60 L9 60 L0 84Z" fill="#5aa8c8" stroke="#1a1a1a" stroke-width="2" />
+<rect x="-9" y="-90" width="18" height="26" rx="6" fill="#f3a0b0" stroke="#1a1a1a" stroke-width="2" />
+</g>
+</g>
+  </svg>

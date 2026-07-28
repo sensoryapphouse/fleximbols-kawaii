@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<radialGradient id="bl" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#f7a8c0" />
+<stop offset="60%" stop-color="#f7a8c0" stop-opacity="0.5" />
+<stop offset="100%" stop-color="#f7a8c0" stop-opacity="0" />
+</radialGradient>
+</defs>
+<rect x="44" y="70" width="424" height="372" rx="28" fill="#eef3f9" stroke="#1a1a1a" stroke-width="2.0000" />
+<g stroke-width="5">
+<rect x="70" y="100" width="118" height="312" rx="16" fill="#dcebf7" stroke="#1a1a1a" />
+<rect x="197" y="100" width="118" height="312" rx="16" fill="#cfe7f5" stroke="#1a1a1a" />
+<rect x="324" y="100" width="118" height="312" rx="16" fill="#d4eed8" stroke="#1a1a1a" />
+</g>
+<g stroke-width="5">
+<rect x="86" y="128" width="86" height="58" rx="10" fill="#fef2f6" stroke="#1a1a1a" />
+<rect x="86" y="200" width="86" height="58" rx="10" fill="#fef2f6" stroke="#1a1a1a" />
+<rect x="213" y="128" width="86" height="58" rx="10" fill="#fff7ec" stroke="#1a1a1a" />
+<rect x="340" y="128" width="86" height="58" rx="10" fill="#f0fbf2" stroke="#1a1a1a" />
+<rect x="340" y="200" width="86" height="58" rx="10" fill="#f0fbf2" stroke="#1a1a1a" />
+</g>
+<g fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round">
+<path d="M118 150 a4 4 0 0 1 8 0" />
+<path d="M134 150 a4 4 0 0 1 8 0" />
+<path d="M122 166 q8 7 16 0" />
+</g>
+<ellipse cx="114" cy="166" rx="7" ry="5" fill="url(#bl)" />
+<ellipse cx="146" cy="166" rx="7" ry="5" fill="url(#bl)" />
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<path d="M76 110 Q76 70 116 70 L396 70 Q436 70 436 110 L436 340 Q436 380 396 380 L320 380 L256 442 L192 380 L116 380 Q76 380 76 340 Z" fill="#bae6fd" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="100" y="92" width="312" height="14" rx="7" fill="#ffffff" opacity="0.7" />
+
+<text x="256" y="270" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="160" font-weight="900" text-anchor="middle" fill="#5b4636">IT</text>
+
+<circle cx="216" cy="328" r="4" fill="#5b4636" />
+<circle cx="296" cy="328" r="4" fill="#5b4636" />
+<path d="M226 342 Q256 354 286 342" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+<circle cx="192" cy="338" r="8" fill="#f9b4c1" opacity="0.6" />
+<circle cx="320" cy="338" r="8" fill="#f9b4c1" opacity="0.6" />
+
+<path d="M100 200 Q120 195 140 210 Q132 208 124 218 L130 222 Q128 230 118 226 Q108 222 100 200 Z" fill="#f9b4c1" stroke="#1a1a1a" stroke-width="3" />
+<path d="M412 200 Q392 195 372 210 Q380 208 388 218 L382 222 Q384 230 394 226 Q404 222 412 200 Z" fill="#f9b4c1" stroke="#1a1a1a" stroke-width="3" />
+<rect x="350" y="372" width="122" height="22" rx="9" fill="#3fae5a" stroke="#1a1a1a" stroke-width="5"/><rect x="350" y="410" width="122" height="22" rx="9" fill="#3fae5a" stroke="#1a1a1a" stroke-width="5"/><path d="M 50 40 C 76 46 76 84 52 108 C 66 84 62 64 46 58 Z" fill="#1a1a1a"/></svg>

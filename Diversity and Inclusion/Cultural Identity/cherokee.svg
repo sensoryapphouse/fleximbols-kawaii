@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Cherokee Nation flag: orange field, central seal (7-pointed star in oak-leaf wreath) -->
+  <rect x="46" y="116" width="420" height="280" rx="14" fill="#e8861f" stroke="#1f1f1f" stroke-width="10"/>
+  <!-- white seal disc -->
+  <circle cx="256" cy="256" r="112" fill="#fdf6e8" stroke="#1f1f1f" stroke-width="9"/>
+  <!-- oak-leaf wreath ring -->
+  <circle cx="256" cy="256" r="96" fill="none" stroke="#3f8a3a" stroke-width="14"/>
+  <g fill="#3f8a3a" stroke="#1f1f1f" stroke-width="3">
+    <ellipse cx="256" cy="158" rx="16" ry="9" transform="rotate(0 256 158)"/>
+    <ellipse cx="325" cy="187" rx="16" ry="9" transform="rotate(45 325 187)"/>
+    <ellipse cx="354" cy="256" rx="16" ry="9" transform="rotate(90 354 256)"/>
+    <ellipse cx="325" cy="325" rx="16" ry="9" transform="rotate(135 325 325)"/>
+    <ellipse cx="256" cy="354" rx="16" ry="9" transform="rotate(0 256 354)"/>
+    <ellipse cx="187" cy="325" rx="16" ry="9" transform="rotate(45 187 325)"/>
+    <ellipse cx="158" cy="256" rx="16" ry="9" transform="rotate(90 158 256)"/>
+    <ellipse cx="187" cy="187" rx="16" ry="9" transform="rotate(135 187 187)"/>
+  </g>
+  <!-- seven-pointed star -->
+  <polygon points="256,176 277,222 326,224 290,257 303,305 256,279 209,305 222,257 186,224 235,222"
+           fill="#e8861f" stroke="#1f1f1f" stroke-width="6" stroke-linejoin="round"/>
+</svg>

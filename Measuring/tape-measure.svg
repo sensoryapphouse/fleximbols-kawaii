@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-31.500 -28.000)">
+  <defs>
+    <radialGradient id="cheekT" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb4c4" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#ffb4c4" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="caseTP" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff2a8" />
+      <stop offset="1" stop-color="#ffd66a" />
+    </linearGradient>
+    <linearGradient id="tapeTP" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff7d0" />
+      <stop offset="1" stop-color="#ffd66a" />
+    </linearGradient>
+  </defs>
+  
+  <rect x="92" y="184" width="248" height="224" rx="58" fill="url(#caseTP)" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="116" y="204" width="200" height="38" rx="18" fill="#7a6a5a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="216" cy="304" r="64" fill="#fff9d8" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="216" cy="304" r="50" fill="url(#tapeTP)" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="216" cy="304" r="36" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="216" cy="304" r="22" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="216" cy="304" r="8" fill="#5a4a3a" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="172" y="160" width="88" height="38" rx="14" fill="#ff9aa8" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="184" y="168" width="64" height="10" rx="4" fill="#ffffff" opacity="0.6" />
+  
+  <path d="M 340 230 Q 380 230 380 304 Q 380 378 340 378" fill="#a8b0bc" stroke="#1a1a1a" stroke-width="2.0000" />
+  <rect x="340" y="230" width="14" height="148" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="332" y="286" width="22" height="36" rx="4" fill="#3a2f24" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M 354 286 L 484 286 L 484 322 L 354 322 Z" fill="url(#tapeTP)" stroke="#1a1a1a" stroke-width="4" />
+  <g stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round">
+    <line x1="372" y1="286" x2="372" y2="300" />
+    <line x1="392" y1="286" x2="392" y2="296" />
+    <line x1="412" y1="286" x2="412" y2="296" />
+    <line x1="432" y1="286" x2="432" y2="300" />
+    <line x1="452" y1="286" x2="452" y2="296" />
+  </g>
+  
+  <path d="M 482 278 L 500 278 L 500 330 L 482 330 L 482 322 L 492 322 L 492 286 L 482 286 Z" fill="#e6ecf2" stroke="#1a1a1a" stroke-width="3.5" />
+  
+  <circle cx="148" cy="304" r="4.5" fill="#3a2a22" />
+  <circle cx="148" cy="302.5" r="1.4" fill="#ffffff" />
+  <ellipse cx="138" cy="320" rx="11" ry="7" fill="url(#cheekT)" />
+  
+  <rect x="108" y="194" width="220" height="14" rx="7" fill="#ffffff" opacity="0.5" />
+</g>
+  </svg>

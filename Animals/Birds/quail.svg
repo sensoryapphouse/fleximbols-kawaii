@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.500 -30.500)">
+<title>quail</title>
+
+<ellipse cx="270" cy="290" rx="160" ry="120" fill="#E8C5A0" stroke="#1a1a1a" stroke-width="3" />
+
+<ellipse cx="220" cy="320" rx="80" ry="70" fill="#FBE0C4" stroke="#1a1a1a" stroke-width="3" />
+
+<path d="M280 240 Q 380 230 410 290 Q 380 360 290 350 Z" fill="#D2A77E" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+
+<path d="M295 260 Q 320 280 320 320" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+<path d="M325 250 Q 350 280 350 320" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+<path d="M355 260 Q 375 285 372 320" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+
+<circle cx="200" cy="340" r="5" fill="#A98162" />
+<circle cx="225" cy="365" r="4" fill="#A98162" />
+<circle cx="175" cy="355" r="4" fill="#A98162" />
+
+<circle cx="150" cy="225" r="62" fill="#E8C5A0" stroke="#1a1a1a" stroke-width="3" />
+
+<path d="M108 218 Q 142 232 188 218" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" />
+<path d="M108 218 Q 142 232 188 218" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+
+<circle cx="128" cy="208" r="12" fill="#5C4A3A" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="132" cy="204" r="5" fill="#FFFFFF" />
+<circle cx="125" cy="212" r="2" fill="#FFFFFF" />
+
+<circle cx="108" cy="245" r="10" fill="#FFB6C1" opacity="0.7" />
+<circle cx="175" cy="245" r="10" fill="#FFB6C1" opacity="0.7" />
+
+<polygon points="86,220 105,212 105,232" fill="#F5A878" stroke="#1a1a1a" stroke-width="2.5" stroke-linejoin="round" />
+
+<path d="M150 162 Q 130 110 110 90" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<circle cx="110" cy="90" r="10" fill="#5C4A3A" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="112" cy="88" r="3" fill="#FFFFFF" opacity="0.6" />
+
+<path d="M420 290 L470 265 L460 310 L470 340 L420 320 Z" fill="#D2A77E" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+
+<line x1="220" y1="395" x2="220" y2="425" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+<line x1="280" y1="395" x2="280" y2="425" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+<line x1="220" y1="425" x2="210" y2="432" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<line x1="220" y1="425" x2="230" y2="432" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<line x1="280" y1="425" x2="270" y2="432" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<line x1="280" y1="425" x2="290" y2="432" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+
+<g fill="#FFE066" stroke="#1a1a1a" stroke-width="2">
+  <polygon points="80,140 85,152 97,157 85,162 80,174 75,162 63,157 75,152" />
+  <polygon points="440,180 444,190 454,194 444,198 440,208 436,198 426,194 436,190" />
+</g>
+<text x="256" y="488" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="34" font-weight="700" fill="#7A5C7A" text-anchor="middle">quail</text>
+</g>
+  </svg>

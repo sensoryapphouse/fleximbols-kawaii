@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d0e8ff" />
+      <stop offset="1" stop-color="#a8d4f0" />
+    </linearGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe0a8" />
+      <stop offset="1" stop-color="#c89858" />
+    </linearGradient>
+    <linearGradient id="canopy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d8a06a" />
+      <stop offset="1" stop-color="#a8682a" />
+    </linearGradient>
+    <radialGradient id="blush" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff9ec0" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#ff9ec0" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="350" width="512" height="162" fill="url(#sea)" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M0 388 Q120 376 240 388 T480 384" fill="none" stroke="#1a1a1a" stroke-width="4" opacity="0.7" />
+  
+  <path d="M64 330 Q56 312 102 308 L412 308 Q466 308 458 330 L446 388 Q256 414 70 388 Z" fill="url(#wood)" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M412 308 Q466 308 458 330 L446 326 Q452 316 432 316 Z" fill="#a87238" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M64 330 Q56 312 102 308 L92 316 Q74 316 76 330 Z" fill="#a87238" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M158 308 Q158 218 256 218 Q354 218 354 308 Z" fill="url(#canopy)" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M178 308 Q180 232 256 226" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M204 308 Q204 226 256 222" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M256 308 L256 218" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M308 308 Q308 226 256 222" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M334 308 Q332 232 256 226" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="232" y="262" width="48" height="46" rx="3" fill="#5a3a18" stroke="#1a1a1a" stroke-width="3" />
+  
+  <line x1="76" y1="308" x2="30" y2="236" stroke="#1a1a1a" stroke-width="2.0000" />
+  <ellipse cx="30" cy="236" rx="12" ry="6" fill="#8a5a28" stroke="#1a1a1a" stroke-width="3" transform="rotate(-40 30 236)" />
+  
+  <ellipse cx="116" cy="350" rx="5" ry="6" fill="#2b2622" />
+  <ellipse cx="140" cy="350" rx="5" ry="6" fill="#2b2622" />
+  <circle cx="117" cy="348" r="1.3" fill="#ffffff" />
+  <circle cx="141" cy="348" r="1.3" fill="#ffffff" />
+  <path d="M120 360 Q128 364 136 360" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="102" cy="360" rx="5" ry="3" fill="url(#blush)" />
+  <ellipse cx="154" cy="360" rx="5" ry="3" fill="url(#blush)" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3562" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3562)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

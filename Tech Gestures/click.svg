@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>click</title>
+  
+  <rect x="70" y="240" width="290" height="130" rx="50" fill="#a8d4f0" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="70" y="240" width="290" height="106" rx="50" fill="#cfe6f5" stroke="#1a1a1a" stroke-width="5" />
+  
+  <circle cx="155" cy="290" r="6" fill="#3a2a1a" />
+  <circle cx="225" cy="290" r="6" fill="#3a2a1a" />
+  <circle cx="158" cy="287" r="2" fill="#ffffff" />
+  <circle cx="228" cy="287" r="2" fill="#ffffff" />
+  <path d="M170 308 Q190 318 210 308" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <circle cx="125" cy="300" r="8" fill="#ffb0c2" opacity="0.7" />
+  <circle cx="255" cy="300" r="8" fill="#ffb0c2" opacity="0.7" />
+  
+  <path d="M260 130 Q255 125 260 122 L260 318 Q260 326 268 322 L295 298 L322 348 Q326 354 334 350 L350 342 Q358 338 354 330 L327 280 L362 280 Q370 280 366 272 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <circle cx="282" cy="240" r="6" fill="#ffb0c2" opacity="0.7" />
+  
+  <circle cx="275" cy="220" r="3" fill="#3a2a1a" />
+  <circle cx="295" cy="225" r="3" fill="#3a2a1a" />
+  <path d="M278 240 Q285 245 292 242" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <path d="M265 105 L262 88 M295 110 L308 92 M243 118 L222 108 M335 145 L355 138" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  
+  <path d="M395 270 L399 280 L409 284 L399 288 L395 298 L391 288 L381 284 L391 280 Z" fill="#ffe699" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M420 320 L423 328 L431 331 L423 334 L420 342 L417 334 L409 331 L417 328 Z" fill="#ffe699" stroke="#1a1a1a" stroke-width="2" />
+</svg>

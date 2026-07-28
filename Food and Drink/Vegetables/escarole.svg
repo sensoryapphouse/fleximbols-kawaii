@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-118.800 -176.400) scale(1.6000)">
+  
+  <defs>
+    <radialGradient id="blushL_esc" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffb8c8" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#ffb8c8" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="blushR_esc" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffb8c8" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#ffb8c8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <path d="M256 368 C194 362 148 334 124 298 C106 270 112 238 132 218 C146 205 140 190 130 178 C148 184 162 200 162 218 C172 200 174 176 166 160 C184 170 196 192 194 216 C206 196 214 172 212 154 C228 166 236 192 230 218 C238 196 250 172 250 152 C262 166 264 194 258 220 C258 192 262 166 262 150 C270 166 268 196 266 220 C272 196 282 170 290 158 C288 176 280 202 274 222 C282 200 296 182 308 176 C300 196 288 220 282 242 C296 222 316 206 328 204 C314 228 292 252 282 276 C300 258 326 244 340 244 C322 272 294 296 274 318 C294 304 320 294 332 294 C312 322 278 344 256 368 Z" fill="#a8e870" stroke="#1a1a1a" stroke-width="1.2500" fill-rule="evenodd" />
+  
+  <ellipse cx="256" cy="268" rx="100" ry="98" fill="#c0f088" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M178 260 C184 254 192 256 196 250 C200 244 208 246 212 240" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  <path d="M330 260 C324 254 316 256 312 250 C308 244 300 246 298 240" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  <path d="M192 300 C200 294 208 296 212 290 C216 284 224 286 228 280" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M318 300 C310 294 302 296 298 290 C294 284 286 286 284 280" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="256" y1="162" x2="256" y2="364" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="256" y1="222" x2="210" y2="302" stroke="#1a1a1a" stroke-width="1.5" />
+  <line x1="256" y1="222" x2="302" y2="302" stroke="#1a1a1a" stroke-width="1.5" />
+  
+  <circle cx="236" cy="270" r="8" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="276" cy="270" r="8" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="238" cy="267" r="3" fill="#ffffff" />
+  <circle cx="278" cy="267" r="3" fill="#ffffff" />
+  <path d="M236 288 Q256 302 276 288" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <ellipse cx="216" cy="282" rx="16" ry="10" fill="url(#blushL_esc)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="296" cy="282" rx="16" ry="10" fill="url(#blushR_esc)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="256" cy="366" rx="34" ry="10" fill="#b0e060" stroke="#1a1a1a" stroke-width="1.2500" />
+</g>
+  </svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>the</title>
+  
+  <circle cx="80" cy="120" r="10" fill="#fff3d0" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="432" cy="120" r="10" fill="#fff3d0" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="80" cy="400" r="10" fill="#fff3d0" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="432" cy="400" r="10" fill="#fff3d0" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M70 250 L74 258 L82 262 L74 266 L70 274 L66 266 L58 262 L66 258 Z" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="1.5" />
+  <path d="M442 250 L446 258 L454 262 L446 266 L442 274 L438 266 L430 262 L438 258 Z" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="1.5" />
+  
+  <path d="M120 260 Q90 256 90 224 Q90 192 124 188 Q130 152 174 152 Q200 122 246 130 Q270 108 308 122 Q346 110 376 142 Q420 142 426 184 Q452 196 446 232 Q452 268 414 274 Q400 304 360 300 Q336 332 290 322 Q260 344 222 326 Q190 342 158 318 Q120 318 116 286 Q100 280 120 260 Z" fill="#c8e6c8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M156 232 Q176 192 220 198 Q246 174 286 192 Q328 178 348 220 Q368 220 366 252 Q346 282 308 282 Q282 304 244 286 Q210 296 184 278 Q156 272 156 232 Z" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <text x="256" y="262" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="800" font-size="78" fill="#3d5a3d">THE</text>
+  
+  <circle cx="226" cy="210" r="4" fill="#3d2a2a" />
+  <circle cx="286" cy="210" r="4" fill="#3d2a2a" />
+  <path d="M236 222 Q256 234 276 222" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <circle cx="200" cy="222" r="9" fill="#ffb6c1" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="312" cy="222" r="9" fill="#ffb6c1" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M220 360 Q256 376 292 360 Q280 396 256 388 Q232 396 220 360 Z" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <circle cx="256" cy="370" r="6" fill="#ff8fa3" stroke="#1a1a1a" stroke-width="2" />
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M170 180 Q170 160 200 160 L312 160 Q342 160 342 180 L342 430 Q342 460 312 460 L200 460 Q170 460 170 430 Z" fill="#e8edf5" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M190 200 Q190 185 205 185 L215 185 L215 430 Q215 445 200 445 Q190 445 190 430 Z" fill="#ffffff" opacity="0.7" />
+  
+  <path d="M150 110 Q150 90 175 90 L337 90 Q362 90 362 110 L362 170 L150 170 Z" fill="#c8ced8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <rect x="150" y="160" width="212" height="14" fill="#a8aebe" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <circle cx="200" cy="125" r="7" fill="#7a7a86" />
+  <circle cx="232" cy="125" r="7" fill="#7a7a86" />
+  <circle cx="264" cy="125" r="7" fill="#7a7a86" />
+  <circle cx="296" cy="125" r="7" fill="#7a7a86" />
+  <circle cx="216" cy="145" r="7" fill="#7a7a86" />
+  <circle cx="248" cy="145" r="7" fill="#7a7a86" />
+  <circle cx="280" cy="145" r="7" fill="#7a7a86" />
+  
+  <circle cx="195" cy="65" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="240" cy="45" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="280" cy="55" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="320" cy="70" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="195" y="270" width="120" height="80" rx="10" fill="#ffd86b" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="256" y="320" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="34" font-weight="bold" fill="#a06b3a">S</text>
+  
+  <circle cx="240" cy="380" r="7" fill="#3a2a36" />
+  <circle cx="272" cy="380" r="7" fill="#3a2a36" />
+  <path d="M248 400 Q256 408 264 400" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round" />
+  <circle cx="220" cy="398" r="7" fill="#ff9bbd" opacity="0.7" />
+  <circle cx="292" cy="398" r="7" fill="#ff9bbd" opacity="0.7" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1498" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1498)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="b" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#f0fbff" /><stop offset="55%" stop-color="#c8eef8" /><stop offset="100%" stop-color="#88ccee" /></radialGradient>
+    <radialGradient id="tooth" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#ffffff" /><stop offset="60%" stop-color="#eef6ff" /><stop offset="100%" stop-color="#ccddf0" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    
+    
+  </defs>
+  
+  <path d="M90,150 Q90,60 256,60 Q422,60 422,150 L422,330 Q422,420 340,440 L256,456 L172,440 Q90,420 90,330 Z" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.45" />
+  
+  <path d="M90,150 Q90,60 256,60 Q422,60 422,150 L422,330 Q422,420 340,440 L256,456 L172,440 Q90,420 90,330 Z" fill="url(#b)" stroke="#1a1a1a" stroke-width="2.0000" opacity="0.9" />
+  
+  <path d="M136,170 Q136,110 256,110 Q376,110 376,170 L376,300 Q376,374 316,390 L256,402 L196,390 Q136,374 136,300 Z" fill="url(#tooth)" stroke="#1a1a1a" stroke-width="2.5" opacity="0.85" />
+  
+  <ellipse cx="170" cy="168" rx="24" ry="30" fill="url(#tooth)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="212" cy="142" rx="24" ry="32" fill="url(#tooth)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="256" cy="134" rx="26" ry="34" fill="url(#tooth)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="300" cy="142" rx="24" ry="32" fill="url(#tooth)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="342" cy="168" rx="24" ry="30" fill="url(#tooth)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M136,170 Q136,154 170,152 Q212,138 256,134 Q300,138 342,152 Q376,154 376,170" fill="#e0f4ff" stroke="#1a1a1a" stroke-width="2" opacity="0.7" />
+  
+  
+  
+  <path d="M430,80 L436,96 L452,96 L440,106 L444,122 L430,112 L416,122 L420,106 L408,96 L424,96 Z" fill="#ffdf5e" stroke="#1a1a1a" stroke-width="1.5" />
+  <path d="M64,100 L68,112 L80,112 L71,120 L74,132 L64,125 L54,132 L57,120 L48,112 L60,112 Z" fill="#ffdf5e" stroke="#1a1a1a" stroke-width="1.5" />
+  <circle cx="460" cy="140" r="8" fill="#ffdf5e" stroke="#1a1a1a" stroke-width="1.5" />
+  <circle cx="52" cy="68" r="6" fill="#ffdf5e" stroke="#1a1a1a" stroke-width="1.5" />
+  
+  <ellipse cx="182" cy="340" rx="32" ry="20" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="330" cy="340" rx="32" ry="20" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="210" cy="318" rx="17" ry="14" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="302" cy="318" rx="17" ry="14" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M193,312 Q210,306 227,312" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M285,312 Q302,306 319,312" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <ellipse cx="204" cy="313" rx="5" ry="4" fill="#ffffff" />
+  <ellipse cx="296" cy="313" rx="5" ry="4" fill="#ffffff" />
+  
+  <path d="M224,346 Q256,362 288,346" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" />
+</svg>

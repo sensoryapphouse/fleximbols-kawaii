@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240"><defs><radialGradient id="s3d_ffe4e1" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ffecea"/><stop offset="0.45" stop-color="#ffe4e1"/><stop offset="1" stop-color="#ccb6b4"/></radialGradient></defs>
+  <circle cx="145" cy="120" r="92" fill="url(#s3d_ffe4e1)" data-flat="#ffe4e1" stroke="#5a606c" stroke-width="8"></circle>
+</svg>

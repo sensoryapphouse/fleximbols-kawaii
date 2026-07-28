@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.52 82.93 352.97 352.97"><defs><radialGradient id="s3d_3d7fb5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#77a5cb"/><stop offset="0.45" stop-color="#3d7fb5"/><stop offset="1" stop-color="#316691"/></radialGradient><radialGradient id="s3d_f4c430" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f7d66e"/><stop offset="0.45" stop-color="#f4c430"/><stop offset="1" stop-color="#c39d26"/></radialGradient><radialGradient id="s3d_d63b46" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e2767e"/><stop offset="0.45" stop-color="#d63b46"/><stop offset="1" stop-color="#ab2f38"/></radialGradient><radialGradient id="s3d_5aa83c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#8cc276"/><stop offset="0.45" stop-color="#5aa83c"/><stop offset="1" stop-color="#488630"/></radialGradient><radialGradient id="s3d_b9bdc2" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ced1d4"/><stop offset="0.45" stop-color="#b9bdc2"/><stop offset="1" stop-color="#94979b"/></radialGradient><radialGradient id="s3d_e08a3a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e9ad75"/><stop offset="0.45" stop-color="#e08a3a"/><stop offset="1" stop-color="#b36e2e"/></radialGradient></defs>
+<!-- playfield (angled tabletop) -->
+<path d="M 168 110 L 344 110 L 372 410 L 140 410 Z" fill="url(#s3d_3d7fb5)" data-flat="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- plunger lane on right -->
+<line x1="332" y1="120" x2="352" y2="400" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- bumpers -->
+<circle cx="222" cy="185" r="26" fill="url(#s3d_f4c430)" data-flat="#f4c430" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="222" cy="185" r="9" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="298" cy="200" r="22" fill="url(#s3d_d63b46)" data-flat="#d63b46" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="298" cy="200" r="8" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="200" cy="270" r="20" fill="url(#s3d_5aa83c)" data-flat="#5aa83c" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="200" cy="270" r="7" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+<!-- ball -->
+<circle cx="288" cy="290" r="15" fill="url(#s3d_b9bdc2)" data-flat="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<!-- left flipper -->
+<path d="M 178 360 L 244 386 L 240 400 L 176 378 Z" fill="url(#s3d_e08a3a)" data-flat="#e08a3a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- right flipper -->
+<path d="M 330 360 L 264 386 L 268 400 L 332 378 Z" fill="url(#s3d_e08a3a)" data-flat="#e08a3a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

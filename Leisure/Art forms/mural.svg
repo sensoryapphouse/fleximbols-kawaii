@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 56.40 411.15 411.15"><defs><radialGradient id="s3d_f4b740" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f7cd79"/><stop offset="0.45" stop-color="#f4b740"/><stop offset="1" stop-color="#c39233"/></radialGradient><radialGradient id="s3d_7ec97e" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#a5d9a5"/><stop offset="0.45" stop-color="#7ec97e"/><stop offset="1" stop-color="#65a165"/></radialGradient><radialGradient id="s3d_e2604f" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eb9084"/><stop offset="0.45" stop-color="#e2604f"/><stop offset="1" stop-color="#b54d3f"/></radialGradient><radialGradient id="s3d_9b6dd6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b999e2"/><stop offset="0.45" stop-color="#9b6dd6"/><stop offset="1" stop-color="#7c57ab"/></radialGradient><radialGradient id="s3d_5aa9e6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#8cc3ee"/><stop offset="0.45" stop-color="#5aa9e6"/><stop offset="1" stop-color="#4887b8"/></radialGradient></defs>
+<!-- large wall panel -->
+<rect x="96" y="110" width="320" height="270" rx="8" fill="#f0ece1" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- painted scene: sun -->
+<circle cx="165" cy="175" r="30" fill="url(#s3d_f4b740)" data-flat="#f4b740" stroke="#1a1a1a" stroke-width="7"/>
+<!-- rolling hills -->
+<path d="M 96 330 Q 175 250 256 320 Q 340 250 416 320 L 416 372 L 96 372 Z" fill="url(#s3d_7ec97e)" data-flat="#7ec97e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- big flower mural motif -->
+<circle cx="320" cy="190" r="20" fill="url(#s3d_e2604f)" data-flat="#e2604f" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="290" cy="200" r="20" fill="url(#s3d_9b6dd6)" data-flat="#9b6dd6" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="320" cy="225" r="20" fill="url(#s3d_5aa9e6)" data-flat="#5aa9e6" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="350" cy="200" r="20" fill="url(#s3d_f4b740)" data-flat="#f4b740" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="320" cy="207" r="13" fill="#fdfdfd" stroke="#1a1a1a" stroke-width="6"/>
+<!-- pedestal / ground line for the wall -->
+<rect x="80" y="380" width="352" height="34" rx="6" fill="#c7b89c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-jm" viewBox="0 0 640 480"><defs><radialGradient id="s3d_000001" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#4c4c4d"/><stop offset="0.45" stop-color="#000001"/><stop offset="1" stop-color="#000001"/></radialGradient></defs>
+  <g fill-rule="evenodd">
+    <path fill="url(#s3d_000001)" data-flat="#000001" d="m0 0 320 240L0 480zm640 0L320 240l320 240z"/>
+    <path fill="#090" d="m0 0 320 240L640 0zm0 480 320-240 320 240z"/>
+    <path fill="#fc0" d="M640 0h-59.6L0 435.3V480h59.6L640 44.7z"/>
+    <path fill="#fc0" d="M0 0v44.7L580.4 480H640v-44.7L59.6 0z"/>
+  </g>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#000000" stroke-width="2"/>
+</svg>

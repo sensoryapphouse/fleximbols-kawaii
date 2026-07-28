@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="canc" cx="42%" cy="32%" r="74%">
+      <stop offset="0%" stop-color="#7be08a"/>
+      <stop offset="55%" stop-color="#39b54a"/>
+      <stop offset="100%" stop-color="#1d8a32"/>
+    </radialGradient>
+    <radialGradient id="canbl" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0d5e1f" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0d5e1f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g stroke="#1a1a1a" stroke-linejoin="round" stroke-linecap="round">
+    <circle cx="256" cy="256" r="172" fill="none" stroke-width="12" opacity="0.4"/>
+    <circle cx="256" cy="256" r="172" fill="url(#canc)" stroke-width="4"/>
+    <ellipse cx="186" cy="316" rx="34" ry="20" fill="url(#canbl)" stroke="none"/>
+    <ellipse cx="326" cy="316" rx="34" ry="20" fill="url(#canbl)" stroke="none"/>
+    <path d="M168,260 L232,326 L356,182" fill="none" stroke="#ffffff" stroke-width="40"/>
+  </g>
+</svg>

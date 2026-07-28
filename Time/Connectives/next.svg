@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>next</title>
+  <rect x="55" y="155" width="402" height="202" rx="50" fill="#c8e0f0" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M 105 222 Q 105 215 112 215 L 215 215 L 215 192 Q 215 184 222 188 L 290 252 Q 296 256 290 261 L 222 322 Q 215 326 215 318 L 215 295 L 112 295 Q 105 295 105 288 Z" fill="#fff8e8" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <circle cx="280" cy="245" r="4" fill="#fbb4c8" opacity="0.7" />
+  <text x="375" y="275" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="48" font-weight="900" text-anchor="middle" fill="#587893">NEXT</text>
+  <circle cx="345" cy="285" r="3" fill="#fbb4c8" opacity="0.7" />
+  <circle cx="405" cy="285" r="3" fill="#fbb4c8" opacity="0.7" />
+  <path d="M 80 115 L 85 127 L 96 117 L 90 133 L 102 141 L 88 141 L 81 157 L 75 141 L 61 141 L 73 133 L 67 117 Z" fill="#fde0a8" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" />
+  <path d="M 432 380 L 437 392 L 448 382 L 442 398 L 454 406 L 440 406 L 433 422 L 427 406 L 413 406 L 425 398 L 419 382 Z" fill="#fbb4c8" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" />
+  <path d="M 432 90 L 437 102 L 448 92 L 442 108 L 454 116 L 440 116 L 433 132 L 427 116 L 413 116 L 425 108 L 419 92 Z" fill="#d8e8c8" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" />
+</svg>

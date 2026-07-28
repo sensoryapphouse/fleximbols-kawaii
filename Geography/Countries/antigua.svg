@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<clipPath id="antClip">
+<rect x="56" y="126" width="400" height="260" rx="22" ry="22" />
+</clipPath>
+</defs>
+<g transform="translate(-20.48 -20.48) scale(1.080)">
+<g clip-path="url(#antClip)">
+<rect x="56" y="126" width="400" height="260" fill="#ce1126" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="56,126 456,126 456,386 256,256" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="56,126 456,126 256,256" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="136,156 376,156 256,256" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="116,200 396,200 256,290" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+<rect x="116" y="290" width="280" height="22" fill="#0072c6" stroke="#1a1a1a" stroke-width="2" />
+<rect x="116" y="312" width="280" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+<rect x="116" y="334" width="280" height="22" fill="#0072c6" stroke="#1a1a1a" stroke-width="2" />
+<g>
+<path d="M186 290 Q186 218 256 218 Q326 218 326 290 Z" fill="#fcd116" stroke="#1a1a1a" stroke-width="2" />
+<g stroke="#1a1a1a" stroke-width="1.8519" stroke-linecap="round">
+<line x1="256" y1="186" x2="256" y2="212" />
+<line x1="216" y1="200" x2="226" y2="220" />
+<line x1="296" y1="200" x2="286" y2="220" />
+<line x1="190" y1="232" x2="206" y2="240" />
+<line x1="322" y1="232" x2="306" y2="240" />
+<line x1="180" y1="262" x2="200" y2="262" />
+<line x1="332" y1="262" x2="312" y2="262" />
+</g>
+</g>
+</g>
+</g>
+</svg>

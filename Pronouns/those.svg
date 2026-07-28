@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(13.500 -26.750)">
+  
+  
+  <path d="M20 184 Q20 174 30 174 L156 174 Q166 174 166 184 L166 250 Q166 260 156 260 L30 260 Q20 260 20 250 Z" fill="#b8d8f4" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M166 184 Q166 178 174 178 L242 178 Q260 178 260 198 L260 236 Q260 256 242 256 L174 256 Q166 256 166 250 Z" fill="#ffe2c8" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <rect x="260" y="200" width="86" height="34" rx="16" fill="#ffe2c8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M354 218 L470 218" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" stroke-dasharray="8 8" />
+  
+  <circle cx="384" cy="100" r="18" fill="#fdb8c4" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="380" cy="98" r="3" fill="#3a2a1a" />
+  <circle cx="388" cy="98" r="3" fill="#3a2a1a" />
+  <path d="M378 108 Q384 112 390 108" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+  <circle cx="432" cy="118" r="13" fill="#fde8a8" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="429" cy="117" r="2" fill="#3a2a1a" />
+  <circle cx="435" cy="117" r="2" fill="#3a2a1a" />
+  <circle cx="472" cy="130" r="9" fill="#b8d8f4" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="372" y="324" width="32" height="32" rx="10" fill="#fdb8c4" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="422" y="326" width="22" height="22" rx="7" fill="#fde8a8" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="460" y="328" width="16" height="16" rx="5" fill="#b8d8f4" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="110" y="408" width="292" height="74" rx="34" fill="#fff4e8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <text x="256" y="461" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="46" font-weight="900" fill="#8a4a6a">THOSE</text>
+  <circle cx="126" cy="446" r="6" fill="#ffc0d0" opacity="0.8" />
+  <circle cx="386" cy="446" r="6" fill="#ffc0d0" opacity="0.8" />
+</g>
+  </svg>

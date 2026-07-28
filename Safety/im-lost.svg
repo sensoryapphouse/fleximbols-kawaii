@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_80cbc4" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#a6dbd6"/><stop offset="0.45" stop-color="#80cbc4"/><stop offset="1" stop-color="#66a29d"/></radialGradient><radialGradient id="s3d_ecd6c0" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f2e2d3"/><stop offset="0.45" stop-color="#ecd6c0"/><stop offset="1" stop-color="#bdab9a"/></radialGradient><radialGradient id="s3d_6b4a2b" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#97806b"/><stop offset="0.45" stop-color="#6b4a2b"/><stop offset="1" stop-color="#563b22"/></radialGradient><radialGradient id="s3d_e0473c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e97e76"/><stop offset="0.45" stop-color="#e0473c"/><stop offset="1" stop-color="#b33930"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","mc"],["h2","mc"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(0.9406) translate(-272.50 -296.00)">
+<!-- worried person bust (shifted left to make room for big pin) -->
+<rect x="158" y="286" width="60" height="104" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 36 512 Q 50 372 138 364 L 238 364 Q 326 372 340 512 Z" fill="url(#s3d_80cbc4)" data-flat="#80cbc4" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="158" y="286" width="60" height="40" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="0"/>
+<circle id="h1" data-fig="mc" cx="76" cy="226" r="20" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<circle id="h2" data-fig="mc" cx="300" cy="226" r="20" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<g data-fig="m" data-part="face"><g transform="translate(-100.62 54.39) scale(4.465 4.480)"><g transform="translate(3.30 10.82) scale(0.9392)"><g transform="translate(1 4)"><g transform="translate(63.5 50.0) scale(0.82 0.82) translate(-63.5 -52.0)"><g transform="matrix(1.0207,0,0,1.0207,-1.32509,-2.64997)"><g transform="matrix(1,0,0,1,28.02,0)"><path stroke="#1a1a1a" stroke-width="1.12" stroke-linejoin="round" d="M35.98,57.47C33.06,57.47 30.69,55.1 30.69,52.18L30.69,47.66L41.27,47.66L41.27,52.18C41.27,55.1 38.9,57.47 35.98,57.47Z" fill="#ecd6c0" fill-rule="nonzero" /></g></g></g></g></g><g transform="translate(3.30 10.82) scale(0.9392)"><g transform="translate(1 4)"><g transform="translate(63.5 50.0) scale(1.62 1.24) translate(-63.5 -50.0)"><g transform="matrix(1.0207,0,0,1.0207,-1.32509,-2.64997)"><g transform="matrix(1,0,0,1,28.02,0)"><path stroke="#1a1a1a" stroke-width="1.12" stroke-linejoin="round" d="M35.98,9.13C23.41,9.13 20.12,18.88 20.12,32.57C20.12,46.77 29.25,50.44 35.98,50.44C42.62,50.44 51.84,46.87 51.84,32.57C51.85,18.88 48.56,9.13 35.98,9.13Z" fill="url(#s3d_ecd6c0)" data-flat="#ecd6c0" fill-rule="nonzero" /></g></g></g></g></g></g></g>
+<path d="M 80 196 Q 96 86 188 82 Q 280 86 296 196 Q 266 134 188 122 Q 110 134 80 196 Z" fill="url(#s3d_6b4a2b)" data-flat="#6b4a2b" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- worried brows -->
+<line x1="132" y1="182" x2="166" y2="168" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="210" y1="168" x2="244" y2="182" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- eyes -->
+<circle cx="148" cy="208" r="16" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="228" cy="208" r="16" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="148" cy="216" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="228" cy="216" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<!-- worried mouth -->
+<path d="M 154 282 Q 170 273 188 282 Q 206 291 222 282" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- OVERSIZED location/map pin (dominant 'where am I' cue), pulled clear of the face -->
+<path d="M 440 196 C 384 196 356 240 356 286 C 356 348 440 446 440 446 C 440 446 524 348 524 286 C 524 240 496 196 440 196 Z" fill="url(#s3d_e0473c)" data-flat="#e0473c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="440" cy="284" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<!-- question mark centred inside the pin (lost = don't know where) -->
+<path d="M 425 274 q 0 -20 15 -20 q 16 0 16 17 q 0 12 -13 16 q -3 1 -3 8" fill="none" stroke="#1a1a1a" stroke-width="6.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="440" cy="305" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

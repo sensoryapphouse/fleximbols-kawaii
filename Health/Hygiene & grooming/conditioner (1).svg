@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="218" y="68" width="60" height="36" rx="14" fill="#cbb6e0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M248 84 L248 102 L310 102 L310 138 L290 138 L290 122 L248 122" fill="#cbb6e0" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <rect x="210" y="104" width="76" height="40" rx="10" fill="#dccae8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M120 188 Q120 156 152 156 L344 156 Q376 156 376 188 L376 432 Q376 464 344 464 L152 464 Q120 464 120 432 Z" fill="#b9dcd0" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <rect x="148" y="240" width="200" height="180" rx="20" fill="#fdfaef" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="200" cy="296" r="5" fill="#5a3a4a" />
+  <circle cx="296" cy="296" r="5" fill="#5a3a4a" />
+  <path d="M218 320 Q248 336 278 320" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <circle cx="182" cy="316" r="9" fill="#f4a8c0" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="314" cy="316" r="9" fill="#f4a8c0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M210 372 Q236 358 248 376 Q258 392 244 400 Q230 406 226 392" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M268 372 Q294 358 306 376 Q316 392 302 400 Q288 406 284 392" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <text x="248" y="406" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#6e5a82">SOFT HAIR</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-63.163 -74.394) scale(1.2479)">
+<defs>
+<radialGradient id="b" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#e8f8d0" /><stop offset="55%" stop-color="#7fd08a" /><stop offset="100%" stop-color="#3a9c50" /></radialGradient>
+<radialGradient id="b2" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#d0f0b0" /><stop offset="55%" stop-color="#5ab860" /><stop offset="100%" stop-color="#2e8040" /></radialGradient>
+<radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#2a6a30" stop-opacity="0" /><stop offset="72%" stop-color="#2a6a30" stop-opacity="0" /><stop offset="100%" stop-color="#2a6a30" stop-opacity="0.38" /></radialGradient>
+<radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+<radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+
+
+<clipPath id="cl1"><path d="M130,210 C130,150 185,110 256,110 C327,110 382,150 382,210 L382,320 C382,380 327,420 256,420 C185,420 130,380 130,320 Z" /></clipPath>
+<clipPath id="cl2"><path d="M110,290 C115,245 155,220 200,228 L312,228 C357,220 398,245 400,290 L395,360 C388,400 345,420 300,418 L212,418 C167,420 124,400 116,360 Z" /></clipPath>
+</defs>
+<path d="M130,210 C130,150 185,110 256,110 C327,110 382,150 382,210 L382,320 C382,380 327,420 256,420 C185,420 130,380 130,320 Z" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.45" />
+<path d="M130,210 C130,150 185,110 256,110 C327,110 382,150 382,210 L382,320 C382,380 327,420 256,420 C185,420 130,380 130,320 Z" fill="url(#b)" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
+<ellipse cx="200" cy="265" rx="36" ry="44" fill="url(#b2)" stroke="#1a1a1a" stroke-width="2.5" />
+<ellipse cx="256" cy="260" rx="36" ry="44" fill="url(#b2)" stroke="#1a1a1a" stroke-width="2.5" />
+<ellipse cx="312" cy="265" rx="36" ry="44" fill="url(#b2)" stroke="#1a1a1a" stroke-width="2.5" />
+<line x1="200" y1="220" x2="200" y2="168" stroke="#1a1a1a" stroke-width="1.6027" stroke-linecap="round" />
+<line x1="312" y1="220" x2="312" y2="168" stroke="#1a1a1a" stroke-width="1.6027" stroke-linecap="round" />
+<path d="M195,168 Q200,148 220,155" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<path d="M317,168 Q312,148 292,155" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<g clip-path="url(#cl1)">
+
+<path d="M130,210 C130,150 185,110 256,110 C327,110 382,150 382,210 L382,320 C382,380 327,420 256,420 C185,420 130,380 130,320 Z" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+</g>
+<ellipse cx="216" cy="380" rx="26" ry="16" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="296" cy="380" rx="26" ry="16" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="224" cy="363" rx="14" ry="18" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="288" cy="363" rx="14" ry="18" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="219" cy="357" rx="5" ry="6" fill="#ffffff" />
+<ellipse cx="283" cy="357" rx="5" ry="6" fill="#ffffff" />
+
+
+<path d="M242,388 C252,400 262,400 272,388" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" />
+</g>
+  </svg>

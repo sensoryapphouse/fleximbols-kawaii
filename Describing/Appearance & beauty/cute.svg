@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="59.15 85.60 393.70 393.70"><defs><radialGradient id="s3d_b07a44" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#c8a27c"/><stop offset="0.45" stop-color="#b07a44"/><stop offset="1" stop-color="#8d6236"/></radialGradient><radialGradient id="s3d_d8a86a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e4c297"/><stop offset="0.45" stop-color="#d8a86a"/><stop offset="1" stop-color="#ad8655"/></radialGradient><radialGradient id="s3d_c08a4e" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#d3ad83"/><stop offset="0.45" stop-color="#c08a4e"/><stop offset="1" stop-color="#9a6e3e"/></radialGradient><radialGradient id="s3d_e6c590" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eed6b1"/><stop offset="0.45" stop-color="#e6c590"/><stop offset="1" stop-color="#b89e73"/></radialGradient></defs><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- a cute teddy bear -->
+<g transform="translate(256 262)" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round">
+<!-- ears -->
+<circle cx="-78" cy="-110" r="38" fill="url(#s3d_b07a44)" data-flat="#b07a44"/>
+<circle cx="78" cy="-110" r="38" fill="url(#s3d_b07a44)" data-flat="#b07a44"/>
+<circle cx="-78" cy="-110" r="17" fill="url(#s3d_d8a86a)" data-flat="#d8a86a" stroke-width="0"/>
+<circle cx="78" cy="-110" r="17" fill="url(#s3d_d8a86a)" data-flat="#d8a86a" stroke-width="0"/>
+<!-- body -->
+<ellipse cx="0" cy="92" rx="86" ry="78" fill="url(#s3d_c08a4e)" data-flat="#c08a4e"/>
+<ellipse cx="0" cy="100" rx="48" ry="44" fill="url(#s3d_e6c590)" data-flat="#e6c590" stroke-width="0"/>
+<!-- arms -->
+<ellipse cx="-92" cy="60" rx="30" ry="40" fill="url(#s3d_b07a44)" data-flat="#b07a44"/>
+<ellipse cx="92" cy="60" rx="30" ry="40" fill="url(#s3d_b07a44)" data-flat="#b07a44"/>
+<!-- legs -->
+<ellipse cx="-48" cy="160" rx="34" ry="28" fill="url(#s3d_b07a44)" data-flat="#b07a44"/>
+<ellipse cx="48" cy="160" rx="34" ry="28" fill="url(#s3d_b07a44)" data-flat="#b07a44"/>
+<!-- head -->
+<circle cx="0" cy="-44" r="80" fill="url(#s3d_c08a4e)" data-flat="#c08a4e"/>
+<!-- muzzle -->
+<ellipse cx="0" cy="-18" rx="44" ry="34" fill="url(#s3d_e6c590)" data-flat="#e6c590"/>
+</g>
+<!-- face details (no outline strokes for tiny bits) -->
+<g stroke="#1a1a1a" stroke-linejoin="round">
+<circle cx="226" cy="208" r="9" fill="#1a1a1a" stroke-width="0"/>
+<circle cx="286" cy="208" r="9" fill="#1a1a1a" stroke-width="0"/>
+<ellipse cx="256" cy="236" rx="11" ry="8" fill="#1a1a1a" stroke-width="0"/>
+<path d="M 256 244 Q 240 258 228 250" fill="none" stroke-width="6" stroke-linecap="round"/>
+<path d="M 256 244 Q 272 258 284 250" fill="none" stroke-width="6" stroke-linecap="round"/>
+</g>
+</svg>

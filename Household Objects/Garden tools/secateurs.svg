@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_c7ccd1" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#d8dbdf"/><stop offset="0.45" stop-color="#c7ccd1"/><stop offset="1" stop-color="#9fa3a7"/></radialGradient><radialGradient id="s3d_9aa0a6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b8bcc1"/><stop offset="0.45" stop-color="#9aa0a6"/><stop offset="1" stop-color="#7b8085"/></radialGradient><radialGradient id="s3d_6b7178" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#979ca0"/><stop offset="0.45" stop-color="#6b7178"/><stop offset="1" stop-color="#565a60"/></radialGradient><radialGradient id="s3d_e0473c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e97e76"/><stop offset="0.45" stop-color="#e0473c"/><stop offset="1" stop-color="#b33930"/></radialGradient><radialGradient id="s3d_c93a30" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#d9756e"/><stop offset="0.45" stop-color="#c93a30"/><stop offset="1" stop-color="#a12e26"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- secateurs / bypass pruners: short curved cutting head + two stout red handles + spring -->
+<!-- upper curved cutting blade (hooked) -->
+<path d="M 256 252 L 208 158 Q 192 126 222 116 Q 250 108 260 142 L 282 232 Z" fill="url(#s3d_c7ccd1)" data-flat="#c7ccd1" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cutting edge highlight -->
+<line x1="226" y1="142" x2="252" y2="208" stroke="#eef1f3" stroke-width="5" stroke-linecap="round"/>
+<!-- lower curved counter-blade / hook -->
+<path d="M 256 252 L 308 162 Q 326 132 300 120 Q 276 112 266 144 L 248 228 Z" fill="url(#s3d_9aa0a6)" data-flat="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pivot bolt -->
+<circle cx="256" cy="252" r="15" fill="url(#s3d_6b7178)" data-flat="#6b7178" stroke="#1a1a1a" stroke-width="8"/>
+<!-- left handle (red grip) -->
+<path d="M 244 266 L 200 386 Q 190 414 218 420 Q 244 424 252 396 L 268 282 Z" fill="url(#s3d_e0473c)" data-flat="#e0473c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right handle (red grip) -->
+<path d="M 268 266 L 312 386 Q 322 414 294 420 Q 268 424 260 396 L 244 282 Z" fill="url(#s3d_c93a30)" data-flat="#c93a30" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- spring coil between handles -->
+<path d="M 256 288 q -15 8 0 17 q 15 8 0 17 q -15 8 0 17" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <path d="M40 140 Q60 130 90 135 L240 130 L240 380 L90 385 Q60 388 40 378 Z" fill="#b8e0ff" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <circle cx="130" cy="225" r="3" fill="#5c4a3a" />
+  <circle cx="170" cy="225" r="3" fill="#5c4a3a" />
+  <path d="M140 240 Q150 248 160 240" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <circle cx="118" cy="232" r="5" fill="#ffb3ba" opacity="0.6" />
+  <circle cx="182" cy="232" r="5" fill="#ffb3ba" opacity="0.6" />
+  
+  <line x1="70" y1="180" x2="220" y2="180" stroke="#1a1a1a" stroke-width="2" opacity="0.3" />
+  <line x1="70" y1="320" x2="220" y2="320" stroke="#1a1a1a" stroke-width="2" opacity="0.3" />
+  <line x1="70" y1="350" x2="220" y2="350" stroke="#1a1a1a" stroke-width="2" opacity="0.3" />
+  
+  <path d="M272 130 L422 135 Q452 130 472 140 L472 378 Q452 388 422 385 L272 380 Z" fill="#ffc1cc" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <circle cx="342" cy="225" r="3" fill="#5c4a3a" />
+  <circle cx="382" cy="225" r="3" fill="#5c4a3a" />
+  <path d="M352 240 Q362 248 372 240" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <circle cx="330" cy="232" r="5" fill="#ff6b8a" opacity="0.5" />
+  <circle cx="394" cy="232" r="5" fill="#ff6b8a" opacity="0.5" />
+  <line x1="292" y1="180" x2="442" y2="180" stroke="#1a1a1a" stroke-width="2" opacity="0.3" />
+  <line x1="292" y1="320" x2="442" y2="320" stroke="#1a1a1a" stroke-width="2" opacity="0.3" />
+  <line x1="292" y1="350" x2="442" y2="350" stroke="#1a1a1a" stroke-width="2" opacity="0.3" />
+  
+  <path d="M240 150 L272 170 L240 190 L272 210 L240 230 L272 250 L240 270 L272 290 L240 310 L272 330" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <line x1="260" y1="330" x2="305" y2="395" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <circle cx="263" cy="335" r="4" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="305,395 312,395 308,402" fill="#5c4a3a" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M263 335 Q200 380 240 310" fill="none" stroke="#1a1a1a" stroke-width="4" />
+</svg>

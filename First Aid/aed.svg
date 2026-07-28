@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-70.924 -84.985) scale(1.2783)">
+
+<path d="M120 140 Q120 116 146 116 L366 116 Q392 116 392 142 L392 392 Q392 418 366 418 L146 418 Q120 418 120 392 Z" fill="#7ac47a" stroke="#1a1a1a" stroke-width="1.5646" />
+
+<path d="M120 140 Q120 116 146 116 L366 116 Q392 116 392 142 L392 196 L120 196 Z" fill="#ffd24a" stroke="#1a1a1a" stroke-width="1.5646" />
+
+<path d="M212 116 Q212 84 256 84 Q300 84 300 116" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" />
+
+<path d="M256 250 Q236 222 210 240 Q186 258 210 292 Q232 322 256 342 Q280 322 302 292 Q326 258 302 240 Q276 222 256 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+<path d="M262 252 L236 296 L256 296 L248 332 L282 286 L260 286 Z" fill="#ff7a9c" stroke="#1a1a1a" stroke-width="2" />
+
+<rect x="232" y="356" width="48" height="20" rx="8" fill="#ffd24a" stroke="#1a1a1a" stroke-width="4" />
+
+<rect x="150" y="372" width="64" height="34" rx="10" fill="#e9f5ea" stroke="#1a1a1a" stroke-width="5" />
+<rect x="298" y="372" width="64" height="34" rx="10" fill="#e9f5ea" stroke="#1a1a1a" stroke-width="5" />
+<path d="M182 372 v34 M330 372 v34" stroke="#1a1a1a" stroke-width="3" />
+
+<circle cx="170" cy="166" r="3.4" fill="#7a5a1a" />
+<circle cx="192" cy="166" r="3.4" fill="#7a5a1a" />
+<path d="M171 175 Q181 182 191 175" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+
+
+</g>
+  </svg>

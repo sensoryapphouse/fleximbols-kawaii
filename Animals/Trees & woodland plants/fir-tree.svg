@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="kfirbark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9a7250" />
+      <stop offset="0.5" stop-color="#b88e68" />
+      <stop offset="1" stop-color="#765636" />
+    </linearGradient>
+    <radialGradient id="kfirfoliage" cx="0.5" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#8fc4a2" />
+      <stop offset="1" stop-color="#508a64" />
+    </radialGradient>
+    <linearGradient id="kfircone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b07a44" />
+      <stop offset="1" stop-color="#6e4820" />
+    </linearGradient>
+    <radialGradient id="kfirblush" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb0c0" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#ffb0c0" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  
+  <path d="M238,470 L240,390 Q240,378 248,374 L264,374 Q272,378 272,390 L274,470 Z" fill="url(#kfirbark)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <polygon points="256,60 200,170 220,170 180,250 210,250 160,330 220,330 140,380 372,380 292,330 352,330 302,250 332,250 292,170 312,170" fill="url(#kfirfoliage)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="1.4" stroke-linecap="round">
+    <line x1="160" y1="360" x2="150" y2="368" />
+    <line x1="170" y1="356" x2="160" y2="364" />
+    <line x1="180" y1="352" x2="170" y2="360" />
+    <line x1="190" y1="348" x2="180" y2="356" />
+    <line x1="200" y1="344" x2="190" y2="352" />
+    <line x1="190" y1="310" x2="180" y2="318" />
+    <line x1="200" y1="306" x2="190" y2="314" />
+    <line x1="210" y1="302" x2="200" y2="310" />
+    <line x1="220" y1="230" x2="210" y2="238" />
+    <line x1="230" y1="226" x2="220" y2="234" />
+    <line x1="240" y1="222" x2="230" y2="230" />
+    <line x1="352" y1="360" x2="362" y2="368" />
+    <line x1="342" y1="356" x2="352" y2="364" />
+    <line x1="332" y1="352" x2="342" y2="360" />
+    <line x1="322" y1="348" x2="332" y2="356" />
+    <line x1="312" y1="344" x2="322" y2="352" />
+    <line x1="322" y1="310" x2="332" y2="318" />
+    <line x1="312" y1="306" x2="322" y2="314" />
+    <line x1="302" y1="302" x2="312" y2="310" />
+    <line x1="292" y1="230" x2="302" y2="238" />
+    <line x1="282" y1="226" x2="292" y2="234" />
+    <line x1="272" y1="222" x2="282" y2="230" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="2.2" stroke-linejoin="round">
+    <ellipse cx="200" cy="280" rx="8" ry="20" fill="url(#kfircone)" />
+    <ellipse cx="312" cy="280" rx="8" ry="20" fill="url(#kfircone)" />
+    <ellipse cx="256" cy="190" rx="8" ry="20" fill="url(#kfircone)" />
+    <line x1="200" y1="302" x2="200" y2="308" stroke="#1a1a1a" stroke-width="2" />
+    <line x1="312" y1="302" x2="312" y2="308" stroke="#1a1a1a" stroke-width="2" />
+    <line x1="256" y1="212" x2="256" y2="218" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g fill="none" stroke="#1a1a1a" stroke-width="1.2">
+    <path d="M193,270 q7,2 14,0" />
+    <path d="M193,282 q7,2 14,0" />
+    <path d="M193,294 q7,2 14,0" />
+    <path d="M305,270 q7,2 14,0" />
+    <path d="M305,282 q7,2 14,0" />
+    <path d="M305,294 q7,2 14,0" />
+    <path d="M249,180 q7,2 14,0" />
+    <path d="M249,192 q7,2 14,0" />
+    <path d="M249,204 q7,2 14,0" />
+  </g>
+  
+  <ellipse cx="240" cy="345" rx="13" ry="10" fill="url(#kfirblush)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="272" cy="345" rx="13" ry="10" fill="url(#kfirblush)" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="244" cy="333" r="4" fill="#2a1a18" />
+  <circle cx="268" cy="333" r="4" fill="#2a1a18" />
+  <circle cx="245.5" cy="331.5" r="1.4" fill="#ffffff" />
+  <circle cx="269.5" cy="331.5" r="1.4" fill="#ffffff" />
+  <path d="M250,349 Q256,355 262,349" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+</svg>

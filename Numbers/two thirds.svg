@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><radialGradient id="s3d_3d7fb5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#77a5cb"/><stop offset="0.45" stop-color="#3d7fb5"/><stop offset="1" stop-color="#316691"/></radialGradient></defs>
+<!-- circle showing two thirds filled (240 deg), one third empty -->
+<circle cx="256" cy="256" r="158" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- two thirds = 240deg sweep. Start at top (12 o'clock) going clockwise 240deg ends at 8 o'clock.
+     12 o'clock = (256,98). 240deg clockwise -> angle pointing down-left. -->
+<path d="M256 256 L256 98 A158 158 0 1 1 119.1 335 Z"
+fill="url(#s3d_3d7fb5)" data-flat="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- third division lines -->
+<line x1="256" y1="256" x2="256" y2="98" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="256" y1="256" x2="119.1" y2="335" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

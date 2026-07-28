@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- courage: a brave shield with a bold heart + cute face -->
+  <path d="M256 64 C320 96 392 100 432 96 C436 220 420 360 256 452 C92 360 76 220 80 96 C120 100 192 96 256 64 Z"
+        fill="#e8c14a" stroke="#1a1a1a" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M256 96 C312 122 372 126 406 122 C408 224 394 342 256 420 C118 342 104 224 106 122 C140 126 200 122 256 96 Z"
+        fill="#f3d878" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <!-- bold heart -->
+  <path d="M256 360 C188 312 150 268 150 226 C150 196 174 174 202 174 C224 174 244 188 256 208 C268 188 288 174 310 174 C338 174 362 196 362 226 C362 268 324 312 256 360 Z"
+        fill="#e2382f" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+  <!-- cute eyes -->
+  <circle cx="222" cy="244" r="11" fill="#1a1a1a"/>
+  <circle cx="290" cy="244" r="11" fill="#1a1a1a"/>
+  <circle cx="226" cy="240" r="3.5" fill="#ffffff"/>
+  <circle cx="294" cy="240" r="3.5" fill="#ffffff"/>
+  <!-- determined smile -->
+  <path d="M238 274 C248 286 264 286 274 274" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+  <!-- blush -->
+  <ellipse cx="206" cy="268" rx="14" ry="9" fill="#ffffff" opacity="0.4"/>
+  <ellipse cx="306" cy="268" rx="14" ry="9" fill="#ffffff" opacity="0.4"/>
+  <!-- shine on shield -->
+  <path d="M150 140 C172 138 196 140 214 148" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity="0.5"/>
+</svg>

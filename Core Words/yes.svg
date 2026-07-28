@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs />
+<path d="M180 470 L180 285 Q180 258 208 248 L240 238 Q258 232 258 210 L258 152 Q258 128 280 124 Q308 120 316 142 L322 208 Q325 224 340 226 L398 230 Q426 232 423 260 L411 348 Q406 394 374 412 Q346 422 305 422 L218 422 Q180 422 180 402 Z" fill="#ffe4cc" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<path d="M258 210 Q282 205 320 215" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<path d="M280 272 L378 272" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<path d="M280 308 L378 308" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<path d="M280 344 L378 344" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<rect x="110" y="248" width="74" height="220" rx="22" ry="22" fill="#f4c098" stroke="#1a1a1a" stroke-width="2.0000" />
+<text x="256" y="100" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="78" font-weight="900" text-anchor="middle" fill="#7ac88a" stroke="#1a1a1a" stroke-width="4" letter-spacing="6">YES</text>
+<circle cx="160" cy="200" r="9" fill="#ffe49a" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="380" cy="200" r="7" fill="#ffe49a" stroke="#1a1a1a" stroke-width="3" />
+<path d="M130 180 L138 162" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+<path d="M410 170 L420 152" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+<circle cx="147" cy="345" r="14" fill="#ffb0c4" opacity="0.7" />
+</svg>

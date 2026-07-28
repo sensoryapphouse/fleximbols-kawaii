@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-85.599 -141.030) scale(1.3357)">
+  <defs>
+    <radialGradient id="blushC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffaacc" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#ffaacc" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <rect x="220" y="300" width="72" height="80" rx="18" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="1.4973" />
+  
+  <circle cx="256" cy="248" r="70" fill="#ffe8d0" stroke="#1a1a1a" stroke-width="1.4973" />
+  
+  <circle cx="232" cy="240" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="280" cy="240" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="226" cy="234" r="5" fill="#ffffff" />
+  <circle cx="274" cy="234" r="5" fill="#ffffff" />
+  
+  <path d="M238,264 Q256,278 274,264" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <ellipse cx="210" cy="258" rx="18" ry="12" fill="url(#blushC)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="302" cy="258" rx="18" ry="12" fill="url(#blushC)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="140" y="308" width="80" height="20" rx="10" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="292" y="308" width="80" height="20" rx="10" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="228" y="375" width="20" height="45" rx="10" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="264" y="375" width="20" height="45" rx="10" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="4" />
+  
+  <polygon points="88,318 148,298 148,338" fill="#ffaaaa" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="148" y="305" width="20" height="26" rx="4" fill="#ffaaaa" stroke="#1a1a1a" stroke-width="4" />
+  
+  <polygon points="424,318 364,298 364,338" fill="#aabbff" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="344" y="305" width="20" height="26" rx="4" fill="#aabbff" stroke="#1a1a1a" stroke-width="4" />
+</g>
+  </svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.750 -30.000)">
+  
+  <path d="M 180 360 Q 180 350 192 350 L 328 350 Q 340 350 340 360 L 340 470 Q 340 482 328 482 L 192 482 Q 180 482 180 470 Z" fill="#A8D8F0" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M 170 220 Q 170 160 220 160 L 300 160 Q 350 160 350 220 L 350 350 Q 350 370 330 370 L 190 370 Q 170 370 170 350 Z" fill="#FFE0CC" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M 170 220 Q 145 200 145 140 Q 145 90 185 90 Q 215 90 215 140 L 215 220 Z" fill="#FFE0CC" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M 218 240 Q 220 250 218 270" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" fill="none" />
+  <path d="M 260 240 Q 262 250 260 270" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" fill="none" />
+  <path d="M 302 240 Q 304 250 302 270" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" fill="none" />
+  
+  <circle cx="172" cy="140" r="3" fill="#3A2A1A" />
+  <circle cx="190" cy="140" r="3" fill="#3A2A1A" />
+  <path d="M 175 154 Q 181 158 187 154" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  <circle cx="165" cy="152" r="3.5" fill="#FF99BB" opacity="0.7" />
+  <circle cx="197" cy="152" r="3.5" fill="#FF99BB" opacity="0.7" />
+  
+  <g fill="#FFEC60" stroke="#1a1a1a" stroke-width="2">
+    <path d="M 400 110 L 408 130 L 428 138 L 408 146 L 400 166 L 392 146 L 372 138 L 392 130 Z" />
+    <circle cx="430" cy="200" r="6" />
+    <circle cx="380" cy="240" r="5" />
+  </g>
+  
+  <text x="420" y="440" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="50" font-weight="700" text-anchor="end" fill="#E8568A">FINE</text>
+</g>
+  </svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 82.39 376.24 376.24"><defs><radialGradient id="s3d_d99a4e" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e4b883"/><stop offset="0.45" stop-color="#d99a4e"/><stop offset="1" stop-color="#ae7b3e"/></radialGradient><radialGradient id="s3d_f0c884" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f4d8a9"/><stop offset="0.45" stop-color="#f0c884"/><stop offset="1" stop-color="#c0a06a"/></radialGradient><radialGradient id="s3d_b0742f" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#c89e6d"/><stop offset="0.45" stop-color="#b0742f"/><stop offset="1" stop-color="#8d5d26"/></radialGradient></defs>
+<!-- crusty: bread roll with hard scored crust and soft interior -->
+<ellipse cx="256" cy="270" rx="160" ry="110" fill="url(#s3d_d99a4e)" data-flat="#d99a4e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- crust slashes -->
+<path d="M 175 215 Q 215 240 195 295" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 256 198 Q 296 240 276 308" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 337 215 Q 297 240 317 295" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- floury highlights -->
+<ellipse cx="210" cy="225" rx="16" ry="9" fill="url(#s3d_f0c884)" data-flat="#f0c884"/>
+<ellipse cx="305" cy="232" rx="16" ry="9" fill="url(#s3d_f0c884)" data-flat="#f0c884"/>
+<!-- darker baked underside -->
+<path d="M 110 290 Q 256 380 402 290 Q 256 350 110 290 Z" fill="url(#s3d_b0742f)" data-flat="#b0742f"/>
+</svg>

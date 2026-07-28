@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><defs><radialGradient id="ge0e1e2" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#e9eaeb"/><stop offset="0.5" stop-color="#e0e1e2"/><stop offset="1" stop-color="#9a9da1"/></radialGradient><radialGradient id="g999b9e" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#b8b9bb"/><stop offset="0.5" stop-color="#999b9e"/><stop offset="1" stop-color="#6a6c70"/></radialGradient><radialGradient id="ged1c24" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#f26066"/><stop offset="0.5" stop-color="#ed1c24"/><stop offset="1" stop-color="#ac0e14"/></radialGradient><radialGradient id="sheen" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient></defs><g transform="translate(20.48 59.64) scale(0.8052)" stroke-linejoin="round" stroke-linecap="round">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2925" bottom="2480" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="5,345 7,481 276,13 5,345" fill="url(#ge0e1e2)" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polyline points="276,13 5,434" fill="none" stroke="#000000" stroke-width="8"/>
+    <polygon points="7,481 483,480 318,10 280,7 7,481" fill="url(#g999b9e)" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="318,10 577,477 483,480 318,10" fill="url(#ge0e1e2)" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polyline points="504,475 318,10" fill="none" stroke="#000000" stroke-width="8"/>
+    <polygon points="43,103 72,77 108,136 141,115 147,190 79,179 95,152 43,103" fill="url(#ged1c24)" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+  </g>
+<ellipse cx="187.2" cy="127.6" rx="152.1" ry="96.9" fill="url(#sheen)"/></g></svg>

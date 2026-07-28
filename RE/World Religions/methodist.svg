@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-40.655 -50.874) scale(1.2773)">
+  
+  <rect x="128" y="108" width="54" height="258" rx="10" fill="#ffe0e8" stroke="#1a1a1a" stroke-width="1.5658" />
+  <rect x="78" y="194" width="254" height="54" rx="10" fill="#ffe0e8" stroke="#1a1a1a" stroke-width="1.5658" />
+  
+  <path d="M358 378 C328 358 308 328 313 293 C316 273 328 263 338 258 C333 278 343 283 353 268 C353 288 368 293 370 273 C383 288 390 308 386 333 C382 356 373 368 358 378 Z" fill="#ffc080" stroke="#1a1a1a" stroke-width="1.5658" />
+  <path d="M358 353 C343 338 335 318 339 298 C341 286 349 281 354 276 C351 289 358 291 362 282 C369 291 372 304 369 319 C366 336 362 347 358 353 Z" fill="#ffee80" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M358 248 C353 264 368 266 366 254 C371 261 364 240 358 248 Z" fill="#ffaa40" stroke="#1a1a1a" stroke-width="2" />
+</g>
+  </svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-53.000 23.250)">
+  
+  <rect x="156" y="82" width="200" height="348" rx="24" ry="24" fill="#b0b8d0" stroke="#1a1a1a" stroke-width="2.0000" />
+  <rect x="164" y="98" width="184" height="316" rx="10" ry="10" fill="#9098b0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="256" cy="418" r="11" fill="#9098b0" stroke="#1a1a1a" stroke-width="2" />
+
+  
+  <rect x="170" y="104" width="172" height="304" rx="6" ry="6" fill="#ffb3c6" stroke="#1a1a1a" stroke-width="2" />
+
+  
+  <text x="256" y="208" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="82" font-weight="bold" fill="#aa2244" text-anchor="middle">911</text>
+
+  
+  <rect x="178" y="216" width="156" height="26" rx="6" ry="6" fill="#ff8fab" stroke="#1a1a1a" stroke-width="2" />
+  <text x="256" y="234" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">EMERGENCY</text>
+
+  
+  <path d="M202,270 Q198,258 206,250 L218,245 Q224,243 226,249 L229,261 Q230,267 225,271 Q220,273 220,279 Q224,294 233,304 Q242,314 256,318 Q262,318 264,312 L270,306 Q274,300 280,302 L292,306 Q298,310 296,316 L291,329 Q286,337 275,335 Q248,331 228,313 Q208,294 202,270 Z" fill="#aa2244" stroke="#1a1a1a" stroke-width="2" />
+
+  
+  <rect x="186" y="354" width="140" height="40" rx="20" ry="20" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M224,369 Q220,363 226,358 L233,356 Q237,355 238,358 L240,365 Q241,368 238,370 Q235,371 235,373 Q237,378 240,381 Q243,384 248,386 Q250,386 251,383 L254,379 Q256,376 259,377 L266,379 Q269,381 269,383 L266,389 Q263,393 258,393 Q246,391 237,384 Q227,376 224,369 Z" fill="#228844" stroke="#1a1a1a" stroke-width="2" />
+
+  
+  <circle cx="256" cy="54" r="20" fill="#ffb3c6" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="256" y1="28" x2="256" y2="20" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="270" y1="34" x2="278" y2="26" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="278" y1="48" x2="288" y2="48" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="242" y1="34" x2="234" y2="26" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="234" y1="48" x2="224" y2="48" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <text x="256" y="63" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="bold" fill="#aa2244" text-anchor="middle">!</text>
+
+  
+  <circle cx="432" cy="272" r="32" fill="#ffd6c0" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="420" cy="266" r="4.5" fill="#2b2622" />
+  <circle cx="444" cy="266" r="4.5" fill="#2b2622" />
+  <circle cx="422" cy="264" r="1.5" fill="#ffffff" />
+  <circle cx="446" cy="264" r="1.5" fill="#ffffff" />
+  
+  <path d="M420 280 Q432 290 444 280" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  
+  <circle cx="410" cy="276" r="7" fill="#ffb3c6" opacity="0.8" />
+  <circle cx="454" cy="276" r="7" fill="#ffb3c6" opacity="0.8" />
+  
+  <path d="M406,264 Q406,244 432,242 Q458,244 458,264" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <rect x="400" y="262" width="11" height="18" rx="4" ry="4" fill="#9098b0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="451" y="262" width="11" height="18" rx="4" ry="4" fill="#9098b0" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M432,285 Q446,285 450,294" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <circle cx="450" cy="296" r="4" fill="#9098b0" stroke="#1a1a1a" stroke-width="2" />
+</g>
+  </svg>

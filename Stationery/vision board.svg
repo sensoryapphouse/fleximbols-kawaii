@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_f266aa" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f694c4"/><stop offset="0.45" stop-color="#f266aa"/><stop offset="1" stop-color="#c25288"/></radialGradient><radialGradient id="s3d_dff3fd" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e9f7fe"/><stop offset="0.45" stop-color="#dff3fd"/><stop offset="1" stop-color="#b2c2ca"/></radialGradient><radialGradient id="s3d_137827" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#5aa068"/><stop offset="0.45" stop-color="#137827"/><stop offset="1" stop-color="#0f601f"/></radialGradient><radialGradient id="s3d_f7de58" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f9e88a"/><stop offset="0.45" stop-color="#f7de58"/><stop offset="1" stop-color="#c6b246"/></radialGradient><radialGradient id="s3d_90a7d6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#b1c1e2"/><stop offset="0.45" stop-color="#90a7d6"/><stop offset="1" stop-color="#7386ab"/></radialGradient><radialGradient id="s3d_529929" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#86b869"/><stop offset="0.45" stop-color="#529929"/><stop offset="1" stop-color="#427a21"/></radialGradient><radialGradient id="s3d_7c3fac" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#a379c5"/><stop offset="0.45" stop-color="#7c3fac"/><stop offset="1" stop-color="#63328a"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <rect x="22" y="22" width="246" height="200" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.88" stroke-linejoin="round"></rect>
+  <rect x="32" y="35" width="68" height="56" fill="url(#s3d_f266aa)" data-flat="#f266aa" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-5 66 63)"></rect>
+  <path d="M 50,68 Q 60,55 75,70 Q 70,82 60,80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></path>
+  <rect x="110" y="42" width="62" height="50" fill="url(#s3d_dff3fd)" data-flat="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(3 141 67)"></rect>
+  <path d="M 122,58 L 145,72 L 165,55 L 165,82 L 122,82 Z" fill="url(#s3d_137827)" data-flat="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"></path>
+  <rect x="185" y="32" width="70" height="58" fill="url(#s3d_f7de58)" data-flat="#f7de58" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-3 220 61)"></rect>
+  <circle cx="220" cy="58" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"></circle>
+  <path d="M 215,55 Q 222,52 225,58 Q 222,65 215,62 Z" fill="#ffffff"></path>
+  <rect x="38" y="108" width="62" height="50" fill="url(#s3d_90a7d6)" data-flat="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(4 69 133)"></rect>
+  <path d="M 50,135 L 60,135 L 60,145 L 70,145 L 70,135 L 80,135 L 80,150 L 50,150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"></path>
+  <rect x="115" y="115" width="70" height="65" fill="url(#s3d_529929)" data-flat="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-4 150 147)"></rect>
+  <text x="150" y="155" text-anchor="middle" font-family="serif" font-size="14" font-weight="700" fill="#ffffff">DREAM</text>
+  <rect x="195" y="115" width="62" height="58" fill="url(#s3d_7c3fac)" data-flat="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(4 226 144)"></rect>
+  <path d="M 226,128 Q 215,135 220,148 Q 226,158 235,148 Q 240,135 226,128 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"></path>
+  <circle cx="60" cy="40" r="4" fill="#000000"></circle>
+  <circle cx="138" cy="48" r="4" fill="#000000"></circle>
+  <circle cx="220" cy="38" r="4" fill="#000000"></circle>
+  <circle cx="68" cy="115" r="4" fill="#000000"></circle>
+  <circle cx="148" cy="122" r="4" fill="#000000"></circle>
+  <circle cx="226" cy="120" r="4" fill="#000000"></circle>
+</g></svg>

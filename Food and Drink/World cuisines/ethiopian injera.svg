@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_9d7246" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ba9c7e"/><stop offset="0.45" stop-color="#9d7246"/><stop offset="1" stop-color="#7e5b38"/></radialGradient><radialGradient id="s3d_b8b8b8" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#cdcdcd"/><stop offset="0.45" stop-color="#b8b8b8"/><stop offset="1" stop-color="#939393"/></radialGradient><radialGradient id="s3d_d01424" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#de5a66"/><stop offset="0.45" stop-color="#d01424"/><stop offset="1" stop-color="#a6101d"/></radialGradient><radialGradient id="s3d_529929" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#86b869"/><stop offset="0.45" stop-color="#529929"/><stop offset="1" stop-color="#427a21"/></radialGradient><radialGradient id="s3d_ff9900" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#ffb84c"/><stop offset="0.45" stop-color="#ff9900"/><stop offset="1" stop-color="#cc7a00"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Injera base - large round flatbread, grey-tan, takes up most of frame -->
+  <!-- Side thickness -->
+  <path d="M18 150 Q18 200 145 210 Q272 200 272 150" fill="url(#s3d_9d7246)" data-flat="#9d7246" stroke="#1a1a1a" stroke-width="14.82" stroke-linejoin="round"/>
+  <!-- Top surface of injera -->
+  <ellipse cx="145" cy="148" rx="127" ry="38" fill="url(#s3d_b8b8b8)" data-flat="#b8b8b8" stroke="#1a1a1a" stroke-width="14.82" stroke-linejoin="round"/>
+  <!-- Bubbly porous texture - visible holes across surface -->
+  <circle cx="80" cy="145" r="5" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="100" cy="135" r="4" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="120" cy="148" r="5" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="110" cy="160" r="4" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="140" cy="138" r="5" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="158" cy="152" r="4" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="175" cy="140" r="5" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="195" cy="150" r="4" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="210" cy="138" r="5" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="65" cy="158" r="4" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="230" cy="148" r="4" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="148" cy="165" r="3" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="88" cy="162" r="3" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <circle cx="186" cy="160" r="3" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- Stew mounds on top of injera -->
+  <!-- Red lentil stew mound - left -->
+  <ellipse cx="82" cy="130" rx="28" ry="16" fill="url(#s3d_d01424)" data-flat="#d01424" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round"/>
+  <path d="M54 130 Q82 114 110 130" fill="#f8130d" stroke="none"/>
+  <path d="M54 130 Q82 114 110 130" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Green spinach stew mound - center -->
+  <ellipse cx="145" cy="122" rx="28" ry="16" fill="url(#s3d_529929)" data-flat="#529929" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round"/>
+  <path d="M117 122 Q145 106 173 122" fill="#67832d" stroke="none"/>
+  <path d="M117 122 Q145 106 173 122" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Yellow/orange chickpea stew mound - right -->
+  <ellipse cx="208" cy="130" rx="28" ry="16" fill="url(#s3d_ff9900)" data-flat="#ff9900" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round"/>
+  <path d="M180 130 Q208 114 236 130" fill="#f7de58" stroke="none"/>
+  <path d="M180 130 Q208 114 236 130" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
+</g></svg>

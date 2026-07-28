@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="skin" cx="42%" cy="34%" r="72%">
+      <stop offset="0%" stop-color="#f8d9b8"/>
+      <stop offset="100%" stop-color="#e9b98c"/>
+    </radialGradient>
+    <radialGradient id="tummyglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff9bb5" stop-opacity="0.85"/>
+      <stop offset="70%" stop-color="#ff9bb5" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#ff9bb5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- head -->
+  <circle cx="256" cy="112" r="60" class="skin" fill="url(#skin)" stroke="#1a1a1a" stroke-width="9"/>
+  <circle cx="235" cy="110" r="6.5" fill="#1f1f1f"/>
+  <circle cx="277" cy="110" r="6.5" fill="#1f1f1f"/>
+  <path d="M240 128 Q256 142 272 128" fill="none" stroke="#1f1f1f" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="219" cy="128" rx="11" ry="7" fill="#ff9bb5" opacity="0.7"/>
+  <ellipse cx="293" cy="128" rx="11" ry="7" fill="#ff9bb5" opacity="0.7"/>
+
+  <!-- bare torso -->
+  <path d="M170 206 Q170 184 202 180 L310 180 Q342 184 342 206
+           L342 392 Q342 424 310 424 L202 424 Q170 424 170 392 Z"
+        class="skin" fill="url(#skin)" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <!-- arms hint -->
+  <path d="M170 216 Q138 238 142 322" class="skin" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M342 216 Q374 238 370 322" class="skin" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+  <!-- waistband -->
+  <path d="M170 396 L342 396 L342 424 Q342 432 334 432 L178 432 Q170 432 170 424 Z"
+        fill="#4a7fc0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+
+  <!-- highlighted abdomen region -->
+  <ellipse cx="256" cy="320" rx="96" ry="84" fill="url(#tummyglow)"/>
+  <!-- ab contours -->
+  <path d="M256 250 L256 388" fill="none" stroke="#cf9a6a" stroke-width="4.5" stroke-linecap="round" opacity="0.75"/>
+  <path d="M214 290 Q256 300 298 290" fill="none" stroke="#cf9a6a" stroke-width="4.5" stroke-linecap="round" opacity="0.65"/>
+  <path d="M216 352 Q256 362 296 352" fill="none" stroke="#cf9a6a" stroke-width="4.5" stroke-linecap="round" opacity="0.65"/>
+  <!-- navel -->
+  <ellipse cx="256" cy="332" rx="7" ry="11" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- emphasis dashed ring + arrow -->
+  <ellipse cx="256" cy="320" rx="78" ry="70" fill="none" stroke="#e23d6b" stroke-width="8" stroke-dasharray="16 13" stroke-linecap="round"/>
+  <path d="M452 320 L348 320" fill="none" stroke="#e23d6b" stroke-width="9" stroke-linecap="round"/>
+  <path d="M366 304 L344 320 L366 336" fill="none" stroke="#e23d6b" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl581" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl581)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

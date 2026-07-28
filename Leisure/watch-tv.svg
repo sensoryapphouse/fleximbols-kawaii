@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="400" width="512" height="112" fill="#e0c8a8" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="60" y="60" width="280" height="180" rx="22" fill="#4a4a55" stroke="#1a1a1a" stroke-width="2.0000" />
+  <rect x="78" y="78" width="244" height="144" fill="#a8d8e8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="180" cy="138" r="22" fill="#ffe66b" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="222" cy="158" r="14" fill="#ffe66b" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="78" y="180" width="244" height="42" fill="#7ac890" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M120,180 L160,150 L200,180 Z" fill="#9ee0b0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="180" y="240" width="40" height="20" fill="#4a4a55" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="120" y="260" width="160" height="14" fill="#4a4a55" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="360" y="280" width="140" height="110" rx="28" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="350" y="270" width="160" height="40" rx="16" fill="#ffeaf0" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="340" y="300" width="32" height="90" rx="12" fill="#f5b8c8" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="262" cy="320" r="42" fill="#ffe8d0" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M222,312 Q222,274 262,272 Q302,274 302,312" fill="#a07058" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="248" cy="324" r="4.5" fill="#2b2622" />
+  <circle cx="276" cy="324" r="4.5" fill="#2b2622" />
+  <circle cx="246" cy="322" r="1.5" fill="#ffffff" />
+  <circle cx="274" cy="322" r="1.5" fill="#ffffff" />
+  <radialGradient id="cheek2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffb8c8" stop-opacity="0.9" /><stop offset="1" stop-color="#ffb8c8" stop-opacity="0" /></radialGradient>
+  <ellipse cx="234" cy="338" rx="8" ry="5" fill="url(#cheek2)" />
+  <ellipse cx="290" cy="338" rx="8" ry="5" fill="url(#cheek2)" />
+  <path d="M252,340 Q262,348 272,340" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M226,360 Q262,372 298,360 L302,418 Q262,428 222,418 Z" fill="#a8c8ff" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M226,390 L206,418 L222,428 L244,402 Z" fill="#a8c8ff" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="292" y="380" width="50" height="24" rx="8" fill="#6c6c78" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="302" cy="392" r="3" fill="#ff8aa0" />
+  <circle cx="316" cy="392" r="3" fill="#ffe66b" />
+  <circle cx="330" cy="392" r="3" fill="#9ee0b0" />
+  <ellipse cx="160" cy="332" rx="58" ry="46" fill="#fff8d4" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="118" y="304" width="84" height="68" rx="6" fill="#ffaab8" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="118" y="304" width="84" height="14" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="138" y1="304" x2="138" y2="372" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="162" y1="304" x2="162" y2="372" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="186" y1="304" x2="186" y2="372" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="128" cy="296" r="10" fill="#fff8d4" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="148" cy="288" r="12" fill="#fffbe0" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="172" cy="292" r="11" fill="#fff8d4" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="194" cy="296" r="10" fill="#fffbe0" stroke="#1a1a1a" stroke-width="3" />
+</svg>

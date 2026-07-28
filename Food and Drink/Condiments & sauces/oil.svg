@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-41.500 -13.000)">
+  <defs>
+    <linearGradient id="bottle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c5e0a8" />
+      <stop offset="50%" stop-color="#dcecc8" />
+      <stop offset="100%" stop-color="#a8c886" />
+    </linearGradient>
+    <linearGradient id="oilfill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f4d97a" />
+      <stop offset="100%" stop-color="#d8a838" />
+    </linearGradient>
+    <linearGradient id="cap" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6a4a2a" />
+      <stop offset="100%" stop-color="#3a2415" />
+    </linearGradient>
+    <radialGradient id="blush" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ef7e86" stop-opacity="0.65" />
+      <stop offset="100%" stop-color="#ef7e86" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <path d="M220 78 H292 Q302 78 302 88 V110 Q302 120 292 120 H220 Q210 120 210 110 V88 Q210 78 220 78 Z" fill="url(#cap)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <path d="M232 120 H280 V178 H232 Z" fill="url(#bottle)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <path d="M232 178 Q160 200 160 280 V416 Q160 460 204 460 H308 Q352 460 352 416 V280 Q352 200 280 178 Z" fill="url(#bottle)" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M186 280 Q186 240 218 220 H294 Q326 240 326 280 V410 Q326 432 304 432 H208 Q186 432 186 410 Z" fill="url(#oilfill)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <path d="M196 302 H316 Q322 302 322 308 V378 Q322 384 316 384 H196 Q190 384 190 378 V308 Q190 302 196 302 Z" fill="#fff7e6" stroke="#1a1a1a" stroke-width="4" />
+  
+  <text x="256" y="358" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="900" font-size="46" fill="#5a7a32">OIL</text>
+  
+  <ellipse cx="220" cy="316" rx="9" ry="5" fill="#5a7a32" transform="rotate(-30 220 316)" />
+  <ellipse cx="292" cy="316" rx="9" ry="5" fill="#5a7a32" transform="rotate(30 292 316)" />
+  
+  <path d="M188 250 Q186 320 192 380" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" opacity="0.55" />
+  
+  <circle cx="232" cy="408" r="4" fill="#3a2415" />
+  <circle cx="280" cy="408" r="4" fill="#3a2415" />
+  <path d="M244 420 Q256 428 268 420" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <ellipse cx="216" cy="420" rx="12" ry="7" fill="url(#blush)" />
+  <ellipse cx="296" cy="420" rx="12" ry="7" fill="url(#blush)" />
+  
+  <path d="M396 376 Q416 348 436 376 Q442 404 416 408 Q394 404 396 376 Z" fill="url(#oilfill)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <circle cx="408" cy="384" r="2.5" fill="#3a2415" />
+  <circle cx="424" cy="384" r="2.5" fill="#3a2415" />
+  <path d="M410 394 Q416 398 422 394" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+</g>
+  </svg>

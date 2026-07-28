@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(16.250 26.250)">
+  
+  
+  <rect x="50" y="50" width="380" height="360" rx="18" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  
+  <rect x="60" y="60" width="40" height="40" rx="6" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="104" y="60" width="40" height="40" rx="6" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="148" y="60" width="40" height="40" rx="6" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="192" y="60" width="40" height="40" rx="6" fill="#ffffd0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="236" y="60" width="40" height="40" rx="6" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="280" y="60" width="40" height="40" rx="6" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="324" y="60" width="40" height="40" rx="6" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="368" y="60" width="40" height="40" rx="6" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <rect x="368" y="104" width="40" height="40" rx="6" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="368" y="148" width="40" height="40" rx="6" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="368" y="192" width="40" height="40" rx="6" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="368" y="236" width="40" height="40" rx="6" fill="#ffffd0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="368" y="280" width="40" height="40" rx="6" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="368" y="324" width="40" height="40" rx="6" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <rect x="368" y="368" width="40" height="40" rx="6" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="324" y="368" width="40" height="40" rx="6" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="280" y="368" width="40" height="40" rx="6" fill="#ffffd0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="236" y="368" width="40" height="40" rx="6" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="192" y="368" width="40" height="40" rx="6" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="148" y="368" width="40" height="40" rx="6" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="104" y="368" width="40" height="40" rx="6" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="60" y="368" width="40" height="40" rx="6" fill="#ffffd0" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <rect x="60" y="324" width="40" height="40" rx="6" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="60" y="280" width="40" height="40" rx="6" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="60" y="236" width="40" height="40" rx="6" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="60" y="192" width="40" height="40" rx="6" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="60" y="148" width="40" height="40" rx="6" fill="#ffffd0" stroke="#1a1a1a" stroke-width="2.5" />
+  <rect x="60" y="104" width="40" height="40" rx="6" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <rect x="110" y="110" width="258" height="248" rx="10" fill="#99ddbb" stroke="#1a1a1a" stroke-width="3" />
+  
+  <polygon points="80,80 88,95 104,95 92,105 96,122 80,112 64,122 68,105 56,95 72,95" fill="#ffffd0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="168" cy="225" r="22" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="161" cy="221" r="4" fill="#884466" />
+  <circle cx="175" cy="221" r="4" fill="#884466" />
+  <path d="M158,230 Q168,238 178,230" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+  <radialGradient id="blushPiece1" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#ffaacc" stop-opacity="0.9" />
+    <stop offset="100%" stop-color="#ffaacc" stop-opacity="0" />
+  </radialGradient>
+  <ellipse cx="158" cy="228" rx="10" ry="6" fill="url(#blushPiece1)" />
+  <ellipse cx="178" cy="228" rx="10" ry="6" fill="url(#blushPiece1)" />
+  
+  <circle cx="218" cy="255" r="22" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="211" cy="251" r="4" fill="#334499" />
+  <circle cx="225" cy="251" r="4" fill="#334499" />
+  <path d="M208,260 Q218,268 228,260" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+  <radialGradient id="blushPiece2" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#ffbbdd" stop-opacity="0.9" />
+    <stop offset="100%" stop-color="#ffbbdd" stop-opacity="0" />
+  </radialGradient>
+  <ellipse cx="208" cy="258" rx="10" ry="6" fill="url(#blushPiece2)" />
+  <ellipse cx="228" cy="258" rx="10" ry="6" fill="url(#blushPiece2)" />
+  
+  <rect x="252" y="188" width="58" height="58" rx="12" fill="#ffffd0" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="264" cy="200" r="5" fill="#aa8833" />
+  <circle cx="298" cy="200" r="5" fill="#aa8833" />
+  <circle cx="281" cy="217" r="5" fill="#aa8833" />
+  <circle cx="264" cy="234" r="5" fill="#aa8833" />
+  <circle cx="298" cy="234" r="5" fill="#aa8833" />
+  
+  <rect x="318" y="198" width="48" height="48" rx="10" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="330" cy="210" r="4" fill="#775599" />
+  <circle cx="342" cy="222" r="4" fill="#775599" />
+  <circle cx="354" cy="234" r="4" fill="#775599" />
+</g>
+  </svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-60.049 -109.171) scale(1.2358)">
+<defs>
+<linearGradient id="bodyG" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fff1d6" />
+<stop offset="1" stop-color="#ffd9a0" />
+</linearGradient>
+<linearGradient id="coneA" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffb3c1" />
+<stop offset="1" stop-color="#ff7a99" />
+</linearGradient>
+<linearGradient id="coneB" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#b3e5fc" />
+<stop offset="1" stop-color="#6cc4f0" />
+</linearGradient>
+<linearGradient id="coneC" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#dcedc8" />
+<stop offset="1" stop-color="#9ccc65" />
+</linearGradient>
+</defs>
+<circle cx="110" cy="384" r="14" fill="#ffb3c1" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="160" cy="384" r="14" fill="#b3e5fc" stroke="#1a1a1a" stroke-width="2" />
+<rect x="148" y="220" width="40" height="76" rx="6" fill="#ffd9a0" stroke="#1a1a1a" stroke-width="1.6184" />
+<rect x="156" y="200" width="24" height="28" rx="4" fill="#c98c50" stroke="#1a1a1a" stroke-width="2" />
+<polyline points="168,200 168,150 240,140" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<g transform="translate(120,200)">
+<polygon points="-26,80 26,80 18,0 -18,0" fill="url(#coneA)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="0" cy="0" rx="18" ry="6" fill="#ff7a99" />
+<ellipse cx="0" cy="80" rx="26" ry="7" fill="#c44a6a" />
+<circle cx="-8" cy="40" r="2.5" fill="#ffffff" />
+<circle cx="8" cy="40" r="2.5" fill="#ffffff" />
+<path d="M -7 50 Q 0 55 7 50" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" />
+</g>
+<g transform="translate(256,200)">
+<polygon points="-26,80 26,80 18,0 -18,0" fill="url(#coneB)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="0" cy="0" rx="18" ry="6" fill="#6cc4f0" />
+<ellipse cx="0" cy="80" rx="26" ry="7" fill="#4a8fb8" />
+</g>
+<g transform="translate(392,200)">
+<polygon points="-26,80 26,80 18,0 -18,0" fill="url(#coneC)" stroke="#1a1a1a" stroke-width="2" />
+<ellipse cx="0" cy="0" rx="18" ry="6" fill="#9ccc65" />
+<ellipse cx="0" cy="80" rx="26" ry="7" fill="#6a9a3a" />
+</g>
+<path d="M 120 130 Q 200 100 256 130 Q 312 100 392 130" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="4 3" />
+</g>
+  </svg>

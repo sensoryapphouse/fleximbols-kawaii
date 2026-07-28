@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <clipPath id="flagClip">
+      <rect x="96" y="128" width="320" height="224" rx="26" />
+    </clipPath>
+  </defs>
+
+  <!-- pole -->
+  <rect x="80" y="100" width="20" height="320" rx="10" fill="#9b6b3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" />
+  <circle cx="90" cy="96" r="16" fill="#f4c542" stroke="#1a1a1a" stroke-width="9" />
+
+  <!-- flag field -->
+  <g clip-path="url(#flagClip)">
+    <rect x="96" y="128" width="320" height="224" fill="#ffffff" />
+    <rect x="96" y="128" width="107" height="224" fill="#d52b1e" />
+    <rect x="309" y="128" width="107" height="224" fill="#d52b1e" />
+    <!-- simple coat-of-arms hint: green shield -->
+    <path d="M256,212 C276,210 286,222 286,244 C286,266 272,282 256,290 C240,282 226,266 226,244 C226,222 236,210 256,212 Z" fill="#1f7a3d" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  </g>
+  <rect x="96" y="128" width="320" height="224" rx="26" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" />
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Empty bird nest: woven twigs, hollow bowl, no eggs (Cute style) -->
+  <!-- Outer nest bowl -->
+  <ellipse cx="256" cy="340" rx="180" ry="68" fill="#A0714A" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+  <!-- Inner hollow bowl (dark) -->
+  <ellipse cx="256" cy="328" rx="132" ry="46" fill="#6B4226" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+  <!-- Woven twig arcs (warm brown, cute palette) -->
+  <path d="M102 334 Q180 286 256 292 Q332 286 410 334" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M116 350 Q190 306 256 312 Q322 306 396 350" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M132 366 Q202 330 256 335 Q310 330 380 366" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Diagonal twigs left side -->
+  <path d="M84 318 Q132 358 156 390" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M112 303 Q156 348 176 386" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M148 292 Q188 336 202 376" fill="none" stroke="#C48A4E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M188 286 Q220 328 230 370" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Diagonal twigs right side -->
+  <path d="M428 318 Q380 358 356 390" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M400 303 Q356 348 336 386" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M364 292 Q324 336 310 376" fill="none" stroke="#C48A4E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M324 286 Q292 328 282 370" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Protruding twigs at rim top -->
+  <path d="M98 316 Q78 292 62 282" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M132 296 Q120 268 112 252" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M178 282 Q178 254 180 238" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M224 276 Q230 248 234 232" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M288 276 Q282 248 278 232" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M334 282 Q334 254 332 238" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M380 296 Q392 268 400 252" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M414 316 Q434 292 450 282" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <!-- Small cute leaf on a twig -->
+  <ellipse cx="178" cy="232" rx="10" ry="16" fill="#6DBF67" stroke="#1a1a1a" stroke-width="3" transform="rotate(-20 178 232)" paint-order="stroke fill"/>
+  <ellipse cx="334" cy="234" rx="10" ry="16" fill="#6DBF67" stroke="#1a1a1a" stroke-width="3" transform="rotate(20 334 234)" paint-order="stroke fill"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="27.15 68.96 457.70 457.70"><defs><radialGradient id="s3d_5b9bd5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#8cb9e2"/><stop offset="0.45" stop-color="#5b9bd5"/><stop offset="1" stop-color="#497caa"/></radialGradient><radialGradient id="s3d_e8a13a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#efbd75"/><stop offset="0.45" stop-color="#e8a13a"/><stop offset="1" stop-color="#ba812e"/></radialGradient><radialGradient id="s3d_e36d6d" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eb9999"/><stop offset="0.45" stop-color="#e36d6d"/><stop offset="1" stop-color="#b65757"/></radialGradient><radialGradient id="s3d_6dbf67" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#99d295"/><stop offset="0.45" stop-color="#6dbf67"/><stop offset="1" stop-color="#579952"/></radialGradient><radialGradient id="s3d_b07cc6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#c8a3d7"/><stop offset="0.45" stop-color="#b07cc6"/><stop offset="1" stop-color="#8d639e"/></radialGradient></defs>
+<!-- SPARE: a group in use + one kept in reserve (set apart in a dashed "kept" ring) -->
+<line x1="60" y1="372" x2="452" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- main group (left): 4 balls in use -->
+<circle cx="150" cy="330" r="40" fill="url(#s3d_5b9bd5)" data-flat="#5b9bd5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="234" cy="330" r="40" fill="url(#s3d_e8a13a)" data-flat="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="192" cy="258" r="40" fill="url(#s3d_e36d6d)" data-flat="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="276" cy="258" r="40" fill="url(#s3d_6dbf67)" data-flat="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<!-- dashed reserve ring around the spare one -->
+<circle cx="384" cy="316" r="62" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="18 16"/>
+<!-- the spare ball, set apart and kept -->
+<circle cx="384" cy="316" r="40" fill="url(#s3d_b07cc6)" data-flat="#b07cc6" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

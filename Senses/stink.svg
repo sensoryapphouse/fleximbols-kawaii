@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<path d="M156 80 Q166 60 180 70 Q194 50 210 68 Q230 56 232 80 Q252 92 236 110 Q252 128 234 138 Q220 158 200 148 Q188 162 172 152 Q152 158 150 138 Q132 130 142 110 Q126 92 142 82 Q146 64 156 80 Z" fill="#cfe8b0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M286 60 Q294 44 308 52 Q318 36 332 50 Q348 40 350 60 Q364 70 354 86 Q364 100 348 110 Q340 124 322 118 Q314 130 300 122 Q284 126 280 110 Q266 102 274 86 Q264 72 276 64 Q282 50 286 60 Z" fill="#cfe8b0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M396 110 Q404 92 418 100 Q432 84 444 100 Q460 92 462 110 Q478 120 466 134 Q474 148 460 156 Q454 174 436 168 Q426 180 414 172 Q400 178 396 162 Q380 154 388 138 Q376 124 388 116 Q392 100 396 110 Z" fill="#cfe8b0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M230 190 Q220 180 234 186 Q238 170 248 182" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M340 184 Q348 174 360 182 Q368 168 378 178" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<rect x="160" y="282" width="200" height="178" rx="20" fill="#b8b8d0" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<rect x="146" y="248" width="228" height="38" rx="14" fill="#d0d0e2" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<path d="M234 248 L234 228 L286 228 L286 248" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+<path d="M196 308 L196 432" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M224 308 L224 432" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M260 308 L260 432" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M296 308 L296 432" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M324 308 L324 432" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<ellipse cx="226" cy="380" rx="20" ry="14" fill="#ffe0a0" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="220" cy="376" r="3" fill="#3a2a40" />
+<circle cx="232" cy="376" r="3" fill="#3a2a40" />
+<path d="M222 384 Q226 388 230 384" fill="none" stroke="#1a1a1a" stroke-width="2" />
+<circle cx="218" cy="383" r="3" fill="#ffb8c8" opacity="0.8" />
+<circle cx="234" cy="383" r="3" fill="#ffb8c8" opacity="0.8" />
+<path d="M90 184 Q84 182 86 176 Q80 176 84 170 Q78 168 84 164 Q90 166 88 172 Q94 174 90 184 Z" fill="#3a2a40" stroke="#1a1a1a" stroke-width="2" />
+<path d="M104 196 Q98 194 100 188 Q94 188 98 182" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+<path d="M414 224 Q408 222 410 216 Q404 216 408 210 Q402 208 408 204 Q414 206 412 212 Q418 214 414 224 Z" fill="#3a2a40" stroke="#1a1a1a" stroke-width="2" />
+<path d="M76 252 Q72 250 74 246 Q68 246 72 242" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+</svg>

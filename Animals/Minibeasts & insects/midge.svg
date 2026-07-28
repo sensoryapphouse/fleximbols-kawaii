@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_6b4a2b" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#97806b"/><stop offset="0.45" stop-color="#6b4a2b"/><stop offset="1" stop-color="#563b22"/></radialGradient><radialGradient id="s3d_dfeefc" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e9f3fd"/><stop offset="0.45" stop-color="#dfeefc"/><stop offset="1" stop-color="#b2beca"/></radialGradient><radialGradient id="s3d_eef6fc" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f3f9fd"/><stop offset="0.45" stop-color="#eef6fc"/><stop offset="1" stop-color="#bec5ca"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- a tiny midge, shown enlarged centre with little dots showing it's a swarm -->
+<!-- swarm dots -->
+<g fill="#9aa0a6">
+<circle cx="150" cy="150" r="7"/>
+<circle cx="372" cy="140" r="6"/>
+<circle cx="392" cy="232" r="7"/>
+<circle cx="132" cy="248" r="6"/>
+<circle cx="360" cy="356" r="7"/>
+<circle cx="146" cy="372" r="6"/>
+<circle cx="256" cy="116" r="6"/>
+</g>
+<!-- main midge body -->
+<ellipse cx="256" cy="288" rx="34" ry="56" fill="url(#s3d_6b4a2b)" data-flat="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- small wings -->
+<ellipse cx="224" cy="246" rx="40" ry="18" fill="url(#s3d_dfeefc)" data-flat="#dfeefc" stroke="#9bb6cf" stroke-width="6" transform="rotate(-26 224 246)"/>
+<ellipse cx="288" cy="246" rx="40" ry="18" fill="url(#s3d_eef6fc)" data-flat="#eef6fc" stroke="#9bb6cf" stroke-width="6" transform="rotate(26 288 246)"/>
+<!-- thin legs -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none">
+<path d="M 236 300 Q 196 332 188 376"/>
+<path d="M 240 320 Q 220 360 224 400"/>
+<path d="M 276 300 Q 316 332 324 376"/>
+<path d="M 272 320 Q 292 360 288 400"/>
+</g>
+<!-- head -->
+<circle cx="256" cy="226" r="28" fill="url(#s3d_6b4a2b)" data-flat="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="247" cy="222" r="5" fill="#1a1a1a"/>
+<circle cx="265" cy="222" r="5" fill="#1a1a1a"/>
+<!-- feathery antennae -->
+<path d="M 240 206 Q 218 182 198 178" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 272 206 Q 294 182 314 178" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

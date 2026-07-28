@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="40" y="124" width="432" height="12" fill="#7a8090" stroke="#1a1a1a" stroke-width="2.0000" rx="3" />
+  <rect x="40" y="220" width="432" height="12" fill="#7a8090" stroke="#1a1a1a" stroke-width="2.0000" rx="3" />
+  <g stroke="#1a1a1a" stroke-width="2.5">
+    <rect x="48" y="160" width="30" height="72" fill="#f0f0f8" rx="3" />
+    <rect x="82" y="160" width="30" height="72" fill="#e8e8f0" rx="3" />
+    <rect x="116" y="160" width="30" height="72" fill="#e0e0e8" rx="3" />
+    <rect x="150" y="160" width="30" height="72" fill="#d8d8e0" rx="3" />
+    <rect x="184" y="160" width="30" height="72" fill="#d0d0d8" rx="3" />
+    <rect x="218" y="160" width="30" height="72" fill="#c8c8d0" rx="3" />
+    <rect x="252" y="160" width="30" height="72" fill="#c0c0c8" rx="3" />
+    <rect x="286" y="160" width="30" height="72" fill="#b8b8c0" rx="3" />
+    <rect x="320" y="160" width="30" height="72" fill="#b0b0b8" rx="3" />
+    <rect x="354" y="160" width="30" height="72" fill="#a8a8b0" rx="3" />
+    <rect x="388" y="160" width="30" height="72" fill="#a0a0a8" rx="3" />
+    <rect x="422" y="160" width="30" height="72" fill="#9898a0" rx="3" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="2.5">
+    <rect x="98" y="96" width="20" height="56" fill="#9098a8" rx="2" />
+    <rect x="166" y="96" width="20" height="56" fill="#9098a8" rx="2" />
+    <rect x="200" y="96" width="20" height="56" fill="#9098a8" rx="2" />
+    <rect x="268" y="96" width="20" height="56" fill="#9098a8" rx="2" />
+    <rect x="302" y="96" width="20" height="56" fill="#9098a8" rx="2" />
+    <rect x="336" y="96" width="20" height="56" fill="#9098a8" rx="2" />
+    <rect x="404" y="96" width="20" height="56" fill="#9098a8" rx="2" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="2.5">
+    <rect x="54" y="238" width="15" height="172" fill="#b8b8c4" rx="6" />
+    <rect x="88" y="238" width="15" height="162" fill="#b8b8c4" rx="6" />
+    <rect x="122" y="238" width="15" height="152" fill="#b0b0bc" rx="6" />
+    <rect x="156" y="238" width="15" height="142" fill="#b0b0bc" rx="6" />
+    <rect x="190" y="238" width="15" height="132" fill="#a8a8b4" rx="6" />
+    <rect x="224" y="238" width="15" height="122" fill="#a8a8b4" rx="6" />
+    <rect x="258" y="238" width="15" height="112" fill="#a0a0ac" rx="6" />
+    <rect x="292" y="238" width="15" height="102" fill="#a0a0ac" rx="6" />
+    <rect x="326" y="238" width="15" height="92" fill="#9898a4" rx="6" />
+    <rect x="360" y="238" width="15" height="82" fill="#9898a4" rx="6" />
+    <rect x="394" y="238" width="15" height="72" fill="#90909c" rx="6" />
+    <rect x="428" y="238" width="15" height="62" fill="#90909c" rx="6" />
+  </g>
+  
+  <line x1="40" y1="240" x2="468" y2="240" stroke="#1a1a1a" stroke-width="2" />
+  <g stroke="#1a1a1a" stroke-width="2">
+    <circle cx="62" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="96" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="130" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="164" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="198" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="232" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="266" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="300" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="334" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="368" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="402" cy="240" r="6" fill="#5a5a6a" />
+    <circle cx="436" cy="240" r="6" fill="#5a5a6a" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="1.5">
+    <line x1="56" y1="240" x2="68" y2="240" />
+    <line x1="90" y1="240" x2="102" y2="240" />
+    <line x1="124" y1="240" x2="136" y2="240" />
+    <line x1="158" y1="240" x2="170" y2="240" />
+    <line x1="192" y1="240" x2="204" y2="240" />
+    <line x1="226" y1="240" x2="238" y2="240" />
+    <line x1="260" y1="240" x2="272" y2="240" />
+    <line x1="294" y1="240" x2="306" y2="240" />
+    <line x1="328" y1="240" x2="340" y2="240" />
+    <line x1="362" y1="240" x2="374" y2="240" />
+    <line x1="396" y1="240" x2="408" y2="240" />
+    <line x1="430" y1="240" x2="442" y2="240" />
+  </g>
+  <rect x="468" y="230" width="20" height="20" fill="#5a5a6a" stroke="#1a1a1a" stroke-width="2" rx="2" />
+  
+  <g stroke="#1a1a1a" stroke-width="3">
+    <rect x="206" y="452" width="100" height="18" fill="#a06848" rx="4" />
+    <rect x="242" y="430" width="28" height="22" fill="#c08868" />
+  </g>
+  
+  <circle cx="248" cy="188" r="2.5" fill="#5a5a6a" />
+  <circle cx="282" cy="188" r="2.5" fill="#5a5a6a" />
+  <path d="M 253 198 Q 265 204 277 198" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" />
+  <radialGradient id="cheekVB" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#ffb0c8" stop-opacity="0.85" />
+    <stop offset="100%" stop-color="#ffb0c8" stop-opacity="0" />
+  </radialGradient>
+  <circle cx="240" cy="196" r="6" fill="url(#cheekVB)" />
+  <circle cx="290" cy="196" r="6" fill="url(#cheekVB)" />
+  <g transform="rotate(-30 380 70)">
+    <rect x="324" y="68" width="116" height="5" fill="#c08858" stroke="#1a1a1a" stroke-width="2" />
+    <circle cx="324" cy="70" r="9" fill="#ffd880" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+</svg>

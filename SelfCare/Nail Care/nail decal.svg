@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_dff3fd" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e9f7fe"/><stop offset="0.45" stop-color="#dff3fd"/><stop offset="1" stop-color="#b2c2ca"/></radialGradient><radialGradient id="s3d_f8130d" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#fa5a56"/><stop offset="0.45" stop-color="#f8130d"/><stop offset="1" stop-color="#c60f0a"/></radialGradient><radialGradient id="s3d_3aa6a0" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#75c1bc"/><stop offset="0.45" stop-color="#3aa6a0"/><stop offset="1" stop-color="#2e8580"/></radialGradient><radialGradient id="s3d_b8b8b8" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#cdcdcd"/><stop offset="0.45" stop-color="#b8b8b8"/><stop offset="1" stop-color="#939393"/></radialGradient><radialGradient id="s3d_7f7f7f" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#a5a5a5"/><stop offset="0.45" stop-color="#7f7f7f"/><stop offset="1" stop-color="#666666"/></radialGradient><radialGradient id="s3d_eed5b6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f3e2cc"/><stop offset="0.45" stop-color="#eed5b6"/><stop offset="1" stop-color="#beaa92"/></radialGradient><radialGradient id="s3d_f4a4b2" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#f7bfc9"/><stop offset="0.45" stop-color="#f4a4b2"/><stop offset="1" stop-color="#c3838e"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sheet of decal stickers -->
+  <rect x="20" y="40" width="110" height="160" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="26" y="46" width="98" height="148" fill="url(#s3d_dff3fd)" data-flat="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- decals (stars, hearts, flowers) -->
+  <path d="M45 65 L50 75 L60 76 L52 83 L55 93 L45 88 L35 93 L38 83 L30 76 L40 75 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M95 70 Q90 60 82 65 Q75 72 95 88 Q115 72 108 65 Q100 60 95 70 Z" fill="url(#s3d_f8130d)" data-flat="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="50" cy="125" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="40" cy="118" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="118" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="40" cy="132" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="132" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="50" cy="125" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M95 120 L100 130 L110 131 L102 138 L105 148 L95 143 L85 148 L88 138 L80 131 L90 130 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M45 175 Q40 165 32 170 Q25 177 45 188 Q65 177 58 170 Q50 165 45 175 Z" fill="url(#s3d_3aa6a0)" data-flat="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M100 175 L105 185 L100 192 L95 185 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tweezers -->
+  <path d="M250 30 L150 130 L155 140 L255 40 Z" fill="url(#s3d_b8b8b8)" data-flat="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M255 30 L155 130 L160 140 L260 40 Z" fill="url(#s3d_7f7f7f)" data-flat="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- finished nail with decal applied -->
+  <rect x="180" y="145" width="40" height="55" fill="url(#s3d_eed5b6)" data-flat="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M180 150 L220 150 Q220 178 200 200 Q180 178 180 150 Z" fill="url(#s3d_f4a4b2)" data-flat="#f4a4b2" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- decal on nail -->
+  <path d="M200 165 L204 173 L213 174 L207 180 L209 189 L200 184 L191 189 L193 180 L187 174 L196 173 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

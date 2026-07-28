@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 23.250)">
+  
+  
+  <rect x="152" y="44" width="208" height="378" rx="30" ry="30" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="166" y="78" width="180" height="308" rx="10" ry="10" fill="#f0f8ff" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="224" y="56" width="64" height="10" rx="5" fill="#c0a8e0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="224" y="402" width="64" height="7" rx="3" fill="#c0a8e0" />
+  
+  <rect x="166" y="78" width="180" height="48" rx="10" ry="10" fill="#b8d4f8" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="166" y="106" width="180" height="20" fill="#b8d4f8" stroke="#1a1a1a" stroke-width="2" />
+  
+  <text x="256" y="106" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="900" fill="#ffffff" text-anchor="middle">e-VISA</text>
+  
+  <rect x="174" y="134" width="52" height="64" rx="8" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="200" cy="157" rx="18" ry="18" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="194" cy="155" r="3" fill="#2b2622" />
+  <circle cx="206" cy="155" r="3" fill="#2b2622" />
+  <circle cx="195" cy="153" r="1" fill="#ffffff" />
+  <circle cx="207" cy="153" r="1" fill="#ffffff" />
+  <path d="M195,163 Q200,168 205,163" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round" />
+  <circle cx="191" cy="161" r="4" fill="#ffb8c8" opacity="0.7" />
+  <circle cx="209" cy="161" r="4" fill="#ffb8c8" opacity="0.7" />
+  <rect x="180" y="176" width="40" height="18" rx="4" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="234" y="138" width="100" height="7" rx="3" fill="#d0c0e8" />
+  <rect x="234" y="154" width="80" height="7" rx="3" fill="#d0c0e8" />
+  <rect x="234" y="170" width="90" height="7" rx="3" fill="#d0c0e8" />
+  
+  <rect x="176" y="214" width="56" height="56" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="182" y="220" width="12" height="12" rx="2" fill="#c0a8e0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="182" y="252" width="12" height="12" rx="2" fill="#c0a8e0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="214" y="220" width="12" height="12" rx="2" fill="#c0a8e0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="194" y="232" width="6" height="6" fill="#c0a8e0" />
+  <rect x="204" y="222" width="6" height="6" fill="#c0a8e0" />
+  <rect x="204" y="244" width="6" height="6" fill="#c0a8e0" />
+  <rect x="214" y="244" width="6" height="6" fill="#c0a8e0" />
+  <rect x="222" y="234" width="6" height="6" fill="#c0a8e0" />
+  
+  <circle cx="310" cy="242" r="30" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="7,4" />
+  <circle cx="310" cy="242" r="20" fill="#fff0f8" stroke="#1a1a1a" stroke-width="2" />
+  <text x="310" y="239" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="7" font-weight="700" fill="#c080a0" text-anchor="middle">E-STAMP</text>
+  <path d="M299,247 L307,255 L323,236" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <rect x="174" y="288" width="158" height="7" rx="3" fill="#d0c0e8" />
+  <rect x="174" y="304" width="120" height="7" rx="3" fill="#d0c0e8" />
+  
+  <polygon points="120,130 124,144 138,144 127,153 131,167 120,158 109,167 113,153 102,144 116,144" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="1.5" />
+  <polygon points="392,200 395,209 404,209 397,215 400,224 392,218 384,224 387,215 380,209 389,209" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="1.5" />
+</g>
+  </svg>

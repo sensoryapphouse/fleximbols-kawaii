@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="88.98 156.39 337.45 337.45"><defs><radialGradient id="s3d_e8eef3" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eff3f7"/><stop offset="0.45" stop-color="#e8eef3"/><stop offset="1" stop-color="#babec2"/></radialGradient><radialGradient id="s3d_e0473c" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e97e76"/><stop offset="0.45" stop-color="#e0473c"/><stop offset="1" stop-color="#b33930"/></radialGradient></defs><!-- spoonful: spoon holding a mound of red medicine -->
+<!-- handle (drawn first, behind the bowl) as a filled tapering shape -->
+<path d="M 250 300 L 402 424 L 384 448 L 232 328 Z" fill="url(#s3d_e8eef3)" data-flat="#e8eef3" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- spoon bowl -->
+<ellipse cx="200" cy="290" rx="92" ry="62" fill="url(#s3d_e8eef3)" data-flat="#e8eef3" stroke="#1a1a1a" stroke-width="9"/>
+<!-- red medicine filling the front of the bowl (a domed liquid surface) -->
+<path d="M 122 282 Q 200 214 278 282 Q 200 316 122 282 Z" fill="url(#s3d_e0473c)" data-flat="#e0473c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

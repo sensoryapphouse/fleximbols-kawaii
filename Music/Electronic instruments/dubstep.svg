@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="dbsky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fff4a8" />
+<stop offset="1" stop-color="#bde4ff" />
+</linearGradient>
+<linearGradient id="dbtile" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#2b2740" />
+<stop offset="1" stop-color="#3d3760" />
+</linearGradient>
+</defs>
+<g transform="translate(-20.48 -20.48) scale(1.080)">
+<rect x="56" y="56" width="400" height="400" rx="48" fill="url(#dbsky)" />
+<rect x="84" y="120" width="344" height="280" rx="28" fill="url(#dbtile)" stroke="#1a1a1a" stroke-width="1.8519" />
+<g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="100,260 130,260 145,200 165,310 185,220 205,300 225,210 245,295 265,215 285,300 305,205 325,310 345,210 365,300 385,250 412,260" />
+</g>
+<g fill="#4dd2ff" opacity="0.85">
+<polygon points="110,360 130,330 150,360" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="160,360 184,318 208,360" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="218,360 246,310 274,360" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="284,360 312,310 340,360" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="350,360 374,318 398,360" stroke="#1a1a1a" stroke-width="2" />
+</g>
+<g fill="#1a1730" stroke="#1a1a1a" stroke-width="3">
+<rect x="100" y="140" width="60" height="60" rx="6" />
+<circle cx="130" cy="170" r="16" fill="#4dd2ff" />
+<circle cx="130" cy="170" r="6" fill="#ffe14a" />
+<rect x="352" y="140" width="60" height="60" rx="6" />
+<circle cx="382" cy="170" r="16" fill="#4dd2ff" />
+<circle cx="382" cy="170" r="6" fill="#ffe14a" />
+</g>
+<g font-family="Impact, Arial Black, sans-serif" text-anchor="middle">
+</g>
+</g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+
+  
+  <g>
+    <path d="M 130 130 Q 105 130 105 175 L 110 290 Q 115 340 155 340 Q 175 340 175 305 Q 175 270 180 270 Q 185 270 185 305 Q 185 340 205 340 Q 245 340 250 290 L 255 175 Q 255 130 230 130 Q 180 110 130 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+    
+    <ellipse cx="155" cy="220" rx="8" ry="11" fill="#3d2a36" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="205" cy="220" rx="8" ry="11" fill="#3d2a36" stroke="#1a1a1a" stroke-width="2" />
+    <circle cx="157" cy="216" r="2.5" fill="#ffffff" />
+    <circle cx="207" cy="216" r="2.5" fill="#ffffff" />
+    <path d="M 170 245 Q 180 256 190 245" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+    
+    <circle cx="135" cy="245" r="11" fill="#ffadc6" opacity="0.7" />
+    <circle cx="225" cy="245" r="11" fill="#ffadc6" opacity="0.7" />
+    
+    <circle cx="225" cy="180" r="5" fill="#fff4a3" />
+    <circle cx="225" cy="180" r="2" fill="#ffffff" />
+  </g>
+
+  
+  <g>
+    <path d="M 300 145 Q 275 145 275 190 L 280 305 Q 285 355 325 355 Q 345 355 345 320 Q 345 285 350 285 Q 355 285 355 320 Q 355 355 375 355 Q 415 355 420 305 L 425 190 Q 425 145 400 145 Q 350 125 300 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+    
+    <ellipse cx="325" cy="235" rx="8" ry="11" fill="#3d2a36" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="375" cy="235" rx="8" ry="11" fill="#3d2a36" stroke="#1a1a1a" stroke-width="2" />
+    <circle cx="327" cy="231" r="2.5" fill="#ffffff" />
+    <circle cx="377" cy="231" r="2.5" fill="#ffffff" />
+    <path d="M 340 260 Q 350 270 360 260" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+    <circle cx="305" cy="260" r="11" fill="#ffadc6" opacity="0.7" />
+    <circle cx="395" cy="260" r="11" fill="#ffadc6" opacity="0.7" />
+    <circle cx="395" cy="195" r="5" fill="#fff4a3" />
+    <circle cx="395" cy="195" r="2" fill="#ffffff" />
+  </g>
+
+  
+  <g transform="translate(0 20)">
+    <rect x="80" y="395" width="260" height="22" rx="11" fill="#b8d4ea" stroke="#1a1a1a" stroke-width="3.5" />
+    <rect x="335" y="388" width="80" height="36" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.5" />
+    
+    <line x1="345" y1="388" x2="345" y2="375" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+    <line x1="355" y1="388" x2="355" y2="375" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+    <line x1="365" y1="388" x2="365" y2="375" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+    <line x1="375" y1="388" x2="375" y2="375" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+    <line x1="385" y1="388" x2="385" y2="375" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+    <line x1="395" y1="388" x2="395" y2="375" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+    <line x1="405" y1="388" x2="405" y2="375" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+    
+    <circle cx="115" cy="406" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5" />
+  </g>
+
+  
+  <path d="M 80 80 L 80 100 M 70 90 L 90 90" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <path d="M 440 80 L 440 100 M 430 90 L 450 90" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <path d="M 256 60 L 256 80 M 246 70 L 266 70" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+</svg>

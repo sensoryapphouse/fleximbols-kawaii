@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="kDawnSky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a5878" />
+      <stop offset="35%" stop-color="#7080a0" />
+      <stop offset="70%" stop-color="#c0b0c8" />
+      <stop offset="100%" stop-color="#ffd8d0" />
+    </linearGradient>
+    <radialGradient id="kDawnGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd8b0" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#ffd8b0" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="kDawnCheek" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff90a0" />
+      <stop offset="100%" stop-color="#ff90a0" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="512" fill="url(#kDawnSky)" />
+  <ellipse cx="256" cy="380" rx="220" ry="50" fill="url(#kDawnGlow)" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 200 380 A 56 16 0 0 1 312 380 Z" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="2.0000" opacity="0.8" />
+  <g fill="#ffffff" opacity="0.7">
+    <circle cx="60" cy="60" r="2" />
+    <circle cx="120" cy="40" r="1.5" />
+    <circle cx="200" cy="55" r="2" />
+    <circle cx="280" cy="35" r="1.5" />
+    <circle cx="350" cy="50" r="2" />
+    <circle cx="430" cy="40" r="1.5" />
+    <circle cx="480" cy="65" r="2" />
+    <circle cx="90" cy="90" r="1.5" />
+    <circle cx="170" cy="100" r="1.5" />
+  </g>
+  <g fill="#3a2818">
+    <circle cx="60" cy="60" r="0.5" />
+  </g>
+  <g fill="#e8d8e0" opacity="0.7">
+    <ellipse cx="80" cy="160" rx="50" ry="14" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="200" cy="180" rx="60" ry="16" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="340" cy="170" rx="55" ry="14" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="450" cy="190" rx="50" ry="14" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="150" cy="240" rx="65" ry="16" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="320" cy="250" rx="70" ry="18" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="450" cy="260" rx="55" ry="15" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g fill="#ffffff" opacity="0.5">
+    <ellipse cx="100" cy="290" rx="80" ry="20" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="280" cy="300" rx="90" ry="22" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="450" cy="310" rx="70" ry="18" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="180" cy="330" rx="75" ry="18" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="380" cy="340" rx="85" ry="22" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g fill="#3a2818">
+    <circle cx="236" cy="368" r="4" />
+    <circle cx="276" cy="368" r="4" />
+  </g>
+  <g fill="#ffffff">
+    <circle cx="237" cy="367" r="1.5" />
+    <circle cx="277" cy="367" r="1.5" />
+  </g>
+  <path d="M 250 378 Q 256 382 262 378" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round" />
+  <circle cx="218" cy="375" r="6" fill="url(#kDawnCheek)" />
+  <circle cx="294" cy="375" r="6" fill="url(#kDawnCheek)" />
+  <path d="M 0 380 L 512 380 L 512 400 L 0 400 Z" fill="#4a5878" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 0 400 L 60 405 L 140 398 L 220 403 L 300 397 L 380 402 L 460 399 L 512 401 L 512 425 L 0 425 Z" fill="#3a4868" stroke="#1a1a1a" stroke-width="2" />
+  <g fill="#2a3858" stroke="#1a1a1a" stroke-width="3">
+    <path d="M 0 425 L 80 380 L 140 395 L 200 370 L 260 385 L 320 365 L 380 388 L 440 372 L 512 385 L 512 510 L 0 510 Z" />
+  </g>
+  <g fill="#1a2848">
+    <path d="M 110 405 L 100 380 L 90 405 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 130 408 L 120 388 L 110 408 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 250 395 L 240 365 L 232 395 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 270 398 L 260 372 L 250 398 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 290 395 L 280 370 L 270 395 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 360 400 L 350 372 L 342 400 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 380 402 L 370 376 L 360 402 Z" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g fill="#788098" opacity="0.6">
+    <ellipse cx="60" cy="320" rx="40" ry="14" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="200" cy="340" rx="55" ry="16" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="340" cy="350" rx="60" ry="18" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="450" cy="345" rx="45" ry="14" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="100" cy="370" rx="35" ry="12" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="280" cy="375" rx="50" ry="15" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="430" cy="370" rx="40" ry="13" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g fill="#3a3858">
+    <path d="M 170 200 Q 175 195 180 200 L 178 205 L 172 205 Z M 174 195 L 170 190 L 178 190 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 200 195 Q 205 190 210 195 L 208 200 L 202 200 Z M 204 190 L 200 185 L 208 185 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 230 205 Q 235 200 240 205 L 238 210 L 232 210 Z M 234 200 L 230 195 L 238 195 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 320 190 Q 325 185 330 190 L 328 195 L 322 195 Z M 324 185 L 320 180 L 328 180 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M 350 200 Q 355 195 360 200 L 358 205 L 352 205 Z M 354 195 L 350 190 L 358 190 Z" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+</svg>

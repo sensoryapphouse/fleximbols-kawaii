@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(24.250 66.750)">
+  
+  
+  <rect x="60" y="130" width="9" height="200" fill="#90c8a0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="77" y="130" width="4" height="200" fill="#90c8a0" />
+  
+  <line x1="60" y1="160" x2="460" y2="160" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="60" y1="190" x2="460" y2="190" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="60" y1="220" x2="460" y2="220" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="60" y1="250" x2="460" y2="250" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="60" y1="280" x2="460" y2="280" stroke="#1a1a1a" stroke-width="3" />
+  
+  <line x1="80" y1="80" x2="240" y2="80" stroke="#1a1a1a" stroke-width="2.0000" />
+  <polygon points="260,80 235,66 235,94" fill="#66cc88" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="200" cy="258" rx="17" ry="11" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="217" y1="258" x2="217" y2="178" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="280" cy="234" rx="17" ry="11" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="297" y1="234" x2="297" y2="154" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="360" cy="218" rx="17" ry="11" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="377" y1="218" x2="377" y2="138" stroke="#1a1a1a" stroke-width="3" />
+  
+  <line x1="90" y1="130" x2="90" y2="330" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="7,4" />
+  
+  <text x="100" y="380" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="36" fill="#44aa66" font-weight="bold">1</text>
+  
+  <rect x="88" y="110" width="40" height="18" fill="#66cc88" rx="6" ry="6" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="420" cy="160" r="6" fill="#fffacc" />
+  <circle cx="440" cy="140" r="4" fill="#fffacc" />
+</g>
+  </svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 83.39 345.21 345.21"><defs><radialGradient id="s3d_3fae5a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#79c68c"/><stop offset="0.45" stop-color="#3fae5a"/><stop offset="1" stop-color="#328b48"/></radialGradient><radialGradient id="s3d_7ed99a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#a5e4b8"/><stop offset="0.45" stop-color="#7ed99a"/><stop offset="1" stop-color="#65ae7b"/></radialGradient><radialGradient id="s3d_2f8a47" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#6dad7e"/><stop offset="0.45" stop-color="#2f8a47"/><stop offset="1" stop-color="#266e39"/></radialGradient></defs>
+<!-- fidget toy: pop-it style push-bubble pad with rows of pressable bubbles -->
+<rect x="110" y="132" width="292" height="248" rx="46" fill="url(#s3d_3fae5a)" data-flat="#3fae5a" stroke="#1a1a1a" stroke-width="10"/>
+<!-- bubble rows -->
+<g stroke="#1a1a1a" stroke-width="6">
+<circle cx="168" cy="190" r="26" fill="url(#s3d_7ed99a)" data-flat="#7ed99a"/>
+<circle cx="230" cy="190" r="26" fill="url(#s3d_7ed99a)" data-flat="#7ed99a"/>
+<circle cx="292" cy="190" r="26" fill="url(#s3d_7ed99a)" data-flat="#7ed99a"/>
+<circle cx="354" cy="190" r="26" fill="url(#s3d_7ed99a)" data-flat="#7ed99a"/>
+<circle cx="168" cy="256" r="26" fill="url(#s3d_7ed99a)" data-flat="#7ed99a"/>
+<circle cx="230" cy="256" r="26" fill="url(#s3d_2f8a47)" data-flat="#2f8a47"/>
+<circle cx="292" cy="256" r="26" fill="url(#s3d_7ed99a)" data-flat="#7ed99a"/>
+<circle cx="354" cy="256" r="26" fill="url(#s3d_7ed99a)" data-flat="#7ed99a"/>
+<circle cx="168" cy="322" r="26" fill="url(#s3d_7ed99a)" data-flat="#7ed99a"/>
+<circle cx="230" cy="322" r="26" fill="url(#s3d_7ed99a)" data-flat="#7ed99a"/>
+<circle cx="292" cy="322" r="26" fill="url(#s3d_2f8a47)" data-flat="#2f8a47"/>
+<circle cx="354" cy="322" r="26" fill="url(#s3d_7ed99a)" data-flat="#7ed99a"/>
+</g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<title>Kawaii Amigurumi Bunny</title>
+<defs>
+<pattern id="amiK1" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse">
+<circle cx="6" cy="6" r="2.5" fill="none" stroke="#1a1a1a" stroke-width="1" />
+</pattern>
+</defs>
+<g stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" stroke-linecap="round">
+<ellipse cx="200" cy="120" rx="30" ry="78" fill="#fce4ec" />
+<ellipse cx="312" cy="120" rx="30" ry="78" fill="#fce4ec" />
+<ellipse cx="200" cy="125" rx="14" ry="50" fill="#f8c8d4" />
+<ellipse cx="312" cy="125" rx="14" ry="50" fill="#f8c8d4" />
+<ellipse cx="200" cy="120" rx="30" ry="78" fill="url(#amiK1)" />
+<ellipse cx="312" cy="120" rx="30" ry="78" fill="url(#amiK1)" />
+<circle cx="256" cy="240" r="110" fill="#fff4f0" />
+<circle cx="256" cy="240" r="110" fill="url(#amiK1)" />
+<ellipse cx="256" cy="270" rx="68" ry="58" fill="#fce4ec" />
+<ellipse cx="170" cy="380" rx="48" ry="40" fill="#fff4f0" />
+<ellipse cx="342" cy="380" rx="48" ry="40" fill="#fff4f0" />
+<ellipse cx="170" cy="380" rx="48" ry="40" fill="url(#amiK1)" />
+<ellipse cx="342" cy="380" rx="48" ry="40" fill="url(#amiK1)" />
+<ellipse cx="155" cy="386" rx="22" ry="16" fill="#f8c8d4" />
+<ellipse cx="357" cy="386" rx="22" ry="16" fill="#f8c8d4" />
+<ellipse cx="200" cy="440" rx="52" ry="34" fill="#fff4f0" />
+<ellipse cx="312" cy="440" rx="52" ry="34" fill="#fff4f0" />
+<ellipse cx="200" cy="440" rx="52" ry="34" fill="url(#amiK1)" />
+<ellipse cx="312" cy="440" rx="52" ry="34" fill="url(#amiK1)" />
+<circle cx="220" cy="230" r="11" fill="#1f1226" />
+<circle cx="292" cy="230" r="11" fill="#1f1226" />
+<circle cx="223" cy="227" r="4" fill="#ffffff" />
+<circle cx="295" cy="227" r="4" fill="#ffffff" />
+<path d="M256 258 Q248 270 252 278 Q256 282 260 278 Q264 270 256 258 Z" fill="#e8a4b8" />
+<path d="M256 282 Q246 296 230 296 M256 282 Q266 296 282 296" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+<circle cx="190" cy="270" r="14" fill="#f4b8c8" opacity="0.8" />
+<circle cx="322" cy="270" r="14" fill="#f4b8c8" opacity="0.8" />
+<path d="M196 120 Q200 80 210 102 M312 102 Q322 80 326 120" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+</g>
+</svg>

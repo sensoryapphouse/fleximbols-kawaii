@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-5.500 -61.750)">
+  <defs>
+    <radialGradient id="b" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fffaf0" /><stop offset="55%" stop-color="#b8e0ff" /><stop offset="100%" stop-color="#2f74c6" /></radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#1a4a8c" stop-opacity="0" /><stop offset="72%" stop-color="#1a4a8c" stop-opacity="0" /><stop offset="100%" stop-color="#1a4a8c" stop-opacity="0.38" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    
+    
+    <clipPath id="cl"><path d="M80,310 C80,280 108,258 150,252 L360,248 C400,244 436,260 444,286 L440,348 C434,374 408,390 368,392 L158,394 C114,394 82,374 80,346 Z" /></clipPath>
+  </defs>
+  
+  <rect x="247" y="196" width="14" height="60" rx="5" fill="#5a6072" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M196,200 C196,188 210,182 226,186 L261,190 L295,186 C312,182 326,188 326,200" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" />
+  <circle cx="196" cy="200" r="10" fill="#5a6072" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="326" cy="200" r="10" fill="#5a6072" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="256" cy="264" rx="110" ry="26" fill="#f6e4c6" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <path d="M80,310 C80,280 108,258 150,252 L360,248 C400,244 436,260 444,286 L440,348 C434,374 408,390 368,392 L158,394 C114,394 82,374 80,346 Z" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.4" />
+  
+  <path d="M80,310 C80,280 108,258 150,252 L360,248 C400,244 436,260 444,286 L440,348 C434,374 408,390 368,392 L158,394 C114,394 82,374 80,346 Z" fill="url(#b)" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
+  
+  <path d="M80,328 L106,294 L106,362 Z" fill="#2f74c6" stroke="#1a1a1a" stroke-width="2" />
+  
+  <g clip-path="url(#cl)"><path d="M80,310 C80,280 108,258 150,252 L360,248 C400,244 436,260 444,286 L440,348 C434,374 408,390 368,392 L158,394 C114,394 82,374 80,346 Z" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" /></g>
+  
+  <path d="M108,310 L440,296" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" opacity="0.5" />
+  
+  <path d="M432,368 C452,372 468,378 484,374" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.7" />
+  
+  <ellipse cx="224" cy="352" rx="24" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="292" cy="350" rx="24" ry="14" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="232" cy="326" rx="15" ry="18" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="284" cy="324" rx="15" ry="18" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="227" cy="319" rx="5.5" ry="6.5" fill="#ffffff" />
+  <ellipse cx="279" cy="317" rx="5.5" ry="6.5" fill="#ffffff" />
+  <circle cx="234" cy="332" r="2.5" fill="#ffffff" />
+  <circle cx="286" cy="330" r="2.5" fill="#ffffff" />
+  
+  <path d="M242,360 C252,371 270,371 280,360" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" />
+</g>
+  </svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- LTE / mobile network: kawaii phone with signal bars (no text) -->
+  <g stroke="#1f1f1f" stroke-linejoin="round" stroke-linecap="round">
+    <!-- phone body -->
+    <rect x="150" y="120" width="170" height="300" rx="34" fill="#4a4a52" stroke-width="11"/>
+    <rect x="166" y="150" width="138" height="220" rx="14" fill="#bfe6ff" stroke-width="9"/>
+    <rect x="214" y="388" width="42" height="14" rx="7" fill="#2b2b30" stroke-width="7"/>
+    <!-- signal bars rising, on screen -->
+    <g stroke-width="8">
+      <rect x="184" y="316" width="22" height="34" rx="6" fill="#34b34a"/>
+      <rect x="214" y="294" width="22" height="56" rx="6" fill="#34b34a"/>
+      <rect x="244" y="266" width="22" height="84" rx="6" fill="#34b34a"/>
+      <rect x="274" y="236" width="22" height="114" rx="6" fill="#34b34a"/>
+    </g>
+    <!-- radio waves -->
+    <g fill="none" stroke="#3d8bff" stroke-width="11">
+      <path d="M330 196 q40 36 0 96"/>
+      <path d="M360 168 q70 64 0 152"/>
+    </g>
+    <!-- face on the phone (top of screen) -->
+    <circle cx="208" cy="196" r="10" fill="#1f1f1f" stroke="none"/>
+    <circle cx="262" cy="196" r="10" fill="#1f1f1f" stroke="none"/>
+    <path d="M216 216 q19 16 38 0" fill="none" stroke="#1f1f1f" stroke-width="7"/>
+    <ellipse cx="190" cy="214" rx="13" ry="8" fill="#ff9bb5" opacity="0.7" stroke="none"/>
+    <ellipse cx="280" cy="214" rx="13" ry="8" fill="#ff9bb5" opacity="0.7" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><defs><radialGradient id="g9d7246" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#c29c76"/><stop offset="0.5" stop-color="#9d7246"/><stop offset="1" stop-color="#6e5031"/></radialGradient><radialGradient id="gf8130d" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#fa5a56"/><stop offset="0.5" stop-color="#f8130d"/><stop offset="1" stop-color="#b20a05"/></radialGradient><radialGradient id="geed5b6" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#f3e2cc"/><stop offset="0.5" stop-color="#eed5b6"/><stop offset="1" stop-color="#d69a50"/></radialGradient><radialGradient id="gb8b8b8" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#cdcdcd"/><stop offset="0.5" stop-color="#b8b8b8"/><stop offset="1" stop-color="#818181"/></radialGradient><radialGradient id="gd01424" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#ee4b59"/><stop offset="0.5" stop-color="#d01424"/><stop offset="1" stop-color="#920e19"/></radialGradient><radialGradient id="ge6b98a" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#eecead"/><stop offset="0.5" stop-color="#e6b98a"/><stop offset="1" stop-color="#d3832f"/></radialGradient><radialGradient id="gf266aa" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#f694c3"/><stop offset="0.5" stop-color="#f266aa"/><stop offset="1" stop-color="#de1375"/></radialGradient><radialGradient id="g529929" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#7fd051"/><stop offset="0.5" stop-color="#529929"/><stop offset="1" stop-color="#396b1d"/></radialGradient><radialGradient id="gf7de58" cx="40%" cy="32%" r="78%"><stop offset="0" stop-color="#f9e88a"/><stop offset="0.5" stop-color="#f7de58"/><stop offset="1" stop-color="#e0be0b"/></radialGradient><radialGradient id="sheen" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient></defs><g transform="translate(6.73 4.18) scale(1.7784)" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Ground -->
+  <rect x="20" y="195" width="250" height="25" rx="4" fill="url(#g529929)" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- House body -->
+  <rect x="55" y="135" width="155" height="60" fill="url(#geed5b6)" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Roof (house gable) -->
+  <polygon points="40,135 225,135 132,85" fill="url(#gd01424)" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Chimney -->
+  <rect x="175" y="90" width="22" height="40" fill="url(#gb8b8b8)" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Window left -->
+  <rect x="70" y="150" width="38" height="32" rx="4" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Window cross -->
+  <line x1="89" y1="150" x2="89" y2="182" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="70" y1="166" x2="108" y2="166" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Door -->
+  <rect x="128" y="158" width="38" height="37" rx="5" fill="url(#g9d7246)" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="160" cy="178" r="5" fill="url(#gf7de58)" stroke="#000000" stroke-width="3"/>
+  <!-- Heart emblem on door -->
+  <path d="M140,167 C140,163 136,160 133,163 C130,166 133,171 140,176 C147,171 150,166 147,163 C144,160 140,163 140,167 Z" fill="url(#gf8130d)" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Crib (right side) -->
+  <!-- Crib base/mattress -->
+  <rect x="210" y="158" width="55" height="30" rx="4" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Crib legs -->
+  <rect x="212" y="185" width="8" height="12" rx="2" fill="url(#g9d7246)" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="253" y="185" width="8" height="12" rx="2" fill="url(#g9d7246)" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Crib rails (bars) -->
+  <line x1="222" y1="158" x2="222" y2="188" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="232" y1="158" x2="232" y2="188" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="242" y1="158" x2="242" y2="188" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="252" y1="158" x2="252" y2="188" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Teddy bear head -->
+  <circle cx="237" cy="152" r="12" fill="url(#ge6b98a)" stroke="#000000" stroke-width="4"/>
+  <!-- Teddy ears -->
+  <circle cx="227" cy="143" r="7" fill="url(#ge6b98a)" stroke="#000000" stroke-width="4"/>
+  <circle cx="247" cy="143" r="7" fill="url(#ge6b98a)" stroke="#000000" stroke-width="4"/>
+  <!-- Teddy face -->
+  <circle cx="233" cy="151" r="2" fill="#000000"/>
+  <circle cx="241" cy="151" r="2" fill="#000000"/>
+  <circle cx="237" cy="156" r="3" fill="url(#g9d7246)" stroke="#000000" stroke-width="2"/>
+  <!-- Large heart (care cue) -->
+  <path d="M30,75 C30,65 20,58 13,65 C6,72 13,82 30,95 C47,82 54,72 47,65 C40,58 30,65 30,75 Z" fill="url(#gf266aa)" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="92.5" cy="102.4" rx="68.9" ry="32.6" fill="url(#sheen)"/></g></svg>

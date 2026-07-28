@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- dagger: a short pointed knife, vertical, point up - kawaii flat style, text-free -->
+  <!-- blade -->
+  <path d="M256 48
+           C262 70 282 150 286 250 L286 300 L226 300 L226 250 C230 150 250 70 256 48 Z"
+        fill="#d6dde6" stroke="#1a1a1a" stroke-width="12" stroke-linejoin="round"/>
+  <!-- blade centre fuller/shine -->
+  <path d="M256 96 L256 290" fill="none" stroke="#f3f7fb" stroke-width="10" stroke-linecap="round"/>
+  <path d="M256 96 L256 290" fill="none" stroke="#a9b4c2" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <!-- crossguard -->
+  <rect x="168" y="298" width="176" height="34" rx="14"
+        fill="#caa24a" stroke="#1a1a1a" stroke-width="12" stroke-linejoin="round"/>
+  <!-- handle / grip -->
+  <rect x="232" y="330" width="48" height="120" rx="16"
+        fill="#7a4a26" stroke="#1a1a1a" stroke-width="12" stroke-linejoin="round"/>
+  <!-- grip wraps -->
+  <path d="M236 360 L276 372" fill="none" stroke="#5c3418" stroke-width="6" stroke-linecap="round"/>
+  <path d="M236 388 L276 400" fill="none" stroke="#5c3418" stroke-width="6" stroke-linecap="round"/>
+  <path d="M236 416 L276 428" fill="none" stroke="#5c3418" stroke-width="6" stroke-linecap="round"/>
+  <!-- pommel -->
+  <circle cx="256" cy="456" r="24" fill="#caa24a" stroke="#1a1a1a" stroke-width="12"/>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3221" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3221)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

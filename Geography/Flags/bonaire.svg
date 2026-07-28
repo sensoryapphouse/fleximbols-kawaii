@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-bq" viewBox="0 0 640 480"><defs><radialGradient id="s3d_21468b" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#647eae"/><stop offset="0.45" stop-color="#21468b"/><stop offset="1" stop-color="#1a386f"/></radialGradient><radialGradient id="s3d_ae1c28" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#c66068"/><stop offset="0.45" stop-color="#ae1c28"/><stop offset="1" stop-color="#8b1620"/></radialGradient></defs>
+  <path fill="url(#s3d_21468b)" data-flat="#21468b" d="M0 0h640v480H0z"/>
+  <path fill="#fff" d="M0 0h640v320H0z"/>
+  <path fill="url(#s3d_ae1c28)" data-flat="#ae1c28" d="M0 0h640v160H0z"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#000000" stroke-width="2"/>
+</svg>

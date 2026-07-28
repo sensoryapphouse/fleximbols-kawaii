@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -20.750)">
+  
+  
+  <ellipse cx="256" cy="200" rx="180" ry="140" fill="#b6e3a8" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="170" cy="180" r="58" fill="#cdebc1" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="340" cy="170" r="62" fill="#cdebc1" stroke="#1a1a1a" stroke-width="2.0000" />
+  <circle cx="260" cy="250" r="56" fill="#cdebc1" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="226" cy="200" rx="6" ry="8" fill="#3a4a2a" />
+  <ellipse cx="286" cy="200" rx="6" ry="8" fill="#3a4a2a" />
+  <circle cx="224" cy="197" r="2" fill="#ffffff" />
+  <circle cx="284" cy="197" r="2" fill="#ffffff" />
+  <path d="M240 218 Q256 230 272 218" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <circle cx="210" cy="220" r="9" fill="#ffb3c1" opacity="0.7" />
+  <circle cx="302" cy="220" r="9" fill="#ffb3c1" opacity="0.7" />
+  
+  <path d="M215 330 Q215 320 225 320 L287 320 Q297 320 297 330 L312 460 Q314 470 304 470 L208 470 Q198 470 200 460 Z" fill="#e8dcc4" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+  
+  <path d="M228 390 Q256 384 284 392" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M70 470 Q70 460 80 460 L432 460 Q442 460 442 470 L442 484 Q442 494 432 494 L80 494 Q70 494 70 484 Z" fill="#dcc9a0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="380" cy="478" rx="12" ry="9" fill="#c9a87a" stroke="#1a1a1a" stroke-width="4" />
+</g>
+  </svg>

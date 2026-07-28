@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="cd-base" cx="40%" cy="35%" r="80%">
+      <stop offset="0%" stop-color="#fdfbf8" />
+      <stop offset="60%" stop-color="#e6e4ee" />
+      <stop offset="100%" stop-color="#c4c2ce" />
+    </radialGradient>
+    <radialGradient id="cd-pink" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#fbd2dc" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#f5a4ad" stop-opacity="0.7" />
+    </radialGradient>
+    <radialGradient id="cd-blue" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#cce4f8" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#9ac4ef" stop-opacity="0.7" />
+    </radialGradient>
+    <radialGradient id="cd-green" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#d4f0d4" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#a8d8a8" stop-opacity="0.7" />
+    </radialGradient>
+    <radialGradient id="cd-purple" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#e0d2f4" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#bba4dc" stop-opacity="0.7" />
+    </radialGradient>
+    <radialGradient id="cd-hub" cx="40%" cy="35%" r="80%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#e8e6ee" />
+    </radialGradient>
+  </defs>
+  
+  <circle cx="256" cy="256" r="218" fill="url(#cd-base)" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <path d="M256,52 A 200 200 0 0 1 460,256" fill="none" stroke="#1a1a1a" stroke-width="34" />
+  <path d="M256,76 A 178 178 0 0 1 434,256" fill="none" stroke="#1a1a1a" stroke-width="28" />
+  <path d="M256,100 A 154 154 0 0 1 410,256" fill="none" stroke="#1a1a1a" stroke-width="24" />
+  <path d="M256,124 A 130 130 0 0 1 386,256" fill="none" stroke="#1a1a1a" stroke-width="22" />
+  
+  <path d="M110,160 A 218 218 0 0 1 256,52" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" opacity="0.7" />
+  
+  <circle cx="256" cy="256" r="218" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="256" cy="256" r="108" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <circle cx="256" cy="256" r="78" fill="url(#cd-hub)" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="256" cy="256" r="34" fill="#fdfbf8" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="232" cy="216" rx="5" ry="6" fill="#3a2418" />
+  <ellipse cx="280" cy="216" rx="5" ry="6" fill="#3a2418" />
+  <circle cx="234" cy="213" r="2" fill="#ffffff" />
+  <circle cx="282" cy="213" r="2" fill="#ffffff" />
+  
+  <circle cx="216" cy="226" r="7" fill="#f5a4ad" opacity="0.6" />
+  <circle cx="296" cy="226" r="7" fill="#f5a4ad" opacity="0.6" />
+  
+  <path d="M244,228 Q256,236 268,228" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  
+  <g fill="#fce28a">
+    <path d="M114,108 L118,100 L122,108 L118,116 Z" stroke="#1a1a1a" stroke-width="2" />
+    <path d="M398,108 L402,100 L406,108 L402,116 Z" stroke="#1a1a1a" stroke-width="2" />
+    <circle cx="80" cy="220" r="3" />
+    <circle cx="436" cy="324" r="3" />
+  </g>
+</svg>

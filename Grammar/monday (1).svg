@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<rect x="64" y="84" width="384" height="368" rx="34" ry="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="64" y="84" width="384" height="84" rx="34" ry="34" fill="#FBA5C0" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="64" y="138" width="384" height="30" fill="#FBA5C0" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<rect x="132" y="58" width="14" height="58" rx="7" ry="7" fill="#94A3B8" stroke="#1a1a1a" stroke-width="2.0000" />
+<rect x="366" y="58" width="14" height="58" rx="7" ry="7" fill="#94A3B8" stroke="#1a1a1a" stroke-width="2.0000" />
+
+<text x="256" y="135" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="40" font-weight="bold" fill="#FFFFFF" text-anchor="middle">MONDAY</text>
+
+<text x="108" y="206" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="bold" fill="#FBA5C0" text-anchor="middle">M</text>
+<text x="164" y="206" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="bold" fill="#C7D2FE" text-anchor="middle">T</text>
+<text x="220" y="206" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="bold" fill="#C7D2FE" text-anchor="middle">W</text>
+<text x="276" y="206" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="bold" fill="#C7D2FE" text-anchor="middle">T</text>
+<text x="332" y="206" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="bold" fill="#C7D2FE" text-anchor="middle">F</text>
+<text x="384" y="206" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="bold" fill="#C7D2FE" text-anchor="middle">S</text>
+<text x="436" y="206" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="bold" fill="#C7D2FE" text-anchor="middle">S</text>
+
+<circle cx="108" cy="282" r="34" fill="#BFDBFE" stroke="#1a1a1a" stroke-width="2.0000" />
+<text x="108" y="293" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+
+<circle cx="100" cy="278" r="2.5" fill="#374151" />
+<circle cx="116" cy="278" r="2.5" fill="#374151" />
+<path d="M102 286 Q108 290 114 286" stroke="#1a1a1a" stroke-width="2.0000" fill="none" stroke-linecap="round" />
+
+<text x="164" y="292" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">4</text>
+<text x="220" y="292" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">5</text>
+<text x="276" y="292" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">6</text>
+<text x="332" y="292" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">7</text>
+<text x="384" y="292" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">8</text>
+<text x="436" y="292" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">9</text>
+<text x="108" y="368" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">10</text>
+<text x="164" y="368" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">11</text>
+<text x="220" y="368" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">12</text>
+<text x="276" y="368" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">13</text>
+<text x="332" y="368" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">14</text>
+<text x="384" y="368" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">15</text>
+<text x="436" y="368" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#94A3B8" text-anchor="middle">16</text>
+
+<rect x="200" y="394" width="56" height="42" rx="10" ry="10" fill="#FCD5CE" stroke="#1a1a1a" stroke-width="2.0000" />
+<path d="M256 402 Q272 402 272 416 Q272 430 256 430" stroke="#1a1a1a" stroke-width="6" fill="none" />
+<circle cx="218" cy="412" r="2.5" fill="#374151" />
+<circle cx="238" cy="412" r="2.5" fill="#374151" />
+<path d="M222 422 Q228 426 234 422" stroke="#1a1a1a" stroke-width="2.0000" fill="none" stroke-linecap="round" />
+
+<path d="M310 408 l3 -8 l3 8 l8 3 l-8 3 l-3 8 l-3 -8 l-8 -3 z" fill="#FDE68A" stroke="#1a1a1a" stroke-width="2.0000" />
+<path d="M380 416 l3 -7 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 z" fill="#A7F3D0" stroke="#1a1a1a" stroke-width="2.0000" />
+</svg>

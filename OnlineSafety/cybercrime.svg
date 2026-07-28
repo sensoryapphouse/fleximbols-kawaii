@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="78" y="244" width="348" height="216" rx="16" fill="#2b2244" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="94" y="260" width="316" height="172" rx="8" fill="#001400" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="214" y="460" width="84" height="16" rx="5" fill="#4433aa" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="186" y="474" width="140" height="10" rx="4" fill="#4433aa" stroke="#1a1a1a" stroke-width="4" />
+  
+  <text x="110" y="288" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#44ff88">10110101 00111010</text>
+  <text x="110" y="308" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#33dd66">01001101 11000110</text>
+  <text x="110" y="328" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#44ff88">10101010 01100111</text>
+  <text x="110" y="348" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#22aa44">11001010 00010101</text>
+  <text x="110" y="368" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#44ff88">01110001 10011010</text>
+  <text x="110" y="388" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#33dd66">10000011 01101001</text>
+  <text x="110" y="408" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#44ff88">01010110 11001100</text>
+  
+  <text x="378" y="408" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="40" fill="#ff4466" text-anchor="middle">💀</text>
+  
+  
+  <ellipse cx="256" cy="166" rx="102" ry="118" fill="#1a1a44" stroke="#1a1a1a" stroke-width="6" />
+  
+  <circle cx="256" cy="104" r="60" fill="#111133" stroke="#1a1a1a" stroke-width="6" />
+  
+  <ellipse cx="256" cy="100" rx="56" ry="58" fill="#0d0d28" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="237" cy="98" r="12" fill="#00dd55" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="275" cy="98" r="12" fill="#00dd55" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="237" cy="98" r="6" fill="#00ff88" />
+  <circle cx="275" cy="98" r="6" fill="#00ff88" />
+  
+  <circle cx="234" cy="95" r="2.5" fill="#ffffff" />
+  <circle cx="272" cy="95" r="2.5" fill="#ffffff" />
+  
+  <line x1="166" y1="204" x2="130" y2="250" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <line x1="346" y1="204" x2="378" y2="250" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <ellipse cx="130" cy="257" rx="22" ry="12" fill="#1a1a44" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="378" cy="257" rx="22" ry="12" fill="#1a1a44" stroke="#1a1a1a" stroke-width="4" />
+</svg>

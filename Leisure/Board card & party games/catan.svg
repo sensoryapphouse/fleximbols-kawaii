@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(28.250 98.250)">
+  
+  
+  <polygon points="256,80 312,112 312,176 256,208 200,176 200,112" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <circle cx="240" cy="128" r="22" fill="#a0d8b0" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="234" y="148" width="12" height="14" fill="#c8a070" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="270" cy="132" r="18" fill="#a0d8b0" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="264" y="150" width="12" height="12" fill="#c8a070" stroke="#1a1a1a" stroke-width="3" />
+  
+  <polygon points="200,112 256,80 256,16 200,48 144,80 144,112" fill="#e8f8c0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="200" cy="72" rx="24" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="200" cy="56" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="195" cy="53" r="3" fill="#2b2622" />
+  <circle cx="205" cy="53" r="3" fill="#2b2622" />
+  <ellipse cx="200" cy="60" rx="4" ry="3" fill="#ffb6c1" />
+  <line x1="190" y1="86" x2="188" y2="98" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="210" y1="86" x2="212" y2="98" stroke="#1a1a1a" stroke-width="3" />
+  
+  <polygon points="312,112 368,80 368,16 312,16 256,16 256,80" fill="#fff8c0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <line x1="310" y1="85" x2="310" y2="48" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="310" cy="44" rx="6" ry="12" fill="#ffe870" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="326" y1="85" x2="326" y2="44" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="326" cy="40" rx="6" ry="12" fill="#ffe870" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="342" y1="85" x2="342" y2="48" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="342" cy="44" rx="6" ry="12" fill="#ffe870" stroke="#1a1a1a" stroke-width="2" />
+  
+  <polygon points="144,272 200,240 200,176 144,176 88,208 88,240" fill="#e0d0f0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="144" cy="210" rx="20" ry="15" fill="#c8b8e0" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="128" cy="224" rx="15" ry="12" fill="#b8a8d0" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="162" cy="226" rx="14" ry="11" fill="#d0c0ec" stroke="#1a1a1a" stroke-width="3" />
+  
+  <polygon points="200,240 256,208 256,272 200,304 144,272 144,240" fill="#ffe0c0" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <rect x="170" y="250" width="22" height="10" rx="3" fill="#ffb090" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="198" y="250" width="22" height="10" rx="3" fill="#ffb090" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="182" y="266" width="22" height="10" rx="3" fill="#ffb090" stroke="#1a1a1a" stroke-width="2" />
+  
+  <polygon points="256,208 312,176 368,208 368,272 312,304 256,272" fill="#c6f0d8" stroke="#1a1a1a" stroke-width="2.0000" />
+  
+  <ellipse cx="310" cy="240" rx="24" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="310" cy="224" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="305" cy="221" r="3" fill="#2b2622" />
+  <circle cx="315" cy="221" r="3" fill="#2b2622" />
+  <ellipse cx="310" cy="228" rx="4" ry="3" fill="#ffb6c1" />
+  <line x1="300" y1="254" x2="298" y2="266" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="320" y1="254" x2="322" y2="266" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="238" y="200" width="32" height="10" rx="5" fill="#ffc080" stroke="#1a1a1a" stroke-width="3" transform="rotate(30,254,205)" />
+  <rect x="188" y="172" width="32" height="10" rx="5" fill="#ffc080" stroke="#1a1a1a" stroke-width="3" transform="rotate(-30,204,177)" />
+  
+  <rect x="246" y="196" width="20" height="16" rx="3" fill="#ffd6e0" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="245,196 256,183 268,196" fill="#ffaac0" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M252,192 Q254,188 256,192 Q258,188 260,192 Q260,196 256,200 Q252,196 252,192Z" fill="#ff8080" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="296" y="164" width="18" height="15" rx="3" fill="#d0e8ff" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="295,164 305,152 316,164" fill="#a0c8f8" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="256" cy="148" r="18" fill="#fff8e0" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="248" cy="150" r="4" fill="#ff8080" />
+  <circle cx="256" cy="148" r="4" fill="#ff8080" />
+  <circle cx="264" cy="150" r="4" fill="#ff8080" />
+  
+  <path d="M60,350 Q80,330 100,350 Q120,370 140,350 Q160,330 180,350 Q200,370 220,350 Q240,330 260,350 Q280,370 300,350 Q320,330 340,350 Q360,370 380,350 Q400,330 420,350 Q440,370 460,350" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+  <path d="M60,380 Q80,360 100,380 Q120,400 140,380 Q160,360 180,380 Q200,400 220,380 Q240,360 260,380 Q280,400 300,380 Q320,360 340,380 Q360,400 380,380 Q400,360 420,380 Q440,400 460,380" fill="none" stroke="#1a1a1a" stroke-width="2.0000" />
+</g>
+  </svg>

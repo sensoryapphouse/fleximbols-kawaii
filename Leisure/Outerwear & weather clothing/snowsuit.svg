@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<path d="M180 120 Q180 95 220 95 L290 95 Q330 95 330 120 L350 165 Q360 180 350 200 L340 245 L355 320 L365 440 Q365 460 345 460 L290 460 L290 380 L255 380 L220 380 L220 460 L165 460 Q145 460 145 440 L155 320 L170 245 L160 200 Q150 180 160 165 Z" fill="#bde0fe" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<circle cx="255" cy="150" r="48" fill="#ffd6a5" stroke="#1a1a1a" stroke-width="2.0000" />
+<path d="M255 110 Q285 110 295 140 Q295 105 255 105 Q215 105 215 140 Q225 110 255 110 Z" fill="#cdb4db" stroke="#1a1a1a" stroke-width="5" />
+<circle cx="238" cy="155" r="5" fill="#6d597a" />
+<circle cx="272" cy="155" r="5" fill="#6d597a" />
+<path d="M242 172 Q255 180 268 172" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<circle cx="225" cy="170" r="7" fill="#ffc8dd" opacity="0.8" />
+<circle cx="285" cy="170" r="7" fill="#ffc8dd" opacity="0.8" />
+<circle cx="255" cy="260" r="12" fill="#ffafcc" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="255" cy="310" r="12" fill="#ffafcc" stroke="#1a1a1a" stroke-width="3" />
+<path d="M200 230 L160 280 Q150 295 160 310 L195 320" fill="#bde0fe" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<path d="M310 230 L350 280 Q360 295 350 310 L315 320" fill="#bde0fe" stroke="#1a1a1a" stroke-width="2.0000" stroke-linejoin="round" />
+<circle cx="170" cy="330" r="20" fill="#ffafcc" stroke="#1a1a1a" stroke-width="5" />
+<circle cx="340" cy="330" r="20" fill="#ffafcc" stroke="#1a1a1a" stroke-width="5" />
+</svg>

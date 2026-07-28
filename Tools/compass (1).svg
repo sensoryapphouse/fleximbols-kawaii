@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<svg viewBox="0 0 128 128" version="1.1" xml:space="preserve" fill-rule="evenodd" width="512" height="512" preserveAspectRatio="xMidYMid meet"><defs><filter id="ob" x="-45%" y="-45%" width="190%" height="190%"><feMorphology in="SourceAlpha" operator="dilate" radius="0.7500" result="d"/><feFlood flood-color="#1a1a1a" result="ink"/><feComposite in="ink" in2="d" operator="in"/></filter><g id="art">
+    <g transform="matrix(1.02239,-0.59028,0.59028,1.02239,-39.1926,37.5067)">
+        <g transform="matrix(0.866025,0.5,-0.5,0.866025,0,0)">
+            <circle cx="87.41" cy="22.441" r="44.16" fill="rgb(208,227,233)" />
+        </g>
+        <g>
+            <path d="M97.645,54.253L62.467,55.63L66.491,70.648L97.645,54.253Z" fill="rgb(206,13,0)" fill-rule="nonzero" />
+            <path d="M31.312,72.027L66.491,70.649L62.467,55.631L31.312,72.027Z" fill="rgb(203,203,203)" fill-rule="nonzero" />
+        </g>
+        <g transform="matrix(0.749829,0.432914,-0.432914,0.749829,72.4439,39.2051)">
+            <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="0px" y="0px">N</text>
+        </g>
+        <g transform="matrix(0.749829,0.432914,-0.432914,0.749829,83.675,80.6494)">
+            <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="0px" y="0px">E</text>
+        </g>
+        <g transform="matrix(0.749829,0.432914,-0.432914,0.749829,42.3158,91.7297)">
+            <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="0px" y="0px">S</text>
+        </g>
+        <g transform="matrix(0.749829,0.432914,-0.432914,0.749829,31.6006,50.6783)">
+            <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="0px" y="0px">W</text>
+        </g>
+    </g>
+</g></defs><use href="#art" filter="url(#ob)"/><use href="#art"/></svg>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.03 91.62 321.94 321.94"><defs><radialGradient id="s3d_5b9bd5" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#8cb9e2"/><stop offset="0.45" stop-color="#5b9bd5"/><stop offset="1" stop-color="#497caa"/></radialGradient><radialGradient id="s3d_e8a13a" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#efbd75"/><stop offset="0.45" stop-color="#e8a13a"/><stop offset="1" stop-color="#ba812e"/></radialGradient><radialGradient id="s3d_6dbf67" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#99d295"/><stop offset="0.45" stop-color="#6dbf67"/><stop offset="1" stop-color="#579952"/></radialGradient><radialGradient id="s3d_e36d6d" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#eb9999"/><stop offset="0.45" stop-color="#e36d6d"/><stop offset="1" stop-color="#b65757"/></radialGradient><radialGradient id="s3d_b07cc6" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#c8a3d7"/><stop offset="0.45" stop-color="#b07cc6"/><stop offset="1" stop-color="#8d639e"/></radialGradient></defs>
+<!-- SEVERAL: a small group of balls (6) -->
+<line x1="120" y1="356" x2="392" y2="356" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- bottom row (3) -->
+<circle cx="184" cy="318" r="38" fill="url(#s3d_5b9bd5)" data-flat="#5b9bd5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="318" r="38" fill="url(#s3d_e8a13a)" data-flat="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="328" cy="318" r="38" fill="url(#s3d_6dbf67)" data-flat="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<!-- top row (2) -->
+<circle cx="220" cy="250" r="38" fill="url(#s3d_e36d6d)" data-flat="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="292" cy="250" r="38" fill="url(#s3d_b07cc6)" data-flat="#b07cc6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- top (1) -->
+<circle cx="256" cy="186" r="38" fill="url(#s3d_e8a13a)" data-flat="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

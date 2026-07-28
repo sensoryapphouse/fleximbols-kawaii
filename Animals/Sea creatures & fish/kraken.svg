@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <!-- tentacles -->
+    <path d="M150 300 C 110 340 96 390 80 430 C 110 432 132 410 150 380" fill="#7b4bd6" stroke="#333" stroke-width="12"/>
+    <path d="M190 330 C 168 380 150 410 130 446 C 160 450 184 426 200 392" fill="#7b4bd6" stroke="#333" stroke-width="12"/>
+    <path d="M256 348 C 250 400 248 430 248 462 C 272 458 280 420 286 384" fill="#7b4bd6" stroke="#333" stroke-width="12"/>
+    <path d="M322 330 C 344 380 362 410 382 446 C 352 450 328 426 312 392" fill="#7b4bd6" stroke="#333" stroke-width="12"/>
+    <path d="M362 300 C 402 340 416 390 432 430 C 402 432 380 410 362 380" fill="#7b4bd6" stroke="#333" stroke-width="12"/>
+    <!-- head/body (bulbous octopus mantle) -->
+    <path d="M256 96 C 350 96 410 168 410 256 C 410 320 360 356 256 356 C 152 356 102 320 102 256 C 102 168 162 96 256 96 Z"
+          fill="#9a6bea" stroke="#333" stroke-width="14"/>
+    <!-- brow ridge for a fierce-yet-cute look -->
+    <path d="M176 196 Q 206 178 232 196" fill="none" stroke="#1f1f1f" stroke-width="10"/>
+    <path d="M280 196 Q 306 178 336 196" fill="none" stroke="#1f1f1f" stroke-width="10"/>
+    <!-- big eyes -->
+    <circle cx="204" cy="226" r="30" fill="#ffffff" stroke="#333" stroke-width="10"/>
+    <circle cx="308" cy="226" r="30" fill="#ffffff" stroke="#333" stroke-width="10"/>
+    <circle cx="210" cy="230" r="13" fill="#1f1f1f"/>
+    <circle cx="302" cy="230" r="13" fill="#1f1f1f"/>
+    <!-- mouth -->
+    <path d="M226 296 Q 256 318 286 296" fill="none" stroke="#1f1f1f" stroke-width="9"/>
+    <!-- blush -->
+    <ellipse cx="168" cy="288" rx="20" ry="12" fill="#ff9bb5" opacity="0.6"/>
+    <ellipse cx="344" cy="288" rx="20" ry="12" fill="#ff9bb5" opacity="0.6"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="77.58 109.15 356.85 356.85"><defs><radialGradient id="s3d_c98a3f" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#d9ad79"/><stop offset="0.45" stop-color="#c98a3f"/><stop offset="1" stop-color="#a16e32"/></radialGradient><radialGradient id="s3d_e0a154" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#e9bd87"/><stop offset="0.45" stop-color="#e0a154"/><stop offset="1" stop-color="#b38143"/></radialGradient><radialGradient id="s3d_b5772f" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#cba06d"/><stop offset="0.45" stop-color="#b5772f"/><stop offset="1" stop-color="#915f26"/></radialGradient></defs>
+<!-- left sleeve -->
+<path d="M 164 174 L 104 200 L 122 320 L 168 308 L 178 224 Z" fill="url(#s3d_c98a3f)" data-flat="#c98a3f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right sleeve -->
+<path d="M 348 174 L 408 200 L 390 320 L 344 308 L 334 224 Z" fill="url(#s3d_c98a3f)" data-flat="#c98a3f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left front panel -->
+<path d="M 164 174 Q 210 150 250 158 L 250 410 L 172 400 L 178 224 Z" fill="url(#s3d_e0a154)" data-flat="#e0a154" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right front panel -->
+<path d="M 348 174 Q 302 150 262 158 L 262 410 L 340 400 L 334 224 Z" fill="url(#s3d_e0a154)" data-flat="#e0a154" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left ribbed cuff -->
+<rect x="108" y="296" width="56" height="28" rx="6" fill="#b5772f" stroke="#1a1a1a" stroke-width="8"/>
+<!-- right ribbed cuff -->
+<rect x="348" y="296" width="56" height="28" rx="6" fill="#b5772f" stroke="#1a1a1a" stroke-width="8"/>
+<!-- ribbed hem -->
+<path d="M 172 396 L 250 406 L 262 406 L 340 396 L 340 410 L 262 420 L 250 420 L 172 410 Z" fill="url(#s3d_b5772f)" data-flat="#b5772f" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- buttons -->
+<circle cx="262" cy="190" r="8" fill="#fff6cf" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="262" cy="246" r="8" fill="#fff6cf" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="262" cy="302" r="8" fill="#fff6cf" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="262" cy="358" r="8" fill="#fff6cf" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="b" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fffaf0" /><stop offset="55%" stop-color="#f6e4c6" /><stop offset="100%" stop-color="#e8cb9c" /></radialGradient>
+    <radialGradient id="rim" cx="50%" cy="42%" r="62%"><stop offset="0%" stop-color="#c5854a" stop-opacity="0" /><stop offset="72%" stop-color="#c5854a" stop-opacity="0" /><stop offset="100%" stop-color="#c5854a" stop-opacity="0.38" /></radialGradient>
+    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.6" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
+    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a4233" /><stop offset="60%" stop-color="#3a2a20" /><stop offset="100%" stop-color="#241914" /></radialGradient>
+    <radialGradient id="cld" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#c8d8f0" /><stop offset="100%" stop-color="#8090b8" /></radialGradient>
+    
+    
+    <clipPath id="cl"><circle cx="256" cy="340" r="110" /></clipPath>
+  </defs>
+  <ellipse cx="190" cy="130" rx="62" ry="48" fill="url(#cld)" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="240" cy="108" rx="54" ry="42" fill="url(#cld)" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="298" cy="118" rx="58" ry="44" fill="url(#cld)" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="130" y="130" width="216" height="52" rx="0" fill="url(#cld)" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M130,160 L346,160 L346,152 Q346,182 316,182 L160,182 Q130,182 130,152 Z" fill="url(#cld)" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="176" y1="188" x2="164" y2="218" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <line x1="214" y1="188" x2="208" y2="224" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <line x1="256" y1="188" x2="256" y2="226" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <line x1="298" y1="188" x2="304" y2="224" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <path d="M256,230 L256,238" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" stroke-dasharray="3,5" />
+  <circle cx="256" cy="340" r="110" fill="none" stroke="#1a1a1a" stroke-width="11" opacity="0.4" />
+  <circle cx="256" cy="340" r="110" fill="url(#b)" stroke="#1a1a1a" stroke-width="2.0000" />
+  <g clip-path="url(#cl)">
+    
+    <circle cx="256" cy="340" r="110" fill="url(#rim)" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <path d="M222,316 C226,308 234,306 238,310" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <path d="M274,316 C270,308 262,306 258,310" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+  <ellipse cx="214" cy="352" rx="24" ry="15" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="298" cy="352" rx="24" ry="15" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="228" cy="330" rx="15" ry="20" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="284" cy="330" rx="15" ry="20" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="222" cy="322" rx="5" ry="7" fill="white" />
+  <ellipse cx="278" cy="322" rx="5" ry="7" fill="white" />
+  <circle cx="225" cy="326" r="2" fill="white" />
+  <circle cx="281" cy="326" r="2" fill="white" />
+  <circle cx="256" cy="348" r="4.5" fill="#c8a070" />
+  <path d="M242,362 C248,356 264,356 270,362" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M316,294 L322,280 L328,294" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="322" y1="297" x2="322" y2="303" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
+</svg>
