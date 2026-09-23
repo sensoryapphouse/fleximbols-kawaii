@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><defs><radialGradient id="s3d_7d5e23" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#a48e65"/><stop offset="0.45" stop-color="#7d5e23"/><stop offset="1" stop-color="#644b1c"/></radialGradient><radialGradient id="s3d_529929" cx="0.35" cy="0.28" r="0.9"><stop offset="0" stop-color="#86b869"/><stop offset="0.45" stop-color="#529929"/><stop offset="1" stop-color="#427a21"/></radialGradient></defs><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- Curved trunk - starts from lower center, curves up-right -->
   <path d="M120 228 Q118 190 130 160 Q140 130 158 100 Q165 85 168 70" fill="none" stroke="#9d7246" stroke-width="17.77" stroke-linecap="round"/>
   <path d="M120 228 Q118 190 130 160 Q140 130 158 100 Q165 85 168 70" fill="none" stroke="#7d5e23" stroke-width="12.44" stroke-linecap="round" stroke-dasharray="8,12"/>
   <!-- Ground base -->
-  <ellipse cx="122" cy="228" rx="32" ry="7" fill="url(#s3d_7d5e23)" data-flat="#7d5e23" stroke="#1a1a1a" stroke-width="2.66"/>
+  <ellipse cx="122" cy="228" rx="32" ry="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.66"/>
   <!-- Palm fronds radiating from crown at top -->
   <!-- Frond 1 - left sweeping down -->
   <path d="M165 65 Q130 55 95 72" fill="none" stroke="#137827" stroke-width="7.11" stroke-linecap="round"/>
@@ -24,7 +24,7 @@
   <!-- Frond 7 - right drooping -->
   <path d="M170 72 Q205 90 228 115" fill="none" stroke="#137827" stroke-width="7.11" stroke-linecap="round"/>
   <!-- Crown base -->
-  <circle cx="168" cy="68" r="16" fill="url(#s3d_529929)" data-flat="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="168" cy="68" r="16" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- Coconuts cluster - brown round nuts at crown base -->
   <circle cx="155" cy="82" r="13" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.55"/>
   <circle cx="172" cy="85" r="13" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.55"/>

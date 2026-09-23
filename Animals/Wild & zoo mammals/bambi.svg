@@ -1,47 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <g transform="translate(-6.500 -31.000)">
-  <defs>
-    <radialGradient id="bd" cx="42%" cy="34%" r="74%"><stop offset="0%" stop-color="#fde6c5" /><stop offset="55%" stop-color="#f0c189" /><stop offset="100%" stop-color="#cf8f4d" /></radialGradient>
-    <radialGradient id="ht" cx="50%" cy="40%" r="70%"><stop offset="0%" stop-color="#fde0b8" /><stop offset="100%" stop-color="#e9b076" /></radialGradient>
-    <radialGradient id="bl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5878f" stop-opacity="0.65" /><stop offset="100%" stop-color="#f5878f" stop-opacity="0" /></radialGradient>
-    <radialGradient id="ey" cx="46%" cy="32%" r="78%"><stop offset="0%" stop-color="#5a3322" /><stop offset="60%" stop-color="#3a2014" /><stop offset="100%" stop-color="#22120a" /></radialGradient>
-    <radialGradient id="sp" cx="50%" cy="50%" r="60%"><stop offset="0%" stop-color="#fff4dc" /><stop offset="100%" stop-color="#fbe1b4" /></radialGradient>
-  </defs>
-  <path d="M120,330 C100,290 122,250 154,236 C148,222 144,206 162,196 C188,184 220,196 228,220 L290,220 C302,200 338,184 366,196 C386,206 380,224 374,240 C404,256 420,288 410,322 L406,394 C406,420 388,438 364,438 L160,438 C136,438 120,420 120,394 Z" fill="url(#bd)" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
-  <path d="M160,420 C158,448 152,464 152,476 C154,486 178,486 184,478 L196,420 Z" fill="url(#bd)" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
-  <path d="M328,420 C330,448 336,464 336,476 C334,486 310,486 304,478 L292,420 Z" fill="url(#bd)" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
-  <path d="M220,422 C218,448 214,460 212,472 C212,482 232,482 238,476 L242,422 Z" fill="url(#bd)" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
-  <path d="M268,422 C270,448 274,460 276,472 C276,482 256,482 250,476 L246,422 Z" fill="url(#bd)" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
-  <ellipse cx="170" cy="468" rx="22" ry="12" fill="#7a4a26" stroke="#1a1a1a" stroke-width="3" />
-  <ellipse cx="216" cy="470" rx="20" ry="10" fill="#7a4a26" stroke="#1a1a1a" stroke-width="3" />
-  <ellipse cx="272" cy="470" rx="20" ry="10" fill="#7a4a26" stroke="#1a1a1a" stroke-width="3" />
-  <ellipse cx="318" cy="468" rx="22" ry="12" fill="#7a4a26" stroke="#1a1a1a" stroke-width="3" />
-  <ellipse cx="220" cy="338" rx="11" ry="9" fill="url(#sp)" stroke="#1a1a1a" stroke-width="2" />
-  <ellipse cx="266" cy="324" rx="10" ry="8" fill="url(#sp)" stroke="#1a1a1a" stroke-width="2" />
-  <ellipse cx="312" cy="338" rx="12" ry="9" fill="url(#sp)" stroke="#1a1a1a" stroke-width="2" />
-  <ellipse cx="350" cy="362" rx="9" ry="7" fill="url(#sp)" />
-  <ellipse cx="180" cy="364" rx="10" ry="8" fill="url(#sp)" stroke="#1a1a1a" stroke-width="2" />
-  <ellipse cx="240" cy="372" rx="10" ry="8" fill="url(#sp)" stroke="#1a1a1a" stroke-width="2" />
-  <ellipse cx="296" cy="378" rx="11" ry="8" fill="url(#sp)" stroke="#1a1a1a" stroke-width="2" />
-  <path d="M170,220 C156,196 152,168 162,140 C172,124 186,128 192,142 C198,160 196,176 192,196" fill="url(#ht)" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
-  <path d="M198,148 C190,132 182,120 174,108 C172,102 178,100 182,106 C188,114 194,124 200,138" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
-  <path d="M342,220 C356,196 360,168 350,140 C340,124 326,128 320,142 C314,160 316,176 320,196" fill="url(#ht)" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" />
-  <path d="M314,148 C322,132 330,120 338,108 C340,102 334,100 330,106 C324,114 318,124 312,138" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
-  <path d="M256,100 C322,100 366,140 366,210 C366,278 322,316 256,316 C190,316 146,278 146,210 C146,140 190,100 256,100 Z" fill="url(#bd)" stroke="#1a1a1a" stroke-width="2.0000" />
-  <path d="M156,158 C146,142 150,124 168,118 C162,108 170,98 184,102 C176,90 192,82 202,96 C208,86 224,86 224,102" fill="url(#ht)" stroke="#1a1a1a" stroke-width="3" />
-  <path d="M356,158 C366,142 362,124 344,118 C350,108 342,98 328,102 C336,90 320,82 310,96 C304,86 288,86 288,102" fill="url(#ht)" stroke="#1a1a1a" stroke-width="3" />
-  <ellipse cx="190" cy="138" rx="6" ry="9" fill="url(#sp)" />
-  <ellipse cx="328" cy="138" rx="6" ry="9" fill="url(#sp)" />
-  <ellipse cx="208" cy="232" rx="32" ry="22" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
-  <ellipse cx="304" cy="232" rx="32" ry="22" fill="url(#bl)" stroke="#1a1a1a" stroke-width="2" />
-  <ellipse cx="216" cy="214" rx="16" ry="22" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
-  <ellipse cx="296" cy="214" rx="16" ry="22" fill="url(#ey)" stroke="#1a1a1a" stroke-width="2" />
-  <ellipse cx="212" cy="204" rx="7" ry="9" fill="#ffffff" />
-  <ellipse cx="292" cy="204" rx="7" ry="9" fill="#ffffff" />
-  <ellipse cx="220" cy="226" rx="3" ry="3" fill="#ffffff" />
-  <ellipse cx="300" cy="226" rx="3" ry="3" fill="#ffffff" />
-  <path d="M242,256 C250,264 262,264 270,256 C266,272 246,272 242,256 Z" fill="#3a2014" stroke="#1a1a1a" stroke-width="2.5" />
-  
-  <path d="M238,278 C248,290 264,290 274,278" fill="none" stroke="#1a1a1a" stroke-width="2.0000" stroke-linecap="round" />
-</g>
-  </svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="1450" bottom="1200" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="223,26 223,26 227,21 231,18 235,15 238,14 238,14 234,13 230,15 225,17 222,20 216,25 213,28 214,28 214,28 216,29 219,28 223,26 223,26" fill="#f87f11" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="223,26 223,26 227,21 231,18 235,15 238,14 238,14 234,13 230,15 225,17 222,20 216,25 213,28 214,28 214,28 216,29 219,28 223,26 223,26" fill="none" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="238,14 238,14 235,15 231,18 227,21 223,26 223,26 219,28 216,29 214,28 217,33 217,33 222,34 226,34 229,34 232,33 236,30 239,26 240,22 240,18 240,14 240,14 238,14 238,14" fill="#ffffff" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="238,14 238,14 235,15 231,18 227,21 223,26 223,26 219,28 216,29 214,28 217,33 217,33 222,34 226,34 229,34 232,33 236,30 239,26 240,22 240,18 240,14 240,14 238,14 238,14" fill="none" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="103,61 103,61 104,59 104,57 104,57 103,55 101,53 99,52 97,53 95,55 92,58 90,64 89,73 89,73 89,76 91,82 93,86 96,89 100,91 104,91 104,87 104,83 104,83 103,81 102,75 101,68 101,65 103,61 103,61" fill="#f87f11" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="103,61 103,61 104,59 104,57 104,57 103,55 101,53 99,52 97,53 95,55 92,58 90,64 89,73 89,73 89,76 91,82 93,86 96,89 100,91 104,91 104,87 104,83 104,83 103,81 102,75 101,68 101,65 103,61 103,61" fill="none" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="192,121 192,121 188,139 185,153 182,163 182,163 182,165 183,170 183,177 182,180 180,183 180,183 180,185 179,190 180,197 180,201 182,205 188,217 188,217 185,219 183,220 182,219 181,218 175,209 175,209 175,184 175,184 174,182 172,178 171,175 172,171 173,167 175,162 171,133 192,121" fill="#f87f11" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="192,121 192,121 188,139 185,153 182,163 182,163 182,165 183,170 183,177 182,180 180,183 180,183 180,185 179,190 180,197 180,201 182,205 188,217 188,217 185,219 183,220 182,219 181,218 175,209 175,209 175,184 175,184 174,182 172,178 171,175 172,171 173,167 175,162 171,133 192,121" fill="none" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="199,84 198,79 195,84 196,80 191,85 194,79 191,81 191,81 191,73 193,66 197,61 200,57 204,55 207,54 210,53 210,53 213,51 215,50 220,49 224,49 225,49 227,48 227,48 223,46 223,46 223,41 223,37 221,32 218,28 216,26 213,25 209,24 205,24 200,24 193,25 193,25 191,27 189,28 187,31 185,35 183,40 183,46 184,54 184,54 184,59 183,64 181,69 178,74 173,79 170,80 166,82 161,82 156,82 156,82 138,78 138,78 128,76 121,75 113,76 110,77 106,80 103,83 101,86 99,91 98,98 97,105 98,114 98,114 99,116 99,122 99,126 98,130 95,135 92,140 92,140 89,163 86,180 84,190 84,190 85,196 87,201 88,203 90,205 90,205 93,206 95,206 96,205 96,204 96,204 95,202 95,203 91,191 91,191 93,173 96,159 98,154 100,150 100,150 107,143 113,135 118,127 118,127 121,129 130,133 135,135 139,136 144,136 147,135 147,135 150,147 154,158 159,168 159,168 158,170 158,176 160,182 161,185 163,187 170,227 170,231 170,231 176,231 179,231 180,230 180,228 176,224 169,183 169,183 170,182 170,177 170,172 169,169 167,166 169,140 169,140 174,138 178,136 184,133 190,128 195,122 199,114 201,109 202,104 202,104 202,97 202,82 200,79 199,84" fill="#f87f11" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="199,84 198,79 195,84 196,80 191,85 194,79 191,81 191,81 191,73 193,66 197,61 200,57 204,55 207,54 210,53 210,53 213,51 215,50 220,49 224,49 225,49 227,48 227,48 223,46 223,46 223,41 223,37 221,32 218,28 216,26 213,25 209,24 205,24 200,24 193,25 193,25 191,27 189,28 187,31 185,35 183,40 183,46 184,54 184,54 184,59 183,64 181,69 178,74 173,79 170,80 166,82 161,82 156,82 156,82 138,78 138,78 128,76 121,75 113,76 110,77 106,80 103,83 101,86 99,91 98,98 97,105 98,114 98,114 99,116 99,122 99,126 98,130 95,135 92,140 92,140 89,163 86,180 84,190 84,190 85,196 87,201 88,203 90,205 90,205 93,206 95,206 96,205 96,204 96,204 95,202 95,203 91,191 91,191 93,173 96,159 98,154 100,150 100,150 107,143 113,135 118,127 118,127 121,129 130,133 135,135 139,136 144,136 147,135 147,135 150,147 154,158 159,168 159,168 158,170 158,176 160,182 161,185 163,187 170,227 170,231 170,231 176,231 179,231 180,230 180,228 176,224 169,183 169,183 170,182 170,177 170,172 169,169 167,166 169,140 169,140 174,138 178,136 184,133 190,128 195,122 199,114 201,109 202,104 202,104 202,97 202,82 200,79 199,84" fill="none" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="181,30 181,30 176,27 170,26 166,26 162,27 162,27 159,30 159,30 159,33 160,36 163,39 166,42 172,43 179,41 189,37 189,37 189,36 189,35 189,35 184,32 181,30 181,30" fill="#ffffff" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="181,30 181,30 176,27 170,26 166,26 162,27 162,27 159,30 159,30 159,33 160,36 163,39 166,42 172,43 179,41 189,37 189,37 189,36 189,35 189,35 184,32 181,30 181,30" fill="none" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="181,30 181,30 184,32 189,35 189,35 190,34 191,33 191,33 189,29 186,27 182,24 178,23 173,22 167,24 162,27 162,27 166,26 170,26 176,27 181,30 181,30" fill="#f87f11" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="181,30 181,30 184,32 189,35 189,35 190,34 191,33 191,33 189,29 186,27 182,24 178,23 173,22 167,24 162,27 162,27 166,26 170,26 176,27 181,30 181,30" fill="none" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="227,48 225,49 225,49 224,49 220,49 215,50 213,51 210,53 210,53 207,54 204,55 200,57 197,61 193,66 191,73 191,81 191,89 195,84 199,90 202,82 202,82 203,77 204,72 204,72 205,71 207,68 209,66 211,65 215,64 219,64 219,64 222,62 227,59 230,57 231,54 230,51 227,48 227,48" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="211,54 211,54 213,55 216,58 221,60 224,60 228,59" fill="#ffffff" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+    <polyline points="211,54 211,54 213,55 216,58 221,60 224,60 228,59" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+    <polygon points="126,78 126,78 126,80 126,82 124,84 121,86 121,86 118,87 116,87 113,87 112,86 112,86 112,84 113,82 115,80 117,78 117,78 120,77 123,77 125,77 126,78 126,78" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="160,88 160,88 160,90 159,92 158,94 155,95 155,95 152,97 149,97 147,97 146,96 146,96 146,94 147,92 148,90 151,88 151,88 154,87 157,86 159,87 160,88 160,88" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="130,88 130,88 131,90 131,91 130,93 129,95 129,95 127,96 125,97 123,97 122,96 122,96 121,94 121,92 122,91 123,89 123,89 125,88 127,87 129,87 130,88 130,88" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="141,80 141,80 139,81 137,82 136,83 136,85 136,85 137,86 139,87 141,88 143,88 143,88 145,87 147,86 148,84 148,82 148,82 147,81 146,80 144,80 141,80 141,80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="169,81 169,81 167,82 165,83 164,84 164,86 164,86 165,87 166,88 168,89 171,89 171,89 173,88 175,87 176,85 176,84 176,84 175,82 174,81 172,81 169,81 169,81" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="233,51 233,51 233,53 232,54 229,55 227,55 227,55 224,55 222,54 221,53 220,51 220,51 221,50 222,49 224,48 227,48 227,48 229,48 231,49 233,50 233,51 233,51" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+    <polygon points="210,45 210,45 209,47 207,48 207,48 204,47 203,45 203,45 204,42 207,41 207,41 209,42 210,45 210,45" fill="#000000" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+  </g>
+</g></svg>

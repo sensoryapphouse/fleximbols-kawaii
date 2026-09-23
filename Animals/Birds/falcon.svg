@@ -1,26 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <g transform="translate(-59.985 -106.462) scale(1.1692)">
-  <defs>
-    <linearGradient id="kfc" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#7a828e" /><stop offset="55%" stop-color="#5a626d" /><stop offset="100%" stop-color="#42484f" /></linearGradient>
-    <radialGradient id="kbl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f3a0b0" stop-opacity="0.4" /><stop offset="100%" stop-color="#f3a0b0" stop-opacity="0" /></radialGradient>
-  </defs>
-  <path d="M236 406 Q250 432 244 470 L268 470 Q262 432 276 408 Z" fill="#7a5634" stroke="#1a1a1a" stroke-width="1.7106" stroke-linejoin="round" />
-  <path d="M240 360 Q232 420 242 468 Q250 484 266 478 Q278 470 274 454 Q264 416 268 366 Z" fill="#5a626d" stroke="#1a1a1a" stroke-width="1.7106" stroke-linejoin="round" />
-  <path d="M238 392 Q254 396 270 392 M238 414 Q254 418 270 414" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
-  <path d="M180 256 Q152 302 164 360 Q174 394 202 402 Q224 406 236 382 Q244 346 238 300 Q232 260 244 224 Q212 234 180 256 Z" fill="url(#kfc)" stroke="#1a1a1a" stroke-width="1.7106" stroke-linejoin="round" />
-  <path d="M182 292 Q206 286 228 294 M178 320 Q202 314 224 322" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
-  <ellipse cx="256" cy="304" rx="88" ry="100" fill="url(#kfc)" stroke="#1a1a1a" stroke-width="1.7106" />
-  <path d="M218 298 Q256 286 296 298 Q304 360 284 402 Q256 416 230 402 Q210 360 218 298 Z" fill="#f0ece2" stroke="#1a1a1a" stroke-width="2" />
-  <path d="M226 320 Q256 328 286 320 M224 344 Q256 352 288 344 M226 368 Q256 376 286 368 M230 392 Q256 398 282 392" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
-  <path d="M242 406 L234 426 M256 408 L254 428 M270 406 L278 424" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
-  <ellipse cx="298" cy="204" rx="66" ry="62" fill="url(#kfc)" stroke="#1a1a1a" stroke-width="1.7106" />
-  <path d="M298 194 Q334 190 358 206 Q352 240 324 252 Q308 236 302 214 Z" fill="#f2eee4" stroke="#1a1a1a" stroke-width="2" />
-  <path d="M298 168 Q326 158 354 172 Q360 200 346 226 Q334 208 318 200 Q304 196 298 196 Z" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" />
-  <path d="M312 230 Q322 250 320 274 Q308 262 306 244 Z" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" />
-  <path d="M342 212 Q368 208 382 224 Q384 240 372 250 Q358 254 348 242 Q342 230 342 220 Z" fill="#e8c044" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
-  <path d="M364 224 Q376 234 370 250 Q364 256 360 246 Q366 234 358 226 Z" fill="#33312c" stroke="#1a1a1a" stroke-width="2" />
-  <ellipse cx="310" cy="198" rx="13" ry="13" fill="#161210" stroke="#1a1a1a" stroke-width="2" />
-  <circle cx="307" cy="194" r="3.2" fill="#ffffff" />
-  <ellipse cx="300" cy="222" rx="7" ry="5" fill="url(#kbl)" />
-</g>
-  </svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Perch branch -->
+  <rect x="60" y="195" width="170" height="16" rx="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Tail -->
+  <polygon points="145,185 120,215 170,215" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Body -->
+  <ellipse cx="145" cy="155" rx="38" ry="52" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Wing left -->
+  <polygon points="107,140 48,185 110,170" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wing right -->
+  <polygon points="183,140 242,185 180,170" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Belly pale -->
+  <ellipse cx="145" cy="168" rx="22" ry="28" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Belly streaks -->
+  <line x1="138" y1="158" x2="136" y2="178" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="156" x2="143" y2="180" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="152" y1="158" x2="150" y2="178" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Head -->
+  <circle cx="145" cy="108" r="28" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Moustache malar stripe left -->
+  <path d="M128,118 Q122,126 124,132" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Moustache malar stripe right -->
+  <path d="M162,118 Q168,126 166,132" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- White cheek left -->
+  <ellipse cx="128" cy="116" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- White cheek right -->
+  <ellipse cx="162" cy="116" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Beak -->
+  <path d="M145,103 Q138,108 140,116 L150,116 Q152,108 145,103Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Eye left -->
+  <circle cx="132" cy="107" r="5" fill="#000000"/>
+  <circle cx="133" cy="106" r="2" fill="#ffffff"/>
+  <!-- Eye right -->
+  <circle cx="158" cy="107" r="5" fill="#000000"/>
+  <circle cx="159" cy="106" r="2" fill="#ffffff"/>
+  <!-- Feet -->
+  <line x1="132" y1="203" x2="115" y2="210" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="132" y1="203" x2="118" y2="206" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="132" y1="203" x2="120" y2="214" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="203" x2="175" y2="210" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="203" x2="172" y2="206" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="203" x2="170" y2="214" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

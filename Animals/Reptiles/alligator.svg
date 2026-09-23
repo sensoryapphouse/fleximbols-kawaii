@@ -1,36 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <g transform="translate(-12.000 -92.500)">
-  
-  
-  <path d="M52 360 Q120 332 184 350 Q204 358 204 380 Q204 402 184 408 Q120 410 52 396 Z" fill="#A8E6CF" stroke="#1a1a1a" stroke-width="2.0000" />
-  
-  <ellipse cx="268" cy="340" rx="126" ry="54" fill="#B5EAD7" stroke="#1a1a1a" stroke-width="2.0000" />
-  
-  <rect x="200" y="372" width="34" height="46" rx="14" fill="#A8E6CF" stroke="#1a1a1a" stroke-width="2.0000" />
-  <rect x="302" y="372" width="34" height="46" rx="14" fill="#A8E6CF" stroke="#1a1a1a" stroke-width="2.0000" />
-  
-  <path d="M170 318 Q184 296 198 318 Z" fill="#A8E6CF" stroke="#1a1a1a" stroke-width="2.0000" />
-  <path d="M214 308 Q228 286 242 308 Z" fill="#A8E6CF" stroke="#1a1a1a" stroke-width="2.0000" />
-  <path d="M258 302 Q272 280 286 302 Z" fill="#A8E6CF" stroke="#1a1a1a" stroke-width="2.0000" />
-  <path d="M302 308 Q316 286 330 308 Z" fill="#A8E6CF" stroke="#1a1a1a" stroke-width="2.0000" />
-  <path d="M346 318 Q360 296 374 318 Z" fill="#A8E6CF" stroke="#1a1a1a" stroke-width="2.0000" />
-  
-  <path d="M340 306 Q422 286 480 304 Q496 312 480 326 L480 360 Q422 378 340 370 Z" fill="#B5EAD7" stroke="#1a1a1a" stroke-width="2.0000" />
-  
-  <circle cx="468" cy="312" r="3" fill="#5A3E36" />
-  <circle cx="468" cy="322" r="3" fill="#5A3E36" />
-  
-  <circle cx="362" cy="294" r="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.0000" />
-  <circle cx="362" cy="294" r="8" fill="#5A3E36" stroke="#1a1a1a" stroke-width="2.0000" />
-  <circle cx="358" cy="290" r="2.4" fill="#FFFFFF" />
-  
-  <path d="M350 340 Q414 348 478 340" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
-  
-  <polygon points="378,340 384,348 390,340" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.0000" />
-  <polygon points="406,340 412,348 418,340" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.0000" />
-  <polygon points="434,340 440,348 446,340" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.0000" />
-  
-  <circle cx="370" cy="324" r="6" fill="#FFB6C1" opacity="0.85" />
-  <circle cx="438" cy="324" r="6" fill="#FFB6C1" opacity="0.85" />
-</g>
-  </svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(3.3125)"><g transform="scale(0.853333)">
+<path d="M137.5 75C137.5 112.5 93.75 112.5 37.5 112.5C37.5 112.5 37.4812 99.9688 50 100C92.4062 100.112 96.5813 88.8125 96.875 85.3813C96.7813 84.8313 96.7 84.2625 96.625 83.6937L62.5 75.5V87.5H43.75L50 81.25V72.5L34.375 68.75H18.75L12.5 62.5L35.225 57.9562L9.375 50V43.75H43.75C52.0438 43.75 59.3375 45.5875 63.8812 50H112.5C126.306 50 137.5 61.1937 137.5 75Z" fill="#137827" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path opacity="0.3" d="M112.5 62.5V71.875C104.175 71.875 96.6313 78.7125 96.6313 83.6938L87.9625 81.6125C90.1063 70.9125 100.444 62.5 112.5 62.5Z" fill="#000000" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path opacity="0.4" d="M50 72.5L34.375 68.75H18.75L12.5 62.5H37.5L50 65.0813V72.5ZM62.5 67.6625V75.5L87.9563 81.6125C88.525 78.7937 89.6875 76.15 91.2688 73.7625C91.2813 73.725 91.325 73.625 91.325 73.625L62.5 67.6625ZM137.5 75C137.5 75.4875 137.413 75.9 137.394 76.375C137.406 76.325 137.425 76.2625 137.444 76.2125C137.456 75.8063 137.5 75.4188 137.5 75ZM137.081 80.4625C137.25 79.1562 137.35 77.7875 137.394 76.375C134.963 85.3375 122.588 106.25 68.75 106.25C61.325 106.25 39.05 106.25 39.05 106.25C37.5 109.375 37.5 112.5 37.5 112.5C89.8688 112.5 131.356 112.463 136.838 82.2C136.944 81.6375 137 81.0437 137.081 80.4625Z" fill="white" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+</g></g></svg>
